@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,shrink-to-fit=no">
+<title>Pokédex | Pokémon: Tabletop Version</title>
+
+<style>
+  dl {
+    display: inline-block;
+    margin: 1em;
+  }
+
+  dt {
+    font-weight: 700;
+  }
+
+  dd {
+    margin-left: 1em;
+  }
+
+  .mon_pic {
+    border-top-left-radius: 30%;
+  }
+
+  .mon_stats dt,
+  .mon_stats dd {
+    display: inline;
+  }
+</style>
+
+{{#mons}}
+  <article class="mon">
+    <h2>{{name}} — #{{dexNumber}}</h2>
+
+    <img alt="" src="./img/{{slug}}.png"
+      class="mon_pic">
+
+    {{type1}}{{#if type2}} / {{type2}}{{/if}}
+
+    <dl class="mon_abilities">
+      <dt>Starting
+        {{#if multipleStartingAbilities}}Abilities{{else}}Ability{{/if}}
+      </dt>
+      {{#each startingAbilities}}
+        <dd>{{this}}</dd>
+      {{/each}}
+
+      <dt>Level 10 Abilities</dt>
+      {{#each level10Abilities}}
+        <dd>{{this}}</dd>
+      {{/each}}
+    </dl>
+
+    <dl class="mon_stats">
+      <dt>HP</dt>
+      <dd>{{stats.HP}}<br></dd>
+
+      <dt>ATK</dt>
+      <dd>{{stats.ATK}}<br></dd>
+
+      <dt>DEF</dt>
+      <dd>{{stats.DEF}}<br></dd>
+
+      <dt>SATK</dt>
+      <dd>{{stats.SATK}}<br></dd>
+
+      <dt>SDEF</dt>
+      <dd>{{stats.SDEF}}<br></dd>
+
+      <dt>SPD</dt>
+      <dd>{{stats.SPD}}<br></dd>
+    </dl>
+
+    <dl class="mon_info">
+      <dt>Height:</dt>
+      <dd>{{height}}</dd>
+
+      <dt>Weight:</dt>
+      <dd>{{weight}}&thinsp;lbs.</dd>
+
+      <dt>Egg Groups:</dt>
+      <dd>{{eggGroups}}</dd>
+    </dl>
+  </article>
+{{/mons}}
