@@ -1,0 +1,32 @@
+{{> start }}
+
+<title>Abilities | Pokémon: Tabletop Version</title>
+
+<style>
+  .abilityList_item {
+    max-width: 30em;
+    margin: 1em 1em 3em;
+  }
+
+  .ability_name {
+    font: 700 1.6em/1.1 Helvetica, sans-serif;
+  }
+
+  dd > p {
+    margin: 0.6em;
+  }
+</style>
+
+<dl class="abilityList">
+  {{#abilities}}
+    <div class="abilityList_item" id="{{name}}">
+      <dt class="ability_name">{{name}} <a href="#{{name}}">🔗</a></dt>
+
+      {{#if bonusStats}}
+        <dd class="ability_bonusStats">{{bonusStats}}</dd>
+      {{/if}}
+
+      <dd class="ability_desc">{{{description}}}</dd>
+    </div>
+  {{/abilities}}
+</dl>

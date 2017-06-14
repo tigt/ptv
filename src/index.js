@@ -4,71 +4,49 @@ var handlebars = require('handlebars');
 
 var tabletop = Tabletop.init({
   key: '18Q390sVb7ZWFQFFWoj8-3UX5szDsT7f3-aOmVfo3trA',
-  callback: writeDex,
-  postProcess: massageData,
-  wanted: ['Pokemon'],
+  callback: writePages,
+  postProcess: deleteHyphens,
+  wanted: ['Pokemon', 'Abilities'],
   prettyColumnNames: false,
   simpleSheet: true,
 });
 
-var mons = [];
-
-function Mon(row) {
-  if (row.id.match(/\.1$/)) {
-    this.hasForms = true;
-  } else if (row.id.includes('.')) {
-    this.isForm = true;
-  }
-
-  this.id = row.id;
-  this.name = row.name;
-  this.slug = row.name.toLowerCase().replace(/ |:/g, '-');
-  this.dexNumber = row.id.split('.')[0];
-
-  this.stats = {
-    HP: row.hp,
-    ATK: row.atk,
-    DEF: row.def,
-    SATK: row.satk,
-    SDEF: row.sdef,
-    SPD: row.spd
-  };
-
-  this.height = row.height.replace("'", '′').replace('"', '″');
-  this.weight = row.weight;
-
-  this.eggGroups = (function(row) {
-    var eggGroups = row.egg1 ? [row.egg1] : ['None'];
-
-    if (row.egg2) eggGroups.push(row.egg2);
-
-    return eggGroups.join(', ');
-  })(row);
-
-  this.startingAbilities = [row.ability1, row.ability2];
-  this.level10Abilities = [row.ability3, row.ability4, row.ability5];
-}
-
-function massageData(row) {
-  deleteHyphens(row);
-
-  var mon = new Mon(row);
-  mons.push(mon);
-  // console.dir(mon, {colors: true});
-}
-
 function deleteHyphens(row) {
   Object.keys(row).forEach(function(key) {
-    if (row[key] === '-') {
-      delete row[key];
-    }
+    if (row[key] === '-') delete row[key];
   });
 }
 
-function writeDex(data, tabletop) {
-  // console.dir(data, {depth: null, colors: true});
+function template(name) {
+  return handlebars.compile(fs.readFileSync('src/templates/' + name + '.hbs').toString());
+}
 
-  var template = handlebars.compile(fs.readFileSync('src/templates/mon.hbs').toString());
-  var result = template({mons: mons});
-  fs.writeFileSync('dex/index.html', result);
+function partial(name) {
+  return handlebars.registerPartial(name,
+    fs.readFileSync('src/templates/partials/' + name + '.hbs').toString());
+}
+
+function writePages(data, tabletop) {
+  partial('start');
+
+  writeAbilityPage(tabletop.sheets('Abilities'));
+  writeDexPage(tabletop.sheets('Pokemon'));
+}
+
+function writeAbilityPage(data) {
+  var Ability = require('./models/ability.js');
+  var abilitiesTemplate = template('abilities');
+
+  var abilities = data.elements.map(row => new Ability(row));
+
+  fs.writeFileSync('abilities/index.html', abilitiesTemplate({abilities: abilities}));
+}
+
+function writeDexPage(data) {
+  var Pokemon = require('./models/pokemon.js');
+  var monTemplate = template('mon');
+
+  var mons = data.elements.map(row => new Pokemon(row));
+
+  fs.writeFileSync('dex/index.html', monTemplate({mons: mons}));
 }

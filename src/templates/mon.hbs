@@ -1,7 +1,5 @@
-<!doctype html>
-<html lang="en">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,shrink-to-fit=no">
+{{> start }}
+
 <title>Pokédex | Pokémon: Tabletop Version</title>
 
 <style>
@@ -29,8 +27,8 @@
 </style>
 
 {{#mons}}
-  <article class="mon">
-    <h2>{{name}} — #{{dexNumber}}</h2>
+  <article class="mon" id="{{name}}">
+    <h2>{{name}} — #{{dexNumber}} <a href="#{{name}}">🔗</a></h2>
 
     <img alt="" src="./img/{{slug}}.png"
       class="mon_pic">
@@ -38,16 +36,14 @@
     {{type1}}{{#if type2}} / {{type2}}{{/if}}
 
     <dl class="mon_abilities">
-      <dt>Starting
-        {{#if multipleStartingAbilities}}Abilities{{else}}Ability{{/if}}
-      </dt>
+      <dt>Starting Abilities</dt>
       {{#each startingAbilities}}
-        <dd>{{this}}</dd>
+        <dd><a href="/ptv/abilities/#{{this}}">{{this}}</a></dd>
       {{/each}}
 
       <dt>Level 10 Abilities</dt>
       {{#each level10Abilities}}
-        <dd>{{this}}</dd>
+        <dd><a href="/ptv/abilities/#{{this}}">{{this}}</a></dd>
       {{/each}}
     </dl>
 
