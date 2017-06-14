@@ -39,12 +39,12 @@
     <dl class="mon_abilities">
       <dt>Starting Abilities</dt>
       {{#each startingAbilities}}
-        <dd><a href="/ptv/abilities/#{{this}}">{{this}}</a></dd>
+        <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a></dd>
       {{/each}}
 
       <dt>Level 10 Abilities</dt>
       {{#each level10Abilities}}
-        <dd><a href="/ptv/abilities/#{{this}}">{{this}}</a></dd>
+        <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a></dd>
       {{/each}}
     </dl>
 
