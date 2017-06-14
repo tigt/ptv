@@ -28,10 +28,10 @@
 </style>
 
 {{#mons}}
-  <article class="mon" id="{{name}}">
-    <h2>{{name}} — #{{dexNumber}} <a href="#{{name}}">🔗</a></h2>
+  <article class="mon" id="{{slugify name}}">
+    <h2>{{name}} — #{{dexNumber}} <a href="#{{slugify name}}">🔗</a></h2>
 
-    <img alt="" src="./img/{{slug}}.png"
+    <img alt="" src="./img/{{slugify name}}.png"
       class="mon_pic">
 
     {{type1}}{{#if type2}} / {{type2}}{{/if}}

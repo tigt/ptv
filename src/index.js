@@ -2,6 +2,10 @@ var fs = require('fs');
 var Tabletop = require('tabletop');
 var handlebars = require('handlebars');
 
+handlebars.registerHelper('slugify', function(string) {
+  return string.normalize().toLowerCase().replace(/[ :']/g, '-');
+});
+
 var tabletop = Tabletop.init({
   key: '18Q390sVb7ZWFQFFWoj8-3UX5szDsT7f3-aOmVfo3trA',
   callback: writePages,

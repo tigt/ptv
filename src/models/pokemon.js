@@ -1,9 +1,9 @@
 function Pokemon(row) {
   this.id = row.id;
   this.name = row.name;
-  this.slug = row.name.normalize()
-    .toLowerCase()
-    .replace(/[ :']/g, '-');
+  // this.slug = row.name.normalize()
+  //   .toLowerCase()
+  //   .replace(/[ :']/g, '-');
   this.dexNumber = row.id.split('.')[0];
 
   this.stats = {

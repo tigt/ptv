@@ -19,8 +19,8 @@
 
 <dl class="abilityList">
   {{#abilities}}
-    <div class="abilityList_item" id="{{name}}">
-      <dt class="ability_name">{{name}} <a href="#{{name}}">🔗</a></dt>
+    <div class="abilityList_item" id="{{slugify name}}">
+      <dt class="ability_name">{{name}} <a href="#{{slugify name}}">🔗</a></dt>
 
       {{#if bonusStats}}
         <dd class="ability_bonusStats">{{bonusStats}}</dd>
