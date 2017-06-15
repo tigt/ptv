@@ -1,9 +1,6 @@
 function Pokemon(row) {
   this.id = row.id;
   this.name = row.name;
-  // this.slug = row.name.normalize()
-  //   .toLowerCase()
-  //   .replace(/[ :']/g, '-');
   this.dexNumber = row.id.split('.')[0];
 
   this.stats = {
@@ -18,12 +15,19 @@ function Pokemon(row) {
   this.height = row.height.replace("'", '′').replace('"', '″');
   this.weight = row.weight;
 
+  if (row.gender) this.genderRestriction = row.gender;
+
   this.eggGroups = row.egg2 ?
     row.egg1 + ', ' + row.egg2 :
     row.egg1;
 
   this.startingAbilities = [row.ability1, row.ability2];
   this.level10Abilities = [row.ability3, row.ability4, row.ability5];
+
+  this.captureDC = row['◓dc'];
+
+  if (row.evolvesby) this.evolvesBy = row.evolvesby;
+  if (row.evolvesfrom) this.evolvesFrom = row.evolvesfrom;
 }
 
 module.exports = Pokemon;
