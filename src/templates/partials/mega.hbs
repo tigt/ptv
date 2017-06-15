@@ -1,10 +1,16 @@
 <section class="mon_mega">
-  <h3>Mega {{name}}</h3>
+  <h3 class="mega_name">{{name}}</h3>
 
-  <p><b>Ability:</b> {{ability}}</p>
+  <dl class="mega_info">
+    <dt>Ability</dt>
+    <dd>{{ability}}</dd>
 
-  <table>
-    <caption>Stat Changes</caption>
+    <dt>Type</dt>
+    <dd>{{type1}}{{#if type2}} / {{type2}}{{/if}}</dd>
+  </dl>
+
+  <table class="mega_stats">
+    <caption>Stats</caption>
 
     <thead>
       <tr>
@@ -14,10 +20,12 @@
       </tr>
     </thead>
 
+    {{#each stats}}
     <tr>
-      <th scope="row">ATK</th>
-      <td>{{stats.ATKdiff}}</td>
-      <td>{{stats.ATK}}</td>
+      <th scope="row">{{@key}}</th>
+      <td>{{this.new}}</td>
+      <td>{{this.diff}}</td>
     </tr>
+    {{/each}}
   </table>
 </section>
