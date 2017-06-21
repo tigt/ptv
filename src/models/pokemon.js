@@ -1,7 +1,5 @@
 function Pokemon(row) {
-  this.id = row.id;
   this.name = row.name;
-  this.dexNumber = row.id.split('.')[0];
 
   this.stats = {
     HP: row.hp,
