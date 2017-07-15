@@ -3,7 +3,11 @@ var Tabletop = require('tabletop');
 var handlebars = require('handlebars');
 
 handlebars.registerHelper('slugify', function(string) {
-  return string ? string.normalize().toLowerCase().replace(/[ :']/g, '-') : false;
+  if (string) return string.normalize()
+    .toLowerCase()
+    .replace(/[():]/g, '')
+    .replace(/ |-/gi, '-')
+    .replace('é', 'e');
 });
 
 var tabletop = Tabletop.init({
