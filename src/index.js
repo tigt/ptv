@@ -7,7 +7,7 @@ handlebars.registerHelper('slugify', function(string) {
     .toLowerCase()
     .replace(/[():]/g, '')
     .replace(/ |-/gi, '-')
-    .replace('é', 'e');
+    .replace(/é/g, 'e');
 });
 
 var tabletop = Tabletop.init({
