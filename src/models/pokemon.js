@@ -22,6 +22,9 @@ function Pokemon(row) {
   this.startingAbilities = [row.ability1, row.ability2];
   this.level10Abilities = [row.ability3, row.ability4, row.ability5];
 
+  this.type1 = row.type1;
+  this.type2 = row.type2;
+
   this.captureDC = row['◓dc'];
 
   if (row.evolvesby) this.evolvesBy = row.evolvesby;

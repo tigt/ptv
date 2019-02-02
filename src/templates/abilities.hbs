@@ -9,10 +9,10 @@
   }
 
   .ability_name {
-    font: 700 1.6em/1.1 Helvetica, sans-serif;
+    font: 700 1.3em/1.1 Helvetica, sans-serif;
   }
 
-  dd > p {
+  p {
     margin: 0.6em;
   }
 </style>
@@ -20,13 +20,13 @@
 <dl class="abilityList">
   {{#abilities}}
     <div class="abilityList_item" id="{{slugify name}}">
-      <dt class="ability_name">{{name}} <a href="#{{slugify name}}">🔗</a></dt>
+      <dt class="ability_name">{{name}} <a href="#{{slugify name}}">🔗</a>
 
       {{#if bonusStats}}
-        <dd class="ability_bonusStats">{{bonusStats}}</dd>
+        <dd class="ability_bonusStats">{{bonusStats}}
       {{/if}}
 
-      <dd class="ability_desc">{{{description}}}</dd>
+      <dd class="ability_desc">{{{description}}}
     </div>
   {{/abilities}}
 </dl>
