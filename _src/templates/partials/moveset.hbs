@@ -1,0 +1,71 @@
+{{#with moves}}
+<section>
+  <h3>Moves</h3>
+
+  <table class="moves_table">
+    <thead>
+      <th>Level
+      <th>Move
+    </thead>
+    {{#if evolution}}
+    <tr>
+      <th>On Evolving
+      <td><a href="/ptv/moves/#{{slugify evolution}}">{{evolution}}</a>
+    </tr>
+    {{/if}}
+    <tr>
+      <th>1
+      <td>{{#each starting ~}}
+            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+            {{~#unless @last}}, {{/unless~}}
+          {{~/each~}}
+    </tr>
+    {{#each levelUp}}
+    <tr>
+      <th>{{level}}
+      <td>{{#each move ~}}
+            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+            {{~#unless @last}}, {{/unless~}}
+          {{~else ~}}
+            —
+          {{~/each ~}}
+    {{/each}}
+  </table>
+
+  <section class="mon_moves">
+    <h4 class="moves_heading">TM Moves</h4>
+
+    <ul class="moves_list">
+    {{#each tms}}
+      <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+    {{/each}}
+    </ul>
+  </section>
+
+  {{#unless ../evolvesFrom}}
+  <section class="mon_moves">
+    <h4 class="moves_heading">Egg Moves</h4>
+
+    {{#if egg}}
+    <ul class="moves_list">
+    {{#each egg}}
+      <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+    {{/each}}
+    </ul>
+    {{else}}
+    This Pokémon has no Egg Moves.
+    {{/if}}
+  </section>
+  {{/unless}}
+
+  <section class="mon_moves">
+    <h4 class="moves_heading">Tutor Moves</h4>
+
+    <ul class="moves_list">
+    {{#each tutor}}
+      <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+    {{/each}}
+    </ul>
+  </section>
+</section>
+{{/with}}

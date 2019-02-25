@@ -1,0 +1,59 @@
+{{> start }}
+
+<title>Moves | Pokémon: Tabletop Version</title>
+
+<style>
+  thead {
+    position: sticky;
+  }
+
+  :target {
+    background: rgba(255, 255, 0, 0.1);
+  }
+
+  th {
+    text-align: inherit;
+  }
+
+  th,
+  td {
+    vertical-align: baseline;
+  }
+
+  td > p:first-child { margin-top: 0 }
+  td > p:last-child { margin-bottom: 0 }
+
+  .move_range {
+    white-space: nowrap;
+  }
+</style>
+
+<h1>Moves</h1>
+
+<table class="moveTable">
+  <thead>
+    <tr>
+      <th>Move
+      <th>Type
+      <th>Category
+      <th>PP Cost
+      <th>Power
+      <th>Accuracy
+      <th>Range
+      <th>Description
+      <th>Z-Effect
+  </thead>
+  {{#moves}}
+  <tr class="moveTable_row" id="{{slugify name}}">
+    <th class="move_name"><a href="#{{slugify name}}">🔗</a> {{name}}
+    <td class="move_type">{{type}}
+    <td class="move_category">{{category}}
+    <td class="move_pp">{{pp}}
+    <td class="move_power">{{power}}
+    <td class="move_accuracy">{{accuracy}}
+    <td class="move_range">{{range}}
+    <td class="move_desc">{{{description}}}
+    <td class="move_z-effect">{{zEffect}}
+  </tr>
+  {{/moves}}
+</table>
