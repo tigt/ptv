@@ -19,18 +19,20 @@
 {{#items}}
 <article class="itemList_item" id="{{slugify name}}">
     <h2 class="item_name">{{name}} <a href="#{{slugify name}}">🔗</a></h2>
-    <dt>Purchase price
-        
-    <dd class="item_buy">
-    {{#if buy}}{{buy}}
-    {{else}}Not typically found in stores.
-    {{/if}}
+    <dl>
+      <dt>Purchase price
+          
+      <dd class="item_buy">
+      {{#if buy}}{{buy}}
+      {{else}}Not typically found in stores.
+      {{/if}}
 
-    {{#if sell}}
-    <dt>Sell price
-    <dd class="item_sell">{{sell}}
-    {{/if}}
+      {{#if sell}}
+      <dt>Sell price
+      <dd class="item_sell">{{sell}}
+      {{/if}}
+    </dl>
 
-    <dd class="item_desc">{{{description}}}
+    {{{description}}}
 </article>
 {{/items}}
