@@ -4,7 +4,7 @@ const { handlebars, templates } = require('./handlebars-setup');
 
 Tabletop.init({
   key: '18Q390sVb7ZWFQFFWoj8-3UX5szDsT7f3-aOmVfo3trA',
-  wanted: ['Pokemon', 'Abilities', 'Moves', 'Movesets'],
+  wanted: ['Pokemon', 'Abilities', 'Moves', 'Movesets', 'Items'],
   prettyColumnNames: false,
   postProcess: function deleteHyphens (row) {
     Object.entries(row).forEach(([key, val]) =>
@@ -14,9 +14,10 @@ Tabletop.init({
   callback: generateSite
 });
 
-function generateSite (_, tabletop) {
-  // Object.values(tabletop.sheets('Abilities')).forEach(writePage);
-  // Object.values(tabletop.sheets('Moves')).forEach(writePage);
+function generateSite (_, tabletop) {  
+  for (const sheet of ['Abilities', 'Moves', 'Items']) {
+    writePage(tabletop.sheets(sheet), {});
+  }
   const movesetData = tabletop.sheets('Movesets').elements
     .reduce((sets, row) => {
       sets[row.pokemon] = row;
@@ -33,8 +34,9 @@ function generateSite (_, tabletop) {
   });
 }
 
-function writePage({ name, elements }, { data, slug = name }) {
+function writePage({ name, elements }, { data, slug }) {
   name = name.toLowerCase();
+  if (!slug) { slug = name }
   const model = require('./models/' + name);
   const template = templates[name];
   const page = template(data || { [name]: elements.map(model) });
