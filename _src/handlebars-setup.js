@@ -6,8 +6,8 @@ handlebars.registerHelper('slugify', input => {
   return input && input.normalize()
     .trim()
     .toLowerCase()
-    .replace(/[():']/g, '')
-    .replace(/ /g, '-')
+    .replace(/[():%]/g, '')
+    .replace(/[ ']/g, '-')
     .replace(/é/g, 'e');
 });
 

@@ -35,11 +35,15 @@
   <section class="mon_moves">
     <h4 class="moves_heading">TM Moves</h4>
 
+    {{#if tms}}
     <ul class="moves_list">
     {{#each tms}}
       <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
     {{/each}}
     </ul>
+    {{else}}
+    This Pokémon learns no TMs.
+    {{/if}}
   </section>
 
   {{#unless ../evolvesFrom}}
