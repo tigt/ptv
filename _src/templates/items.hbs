@@ -23,13 +23,13 @@
       <dt>Purchase price
           
       <dd class="item_buy">
-      {{#if buy}}{{buy}}
+      {{#if buy}}{{buy}}{{#if buyIsNumeric}}₽{{/if}}
       {{else}}Not typically found in stores.
       {{/if}}
 
       {{#if sell}}
       <dt>Sell price
-      <dd class="item_sell">{{sell}}
+      <dd class="item_sell">{{sell}}{{#if sellIsNumeric}}₽{{/if}}
       {{/if}}
     </dl>
 

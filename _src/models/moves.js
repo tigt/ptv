@@ -12,7 +12,7 @@ const move = row => ({
   accuracy: row.accuracy || '—',
   range: row.range,
   pp: row.pp,
-  zEffect: row.zeffect,
+  zEffect: row['z-effect'],
   description: markdown(row.description)
 })
 
