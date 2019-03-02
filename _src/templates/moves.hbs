@@ -5,6 +5,7 @@
 <style>
   thead {
     position: sticky;
+    background: darkgray;
   }
 
   :target {
@@ -33,7 +34,7 @@
 <table class="moveTable">
   <thead>
     <tr>
-      <th>Move
+      <th>Name
       <th>Type
       <th>Category
       <th>PP&nbsp;Cost
@@ -45,7 +46,7 @@
   </thead>
   {{#moves}}
   <tr class="moveTable_row" id="{{slugify name}}">
-    <th class="move_name"><a href="#{{slugify name}}">🔗</a> {{name}}
+    <th class="move_name"><a href="#{{slugify name}}">{{name}}</a>
     <td class="move_type">{{type}}
     <td class="move_category">{{category}}
     <td class="move_pp">{{pp}}
