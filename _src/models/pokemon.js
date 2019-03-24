@@ -12,11 +12,11 @@ function pokemon(row, movesetData) {
       SPE: row.spd
     },
     skills: {
-      Athletics: 5 - row.atk,
-      Endurance: 5 - row.def,
-      Focus: 5 - row.satk,
-      Stealth: 5 - row.sdef,
-      Acrobatics: 5 - row.spd
+      Athletics: row.atk - 5,
+      Endurance: row.def - 5,
+      Focus: row.satk - 5,
+      Stealth: row.sdef - 5,
+      Acrobatics: row.spd - 5
     },
     height: row.height.replace("'", '′').replace('"', '″'),
     weight: row.weight,
