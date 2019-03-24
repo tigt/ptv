@@ -44,6 +44,32 @@
   .move_range {
     white-space: nowrap;
   }
+
+  @media (max-width: 30em) {
+    thead {
+      display: none;
+    }
+    tr {
+      display: block;
+    }
+    td {
+      display: inline;
+    }
+    td:before {
+      content: " • ";
+    }
+    .move_pp:after {
+      content: " PP";
+    }
+
+    .move_accuracy:after {
+      content: " Accuracy";
+    }
+
+    .move_desc {
+      display: block;
+    }
+  }
 </style>
 
 <h1>Moves</h1>
@@ -569,7 +595,7 @@
     <td class="move_power">—
     <td class="move_accuracy">—
     <td class="move_range">Self
-    <td class="move_desc"><p>Beats their chest to Boost ATK by +18, but loses 50% of maximum HP. (Can’t be used if they don’t have at least 50% HP left.)</p>
+    <td class="move_desc"><p>Beats their chest to Boost ATK by +18, but loses 50% of maximum HP. (Fails without at least 50% HP left.)</p>
 
     <td class="move_z-effect">Fully restore the user&#x27;s HP.
   </tr>
@@ -581,7 +607,7 @@
     <td class="move_power">—
     <td class="move_accuracy">Can’t miss
     <td class="move_range">Ranged
-    <td class="move_desc"><p>A thoughtful gift of the user’s held item to the target, unless they already hold one.</p>
+    <td class="move_desc"><p>A thoughtful gift of the user’s held item, unless the target already has one.</p>
 
     <td class="move_z-effect">Boost the user&#x27;s SPD by +6.
   </tr>
@@ -2065,7 +2091,7 @@ If Ghost-Type, fully restore HP.
     <th class="move_name"><a href="#explosion">Explosion</a>
     <td class="move_type">Normal
     <td class="move_category">Physical
-    <td class="move_pp">11
+    <td class="move_pp">2
     <td class="move_power">88
     <td class="move_accuracy">0
     <td class="move_range">Ranged - All In Zone
@@ -2357,7 +2383,7 @@ If Ghost-Type, fully restore HP.
     <td class="move_power">16
     <td class="move_accuracy">0
     <td class="move_range">Ranged
-    <td class="move_desc"><p>Other foes in the same Zone as the target lose 5 HP. Burning oil that spatters on impact.</p>
+    <td class="move_desc"><p>Other foes in the same Zone as the target lose a Tick of HP. Burning oil that spatters on impact.</p>
 
     <td class="move_z-effect">Inferno Overdrive — 44 Power
   </tr>
@@ -2417,7 +2443,7 @@ If Ghost-Type, fully restore HP.
     <td class="move_power">—
     <td class="move_accuracy">0
     <td class="move_range">Ranged - Others In Zone
-    <td class="move_desc"><p>Drops Accuracy by -1. A quick, bright light dazzles targets.</p>
+    <td class="move_desc"><p>Drops Accuracy by -2. A quick, bright light dazzles targets.</p>
 <p>The user can illuminate the nearby area effortlessly.</p>
 
     <td class="move_z-effect">Boost the user&#x27;s Evasion by +2.
@@ -4265,7 +4291,7 @@ If Ghost-Type, fully restore HP.
     <th class="move_name"><a href="#memento">Memento</a>
     <td class="move_type">Dark
     <td class="move_category">Status
-    <td class="move_pp">6
+    <td class="move_pp">1
     <td class="move_power">—
     <td class="move_accuracy">Can’t miss
     <td class="move_range">Ranged
@@ -6112,7 +6138,7 @@ If Ghost-Type, fully restore HP.
     <th class="move_name"><a href="#self-destruct">Self-Destruct</a>
     <td class="move_type">Normal
     <td class="move_category">Physical
-    <td class="move_pp">9
+    <td class="move_pp">2
     <td class="move_power">68
     <td class="move_accuracy">0
     <td class="move_range">Contact - All In Zone

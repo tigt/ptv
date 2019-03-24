@@ -27,6 +27,32 @@
   .move_range {
     white-space: nowrap;
   }
+
+  @media (max-width: 30em) {
+    thead {
+      display: none;
+    }
+    tr {
+      display: block;
+    }
+    td {
+      display: inline;
+    }
+    td:before {
+      content: " • ";
+    }
+    .move_pp:after {
+      content: " PP";
+    }
+
+    .move_accuracy:after {
+      content: " Accuracy";
+    }
+
+    .move_desc {
+      display: block;
+    }
+  }
 </style>
 
 <h1>Moves</h1>

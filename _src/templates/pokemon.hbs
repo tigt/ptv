@@ -27,12 +27,15 @@
     vertical-align: bottom;
   }
 
-  .mon_stats {
+  .mon_stats,
+  .mon_skills {
     vertical-align: bottom;
   }
 
   .mon_stats th,
-  .mon_stats td {
+  .mon_stats td,
+  .mon_stats th,
+  .mon_skills td {
     text-align: right;
   }
 
@@ -90,29 +93,19 @@
     </dl>
 
     <table class="mon_stats">
+      {{#each stats}}
       <tr>
-      <th>HP
-      <td>{{stats.HP}}
+      <th>{{@key}}
+      <td>{{this}}
+      {{/each}}
+    </table>
 
+    <table class="mon_skills">
+      {{#each skills}}
       <tr>
-      <th>ATK
-      <td>{{stats.ATK}}
-
-      <tr>
-      <th>DEF
-      <td>{{stats.DEF}}
-
-      <tr>
-      <th>SATK
-      <td>{{stats.SATK}}
-
-      <tr>
-      <th>SDEF
-      <td>{{stats.SDEF}}
-
-      <tr>
-      <th>SPD
-      <td>{{stats.SPD}}
+      <th>{{@key}}
+      <td>{{this}}
+      {{/each}}
     </table>
 
     <dl class="mon_info">
