@@ -1,4 +1,6 @@
 function moveset (row) {
+  if (!row) { return }
+
   const levelUpMoves = nameStartsWith(row, 'level').map(([level, move]) => ({
     level: level.replace('level', ''),
     move: move.split(/\s*,/g)
@@ -24,6 +26,10 @@ function moveset (row) {
 }
 
 function nameStartsWith(row, str) {
+  console.log('row')
+  console.log(row)
+  console.log('str')
+  console.log(str)
   return Object.entries(row)
     .filter(([ name, val ]) => val && name.startsWith(str));
 }
