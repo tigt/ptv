@@ -20,9 +20,9 @@ function pokemon(row, movesetData) {
     },
     height: row.height.replace("'", '′').replace('"', '″'),
     weight: row.weight,
-    eggGroups: row.egg1 + (row.egg2 ? `,  ${row.egg2}` : ''),
-    startingAbilities: [row.ability1, row.ability2],
-    level5Abilities: [row.ability3, row.ability4, row.ability5],
+    eggGroups: row.egg1 + (row.egg2 ? `, ${row.egg2}` : ''),
+    startingAbilities: splitMultiAbilities([row.ability1, row.ability2]),
+    level5Abilities: splitMultiAbilities([row.ability3, row.ability4, row.ability5]),
     type1: row.type1,
     type2: row.type2,
     captureDC: row['◓dc'],
@@ -31,6 +31,13 @@ function pokemon(row, movesetData) {
     evolvesFrom: row.evolvesfrom,
     moves: moveset(movesetData[row.name])
   }
+}
+
+function splitMultiAbilities(abilitySlot) {
+  return abilitySlot.map(slot => 
+    slot && slot.split(/[/]/g)
+      .map(s => s.trim())
+  )
 }
 
 module.exports = pokemon;
