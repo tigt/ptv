@@ -83,17 +83,12 @@
 
       <dt>Starting Abilities
       {{#each startingAbilities}}
-        <dd>
-          {{#each ability}}
-          <a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
-          {{/each}}
+        <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
       {{/each}}
 
       <dt>Level 5 Abilities
       {{#each level5Abilities}}
-        {{#each ability}}
         <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
-        {{/each}}
       {{/each}}
     </dl>
 
