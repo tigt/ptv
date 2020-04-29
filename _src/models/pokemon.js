@@ -9,14 +9,14 @@ function pokemon(row, movesetData) {
       DEF: row.def,
       SATK: row.satk,
       SDEF: row.sdef,
-      SPE: row.spd
+      SPE: row.spe
     },
     skills: {
       Athletics: row.atk - 5,
       Endurance: row.def - 5,
       Focus: row.satk - 5,
       Stealth: row.sdef - 5,
-      Acrobatics: row.spd - 5
+      Acrobatics: row.spe - 5
     },
     height: row.height.replace("'", '′').replace('"', '″'),
     weight: row.weight,

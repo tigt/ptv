@@ -26,10 +26,6 @@ function moveset (row) {
 }
 
 function nameStartsWith(row, str) {
-  console.log('row')
-  console.log(row)
-  console.log('str')
-  console.log(str)
   return Object.entries(row)
     .filter(([ name, val ]) => val && name.startsWith(str));
 }

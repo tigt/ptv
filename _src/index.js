@@ -20,7 +20,8 @@ function generateSite (_, tabletop) {
   }
   const movesetData = tabletop.sheets('Movesets').elements
     .reduce((sets, row) => {
-      sets[row.pokemon] = row;
+      console.log(row);
+      sets[row['pokémon']] = row;
       return sets;
     }, {});
 
