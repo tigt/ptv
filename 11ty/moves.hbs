@@ -1,0 +1,90 @@
+---
+data: moves
+permalink: moves/
+layout: base
+title: Moves
+---
+
+<style>
+  thead {
+    position: sticky;
+    top: 0;
+    background: darkgray;
+  }
+
+  :target {
+    background: rgba(255, 255, 0, 0.1);
+  }
+
+  th {
+    text-align: inherit;
+  }
+
+  th,
+  td {
+    vertical-align: baseline;
+  }
+
+  td > p:first-child { margin-top: 0 }
+  td > p:last-child { margin-bottom: 0 }
+
+  .move_range {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 30em) {
+    thead {
+      display: none;
+    }
+    tr {
+      display: block;
+    }
+    td {
+      display: inline;
+    }
+    td:before {
+      content: " • ";
+    }
+    .move_pp:after {
+      content: " PP";
+    }
+
+    .move_accuracy:after {
+      content: " Accuracy";
+    }
+
+    .move_desc {
+      display: block;
+    }
+  }
+</style>
+
+<h1>Moves</h1>
+
+<table class="moveTable">
+  <thead>
+    <tr>
+      <th>Name
+      <th>Type
+      <th>Category
+      <th>PP&nbsp;Cost
+      <th>Power
+      <th>Accuracy
+      <th>Range
+      <th>Description
+      <th>Z-Effect
+  </thead>
+  {{#moves}}
+  <tr class="moveTable_row" id="{{slugify name}}">
+    <th class="move_name"><a href="#{{slugify name}}">{{name}}</a>
+    <td class="move_type">{{type}}
+    <td class="move_category">{{category}}
+    <td class="move_pp">{{pp}}
+    <td class="move_power">{{power}}
+    <td class="move_accuracy">{{accuracy}}
+    <td class="move_range">{{range}}
+    <td class="move_desc">{{{description}}}
+    <td class="move_z-effect">{{zEffect}}
+  </tr>
+  {{/moves}}
+</table>

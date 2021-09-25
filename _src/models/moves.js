@@ -5,13 +5,10 @@ markdown.setOptions({
 });
 
 const move = row => ({
+  ...row,
   name: row.move,
-  type: row.type,
-  category: row.category,
   power: row.power || '—',
   accuracy: row.accuracy || '—',
-  range: row.range,
-  pp: row.pp,
   zEffect: row['z-effect'],
   description: markdown(row.description)
 })

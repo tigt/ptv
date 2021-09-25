@@ -1,0 +1,48 @@
+{{#with moves}}
+<section>
+  <h3>Moves</h3>
+
+  <table class="moves_table">
+    <thead>
+      <th>Level
+      <th>Learns
+    </thead>
+    {{#if form}}
+    <tr>
+      <th>Form
+      <td>{{#each form}}
+            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+            {{~#unless @last}}, {{/unless}}
+          {{/each}}
+    </tr>
+    {{/if}}
+    <tr>
+      <th>1
+      <td>{{#each starting}}
+            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+            {{~#unless @last}}, {{/unless}}
+          {{/each}}
+    </tr>
+    {{#each levelUp}}
+    <tr>
+      <th>{{@key}}
+      <td>{{#each this}}
+            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+            {{~#unless @last}}, {{/unless}}
+          {{else}}
+            —
+          {{/each}}
+    {{/each}}
+  </table>
+
+  <section class="mon_moves">
+    <h4 class="moves_heading">Tutor Moves</h4>
+
+    <ul class="moves_list">
+    {{#each tutor}}
+      <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+    {{/each}}
+    </ul>
+  </section>
+</section>
+{{/with}}

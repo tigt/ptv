@@ -1,0 +1,43 @@
+---
+data: items
+permalink: items/
+layout: base
+title: Items
+---
+
+<style>
+  .itemList_item {
+    max-width: 30em;
+    margin: 1em 1em 3em;
+  }
+  .itemList_item:target {
+    background: rgba(255, 255, 0, 0.1);
+  }
+
+  .item_name {
+    font: 700 1.3em/1.1 Helvetica, sans-serif;
+  }
+</style>
+
+<h1>Items</h1>
+
+{{#items}}
+<article class="itemList_item" id="{{slugify name}}">
+    <h2 class="item_name">{{name}} <a href="#{{slugify name}}">🔗</a></h2>
+    <dl>
+      <dt>Purchase price
+          
+      <dd class="item_buy">
+      {{#if buy}}{{buy}}{{#if buyIsNumeric}}₽{{/if}}
+      {{else}}Not typically found in stores.
+      {{/if}}
+
+      {{#if sell}}
+      <dt>Sell price
+      <dd class="item_sell">{{sell}}{{#if sellIsNumeric}}₽{{/if}}
+      {{/if}}
+    </dl>
+
+    {{{description}}}
+</article>
+{{/items}}

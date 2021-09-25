@@ -1,6 +1,6 @@
 const fs = require('fs');
 const Tabletop = require('tabletop');
-const { handlebars, templates } = require('./handlebars-setup');
+const { templates } = require('./handlebars-setup');
 
 Tabletop.init({
   key: '18Q390sVb7ZWFQFFWoj8-3UX5szDsT7f3-aOmVfo3trA',

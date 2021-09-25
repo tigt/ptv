@@ -18,7 +18,7 @@ function moveset (row) {
     levelUp: levelUpMoves,
     tms: nameStartsWith(row, 'tm').map(x => x[1]),
     tutor: nameStartsWith(row, 'tutor').map(x => x[1])
-      .concat(row.naturaltutors.split(/\s*?,/g))
+      .concat((row.naturaltutors || '').split(/\s*?,/g))
       .filter(Boolean)
       .sort(),
     egg: nameStartsWith(row, 'egg').map(x => x[1]),

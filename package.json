@@ -1,19 +1,18 @@
 {
-  "name": "dexter",
+  "name": "ptv-dexter",
   "version": "1.0.0",
   "private": true,
   "description": "Generates a pokedex",
   "main": "index.js",
   "scripts": {
-    "start": "node ./_src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "11ty": "eleventy --input=./11ty --output=./docs",
+    "start": "node ./_src/index.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
     "handlebars": "^4.0.10",
+    "html-minifier": "^4.0.0",
     "marked": "^0.3.6",
-    "sharp": "^0.25.4",
-    "tabletop": "^1.5.2"
+    "node-fetch": "^2.6.1"
   }
 }
