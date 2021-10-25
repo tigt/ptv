@@ -54,7 +54,7 @@ function dexMapper (row, tutorMoves, movesets) {
         start: [row.ability1, row.ability2].filter(Boolean),
         level5: [row.ability3, row.ability4, row.ability5].filter(Boolean)
       },
-      catchDC: +row.dc,
+      catchDC: +row['◓Dc'],
       evolves: {
         by: row.evolvesBy,
         from: row.evolvesFrom
