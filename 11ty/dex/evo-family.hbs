@@ -80,55 +80,6 @@ layout: base
   <h1>{{mons.[0].name}} Family</h1>
 
   {{#each mons}}
-    <article class="mon" id="{{slugify name}}">
-      <h2><a href="#{{slugify name}}">{{name}}</a></h2>
-
-      <img alt="" src="./img/{{slugify name}}.png"
-      class="mon_pic">
-
-      <dl class="mon_abilities">
-        <dt>Type
-        <dd>{{type1}}{{#if type2}}&thinsp;/&thinsp;{{type2}}{{/if}}
-
-        <dt>Starting Abilities
-        {{#each abilities.start}}
-          <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
-        {{/each}}
-
-        <dt>Level 5 Abilities
-        {{#each abilities.level5}}
-          <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
-        {{/each}}
-      </dl>
-
-      <table class="mon_stats">
-        {{#each stats}}
-        <tr>
-        <th>{{@key}}
-        <td>{{this}}
-        {{/each}}
-      </table>
-
-      <table class="mon_skills">
-        {{#each skills}}
-        <tr>
-        <th>{{@key}}
-        <td>{{this}}
-        {{/each}}
-      </table>
-
-      <dl class="mon_info">
-        <dt>Height:
-        <dd>{{height}}
-
-        <dt>Weight:
-        <dd>{{weight}}&thinsp;lbs.
-
-        <dt>Egg Groups:
-        <dd>{{eggGroups}}
-      </dl>
-
-    {{> moveset moves=moves evolvesFrom=evolves.from}}
-    </article>
+    {{> moveset mon=this}}
   {{/each}}
 </main>

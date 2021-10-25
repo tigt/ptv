@@ -1,0 +1,17 @@
+---
+data: pokemon
+permalink: dex/
+layout: base
+title: Pokédex
+---
+
+<p>Want <em>every Pokémon on one page</em>? For <kbd>Ctrl</kbd>+<kbd>F</kbd> purposes or something? Here you go: <a href="./all/">One-page Pokédex (⚠️ loürge download)</a></p>
+
+<ol>
+{{#each pokemon}}
+<li>
+  <a href="./dex/{{slugify mons.[0].name}}{{#if mons.[1]}}-family{{/if}}/">
+    {{slugify pokemon.[0].name}}{{#if mons.[1]}} family{{/if}}
+  </a>
+{{/each}}
+</ol>

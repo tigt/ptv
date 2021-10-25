@@ -27,7 +27,7 @@ title: Abilities
   <dl class="abilityList">
     {{#abilities}}
       <div class="abilityList_item" id="{{slugify name}}">
-        <dt class="ability_name"><a href="#{{slugify name}}">{{name}}</a>
+        <dt class="ability_name"><a rel="bookmark" href="#{{slugify name}}">{{name}}</a>
 
         {{#if bonusStats}}
           <dd class="ability_bonusStats">{{bonusStats}}

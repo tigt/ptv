@@ -17,13 +17,15 @@ module.exports = fetch(`https://sheets.googleapis.com/v4/spreadsheets/18Q390sVb7
 
     for (const sheet of json.valueRanges) {
       let columnNames = sheet.values.splice(0, 1)[0]
+      
       if (!sheet.range.startsWith('Tutor')) {
         columnNames = columnNames.map(toCamelCase)
       }
+
       ret[sheet.range.split('!')[0]] = sheet.values.map(row =>
         Object.fromEntries(
           row.map((cell, i) => [columnNames[i], cell])
-            .filter(([_, val]) => !/^[-\u2014\s]+$/.test(val)
+            .filter(([_, val]) => /[^-\u2014\s]/.test(val)
         ) 
       ))
     }

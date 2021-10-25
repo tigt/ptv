@@ -3,7 +3,6 @@ const fetchedSheets = require('./_fetchSheets.js')
 module.exports = async function () {
   return fetchedSheets.then(data => {
     const movesets = Object.fromEntries(data['Movesets'].map(movesetsMapper))
-    console.log(data["'Tutor Matrix'"])
     const tutorMoves = Object.fromEntries(data["'Tutor Matrix'"].map(tutorMatrixMapper))
     const dexData = Object.fromEntries(data['Pokemon'].map(data => dexMapper(data, tutorMoves, movesets)))
 
@@ -23,6 +22,9 @@ function getBaseForm (name, dex) {
 
   let mon = dex[name]
   if (mon.evolves.from) {
+    if (mon.evolves.from === name) {
+      throw Error(`${name} listed as evolving from from itself, erroring to avoid infinite recursion`)
+    }
     return getBaseForm(mon.evolves.from, dex)
   }
   return mon
@@ -80,8 +82,13 @@ function tutorMatrixMapper (row, i) {
   const tutorSet = [row.mon, []]
   for (const key in row) {
     if (row[key] === 'x') {
-      tutorSet[1].push(key)
+      tutorSet[1].push(toTitleCase(key))
     }
   }
   return tutorSet
+}
+
+function toTitleCase (str) {
+  return str.charAt(0).toUpperCase()
+    + str.slice(1).replace(/[A-Z]/g, char => ' ' + char.toUpperCase())
 }

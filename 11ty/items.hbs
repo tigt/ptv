@@ -23,21 +23,21 @@ title: Items
 
 {{#items}}
 <article class="itemList_item" id="{{slugify name}}">
-    <h2 class="item_name">{{name}} <a href="#{{slugify name}}">🔗</a></h2>
-    <dl>
-      <dt>Purchase price
-          
-      <dd class="item_buy">
-      {{#if buy}}{{buy}}{{#if buyIsNumeric}}₽{{/if}}
-      {{else}}Not typically found in stores.
-      {{/if}}
+  <h2 class="item_name"><a rel="bookmark" href="#{{slugify name}}"></a>{{name}}</a></h2>
+  <dl>
+    <dt>Purchase price
+        
+    <dd class="item_buy">
+    {{#if buy}}{{buy}}{{#if buyIsNumeric}}₽{{/if}}
+    {{else}}Not typically found in stores.
+    {{/if}}
 
-      {{#if sell}}
-      <dt>Sell price
-      <dd class="item_sell">{{sell}}{{#if sellIsNumeric}}₽{{/if}}
-      {{/if}}
-    </dl>
+    {{#if sell}}
+    <dt>Sell price
+    <dd class="item_sell">{{sell}}{{#if sellIsNumeric}}₽{{/if}}
+    {{/if}}
+  </dl>
 
-    {{{description}}}
+  {{{description}}}
 </article>
 {{/items}}
