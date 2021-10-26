@@ -55,6 +55,11 @@
 
     <dt>Suggested Catch DC:
     <dd>{{catchDC}} ◓
+
+    {{#if evolves.from}}
+      <dt>Evolves from:
+      <dd>{{evolves.from}}, by {{evolves.by}}
+    {{/if}}
   </dl>
 
   {{> moveset moves=moves evolvesFrom=evolves.from}}

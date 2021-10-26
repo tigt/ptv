@@ -51,8 +51,8 @@ function dexMapper (row, tutorMoves, movesets) {
       height: row.height.replace(/'/g, '′').replace(/"/g, '″'),
       eggGroups: [row.egg1, row.egg2].filter(Boolean),
       abilities: {
-        start: [row.ability1, row.ability2].filter(Boolean).map(splitAbilities),
-        level5: [row.ability3, row.ability4, row.ability5].filter(Boolean).map(splitAbilities)
+        start: parseAbilities(row.ability1, row.ability2),
+        level5: parseAbilities(row.ability3, row.ability4, row.ability5)
       },
       catchDC: +row['◓Dc'],
       evolves: {
@@ -65,8 +65,13 @@ function dexMapper (row, tutorMoves, movesets) {
       }
     }]
 
-  function splitAbilities (str) {
-    return str.split(/\//g).map(s => s.trim())
+  // some ability slots have multiple choices, usually based on gender or forme, so this returns an array of arrays
+  function parseAbilities (...strs) {
+    return strs.filter(Boolean)
+      .map(str =>
+        str.split(/\//g)
+          .map(s => s.trim())
+      )
   }
 }
 
