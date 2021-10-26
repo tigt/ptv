@@ -6,7 +6,7 @@ const params = new URLSearchParams({
   valueRenderOption: 'UNFORMATTED_VALUE',
   prettyPrint: false
 })
-for (const name of ['Pokemon', 'Abilities', 'Moves', 'Movesets', 'Items', 'Tutor Matrix']) {
+for (const name of ['Pokemon', 'Abilities', 'Moves', 'Movesets', 'Items', 'Tutor Matrix', 'Dex']) {
   params.append('ranges', name)
 }
 

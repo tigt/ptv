@@ -1,10 +1,18 @@
+const markdown = require('marked')
 const fetchedSheets = require('./_fetchSheets.js')
+
+markdown.setOptions({
+  breaks: true,
+  smartypants: true
+})
 
 module.exports = async function () {
   return fetchedSheets.then(data => {
     const movesets = Object.fromEntries(data['Movesets'].map(movesetsMapper))
     const tutorMoves = Object.fromEntries(data["'Tutor Matrix'"].map(tutorMatrixMapper))
-    const dexData = Object.fromEntries(data['Pokemon'].map(data => dexMapper(data, tutorMoves, movesets)))
+    const dexBlurbs = Object.fromEntries(data['Dex'].map(row => [row.name, row.blurb]))
+    const dexData = Object.fromEntries(data['Pokemon'].map(data => dexMapper(data, tutorMoves, movesets, dexBlurbs)))
+    
 
     const families = {}
     for (const name in dexData) {
@@ -30,7 +38,9 @@ function getBaseForm (name, dex) {
   return mon
 }
 
-function dexMapper (row, tutorMoves, movesets) {
+function dexMapper (row, tutorMoves, movesets, dexBlurbs) {
+  const blurb = dexBlurbs[row.name]
+
   return [row.name, {
       ...row,
       stats: {
@@ -62,7 +72,8 @@ function dexMapper (row, tutorMoves, movesets) {
       moves: {
         ...movesets[row.name],
         tutor: tutorMoves[row.name]
-      }
+      },
+      blurb: blurb && markdown(blurb)
     }]
 
   // some ability slots have multiple choices, usually based on gender or forme, so this returns an array of arrays
