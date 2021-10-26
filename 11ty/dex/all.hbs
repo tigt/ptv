@@ -1,0 +1,12 @@
+---
+data: pokemon
+permalink: dex/all/
+layout: base
+title: All Mons · Pokédex
+---
+
+{{#each pokemon as |family i|}}
+  {{#each family as |mon i|}}
+    {{> dex-entry mon=this}}
+  {{/each}}
+{{/each}}
