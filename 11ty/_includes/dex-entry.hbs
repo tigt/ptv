@@ -9,14 +9,21 @@
     <dt>Type
     <dd>{{type1}}{{#if type2}}&thinsp;/&thinsp;{{type2}}{{/if}}
 
+
+    {{#*inline "formatAbilities" }}
+      {{#each abilities~}}
+        <a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>{{#unless @last}}&thinsp;/&thinsp;{{/unless}}
+      {{~/each}}
+    {{/inline}}
+
     <dt>Starting Abilities
     {{#each abilities.start}}
-      <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
+      <dd>{{>formatAbilities abilities=this}}
     {{/each}}
 
     <dt>Level 5 Abilities
     {{#each abilities.level5}}
-      <dd><a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
+      <dd>{{>formatAbilities abilities=this}}
     {{/each}}
   </dl>
 

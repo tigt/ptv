@@ -51,8 +51,8 @@ function dexMapper (row, tutorMoves, movesets) {
       height: row.height.replace(/'/g, '′').replace(/"/g, '″'),
       eggGroups: [row.egg1, row.egg2].filter(Boolean),
       abilities: {
-        start: [row.ability1, row.ability2].filter(Boolean),
-        level5: [row.ability3, row.ability4, row.ability5].filter(Boolean)
+        start: [row.ability1, row.ability2].filter(Boolean).map(splitAbilities),
+        level5: [row.ability3, row.ability4, row.ability5].filter(Boolean).map(splitAbilities)
       },
       catchDC: +row['◓Dc'],
       evolves: {
@@ -64,6 +64,10 @@ function dexMapper (row, tutorMoves, movesets) {
         tutor: tutorMoves[row.name]
       }
     }]
+
+  function splitAbilities (str) {
+    return str.split(/\//g).map(s => s.trim())
+  }
 }
 
 function movesetsMapper (row) {
