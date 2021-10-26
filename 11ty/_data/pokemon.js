@@ -76,8 +76,8 @@ function movesetsMapper (row) {
     starting: [row.start1, row.start2, row.start3, row.start4].filter(Boolean),
     levelUp: Object.fromEntries(
       Object.entries(row)
-        .filter(([name, val]) => val && name.startsWith('level'))
-        .map(([_, val], i) => [i+2, val.split(', ')])
+        .filter(([name]) => name.startsWith('level'))
+        .map(([name, val]) => [name.replace('level', ''), val.split(', ')])
     )
   }]
 }
