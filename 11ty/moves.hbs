@@ -6,85 +6,56 @@ title: Moves
 ---
 
 <style>
-  thead {
-    position: sticky;
-    top: 0;
-    background: darkgray;
-  }
-
   :target {
     background: rgba(255, 255, 0, 0.1);
+    outline: 1px dashed #b02a32;
   }
 
-  th {
-    text-align: inherit;
+  a[rel=bookmark] {
+    color: inherit;
   }
 
-  th,
-  td {
-    vertical-align: baseline;
+  article {
+    display: inline-block;
+    max-width: 20em;
+    margin: 0.5em;
+    padding: 0 0.5em;
+    vertical-align: top;
   }
 
-  td > p:first-child { margin-top: 0 }
-  td > p:last-child { margin-bottom: 0 }
-
-  .move_range {
-    white-space: nowrap;
+  dt {
+    float: left;
+    font-weight: bolder;
   }
 
-  @media (max-width: 30em) {
-    thead {
-      display: none;
-    }
-    tr {
-      display: block;
-    }
-    td {
-      display: inline;
-    }
-    td:before {
-      content: " • ";
-    }
-    .move_pp:after {
-      content: " PP";
-    }
-
-    .move_accuracy:after {
-      content: " Accuracy";
-    }
-
-    .move_desc {
-      display: block;
-    }
+  dt:after {
+    content: ": ";
+    white-space: pre;
   }
 </style>
 
 <h1>Moves</h1>
 
-<table class="moveTable">
-  <thead>
-    <tr>
-      <th>Name
-      <th>Type
-      <th>Category
-      <th>PP&nbsp;Cost
-      <th>Power
-      <th>Accuracy
-      <th>Range
-      <th>Description
-      <th>Z-Effect
-  </thead>
-  {{#moves}}
-  <tr class="moveTable_row" id="{{slugify name}}">
-    <th class="move_name"><a rel="bookmark" href="#{{slugify name}}">{{name}}</a>
-    <td class="move_type">{{type}}
-    <td class="move_category">{{category}}
-    <td class="move_pp">{{pp}}
-    <td class="move_power">{{power}}
-    <td class="move_accuracy">{{accuracy}}
-    <td class="move_range">{{range}}
-    <td class="move_desc">{{{description}}}
-    <td class="move_z-effect">{{zEffect}}
-  </tr>
-  {{/moves}}
-</table>
+{{#moves}}
+  <article id="{{slugify name}}">
+    <h2><a rel="bookmark" href="#{{slugify name}}">{{name}}</a></h2>
+    <dl>
+      <dt>Type<dd>{{type}}
+      <dt>Category<dd>{{kind}}
+      <dt>PP Cost<dd>{{pp}}
+      {{#if power}}
+      <dt>Power<dd>{{power}}
+      {{/if}}
+      {{#if accuracy}}
+      <dt>Accuracy<dd>{{accuracy}}
+      {{/if}}
+      <dt>Range<dd>{{range}}
+    </dl>
+    
+    {{{description}}}
+    
+    {{#if z-effect}}
+      <p><b>Z-Effect:</b> {{z-effect}}</p>
+    {{/if}}
+  </article>
+{{/moves}}
