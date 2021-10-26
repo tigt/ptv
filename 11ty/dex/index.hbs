@@ -10,7 +10,7 @@ title: Pokédex
 <ol>
 {{#each pokemon as |mons i|}}
 <li>
-  <a href="./dex/{{slugify mons.[0].name}}{{#if mons.[1]}}-family{{/if}}/">
+  <a href="./{{slugify mons.[0].name}}{{#if mons.[1]}}-family{{/if}}/">
     {{mons.[0].name}}{{#if mons.[1]}} family{{/if}}
   </a>
 {{/each}}
