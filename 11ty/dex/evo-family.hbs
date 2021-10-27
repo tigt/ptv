@@ -63,16 +63,29 @@ layout: base
     text-align: right;
   }
 
-  .moves_list {
-    margin: 0;
-    list-style: outside;
-    columns: 2 8em;
+  .mon_moves {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
   }
 
-  .moves_list > li {
-    -webkit-column-break-inside: avoid;
-              page-break-inside: avoid;
-                   break-inside: avoid;
+  .moves_heading {
+    width: 100%;
+  }
+
+  .tutor-moves {
+    flex: 1;
+  }
+
+  .tutor-moves_heading {
+    margin: 0;
+  }
+
+  .tutor-moves_list {
+    margin: 0;
+    list-style: outside;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(calc(6em + 12vmin), 100%), 1fr));
   }
 </style>
 

@@ -1,6 +1,6 @@
 {{#with moves}}
-<section>
-  <h3>Moves</h3>
+<section class="mon_moves">
+  <h3 class="moves_heading">Moves</h3>
 
   <table class="moves_table">
     <thead>
@@ -35,10 +35,10 @@
     {{/each}}
   </table>
 
-  <section class="mon_moves">
-    <h4 class="moves_heading">Tutor Moves</h4>
+  <section class="tutor-moves">
+    <h4 class="tutor-moves_heading">Tutor Moves</h4>
 
-    <ul class="moves_list">
+    <ul class="tutor-moves_list">
     {{#each tutor}}
       <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
     {{/each}}
