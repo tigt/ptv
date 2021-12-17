@@ -1,16 +1,14 @@
 {
   "name": "ptv-dexter",
-  "version": "1.0.0",
   "private": true,
-  "description": "Generates a pokedex",
-  "main": "index.js",
+  "description": "Generates the PTV pokédex and site",
   "scripts": {
     "11ty": "eleventy --input=./11ty --output=./docs",
+    "fetch": "node ./update/google-sheets.js",
     "start": "node ./_src/index.js"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-img": "^0.10.0",
     "html-minifier": "^4.0.0",
     "marked": "^0.3.6",
     "node-fetch": "^2.6.1"

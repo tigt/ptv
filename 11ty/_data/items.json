@@ -1,0 +1,2051 @@
+[
+  {
+    "name": "Ability Capsule",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Changes one of a Pokémon’s Abilities to the user’s choice within the same slot.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Absorb Bulb",
+    "buy": 1000,
+    "sell": 500,
+    "description": "An energy-storing shoot. Used up if the holder is hit by a Water Move to Boost SATK by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Adrenaline Orb",
+    "buy": 300,
+    "sell": 150,
+    "description": "Used up when the holder is affected by Intimidate, Startle, or Chill to Boost SPE by +5. Can be used as an item to make wild Pokémon call for help.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Air Balloon",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder floats in the air (Immune to Ground, terrain, and entry hazards) until damaged by a Move, which pops the Air Balloon.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Antidote",
+    "buy": 300,
+    "sell": 150,
+    "description": "Cures Poison. A spraybottle of antitoxin.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Apricorn",
+    "description": "The historical main ingredient for Pokémon capture. Use with a Ball Kit during a Rest to ignore one of the crafted Balls’ ₽ cost.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Assault Sleeves",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Anti-ballistic armor that Boosts the holder's DEF by +10, but they can’t use Status Moves.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Assault Vest",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Anti-projectile armor that Boosts the holder's SDEF by +10, but they can’t use Status Moves.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Awakening",
+    "buy": 100,
+    "sell": 50,
+    "description": "Cures Sleep. A spraybottle of mint and caffeine.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ball Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can craft any type of Poké Ball but Master Ball during Rests by spending 1.5× cost of the Ball. Can't capture new friends without them.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Balm Mushroom",
+    "buy": 15000,
+    "sell": 7500,
+    "description": "A rare fungi with a nice fragrance. Roll on the Wild Mushroom table, but reroll on 49 or lower. The holder consumes mushrooms to trigger their effects when their HP drops below 3 Ticks.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Baton",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Used up when the holder switches out, transferring Baton Pass' effects to the replacement.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Battle Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can craft X-Items during Rests by spending 1.5× cost of the item. A good smoothie always helps.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Beast Ball",
+    "description": "+6 to capture Ultra Beasts, but −6 to capture anything else.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Berry Juice",
+    "buy": 100,
+    "sell": 50,
+    "description": "Heals 20 HP. Eaten if the holder drops below half HP. 100% pure juice.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Berry Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can spend 1.5× cost ₽ to craft Berries during a Rest. Mixing seeds during your downtime.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Berry Planter",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "A miniature hothouse for gardening on the go. Duplicates 1 berry each Long Rest.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Berry Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "If the holder's HP falls below 3 Ticks, they eat the Sweet to get +3 Critical Rate.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Berserk Gene",
+    "buy": 200,
+    "sell": 100,
+    "description": "When the holder joins the battle, they get Confused and Boost ATK by +10. A remnant of destructive impulse.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Bicycle",
+    "buy": 1000000,
+    "description": "The fastest way to travel by human power. Every kid wants one. For 2000₽ more, it can inflate its tires to travel over calm water.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Big Mushroom",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "A large rare fungi. Roll twice on the Wild Mushroom table. The holder consumes mushrooms to trigger their effects when their HP drops below 3 Ticks.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Big Root",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder's Draining Moves and Strength Sap heal twice as much, and Leech Seed/Ingrain/Aqua Ring heals them +1 Tick.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Big Treasure",
+    "buy": 20000,
+    "sell": 10000,
+    "description": "Golden Oscars, comet shards, pearl strings… Treasure that’ll make you rich.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Binding Band",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "An industrial-strength rubber Möbius strip. The holder's Binding Moves inflict an extra +5 of HP loss between rounds.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Binoculars",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Lets you see practically from one end of a route to the other.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Black Belt",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Pulls tight around the holder to give their Fighting Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Black Flute",
+    "buy": 400,
+    "sell": 200,
+    "description": "Toots a foreboding doot. The next wild Pokémon encountered gets 2 Levels stronger.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Black Glasses",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Dark Moves get +5 damage. Disguises one’s intentions.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Black Sludge",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Poison-Types holding it heal 1 Tick between rounds, but others lose 1 Tick. A blob of gross goop.  ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Blue Flute",
+    "buy": 400,
+    "sell": 200,
+    "description": "Trills a shrill note that awakens a character of your choice.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Blunder Policy",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If the holder misses a Move, they consume Blunder Policy to Boost +10 SPE. Inaccuracy insurance.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Bright Powder",
+    "buy": 400,
+    "sell": 2000,
+    "description": "The holder gets +2 Evasion from its glittery glare.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Burn Heal",
+    "buy": 300,
+    "sell": 150,
+    "description": "Cures Burn. A spraybottle of aloe and liquid bandage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Calcium",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "Gives +1 to Focus and Persuasion, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Carbos",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "Gets +1 to Acrobatics and Deception, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Carrot",
+    "buy": 100,
+    "sell": 50,
+    "description": "Restores Accuracy Rate to +0. Can be used as an ingredient for Chef meals.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Celery",
+    "buy": 100,
+    "sell": 50,
+    "description": "Restores Evasion to +0. Can be used as an ingredient for Chef meals.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Cell Battery",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Used up when the holder is hit by an Electric Move, Boosting ATK by +5. A rechargeable AA.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Charcoal",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Fire Moves get +5 damage. Cinder used as tinder.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Choice Band",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder gets +10 ATK, but can only repeat the first Move they used until they leave the battle. A headband for stubbornness.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Choice Scarf",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder gets +10 SPE, but can only repeat the first Move they used until they leave the battle. An accessory to impulse.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Choice Specs",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder gets +10 SATK, but can only repeat the first Move they used until they leave the battle. Glasses that cause short-sightedness.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Clover Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "If the holder's HP falls below 3 Ticks, the holder eats the Sweet to get +3 Evasion.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Cooking Pot",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "A campfire cauldron where the entire party can participate. During a Rest, each Trainer consumes one berry to restore 3 PP and get +3 Max PP until their next Rest.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dawn Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Catches the light like a sudden realization. Can be used up to evolve Eevee, Snorunt♀, or Kirlia♂.\nThe holder is considered to be on Psychic Terrain.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Deep Sea Scale",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss.\nOnce per battle, the holder Resists damage that Water would.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Deep Sea Tooth",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail.\nOnce per battle, the holder may have their Move do Water damage instead.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Destiny Knot",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "If a character Infatuates the holder, they also become Infatuated with the holder. A red thread fated to bind lovers.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dire Hit",
+    "buy": 700,
+    "sell": 350,
+    "description": "Boosts Critical Rate by +4. Pharmaceutical trademarked as Criticut.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dive Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture Pokémon that live underwater.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dowsing Machine",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Trainers holding this gain the Pickup Ability. A short-range item finder.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dragon Fang",
+    "buy": 1000,
+    "sell": 500,
+    "description": "An ancient’s tooth that gives the holder's Dragon Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dragon Scale",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A thick, unyielding scale that can be used up to evolve Seadra.\nOnce per battle, the holder may Resist damage that Dragon would.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dream Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture sleeping targets.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dubious Disc",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "Can be used up to evolve Porygon2. They didn't enhance the user experience enough…\nWhen the holder joins the battle, they get Confused and Boost SATK by +10.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dusk Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture when dark, such as at night or in caves.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dusk Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Swallows light that tries to shine through it. Can be used up to evolve Eevee, Misdreavus, Murkrow, Lampent, or Doublade.\nThe holder is considered to be in Midnight. (Critical Rates for and against the holder get +5.)",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Dynamax Band",
+    "description": "Trainers wearing this can Dynamax and Gigantamax their Pokémon. A Wishing Star set into Galarian battle jewelry.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Eject Button",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "When a Move damages the holder, they use up the Eject Button to switch out or flee 3 Zones. Press to release a giant spring.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Eject Pack",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If any of the holder’s Stats Drop, they uses up Eject Pack to switch out or flee 3 Zones. Launches at the first sign of trouble.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Electric Seed",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If the field is Electric Terrain, the holder eats Electric Seed to Boost DEF by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Electririzer",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "An electricity-packed device that can be used up to evolve Electabuzz. \nThe holder's Electric Moves cost 1 PP less.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Elixir",
+    "description": "Restores 6 PP. The best energy drink money can't buy.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Escape Rope",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A Silph Co. product that looks like a regular rope, but will unwind away from gravity through any holes to the surface. Usually not allowed indoors.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ether",
+    "buy": 1200,
+    "sell": 600,
+    "description": "Restores 3 PP. The best energy drink money can buy.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Eviolite",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Holders that haven't evolved yet get +5 DEF and SDEF. A mysterious lump that repurposes energy normally spent on evolution.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Expert Belt",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder's super-effective Moves get +5 damage. A well-worn token from a battle master.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fast Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+6 to capture Pokémon with 10 or higher base SPE, and can interrupt fleeing Pokémon for +6 to capture.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fire Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Flickers like a burning ember. Can be used up to evolves Vulpix, Growlithe, Pansear, or Eevee.\nThe holder is considered to be in Harsh Sunlight.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fishing Rod",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Might hook a wild Pokémon. If it does, oppose its Athletics to reel it in.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Flame Orb",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Burns the holder between rounds. Barely hot enough that it seems fine for a little bit. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Flashlight",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A solar-charged industrial flashlight. Almost never runs out of battery.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Float Stone",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Halves the holder's weight. A pumice pebble much lighter than it looks.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Flower Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "If the holder's HP falls below 3 Ticks, they eat the Sweet to get +3 Effect Range.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Focus Band",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "If a damaging Move would Faint the holder, roll d20. On 19+, they endure with 1 HP instead. A headband for determination.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Focus Sash",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "If a damaging Move would Faint the holder from 100% HP, they endure with 1 HP instead. A wrap for overwhelming odds.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fossil",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "A stone imprint of ancient species. Bring it to a scientist for restoration into a Pokémon.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fresh Water",
+    "buy": 200,
+    "sell": 100,
+    "description": "Heals 30 HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Friend Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Pokémon kept in this ball always deal max damage when using Return.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Full Heal",
+    "buy": 500,
+    "sell": 250,
+    "description": "Cures all Status Problems. A cure-all for common ailments.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Full Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Moves targeting the holder get -1 Priority. Smells like butter.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Full Restore",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Fully heals HP and cures all Status Problems. You get what you pay for.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fuse",
+    "buy": 1000,
+    "sell": 500,
+    "description": "If the holder is damaged by a Critical Hit and knows Self-Destruct or Explosion, the holder's Move Choice is replaced with Self-Destruct or Explosion (player's choice.)",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Galarica Loop",
+    "buy": 6000,
+    "sell": 3000,
+    "description": "Can be used up to evolve Galarian Slowpoke to Galarian Slowbro or Slowking (your choice). For other Pokémon, heals 120 HP but moves against the user Can't Miss for the rest of the battle.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Gem Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can spend 1.5x cost ₽ to craft Type Gems, Evolutionary Stones, and Type Boosters during Rests. Carving out a new hobby.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Gondola",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "A basket that holds an entire party. Has harnesses Pokémon can wear to carry the device. A hot-air balloon is 2000₽ extra.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Grassy Seed",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If the field is Grassy Terrain, the holder eats Grassy Seed to Boost DEF by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Great Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+2 to capture.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Grip Claw",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder's Binding Moves last 2 rounds longer.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Guard Spec.",
+    "buy": 700,
+    "sell": 350,
+    "description": "Acts like the Move Mist on the target. Pharmaceutical trademarked as Effect Guard.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Hard Stone",
+    "buy": 1000,
+    "sell": 500,
+    "description": "An unbreakable stone gives the holder's Rock Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Heal Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "Fully heals the captured Pokémon.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Heart Scale",
+    "buy": 500,
+    "sell": 250,
+    "description": "A universal symbol of goodwill. Many accept it in exchange for a favor.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Heart Stone",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder heals 1 Tick whenever it uses a Move that targets Allies. Recently discovered in Driftveil waters…",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Heavy Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+6 to capture Pokémon that weigh 300 lbs or more.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Heavy-Duty Boots",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder is immune to Hazards. Thick soles prevent terrain treachery.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Hyper Potion",
+    "buy": 1400,
+    "sell": 700,
+    "description": "Heals 120 HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ice Heal",
+    "buy": 100,
+    "sell": 50,
+    "description": "Cures Frozen. A spraybottle of brine and char.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ice Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Glints like a glacier. Can be used up to evolve Eevee, Crabrawler, Alolan Sandslash, or Alolan Vulpix.\nThe holder is considered to be in Hail.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Iron",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Gets +1 to Endurance and Bluster, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Iron Ball",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Halves the holder’s SPE and grounds them. A heavy black iron sphere.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Jolt Orb",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Paralyzes the holder between rounds. Feels like pleasant tingling at first.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Key Stone",
+    "description": "Trainers wearing this can use Mega Evolution. Battle jewelry from Kalos.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "King's Rock",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "On 19+, the holder's attacks Flinch the target. A stone radiating a regal aura that can be used up to evolve Slowpoke and Poliwhirl.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Lax Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Moves targeting the holder get -2 Accuracy. Smells musty.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Leaf Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Always surrounded with fresh air. Can be used up to evolve Gloom, Weepinbell, Exeggcute, Eevee, Nuzleaf, or Pansage.\nThe holder is considered to be on Grassy Terrain.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Leek",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Doubles Farfetch'd’s Critical Rate when held. A mighty scallion.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Leftovers",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder heals 1 Tick between Rounds.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Lemonade",
+    "buy": 400,
+    "sell": 200,
+    "description": "Heals 70 HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Level Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "Add the user's Level to the Capture Check and subtract the target's.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Life Orb",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder's damaging Moves get +5 damage, but they lose a Tick of HP after using them. Symbolizes pyrrhic victory.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Light Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Pikachu gets +10 Intensity and Focus when held.\nParalyzes the holder between rounds. Feels like pleasant tingling at first.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Light Clay",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder's Reflect, Light Screen, or Aurora Veil lasts 2 rounds longer. Building material for wondrous walls of light.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Local Specialty",
+    "buy": 300,
+    "sell": 150,
+    "description": "Heals 20 HP and cures all Status Problems. Rage Candy Bars, Lava Cookies, Old Gateaux; everywhere’s got one.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Love Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+6 to capture Pokémon attracted to the Trainer’s active Pokémon.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Love Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "If the holder's HP falls below 3 Ticks, they eat the Sweet and get +3 to Save Bonus.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Luck Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Foes targeting the holder get −2 to Save Bonus. Smells like a new penny.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Luminous Moss",
+    "buy": 1000,
+    "sell": 500,
+    "description": "If the holder is damaged by a Water Move, is used up to Boost SDEF by +5. A green clump that glows when watered.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Lure Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+6 to capture Pokémon that were baited into the encounter.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Luxury Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Pokémon kept in this ball always deal max damage when using Return.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Magmarizer",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A heat-packed device that can be used up to evolve Magmar. The holder’s Fire Moves cost 1 PP less. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Magnet",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A powerful lodestone gives the holder's Electric Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Magnifying Glass",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Ghost-Types are not Immune to the holder's Normal or Fighting Moves. Foreseen forensics.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Master Ball",
+    "description": "Always catches a Pokémon without fail.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Max Ether",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "Restores all PP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Max Honey",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Cures Fainting and heals all HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Max Mushroom",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Boosts ATK, DEF, SATK, SDEF, and SPE by +5 each. Wild Pokemon might Dynamax by eating these.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Max Potion",
+    "buy": 2400,
+    "sell": 1200,
+    "description": "Heals all HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Max Revive",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Cures Fainting and heals all HP. A clump of vitality.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Medical Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can spend 1.5x cost ₽ to craft any non-Berry item that restores HP, PP, or Status during Rests. The best defense is a good bandage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Medium Treasure",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Gold nuggets, star pieces, big pearls, Amiibo. Treasure that’ll make you smile.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Mega Stone",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Named after a single species (“Beedrillite”, “Dunsparcite”, etc.) Allows a matching holder to Mega Evolve. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Mental Herb",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "The holder consumes Mental Herb when inflicted with Infatuation, Taunt, Torment, Encore, or Disable to cure that status.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Metal Coat",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A canister of metallic film that can be used up to evolve Onix and Scyther. The holder's Steel Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Metronome",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "If the holder hits with a damaging Move consecutively, that move gets +5 damage each use until another Move is used. Rewards rhythm.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Miracle Seed",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A seed of life force gives the holder’s Grass Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Misty Seed",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If the field is Misty Terrain, is eaten by the holder to Boost SDEF by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Moomoo Milk",
+    "buy": 600,
+    "sell": 300,
+    "description": "Heals 100 HP. Highly nutritious.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Moon Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+6 to capture Pokémon that evolve or evolved with a Moon Stone.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Moon Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Radiates X-Rays. Can be used up to evolve Nidorina, Nidoking, Jigglypuff, Clefairy, Eevee, Skitty, or Munna.\nThe holder is considered to be in moonlight.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Muscle Band",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder's Physical Moves get +5 damage. A strength-exuding headband.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Mystic Water",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A tear-shaped gem gives the holder's Water Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Nature Mint",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "Each Mint has a Nature: Hardy, Adamant, etc. Pokémon can eat a Mint to ignore their Nature’s bonus and penalty to their battle stats and get Bonus Stats that affect their battle stats like the Mint’s Nature.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Nest Ball",
+    "buy": 600,
+    "sell": 300,
+    "description": "+6 to capture if the target is Level 5 or lower.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Net Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture if the target is Water- or Bug-Type.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Never-Melt Ice",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A heat-repelling chunk gives the holder's Ice Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Odd Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Foes targeting the holder get -2 Critical Rate. Smells like... mimes?",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Oval Stone",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "An egg-shaped rock that can be used up to evolve Happini.\nThe holder gets +2 DEF and -2 ATK.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Paralyze Heal",
+    "buy": 300,
+    "sell": 150,
+    "description": "Cures Paralysis. A squirtbottle of liniment.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Pixie Glitter",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Fairy Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Poffin",
+    "buy": 500,
+    "sell": 250,
+    "description": "Boosts the next social skill check made by the Pokémon who eats it by +5. They don't stack.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Poffin Box",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A baker’s dozen of Poffins. (That’s 13, to be clear.)",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Poffin Plum",
+    "description": "Can be used with a Berry Kit during a Rest to make a Poffin for free.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Poison Barb",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Poison Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Poké Ball",
+    "buy": 400,
+    "sell": 200,
+    "description": "Throw at a Pokémon to try to capture them.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Poké Doll",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Use to automatically flee from a wild Pokémon, or to decorate.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Poké Puff",
+    "buy": 500,
+    "sell": 250,
+    "description": "Boosts the next physical skill check made by the Pokémon who eats it by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Pokédex",
+    "description": "A high-tech encyclopedia. Some models are chatty.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Portable TV",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "A bit outdated with phones available, but works great for group entertainment.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Potion",
+    "buy": 200,
+    "sell": 100,
+    "description": "Heals 20 HP. A spraybottle of first-aid ointment.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Power Herb",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "The holder consumes Power Herb to skip to the \"Next turn\" effect of their Move instantly.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "PP Max",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Increases Max PP by 1.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "PP Up",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Lowers the PP cost of a Move by 1. These do not stack on the same Move.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Prism Scale",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A beautiful rainbow scale that can be used up to evolve Feebas.\nThe holder gets +2 to Persuasion checks.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Prison Bottle",
+    "description": "Changes Hoopa’s forme. Persuasion checks fail when within line of sight.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Protective Pads",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder ignores effects that trigger on Contact when using Moves on targets. A must for collision sports.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Protector",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "A stiff, heavy brace that can be used up to evolve Rhydon.\nThe holder gets +5 DEF and SDEF against Super-Effective damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Protein",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "Gets +1 to Athletics and Intensity, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Psychic Seed",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If the field is Psychic Terrain, the holder eats Psychic Seed to Boost SDEF by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Pure Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Foes targeting the holder get −2 Effect Rate. Smells like a fresh breeze.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Quick Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture during the first round of a battle.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Quick Claw",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "When attacking, roll d20. On 17+, the holder’s Move gets +1 Priority.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Raft",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "An inflatable raft that holds an entire party. Has oars and a hitch for Pokémon to tow.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Rare Candy",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "A power-packed candy that instantly Levels-Up Pokémon that eat it.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Razor Claw",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "A hooked nail that can be used up at night to evolve Sneasel.\nThe holder gets +3 Critical Rate.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Razor Fang",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "A ghastly tooth that can be used up at night to evolve Gligar.\nOn 19+, the holder's attacks Flinch the target.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Reaper Cloth",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "An otherworldy shround that can be used up to evolve Dusclops.\nWhen the holder Faints a target, they heal 2 Ticks.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Red Card",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If a character damages but doesn’t KO the holder, the Red Card is used up to switch out the attacker. Imbued with mysterious sports energy.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Red Flute",
+    "buy": 200,
+    "sell": 100,
+    "description": "Toots a pessimistic doot, curing a character of your choice of Infatuation.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Repeat Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture if the user has owned the target’s species before.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Reveal Glass",
+    "description": "Changes formes for Thundurus, Tornadus and Landorus. A mirror that shows the truth. All Bluster checks fail when within line of sight.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Revive",
+    "buy": 2500,
+    "sell": 1250,
+    "description": "Cures Fainting and heals 50% HP. A fragment of vitality.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ribbon Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "Can be used on a Berry or Sweet to change its trigger to: “hit by a Super-Effective Move.”",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ride Pager",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "Calls Ride Pokémon you know the number of to help you out. Expected tip: 500₽.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ring Target",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Helpfully highlights the holder’s weak points and removes their Type Immunities.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Rock Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Moves targeting the holder cost 1 more PP. Smells like dry dust.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Rocky Helmet",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Whenever an attacker makes contact with the holder, the attacker loses 1 Tick of HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Room Service",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "In Trick Room, the holder consumes Room Service and drops -5 SPE.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Rose Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Foes targeting the holder get −2 Critical Rate. Smells like a garden in full bloom.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Rusted Shield",
+    "description": "Holding this transforms Zacian into Crowned Sword Forme and Iron Head into Behemoth Bash. For other Pokémon, Boosts +5 ATK when the holder joins the battle.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Rusted Sword",
+    "description": "Holding this transforms Zamazenta into Crowned Shield Forme and Iron Head into Behemoth Blade. For other Pokémon, Boosts +5 DEF when the holder joins the battle.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Sachet",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A strong-smelling stinkbag that evolves Spritzee.\nIf held, others making contact make a DC 5 Save or become Confused. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sacred Magatama",
+    "description": "A bead that brings out benevolence. All Intensity checks fail when within line of sight.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Sacred Mirror",
+    "description": "A mirror that brings true wisdom. All Deception checks fail when within line of sight.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Sacred Tsurugi",
+    "description": "A sword that embodies valor. All Insight checks succeed when within line of sight.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Safety Goggles",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Dustproof eyewear that gives the holder Immunity to Weather damage and Moves with names containing “Powder” or “Spore”.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sand Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "A sedimentary rock. The holder is considered to be in a Sandstorm.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Scope Lens",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Highlights vulnerabilities to give the holder +4 Critical Rate.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sea Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Moves targeting the holder do −2 less damage. Smells like low tide.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sharp Beak",
+    "buy": 1000,
+    "sell": 500,
+    "description": "A bird heirloom that gives the holder’s Flying Moves +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Shed Shell",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder can't be Trapped. A carapace that fits just loosely enough.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Shell Bell",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder heals 10% of the damage their Moves deal. Life’s a beach.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Shiny Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Glimmers with a dazzle. Use it up to evolve Roselia, Togetic, Minccino, or Floette.\nThe holder is considered to be on Misty Terrain.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Short Straw",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Redirects all Moves this round to the user's Pokemon.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Signature Z-Crystal",
+    "description": "In addition to typical Z-Crystal use, lets the holder use Z-Moves exclusive to their species.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Silk Scarf",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Normal Moves get +5 damage. Plain looks good on some.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Silver Powder",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Bug Moves get +5 damage. A shiny pile of… chitin?",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Small Treasure",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "Gold leaves, stardust, beach glass. Treasure that’ll buy you a meal.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Smoke Ball",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder can always flee from wild Pokémon successfully without a check. A reusable ninja tool.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Snowball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "If the holder takes Ice damage, they consume the Snowball to Boost ATK by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Soda Pop",
+    "buy": 300,
+    "sell": 150,
+    "description": "Heals 50 HP. “Psycho Soda!”",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Soft Sand",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Ground Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Spell Tag",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Ghost Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Star Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "If the holder's HP falls below 3 Ticks, they eat the Sweet to get +3 Accuracy.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sticky Barb",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder loses 1 Tick of HP between rounds. Transfers to others when they make Contact with the holder.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Strawberry Sweet",
+    "buy": 40,
+    "sell": 20,
+    "description": "Can be used on a Berry or Sweet to change its trigger to: HP below 5 Ticks.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Style Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can spend 1.5× cost ₽ to craft any Held Item not consumed upon use during Rests. There's always time for fashion.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sun Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Glows like the midday sky. Evolves Gloom, Sunkern, Cottonee, Petilil, and Helioptile.\nThe holder ignores the effects of weather.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Super Potion",
+    "buy": 700,
+    "sell": 350,
+    "description": "Heals 60 HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sweet Apple",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Evolves Applin into Appletun. Other Pokémon can consume it outside of battle to Boost +5 Deception.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Tart Apple",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Evolves Applin into Flapple. Other Pokémon can consume it outside of battle to Boost +5 Bluster.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Technical Kit",
+    "buy": 10000,
+    "sell": 5000,
+    "description": "Can spend 1.5× cost ₽ to craft Technical Machines and Technical Records during Rests, if a Pokémon the Trainer owns knows the Move. Share our knowledge through technology.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Technical Machine",
+    "buy": "See desc.",
+    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Cost $4× (500 + (500× PP Cost)) to buy from a standard vendor.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Technical Record",
+    "buy": "See desc.",
+    "description": "Teaches a Pokemon a Move. Destroyed upon use. Cost $500 + (500×PP Cost) to buy from a standard vendor.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Tent",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "A shelter for sleeping outdoors. Can be used up to gain the benefits of a Long Rest during a Short Rest.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Terrain Extender",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder’s special Terrains last 2 rounds longer. Primer for the battlefield.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Thick Club",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Marowak gets +10 ATK when holding this.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Throat Spray",
+    "buy": 1000,
+    "sell": 500,
+    "description": "After the holder uses a Sonic Move, they consume Throat Spray to Boost SATK by +5.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Thunder Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Pulses with crackling sparks. Use it up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, or Charjabug.\nThe holder is considered to be on Electric Terrain.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Timer Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+6 to capture if the battle has lasted 5 rounds or longer.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Tiny Mushroom",
+    "buy": 500,
+    "sell": 250,
+    "description": "Eat to roll on the Wild Mushroom table.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Toxic Orb",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Badly poisons the holder between rounds.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Twisted Spoon",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Psychic Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Type Drive",
+    "buy": 500,
+    "sell": 250,
+    "description": "Changes Techno Blast to the Drive’s Type when held. Acts as a Technical Record for any Move matching the Drive's Type.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Type Gem",
+    "buy": 200,
+    "sell": 100,
+    "description": "The holder uses up the Gem when using a damaging Move of the Gem’s Type to get +10 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Type Memory",
+    "buy": 1000,
+    "sell": 500,
+    "description": "Activates RKS System and changes Multi-Attack's Type to the Memory's Type. Acts as a Technical Record for any Move matching the Memory's Type.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "U-Pipe",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Whenever a character hits the holder with a Ranged Move, they lose 1 Tick of HP.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ultra Ball",
+    "buy": 1000,
+    "sell": 500,
+    "description": "+4 to capture.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Up-Grade",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "Minor adjustments to enhance the user experience, evolving Porygon.\nThe holder gets +1 to each Stat.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Utility Umbrella",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Foes targeting the holder do not get the extra +10 damage from weather.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Water Stone",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "Sparkles like a sunlit stream. Use it up to evolve Poliwhirl, Staryu, Shellder, Eevee, Lombre, or Panpour.\nThe holder is considered to be in Rain.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Wave Incense",
+    "buy": 9000,
+    "sell": 4500,
+    "description": "Moves targeting the holder do −2 damage. Smells like high tide.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Weakness Policy",
+    "buy": 1000,
+    "sell": 500,
+    "description": "If the holder is damaged Super-Effectively, they use up the Weakness Policy to Boost ATK and SATK by +10 each. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Weathered Rock",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "When the holder changes the weather, it lasts 2 rounds longer.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Weathered Scarf",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "Makes the Trainer immune to damage from Sandstorm and Hail.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Whipped Dream",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "A cloyingly-sweet treat can be used up to evolve Swirlix.\nIf the holder makes contact with a foe, the foe makes a DC 6 Save or they must target the holder as if Follow Me had been used.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "White Flute",
+    "buy": 500,
+    "sell": 250,
+    "description": "Toots a merry doot. The next wild Pokémon encountered becomes 2 Levels weaker.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "White Herb",
+    "buy": 2000,
+    "sell": 1000,
+    "description": "If one of the holder's Stats is Dropped below its default, they consume the White Herb to restore all Drops.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Wide Lens",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder gets +2 Accuracy.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Wise Glasses",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder’s Special Moves get +5 bonus damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "X Accuracy",
+    "buy": 900,
+    "sell": 450,
+    "description": "Boosts Accuracy by +4. Pharmaceutical trademarked as Hits Well.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "X Attack",
+    "buy": 500,
+    "sell": 250,
+    "description": "Boosts ATK by +10. Pharmaceutical trademarked as PlusPower.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "X Defend",
+    "buy": 500,
+    "sell": 250,
+    "description": "Boosts DEF by +10. Pharmaceutical trademarked as Defender.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "X Sp. Atk",
+    "buy": 300,
+    "sell": 150,
+    "description": "Boosts SATK by +10. Pharmaceutical trademarked as Special Up.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "X Sp. Def",
+    "buy": 300,
+    "sell": 150,
+    "description": "Boosts SDEF by +10. Pharmaceutical trademarked as Special Guard.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "X Speed",
+    "buy": 300,
+    "sell": 150,
+    "description": "Boosts SPE by +10. Pharmaceutical trademarked as Speeder.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Yellow Flute",
+    "buy": 300,
+    "sell": 150,
+    "description": "A clear tone cures a character of your choice of Confusion.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Z-Crystal",
+    "description": "The holder can use Z-Moves matching the Z-Crystal’s type.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Z-Ring",
+    "description": "Trainers wearing this can activate Z-Moves.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Zinc",
+    "buy": 5000,
+    "sell": 2500,
+    "description": "Gets +1 to Stealth and Insight, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Zoom Lens",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder gets +4 Accuracy targeting characters who already acted this Round.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  }
+]
