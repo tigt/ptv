@@ -5,6 +5,8 @@ pagination:
   alias: mons
   resolve: values
 permalink: "dex/{{slugify mons.[0].name}}{{#if mons.[1]}}-family{{/if}}/"
+eleventyComputed:
+  title: "{{mons.[0].name}}{{#if mons.[1]}} Family{{/if}}"
 layout: base
 ---
 
