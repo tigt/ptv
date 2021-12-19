@@ -16,7 +16,7 @@
       {{~/each}}
     {{/inline}}
 
-    <dt>Starting Abilities
+    <dt>Starting Abilit{{#if abilities.start.[1]}}ies{{else}}y{{/if}}
     {{#each abilities.start}}
       <dd>{{>formatAbilities abilities=this}}
     {{/each}}
@@ -50,7 +50,7 @@
     <dt>Weight:
     <dd>{{weight}}&thinsp;lbs.
 
-    <dt>Egg Groups:
+    <dt>Egg Group{{#if eggGroups.[1]}}s{{/if}}:
     <dd>{{eggGroups}}
 
     {{#if catchDC}}
