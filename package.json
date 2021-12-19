@@ -1,11 +1,10 @@
 {
   "name": "ptv-dexter",
   "private": true,
-  "description": "Generates the PTV pokédex and site",
+  "description": "Generates the Pokémon: Tabletop Version’s website and Pokédex",
   "scripts": {
-    "11ty": "eleventy --input=./11ty --output=./docs",
-    "fetch": "node ./update/google-sheets.js",
-    "start": "node ./_src/index.js"
+    "makeSite": "eleventy --input=./11ty --output=./docs",
+    "updateData": "node ./update/google-sheets.js"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
