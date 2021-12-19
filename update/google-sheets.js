@@ -176,14 +176,27 @@ fetchedSheets.then(data => {
 })
 
 function movesetsMapper (row) {
+  const levelUpEntries = Object.entries(row).filter(([name]) => name.startsWith('level'))
+      .map(([name, val]) => [parseInt(name.replace('level', '')), val.split(', ')])
+  
+  // Preserve in-between levels that don’t learn moves
+  const lastLevel = levelUpEntries.slice(-1)?.[0]?.[0] // Ditto, for example, has no level-up moves
+
+  let levelUpArray = Array(20).fill(false)
+  for (const [level, moves] of levelUpEntries) {
+    levelUpArray[level] = moves
+  }
+
+  const levelUp = Object.fromEntries(
+    levelUpArray
+      .slice(2, lastLevel + 1)
+      .map((moves, i) => [i + 2, moves])
+  )
+
   return [row.mon, {
     form: row.form?.split(', '),
     starting: [row.start1, row.start2, row.start3, row.start4].filter(Boolean),
-    levelUp: Object.fromEntries(
-      Object.entries(row)
-        .filter(([name]) => name.startsWith('level'))
-        .map(([name, val]) => [name.replace('level', ''), val.split(', ')])
-    )
+    levelUp
   }]
 }
 

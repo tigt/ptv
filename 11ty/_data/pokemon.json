@@ -248,6 +248,7 @@
           "2": [
             "Growth"
           ],
+          "3": false,
           "4": [
             "Razor Leaf"
           ],
@@ -426,6 +427,7 @@
           "2": [
             "Growth"
           ],
+          "3": false,
           "4": [
             "Razor Leaf"
           ],
@@ -433,6 +435,7 @@
             "Poison Powder",
             "Sleep Powder"
           ],
+          "6": false,
           "7": [
             "Sludge"
           ],
@@ -857,6 +860,7 @@
           "2": [
             "Smokescreen"
           ],
+          "3": false,
           "4": [
             "Dragon Breath"
           ],
@@ -1049,6 +1053,7 @@
           "2": [
             "Smokescreen"
           ],
+          "3": false,
           "4": [
             "Dragon Breath"
           ],
@@ -1058,6 +1063,7 @@
           "6": [
             "Rock Smash"
           ],
+          "7": false,
           "8": [
             "Flame Burst"
           ],
@@ -1568,6 +1574,7 @@
           "2": [
             "Bubble"
           ],
+          "3": false,
           "4": [
             "Bite"
           ],
@@ -1761,6 +1768,7 @@
           "2": [
             "Bubble"
           ],
+          "3": false,
           "4": [
             "Bite"
           ],
@@ -1770,6 +1778,7 @@
           "6": [
             "Water Pulse"
           ],
+          "7": false,
           "8": [
             "Protect"
           ],
@@ -2009,9 +2018,12 @@
           "String Shot"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bug Bite"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Rock Climb"
           ],
@@ -2120,6 +2132,8 @@
           "String Shot"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Iron Defense"
           ],
@@ -2239,6 +2253,7 @@
           "2": [
             "Confusion"
           ],
+          "3": false,
           "4": [
             "Supersonic"
           ],
@@ -2398,9 +2413,12 @@
           "String Shot"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bug Bite"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Double Hit"
           ],
@@ -2511,6 +2529,8 @@
           "String Shot"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Iron Defense"
           ],
@@ -2630,6 +2650,7 @@
           "2": [
             "Fury Attack"
           ],
+          "3": false,
           "4": [
             "Pursuit",
             "Rage"
@@ -3029,6 +3050,7 @@
           "3": [
             "Whirlwind"
           ],
+          "4": false,
           "5": [
             "Hone Claws"
           ],
@@ -3195,12 +3217,14 @@
           "3": [
             "Whirlwind"
           ],
+          "4": false,
           "5": [
             "Hone Claws"
           ],
           "6": [
             "Fly"
           ],
+          "7": false,
           "8": [
             "Agility"
           ],
@@ -3607,6 +3631,7 @@
           "3": [
             "Poison Fang"
           ],
+          "4": false,
           "5": [
             "Hyper Fang"
           ],
@@ -3978,6 +4003,7 @@
           "3": [
             "Poison Fang"
           ],
+          "4": false,
           "5": [
             "Hyper Fang"
           ],
@@ -4328,6 +4354,7 @@
           "3": [
             "Assurance"
           ],
+          "4": false,
           "5": [
             "Pluck"
           ],
@@ -4675,6 +4702,7 @@
           "3": [
             "Glare"
           ],
+          "4": false,
           "5": [
             "Coil"
           ],
@@ -5195,6 +5223,7 @@
           "Play Nice"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Shock Wave"
           ],
@@ -5383,6 +5412,7 @@
           "Play Nice"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Swift"
           ],
@@ -5745,6 +5775,7 @@
           "3": [
             "Rollout"
           ],
+          "4": false,
           "5": [
             "Fury Cutter"
           ],
@@ -6092,6 +6123,7 @@
           "3": [
             "Rollout"
           ],
+          "4": false,
           "5": [
             "Fury Cutter"
           ],
@@ -6474,6 +6506,7 @@
           "2": [
             "Dig"
           ],
+          "3": false,
           "4": [
             "Toxic Spikes"
           ],
@@ -6684,6 +6717,8 @@
           "2": [
             "Dig"
           ],
+          "3": false,
+          "4": false,
           "5": [
             "Toxic Spikes"
           ],
@@ -7101,6 +7136,7 @@
           "2": [
             "Dig"
           ],
+          "3": false,
           "4": [
             "Toxic Spikes"
           ],
@@ -7313,6 +7349,8 @@
           "2": [
             "Dig"
           ],
+          "3": false,
+          "4": false,
           "5": [
             "Toxic Spikes"
           ],
@@ -7925,6 +7963,7 @@
           "Defense Curl"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bounce"
           ],
@@ -8303,6 +8342,7 @@
           "Disable"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Baby-Doll Eyes"
           ],
@@ -8657,6 +8697,7 @@
           "Disable"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Baby-Doll Eyes"
           ],
@@ -9240,6 +9281,7 @@
           "Defense Curl"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Echoed Voice"
           ],
@@ -9615,6 +9657,7 @@
           "3": [
             "Quick Guard"
           ],
+          "4": false,
           "5": [
             "Wing Attack"
           ],
@@ -9788,9 +9831,11 @@
           "3": [
             "Quick Guard"
           ],
+          "4": false,
           "5": [
             "Wing Attack"
           ],
+          "6": false,
           "7": [
             "Bite"
           ],
@@ -10116,6 +10161,7 @@
             "Stun Spore",
             "Sleep Powder"
           ],
+          "4": false,
           "5": [
             "Mega Drain"
           ],
@@ -10275,6 +10321,8 @@
             "Stun Spore",
             "Sleep Powder"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Mega Drain"
           ],
@@ -10442,6 +10490,8 @@
             "Stun Spore",
             "Sleep Powder"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Mega Drain"
           ],
@@ -10796,6 +10846,7 @@
           "4": [
             "Slash"
           ],
+          "5": false,
           "6": [
             "Giga Drain"
           ],
@@ -11150,6 +11201,7 @@
           "5": [
             "Bug Bite"
           ],
+          "6": false,
           "7": [
             "Psybeam"
           ],
@@ -11487,6 +11539,7 @@
           "4": [
             "Magnitude"
           ],
+          "5": false,
           "6": [
             "Bulldoze"
           ],
@@ -11831,6 +11884,7 @@
           "4": [
             "Magnitude"
           ],
+          "5": false,
           "6": [
             "Bulldoze"
           ],
@@ -12187,6 +12241,7 @@
           "5": [
             "Feint"
           ],
+          "6": false,
           "7": [
             "Assurance"
           ],
@@ -12543,6 +12598,7 @@
           "5": [
             "Snarl"
           ],
+          "6": false,
           "7": [
             "Assurance"
           ],
@@ -12900,6 +12956,7 @@
           "5": [
             "Rage"
           ],
+          "6": false,
           "7": [
             "Swagger"
           ],
@@ -13275,6 +13332,7 @@
           "6": [
             "Zen Headbutt"
           ],
+          "7": false,
           "8": [
             "Screech"
           ],
@@ -13655,6 +13713,7 @@
           "5": [
             "Seismic Toss"
           ],
+          "6": false,
           "7": [
             "Swagger"
           ],
@@ -14016,6 +14075,7 @@
           "Howl"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Flame Wheel"
           ],
@@ -14370,6 +14430,7 @@
           "4": [
             "Rain Dance"
           ],
+          "5": false,
           "6": [
             "Whirlpool"
           ],
@@ -14545,6 +14606,8 @@
           "4": [
             "Rain Dance"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Whirlpool"
           ],
@@ -14733,6 +14796,8 @@
           "4": [
             "Rain Dance"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Whirlpool"
           ],
@@ -14903,6 +14968,19 @@
           "Rest"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
           "15": [
             "Spacial Rend"
           ]
@@ -15061,6 +15139,7 @@
           "2": [
             "Disable"
           ],
+          "3": false,
           "4": [
             "Kinesis"
           ],
@@ -15255,6 +15334,8 @@
           "2": [
             "Disable"
           ],
+          "3": false,
+          "4": false,
           "5": [
             "Kinesis"
           ],
@@ -15700,6 +15781,7 @@
           "5": [
             "Revenge"
           ],
+          "6": false,
           "7": [
             "Dual Chop"
           ],
@@ -15884,6 +15966,8 @@
           "5": [
             "Revenge"
           ],
+          "6": false,
+          "7": false,
           "8": [
             "Comet Punch"
           ],
@@ -16227,6 +16311,7 @@
           "3": [
             "Ingrain"
           ],
+          "4": false,
           "5": [
             "Sleep Powder",
             "Poison Powder",
@@ -16396,6 +16481,8 @@
           "3": [
             "Ingrain"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Sleep Powder",
             "Poison Powder",
@@ -16748,6 +16835,7 @@
           "5": [
             "Giga Drain"
           ],
+          "6": false,
           "7": [
             "Acid Spray"
           ],
@@ -17099,6 +17187,7 @@
           "4": [
             "Smack Down"
           ],
+          "5": false,
           "6": [
             "Bulldoze"
           ],
@@ -17278,6 +17367,8 @@
           "4": [
             "Smack Down"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Bulldoze"
           ],
@@ -17635,6 +17726,7 @@
           "4": [
             "Magnet Bomb"
           ],
+          "5": false,
           "6": [
             "Thunder Punch"
           ],
@@ -17819,6 +17911,8 @@
           "4": [
             "Magnet Bomb"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Thunder Punch"
           ],
@@ -18183,6 +18277,7 @@
             "Horn Attack",
             "Will-O-Wisp"
           ],
+          "8": false,
           "9": [
             "Extreme Speed"
           ],
@@ -18530,6 +18625,7 @@
             "Horn Attack",
             "Magic Coat"
           ],
+          "8": false,
           "9": [
             "Play Rough"
           ],
@@ -18901,6 +18997,7 @@
           "6": [
             "Headbutt"
           ],
+          "7": false,
           "8": [
             "Zen Headbutt"
           ],
@@ -19158,6 +19255,7 @@
           "Curse"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Yawn"
           ],
@@ -19557,6 +19655,7 @@
           "Curse"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Yawn"
           ],
@@ -19763,6 +19862,7 @@
           "Curse"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Yawn"
           ],
@@ -20148,6 +20248,7 @@
           "5": [
             "Mirror Shot"
           ],
+          "6": false,
           "7": [
             "Electric Terrain"
           ],
@@ -20320,6 +20421,8 @@
           "5": [
             "Mirror Shot"
           ],
+          "6": false,
+          "7": false,
           "8": [
             "Gravity"
           ],
@@ -20830,6 +20933,7 @@
           "Leer"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Fury Cutter"
           ],
@@ -21189,6 +21293,7 @@
           "5": [
             "Multi-Attack"
           ],
+          "6": false,
           "7": [
             "Agility"
           ],
@@ -21543,6 +21648,7 @@
             "Aurora Beam",
             "Ice Fang"
           ],
+          "7": false,
           "8": [
             "Smart Strike"
           ],
@@ -21909,6 +22015,7 @@
           "7": [
             "Fling"
           ],
+          "8": false,
           "9": [
             "Tar Shot"
           ],
@@ -22285,6 +22392,7 @@
           "7": [
             "Crunch"
           ],
+          "8": false,
           "9": [
             "Gastro Acid"
           ],
@@ -22297,6 +22405,7 @@
           "12": [
             "Gunk Shot"
           ],
+          "13": false,
           "14": [
             "Belch"
           ],
@@ -22619,6 +22728,7 @@
           "Water Gun"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Ice Shard"
           ],
@@ -22977,6 +23087,7 @@
           "4": [
             "Curse"
           ],
+          "5": false,
           "6": [
             "Night Shade"
           ],
@@ -23169,6 +23280,8 @@
           "4": [
             "Curse"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Night Shade"
           ],
@@ -23597,6 +23710,7 @@
           "Smack Down"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Autotomize"
           ],
@@ -24044,6 +24158,7 @@
           "4": [
             "Poison Gas"
           ],
+          "5": false,
           "6": [
             "Meditate"
           ],
@@ -24423,6 +24538,7 @@
           "5": [
             "Flail"
           ],
+          "6": false,
           "7": [
             "High Horsepower"
           ],
@@ -24780,6 +24896,7 @@
           "5": [
             "Electro Ball"
           ],
+          "6": false,
           "7": [
             "Explosion"
           ],
@@ -25096,6 +25213,7 @@
           "Reflect"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Leech Seed"
           ],
@@ -25279,6 +25397,7 @@
           "Reflect"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Leech Seed"
           ],
@@ -25659,6 +25778,7 @@
           "5": [
             "Screech"
           ],
+          "6": false,
           "7": [
             "Bone Rush",
             "Smack Down"
@@ -25861,6 +25981,7 @@
           "5": [
             "Screech"
           ],
+          "6": false,
           "7": [
             "Bone Rush",
             "Smack Down"
@@ -26222,6 +26343,7 @@
           "3": [
             "Low Kick"
           ],
+          "4": false,
           "5": [
             "Wide Guard"
           ],
@@ -26408,6 +26530,7 @@
           "3": [
             "Power-Up Punch"
           ],
+          "4": false,
           "5": [
             "Quick Guard"
           ],
@@ -26602,6 +26725,7 @@
           "3": [
             "Gyro Ball"
           ],
+          "4": false,
           "5": [
             "Wide Guard",
             "Quick Guard"
@@ -26986,6 +27110,7 @@
           "5": [
             "Slam"
           ],
+          "6": false,
           "7": [
             "Rollout"
           ],
@@ -27354,6 +27479,7 @@
           "6": [
             "Ominous Wind"
           ],
+          "7": false,
           "8": [
             "Self-Destruct"
           ],
@@ -27542,6 +27668,7 @@
           "6": [
             "Fairy Wind"
           ],
+          "7": false,
           "8": [
             "Self-Destruct"
           ],
@@ -27936,6 +28063,7 @@
           "7": [
             "Drill Run"
           ],
+          "8": false,
           "9": [
             "Double-Edge"
           ],
@@ -28151,6 +28279,8 @@
           "7": [
             "Drill Run"
           ],
+          "8": false,
+          "9": false,
           "10": [
             "Double-Edge"
           ],
@@ -28741,6 +28871,7 @@
           "Defense Curl"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Tail Whip"
           ],
@@ -29132,6 +29263,7 @@
           "5": [
             "Ancient Power"
           ],
+          "6": false,
           "7": [
             "Knock Off"
           ],
@@ -29744,6 +29876,7 @@
           "5": [
             "Bubble Beam"
           ],
+          "6": false,
           "7": [
             "Agility",
             "Whirlpool"
@@ -29914,6 +30047,8 @@
           "5": [
             "Bubble Beam"
           ],
+          "6": false,
+          "7": false,
           "8": [
             "Agility",
             "Whirlpool"
@@ -30249,6 +30384,7 @@
           "5": [
             "Aqua Ring"
           ],
+          "6": false,
           "7": [
             "Fury Attack"
           ],
@@ -30587,6 +30723,7 @@
           "Supersonic"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Rapid Spin",
             "Gyro Ball"
@@ -30981,6 +31118,7 @@
           "6": [
             "Mimic"
           ],
+          "7": false,
           "8": [
             "Fairy Wind"
           ],
@@ -31191,6 +31329,7 @@
           "6": [
             "Mimic"
           ],
+          "7": false,
           "8": [
             "Icy Wind"
           ],
@@ -31392,12 +31531,14 @@
           "5": [
             "Rapid Spin"
           ],
+          "6": false,
           "7": [
             "Mimic"
           ],
           "8": [
             "Icy Wind"
           ],
+          "9": false,
           "10": [
             "Psybeam"
           ],
@@ -31748,6 +31889,7 @@
           "Focus Energy"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Fury Cutter"
           ],
@@ -32196,6 +32338,7 @@
           "5": [
             "Heart Stamp"
           ],
+          "6": false,
           "7": [
             "Ice Punch"
           ],
@@ -32568,6 +32711,7 @@
           "5": [
             "Parabolic Charge"
           ],
+          "6": false,
           "7": [
             "Thunder Punch"
           ],
@@ -32749,6 +32893,8 @@
           "5": [
             "Parabolic Charge"
           ],
+          "6": false,
+          "7": false,
           "8": [
             "Thunder Punch"
           ],
@@ -33104,6 +33250,7 @@
           "5": [
             "Double Iron Bash"
           ],
+          "6": false,
           "7": [
             "Fire Punch"
           ],
@@ -33288,6 +33435,8 @@
           "5": [
             "Double Iron Bash"
           ],
+          "6": false,
+          "7": false,
           "8": [
             "Fire Punch"
           ],
@@ -33882,21 +34031,28 @@
           "Splash"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Tackle"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Flail"
           ],
+          "7": false,
           "8": [
             "Dragon Rage"
           ],
+          "9": false,
           "10": [
             "Bounce"
           ],
+          "11": false,
           "12": [
             "Hydro Pump"
           ],
+          "13": false,
           "14": [
             "Outrage"
           ],
@@ -33989,6 +34145,7 @@
           "3": [
             "Leer"
           ],
+          "4": false,
           "5": [
             "Waterfall"
           ],
@@ -36240,6 +36397,7 @@
           "Sharpen"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Peck"
           ],
@@ -36428,6 +36586,8 @@
           "Sharpen"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Peck"
           ],
@@ -36810,6 +36970,7 @@
           "7": [
             "Muddy Water"
           ],
+          "8": false,
           "9": [
             "Protect",
             "Spike Cannon"
@@ -37168,6 +37329,7 @@
           "7": [
             "Razor Shell"
           ],
+          "8": false,
           "9": [
             "Protect",
             "Metal Sound"
@@ -39144,6 +39306,7 @@
           "5": [
             "Slam"
           ],
+          "6": false,
           "7": [
             "Aqua Tail"
           ],
@@ -39323,6 +39486,7 @@
           "5": [
             "Slam"
           ],
+          "6": false,
           "7": [
             "Aqua Tail"
           ],
@@ -39335,6 +39499,7 @@
           "10": [
             "Dual Wingbeat"
           ],
+          "11": false,
           "12": [
             "Dragon Dance"
           ],
@@ -40894,6 +41059,7 @@
           "2": [
             "Poison Powder"
           ],
+          "3": false,
           "4": [
             "Synthesis"
           ],
@@ -41066,12 +41232,14 @@
           "2": [
             "Poison Powder"
           ],
+          "3": false,
           "4": [
             "Synthesis"
           ],
           "5": [
             "Magical Leaf"
           ],
+          "6": false,
           "7": [
             "Reflect",
             "Light Screen"
@@ -41411,6 +41579,7 @@
           "2": [
             "Smokescreen"
           ],
+          "3": false,
           "4": [
             "Quick Attack"
           ],
@@ -41589,12 +41758,14 @@
           "2": [
             "Smokescreen"
           ],
+          "3": false,
           "4": [
             "Quick Attack"
           ],
           "5": [
             "Flame Charge"
           ],
+          "6": false,
           "7": [
             "Rollout"
           ],
@@ -41966,6 +42137,7 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Rage"
           ],
@@ -42162,12 +42334,14 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Rage"
           ],
           "5": [
             "Scary Face"
           ],
+          "6": false,
           "7": [
             "Ice Fang"
           ],
@@ -42529,6 +42703,7 @@
           "2": [
             "Helping Hand"
           ],
+          "3": false,
           "4": [
             "Quick Attack"
           ],
@@ -42880,6 +43055,7 @@
           "3": [
             "Hypnosis"
           ],
+          "4": false,
           "5": [
             "Reflect"
           ],
@@ -43241,6 +43417,7 @@
           "3": [
             "Mach Punch"
           ],
+          "4": false,
           "5": [
             "Silver Wind"
           ],
@@ -43600,6 +43777,7 @@
           "3": [
             "Twineedle"
           ],
+          "4": false,
           "5": [
             "Electroweb"
           ],
@@ -43946,6 +44124,7 @@
           "4": [
             "Spark"
           ],
+          "5": false,
           "6": [
             "Thunder Wave",
             "Ion Deluge"
@@ -44510,6 +44689,7 @@
           "Charm"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Air Cutter"
           ],
@@ -44914,6 +45094,7 @@
           "4": [
             "Night Shade"
           ],
+          "5": false,
           "6": [
             "Psycho Shift"
           ],
@@ -45263,6 +45444,7 @@
           "2": [
             "Thunder Wave"
           ],
+          "3": false,
           "4": [
             "Charge"
           ],
@@ -45439,12 +45621,14 @@
           "2": [
             "Thunder Wave"
           ],
+          "3": false,
           "4": [
             "Charge"
           ],
           "5": [
             "Dragon Pulse"
           ],
+          "6": false,
           "7": [
             "Shock Wave"
           ],
@@ -46057,6 +46241,7 @@
           "3": [
             "Defense Curl"
           ],
+          "4": false,
           "5": [
             "Aqua Tail"
           ],
@@ -46767,6 +46952,7 @@
             "Tackle",
             "Leech Seed"
           ],
+          "3": false,
           "4": [
             "Fairy Wind",
             "Tailwind"
@@ -46943,6 +47129,7 @@
             "Tackle",
             "Leech Seed"
           ],
+          "3": false,
           "4": [
             "Fairy Wind",
             "Tailwind"
@@ -46950,6 +47137,7 @@
           "5": [
             "Mega Drain"
           ],
+          "6": false,
           "7": [
             "Poison Powder",
             "Stun Spore",
@@ -47321,6 +47509,7 @@
           "6": [
             "Double Hit"
           ],
+          "7": false,
           "8": [
             "Screech"
           ],
@@ -47677,6 +47866,7 @@
           "Grass Whistle"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Worry Seed",
             "Leech Seed"
@@ -48037,6 +48227,7 @@
             "Ancient Power",
             "Silver Wind"
           ],
+          "7": false,
           "8": [
             "Leech Life"
           ],
@@ -48390,6 +48581,7 @@
             "Mist",
             "Haze"
           ],
+          "4": false,
           "5": [
             "Slam"
           ],
@@ -48758,6 +48950,7 @@
           "Trick"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Haze"
           ],
@@ -49105,6 +49298,7 @@
           "Spite"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Confuse Ray"
           ],
@@ -49346,18 +49540,26 @@
           "Amnesia"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Tearful Look"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Rest"
           ],
+          "8": false,
+          "9": false,
           "10": [
             "Endeavor"
           ],
+          "11": false,
           "12": [
             "Flail"
           ],
+          "13": false,
           "14": [
             "Pain Split"
           ]
@@ -49443,18 +49645,26 @@
           "Destiny Bond"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Bide"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Magic Coat"
           ],
+          "8": false,
+          "9": false,
           "10": [
             "Metal Burst"
           ],
+          "11": false,
           "12": [
             "Protect"
           ],
+          "13": false,
           "14": [
             "Shadow Sneak"
           ]
@@ -49909,6 +50119,7 @@
           "5": [
             "Take Down"
           ],
+          "6": false,
           "7": [
             "Iron Defense"
           ],
@@ -50455,6 +50666,7 @@
           "Feint Attack"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Fury Cutter"
           ],
@@ -50866,6 +51078,7 @@
           "4": [
             "Headbutt"
           ],
+          "5": false,
           "6": [
             "Roar"
           ],
@@ -51878,6 +52091,7 @@
           "Taunt"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Quick Attack"
           ],
@@ -52286,6 +52500,7 @@
           "5": [
             "Work Up"
           ],
+          "6": false,
           "7": [
             "Slash"
           ],
@@ -52662,6 +52877,7 @@
           "7": [
             "Rock Slide"
           ],
+          "8": false,
           "9": [
             "Amnesia"
           ],
@@ -53017,6 +53233,7 @@
           "6": [
             "Icy Wind"
           ],
+          "7": false,
           "8": [
             "Amnesia"
           ],
@@ -53199,9 +53416,11 @@
           "6": [
             "Icy Wind"
           ],
+          "7": false,
           "8": [
             "Amnesia"
           ],
+          "9": false,
           "10": [
             "Take Down"
           ],
@@ -53742,6 +53961,7 @@
           "7": [
             "Strength Sap"
           ],
+          "8": false,
           "9": [
             "Rollout"
           ],
@@ -54111,6 +54331,7 @@
           "4": [
             "Aurora Beam"
           ],
+          "5": false,
           "6": [
             "Bubble Beam"
           ],
@@ -54662,6 +54883,7 @@
           "Wing Attack"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bubble Beam"
           ],
@@ -55200,6 +55422,7 @@
           "4": [
             "Smog"
           ],
+          "5": false,
           "6": [
             "Fire Fang"
           ],
@@ -55617,6 +55840,7 @@
           "4": [
             "Magnitude"
           ],
+          "5": false,
           "6": [
             "Flame Wheel"
           ],
@@ -57017,6 +57241,7 @@
           "5": [
             "Stomping Tantrum"
           ],
+          "6": false,
           "7": [
             "Screech"
           ],
@@ -57207,6 +57432,7 @@
           "5": [
             "Stomping Tantrum"
           ],
+          "6": false,
           "7": [
             "Screech"
           ],
@@ -57219,6 +57445,7 @@
           "10": [
             "Earthquake"
           ],
+          "11": false,
           "12": [
             "Stone Edge"
           ],
@@ -58252,6 +58479,7 @@
           "2": [
             "Detect"
           ],
+          "3": false,
           "4": [
             "Grassy Glide"
           ],
@@ -58439,6 +58667,7 @@
           "2": [
             "Detect"
           ],
+          "3": false,
           "4": [
             "Grassy Glide"
           ],
@@ -58448,6 +58677,7 @@
           "6": [
             "Leaf Blade"
           ],
+          "7": false,
           "8": [
             "Slam"
           ],
@@ -58868,6 +59098,7 @@
           "2": [
             "Detect"
           ],
+          "3": false,
           "4": [
             "Flame Charge"
           ],
@@ -59053,6 +59284,7 @@
           "2": [
             "Detect"
           ],
+          "3": false,
           "4": [
             "Flame Charge"
           ],
@@ -59062,6 +59294,7 @@
           "6": [
             "Aerial Ace"
           ],
+          "7": false,
           "8": [
             "Slash"
           ],
@@ -59488,6 +59721,7 @@
           "2": [
             "Protect"
           ],
+          "3": false,
           "4": [
             "Rock Throw"
           ],
@@ -59678,6 +59912,7 @@
           "2": [
             "Protect"
           ],
+          "3": false,
           "4": [
             "Rock Throw"
           ],
@@ -59687,6 +59922,7 @@
           "6": [
             "Smack Down"
           ],
+          "7": false,
           "8": [
             "Muddy Water"
           ],
@@ -60104,6 +60340,7 @@
           "3": [
             "Bite"
           ],
+          "4": false,
           "5": [
             "Retaliate"
           ],
@@ -60445,6 +60682,7 @@
           "3": [
             "Headbutt"
           ],
+          "4": false,
           "5": [
             "Hone Claws",
             "Morning Sun"
@@ -60792,6 +61030,7 @@
           "3": [
             "Headbutt"
           ],
+          "4": false,
           "5": [
             "Hone Claws",
             "Moonlight"
@@ -60970,6 +61209,7 @@
           "3": [
             "Headbutt"
           ],
+          "4": false,
           "5": [
             "Hone Claws",
             "Moonlight"
@@ -60977,6 +61217,7 @@
           "6": [
             "Fury Swipes"
           ],
+          "7": false,
           "8": [
             "Psych Up"
           ],
@@ -61139,9 +61380,12 @@
           "Poison Sting"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bug Bite"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Hidden Power"
           ],
@@ -61250,6 +61494,8 @@
           "Poison Sting"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Iron Defense"
           ],
@@ -61369,6 +61615,7 @@
           "2": [
             "Absorb"
           ],
+          "3": false,
           "4": [
             "Morning Sun",
             "Stun Spore"
@@ -61526,6 +61773,8 @@
           "Poison Sting"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Iron Defense"
           ],
@@ -61645,6 +61894,7 @@
           "2": [
             "Confusion"
           ],
+          "3": false,
           "4": [
             "Moonlight",
             "Poison Powder"
@@ -61992,6 +62242,7 @@
           "2": [
             "Mist"
           ],
+          "3": false,
           "4": [
             "Mega Drain",
             "Bubble Beam"
@@ -62185,6 +62436,8 @@
           "2": [
             "Mist"
           ],
+          "3": false,
+          "4": false,
           "5": [
             "Mega Drain",
             "Bubble Beam"
@@ -62568,6 +62821,7 @@
           "2": [
             "Growth"
           ],
+          "3": false,
           "4": [
             "Mega Drain"
           ],
@@ -62764,6 +63018,8 @@
           "2": [
             "Growth"
           ],
+          "3": false,
+          "4": false,
           "5": [
             "Mega Drain"
           ],
@@ -63111,6 +63367,7 @@
           "3": [
             "Aerial Ace"
           ],
+          "4": false,
           "5": [
             "Double Team"
           ],
@@ -63449,6 +63706,7 @@
           "4": [
             "Water Pulse"
           ],
+          "5": false,
           "6": [
             "Agility"
           ],
@@ -63807,6 +64065,7 @@
           "3": [
             "Teleport"
           ],
+          "4": false,
           "5": [
             "Life Dew"
           ],
@@ -63998,9 +64257,11 @@
           "3": [
             "Teleport"
           ],
+          "4": false,
           "5": [
             "Life Dew"
           ],
+          "6": false,
           "7": [
             "Draining Kiss"
           ],
@@ -64271,6 +64532,8 @@
           "3": [
             "Teleport"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Aerial Ace"
           ],
@@ -64709,6 +64972,7 @@
           "3": [
             "Gust"
           ],
+          "4": false,
           "5": [
             "Agility"
           ],
@@ -65045,6 +65309,7 @@
           "4": [
             "Headbutt"
           ],
+          "5": false,
           "6": [
             "Purify"
           ],
@@ -65389,6 +65654,7 @@
           "3": [
             "Feint Attack"
           ],
+          "4": false,
           "5": [
             "Counter"
           ],
@@ -65568,12 +65834,14 @@
           "3": [
             "Feint Attack"
           ],
+          "4": false,
           "5": [
             "Counter"
           ],
           "6": [
             "Mega Punch"
           ],
+          "7": false,
           "8": [
             "Chip Away"
           ],
@@ -65896,6 +66164,7 @@
           "3": [
             "Fury Swipes"
           ],
+          "4": false,
           "5": [
             "Aerial Ace"
           ],
@@ -66061,6 +66330,7 @@
           "3": [
             "Fury Swipes"
           ],
+          "4": false,
           "5": [
             "Shadow Sneak"
           ],
@@ -66410,6 +66680,7 @@
             "Rest",
             "Sleep Talk"
           ],
+          "4": false,
           "5": [
             "Stomp"
           ],
@@ -66604,6 +66875,7 @@
             "Rest",
             "Sleep Talk"
           ],
+          "4": false,
           "5": [
             "Stomp"
           ],
@@ -66613,6 +66885,7 @@
           "7": [
             "Round"
           ],
+          "8": false,
           "9": [
             "Supersonic"
           ],
@@ -66993,6 +67266,7 @@
           "4": [
             "Knock Off"
           ],
+          "5": false,
           "6": [
             "Vital Throw"
           ],
@@ -67363,6 +67637,7 @@
           "4": [
             "Spark"
           ],
+          "5": false,
           "6": [
             "Power Gem"
           ],
@@ -67720,6 +67995,7 @@
           "Tail Whip"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Double Slap"
           ],
@@ -68639,6 +68915,7 @@
           "4": [
             "Headbutt"
           ],
+          "5": false,
           "6": [
             "Protect"
           ],
@@ -68836,12 +69113,14 @@
           "4": [
             "Headbutt"
           ],
+          "5": false,
           "6": [
             "Protect"
           ],
           "7": [
             "Rock Slide"
           ],
+          "8": false,
           "9": [
             "Iron Head"
           ],
@@ -69295,6 +69574,7 @@
           "6": [
             "Hidden Power"
           ],
+          "7": false,
           "8": [
             "Mind Reader"
           ],
@@ -69718,6 +69998,7 @@
           "4": [
             "Bite"
           ],
+          "5": false,
           "6": [
             "Thunder Fang"
           ],
@@ -71005,6 +71286,7 @@
           "Worry Seed"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Toxic Spikes",
             "Venoshock"
@@ -71366,6 +71648,7 @@
             "Spit Up",
             "Swallow"
           ],
+          "5": false,
           "6": [
             "Acid Spray",
             "Dream Eater"
@@ -71714,6 +71997,7 @@
           "5": [
             "Swagger"
           ],
+          "6": false,
           "7": [
             "Ice Fang"
           ],
@@ -72140,6 +72424,7 @@
           "7": [
             "Yawn"
           ],
+          "8": false,
           "9": [
             "Dive"
           ],
@@ -72488,6 +72773,7 @@
           "6": [
             "Earth Power"
           ],
+          "7": false,
           "8": [
             "Rage"
           ],
@@ -73072,6 +73358,7 @@
             "Magic Coat",
             "Bounce"
           ],
+          "6": false,
           "7": [
             "Zen Headbutt"
           ],
@@ -73623,6 +73910,7 @@
           "5": [
             "Crunch"
           ],
+          "6": false,
           "7": [
             "Sandstorm"
           ],
@@ -73804,12 +74092,14 @@
           "5": [
             "Crunch"
           ],
+          "6": false,
           "7": [
             "Sandstorm"
           ],
           "8": [
             "Scorching Sands"
           ],
+          "9": false,
           "10": [
             "X-Scissor"
           ],
@@ -74175,6 +74465,7 @@
           "5": [
             "Assurance"
           ],
+          "6": false,
           "7": [
             "Ingrain",
             "Pin Missile"
@@ -74532,6 +74823,7 @@
           "6": [
             "Safeguard"
           ],
+          "7": false,
           "8": [
             "Dragon Dance"
           ],
@@ -75663,6 +75955,7 @@
             "Dig",
             "Dive"
           ],
+          "6": false,
           "7": [
             "Spark"
           ],
@@ -76023,6 +76316,7 @@
           "5": [
             "Knock Off"
           ],
+          "6": false,
           "7": [
             "Razor Shell"
           ],
@@ -76396,6 +76690,7 @@
             "Secret Power",
             "Nature Power"
           ],
+          "7": false,
           "8": [
             "Extrasensory"
           ],
@@ -76748,6 +77043,7 @@
           "7": [
             "Gastro Acid"
           ],
+          "8": false,
           "9": [
             "Amnesia"
           ],
@@ -77076,6 +77372,7 @@
           "7": [
             "Slash"
           ],
+          "8": false,
           "9": [
             "Crush Claw"
           ],
@@ -77223,21 +77520,28 @@
           "Splash"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Tackle"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Flail"
           ],
+          "7": false,
           "8": [
             "Refresh"
           ],
+          "9": false,
           "10": [
             "Muddy Water"
           ],
+          "11": false,
           "12": [
             "Luster Purge"
           ],
+          "13": false,
           "14": [
             "Hydro Pump"
           ]
@@ -77347,6 +77651,7 @@
           "Splash"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Growl"
           ],
@@ -78079,6 +78384,7 @@
           "6": [
             "Pin Missile"
           ],
+          "7": false,
           "8": [
             "Curse"
           ],
@@ -78489,6 +78795,7 @@
           "6": [
             "Will-O-Wisp"
           ],
+          "7": false,
           "8": [
             "Hex"
           ],
@@ -78673,6 +78980,8 @@
           "6": [
             "Will-O-Wisp"
           ],
+          "7": false,
+          "8": false,
           "9": [
             "Hex"
           ],
@@ -79799,6 +80108,7 @@
           "7": [
             "Bite"
           ],
+          "8": false,
           "9": [
             "Ice Ball"
           ],
@@ -80020,6 +80330,7 @@
           "Powder Snow"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Double Team"
           ],
@@ -80379,6 +80690,7 @@
           "5": [
             "Brine"
           ],
+          "6": false,
           "7": [
             "Aurora Beam"
           ],
@@ -80551,12 +80863,14 @@
           "5": [
             "Brine"
           ],
+          "6": false,
           "7": [
             "Aurora Beam"
           ],
           "8": [
             "Aqua Ring"
           ],
+          "9": false,
           "10": [
             "Surf"
           ],
@@ -80852,6 +81166,7 @@
           "Whirlpool"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Ice Fang"
           ],
@@ -81013,6 +81328,7 @@
           "Whirlpool"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Amnesia"
           ],
@@ -81876,6 +82192,7 @@
           "5": [
             "Crunch"
           ],
+          "6": false,
           "7": [
             "Dragon Claw"
           ],
@@ -82043,6 +82360,7 @@
           "5": [
             "Crunch"
           ],
+          "6": false,
           "7": [
             "Dragon Claw"
           ],
@@ -82052,6 +82370,7 @@
           "9": [
             "Rollout"
           ],
+          "10": false,
           "11": [
             "Flamethrower"
           ],
@@ -82263,24 +82582,31 @@
           "Take Down"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Tackle"
           ],
+          "4": false,
           "5": [
             "Magnet Bomb"
           ],
+          "6": false,
           "7": [
             "Signal Beam"
           ],
+          "8": false,
           "9": [
             "Iron Head"
           ],
+          "10": false,
           "11": [
             "Recover"
           ],
+          "12": false,
           "13": [
             "Steel Beam"
           ],
+          "14": false,
           "15": [
             "Psychic Fangs"
           ]
@@ -82372,6 +82698,7 @@
           "3": [
             "Scary Face"
           ],
+          "4": false,
           "5": [
             "Zen Headbutt"
           ],
@@ -82550,6 +82877,7 @@
           "3": [
             "Scary Face"
           ],
+          "4": false,
           "5": [
             "Zen Headbutt"
           ],
@@ -82563,6 +82891,7 @@
             "Iron Defense",
             "Magnet Rise"
           ],
+          "9": false,
           "10": [
             "Psychic"
           ],
@@ -86158,6 +86487,7 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Razor Leaf"
           ],
@@ -86336,6 +86666,7 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Razor Leaf"
           ],
@@ -86345,6 +86676,7 @@
           "6": [
             "Heavy Slam"
           ],
+          "7": false,
           "8": [
             "Synthesis"
           ],
@@ -86701,6 +87033,7 @@
           "2": [
             "Fury Swipes"
           ],
+          "3": false,
           "4": [
             "Flame Wheel"
           ],
@@ -86889,6 +87222,7 @@
           "2": [
             "Fury Swipes"
           ],
+          "3": false,
           "4": [
             "Flame Wheel"
           ],
@@ -86898,6 +87232,7 @@
           "6": [
             "Torment"
           ],
+          "7": false,
           "8": [
             "Fire Punch"
           ],
@@ -87251,6 +87586,7 @@
           "2": [
             "Peck"
           ],
+          "3": false,
           "4": [
             "Bubble Beam"
           ],
@@ -87429,6 +87765,7 @@
           "2": [
             "Peck"
           ],
+          "3": false,
           "4": [
             "Bubble Beam"
           ],
@@ -87438,6 +87775,7 @@
           "6": [
             "Icy Wind"
           ],
+          "7": false,
           "8": [
             "Swords Dance"
           ],
@@ -87766,6 +88104,7 @@
           "2": [
             "Double Team"
           ],
+          "3": false,
           "4": [
             "Round"
           ],
@@ -87926,6 +88265,7 @@
           "2": [
             "Double Team"
           ],
+          "3": false,
           "4": [
             "Round"
           ],
@@ -87935,6 +88275,7 @@
           "6": [
             "Drill Peck"
           ],
+          "7": false,
           "8": [
             "Take Down"
           ],
@@ -88271,6 +88612,7 @@
           "2": [
             "Rollout"
           ],
+          "3": false,
           "4": [
             "Headbutt"
           ],
@@ -88576,6 +88918,7 @@
           "Struggle Bug"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Fury Cutter"
           ],
@@ -88913,6 +89256,7 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Thunder Fang"
           ],
@@ -89084,12 +89428,14 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Thunder Fang"
           ],
           "5": [
             "Scary Face"
           ],
+          "6": false,
           "7": [
             "Volt Switch"
           ],
@@ -89447,6 +89793,7 @@
           "5": [
             "Assurance"
           ],
+          "6": false,
           "7": [
             "Chip Away"
           ],
@@ -89814,6 +90161,7 @@
           "5": [
             "Swagger"
           ],
+          "6": false,
           "7": [
             "Iron Head"
           ],
@@ -89977,9 +90325,11 @@
           "Hidden Power"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bug Bite"
           ],
+          "4": false,
           "5": [
             "String Shot"
           ],
@@ -90108,6 +90458,7 @@
           "3": [
             "Confusion"
           ],
+          "4": false,
           "5": [
             "Razor Leaf",
             "Pollen Puff"
@@ -90270,6 +90621,7 @@
           "3": [
             "Confusion"
           ],
+          "4": false,
           "5": [
             "Rock Blast",
             "Struggle Bug"
@@ -90434,6 +90786,7 @@
           "3": [
             "Confusion"
           ],
+          "4": false,
           "5": [
             "Mirror Shot",
             "Infestation"
@@ -90596,6 +90949,7 @@
           "3": [
             "Confusion"
           ],
+          "4": false,
           "5": [
             "Pluck",
             "Silver Wind"
@@ -90747,6 +91101,8 @@
           "Bug Bite"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Flower Shield"
           ],
@@ -90901,6 +91257,7 @@
           "3": [
             "Infestation"
           ],
+          "4": false,
           "5": [
             "Swagger"
           ],
@@ -91415,6 +91772,7 @@
           "4": [
             "Double Hit"
           ],
+          "5": false,
           "6": [
             "Aqua Jet",
             "Brine"
@@ -91755,6 +92113,7 @@
           "4": [
             "Magical Leaf"
           ],
+          "5": false,
           "6": [
             "Leech Seed"
           ],
@@ -92112,6 +92471,7 @@
           "5": [
             "Mud Bomb"
           ],
+          "6": false,
           "7": [
             "Body Slam"
           ],
@@ -92473,6 +92833,7 @@
           "5": [
             "Amnesia"
           ],
+          "6": false,
           "7": [
             "Shadow Ball"
           ],
@@ -92840,6 +93201,7 @@
           "3": [
             "Quick Attack"
           ],
+          "4": false,
           "5": [
             "Double Kick"
           ],
@@ -93278,6 +93640,7 @@
           "6": [
             "Night Slash"
           ],
+          "7": false,
           "8": [
             "Play Rough"
           ],
@@ -93626,6 +93989,7 @@
           "6": [
             "Screech"
           ],
+          "7": false,
           "8": [
             "Venoshock"
           ],
@@ -93986,6 +94350,7 @@
           "6": [
             "Extrasensory"
           ],
+          "7": false,
           "8": [
             "Heavy Slam"
           ],
@@ -94678,6 +95043,7 @@
           "4": [
             "Bulldoze"
           ],
+          "5": false,
           "6": [
             "Bite"
           ],
@@ -94852,6 +95218,7 @@
           "4": [
             "Bulldoze"
           ],
+          "5": false,
           "6": [
             "Bite"
           ],
@@ -94864,6 +95231,7 @@
           "9": [
             "Sandstorm"
           ],
+          "10": false,
           "11": [
             "Take Down"
           ],
@@ -95293,6 +95661,7 @@
           "5": [
             "Calm Mind"
           ],
+          "6": false,
           "7": [
             "Bone Rush"
           ],
@@ -95719,6 +96088,7 @@
           "6": [
             "Take Down"
           ],
+          "7": false,
           "8": [
             "Smack Down"
           ],
@@ -96073,6 +96443,7 @@
           "7": [
             "Knock Off"
           ],
+          "8": false,
           "9": [
             "Acupressure"
           ],
@@ -96451,6 +96822,7 @@
           "6": [
             "Venoshock"
           ],
+          "7": false,
           "8": [
             "Sucker Punch"
           ],
@@ -96975,6 +97347,7 @@
           "5": [
             "Whirlpool"
           ],
+          "6": false,
           "7": [
             "Safeguard",
             "Aqua Ring"
@@ -97329,6 +97702,7 @@
           "7": [
             "Avalanche"
           ],
+          "8": false,
           "9": [
             "Stomping Tantrum"
           ],
@@ -101338,6 +101712,7 @@
           "2": [
             "Wrap"
           ],
+          "3": false,
           "4": [
             "Growth",
             "Grass Pledge"
@@ -101508,6 +101883,7 @@
           "2": [
             "Wrap"
           ],
+          "3": false,
           "4": [
             "Growth",
             "Grass Pledge"
@@ -101518,6 +101894,7 @@
           "6": [
             "Grassy Terrain"
           ],
+          "7": false,
           "8": [
             "Twister"
           ],
@@ -101860,6 +102237,7 @@
           "2": [
             "Odor Sleuth"
           ],
+          "3": false,
           "4": [
             "Smog",
             "Fire Pledge"
@@ -102051,6 +102429,7 @@
           "2": [
             "Odor Sleuth"
           ],
+          "3": false,
           "4": [
             "Smog",
             "Fire Pledge"
@@ -102061,6 +102440,7 @@
           "6": [
             "Bulk Up"
           ],
+          "7": false,
           "8": [
             "Rollout"
           ],
@@ -102412,6 +102792,7 @@
           "2": [
             "Water Sport"
           ],
+          "3": false,
           "4": [
             "Focus Energy",
             "Water Pledge"
@@ -102586,6 +102967,7 @@
           "2": [
             "Water Sport"
           ],
+          "3": false,
           "4": [
             "Focus Energy",
             "Water Pledge"
@@ -102596,6 +102978,7 @@
           "6": [
             "Fury Attack"
           ],
+          "7": false,
           "8": [
             "Revenge"
           ],
@@ -102953,6 +103336,7 @@
             "Flash",
             "Eerie Impulse"
           ],
+          "4": false,
           "5": [
             "Dig"
           ],
@@ -103301,6 +103685,7 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Retaliate"
           ],
@@ -103471,12 +103856,14 @@
           "2": [
             "Bite"
           ],
+          "3": false,
           "4": [
             "Retaliate"
           ],
           "5": [
             "Dig"
           ],
+          "6": false,
           "7": [
             "Growl"
           ],
@@ -103825,6 +104212,7 @@
             "Taunt",
             "Assist"
           ],
+          "4": false,
           "5": [
             "Assurance"
           ],
@@ -104176,6 +104564,7 @@
           "Leer"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Razor Leaf"
           ],
@@ -104534,6 +104923,7 @@
           "Leer"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Incinerate"
           ],
@@ -104892,6 +105282,7 @@
           "Leer"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bubble"
           ],
@@ -105250,6 +105641,7 @@
           "Mist"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Psybeam"
           ],
@@ -105595,6 +105987,7 @@
             "Wing Attack",
             "Air Cutter"
           ],
+          "4": false,
           "5": [
             "Taunt"
           ],
@@ -105762,9 +106155,11 @@
             "Wing Attack",
             "Air Cutter"
           ],
+          "4": false,
           "5": [
             "Taunt"
           ],
+          "6": false,
           "7": [
             "Swagger/Fly"
           ],
@@ -106092,6 +106487,7 @@
           "4": [
             "Flame Charge"
           ],
+          "5": false,
           "6": [
             "Ion Deluge"
           ],
@@ -106422,6 +106818,7 @@
           "4": [
             "Iron Defense"
           ],
+          "5": false,
           "6": [
             "Rock Smash"
           ],
@@ -106591,6 +106988,8 @@
           "4": [
             "Iron Defense"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Rock Smash"
           ],
@@ -106946,6 +107345,7 @@
           "3": [
             "Heart Stamp"
           ],
+          "4": false,
           "5": [
             "Air Cutter"
           ],
@@ -107307,6 +107707,7 @@
           "5": [
             "Drill Run"
           ],
+          "6": false,
           "7": [
             "Sandstorm"
           ],
@@ -107905,6 +108306,7 @@
           "4": [
             "Low Kick"
           ],
+          "5": false,
           "6": [
             "Rock Slide"
           ],
@@ -108088,6 +108490,8 @@
           "4": [
             "Low Kick"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Rock Slide"
           ],
@@ -108442,6 +108846,7 @@
           "3": [
             "Mud Shot"
           ],
+          "4": false,
           "5": [
             "Round"
           ],
@@ -108618,12 +109023,14 @@
           "3": [
             "Mud Shot"
           ],
+          "4": false,
           "5": [
             "Round"
           ],
           "6": [
             "Bubble Beam"
           ],
+          "7": false,
           "8": [
             "Strength"
           ],
@@ -109312,6 +109719,7 @@
           "3": [
             "Razor Leaf"
           ],
+          "4": false,
           "5": [
             "Struggle Bug"
           ],
@@ -109487,9 +109895,11 @@
           "3": [
             "Razor Leaf"
           ],
+          "4": false,
           "5": [
             "Struggle Bug"
           ],
+          "6": false,
           "7": [
             "Helping Hand"
           ],
@@ -109834,6 +110244,7 @@
           "3": [
             "Poison Tail"
           ],
+          "4": false,
           "5": [
             "Twineedle"
           ],
@@ -110006,9 +110417,11 @@
           "3": [
             "Poison Tail"
           ],
+          "4": false,
           "5": [
             "Twineedle"
           ],
+          "6": false,
           "7": [
             "Pursuit"
           ],
@@ -110345,6 +110758,7 @@
           "Growth"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Razor Leaf"
           ],
@@ -110676,6 +111090,7 @@
           "Aromatherapy"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Teeter Dance"
           ],
@@ -111208,6 +111623,7 @@
           "4": [
             "Bite"
           ],
+          "5": false,
           "6": [
             "Torment"
           ],
@@ -111409,12 +111825,14 @@
           "4": [
             "Bite"
           ],
+          "5": false,
           "6": [
             "Torment"
           ],
           "7": [
             "Scary Face"
           ],
+          "8": false,
           "9": [
             "Swagger"
           ],
@@ -111794,6 +112212,7 @@
           "6": [
             "Headbutt"
           ],
+          "7": false,
           "8": [
             "Fire Punch"
           ],
@@ -111974,6 +112393,7 @@
           "6": [
             "Headbutt"
           ],
+          "7": false,
           "8": [
             "Fire Punch"
           ],
@@ -112344,6 +112764,7 @@
           "6": [
             "Headbutt"
           ],
+          "7": false,
           "8": [
             "Ice Punch"
           ],
@@ -112524,6 +112945,7 @@
           "6": [
             "Headbutt"
           ],
+          "7": false,
           "8": [
             "Ice Punch"
           ],
@@ -113050,6 +113472,7 @@
           "6": [
             "Rock Slide"
           ],
+          "7": false,
           "8": [
             "Stealth Rock"
           ],
@@ -113415,6 +113838,7 @@
           "6": [
             "Brick Break"
           ],
+          "7": false,
           "8": [
             "Focus Punch",
             "Dragon Tail"
@@ -113975,6 +114399,7 @@
           "6": [
             "Hex"
           ],
+          "7": false,
           "8": [
             "Sand Tomb"
           ],
@@ -114336,6 +114761,7 @@
           "6": [
             "Hex"
           ],
+          "7": false,
           "8": [
             "Rock Tomb"
           ],
@@ -114696,6 +115122,7 @@
           "6": [
             "Brine"
           ],
+          "7": false,
           "8": [
             "Rock Slide"
           ],
@@ -115042,6 +115469,7 @@
           "6": [
             "U-Turn"
           ],
+          "7": false,
           "8": [
             "Rock Slide"
           ],
@@ -115394,6 +115822,7 @@
             "Stockpile",
             "Swallow"
           ],
+          "7": false,
           "8": [
             "Sludge Bomb",
             "Poison Fang"
@@ -115745,6 +116174,7 @@
           "5": [
             "Taunt"
           ],
+          "6": false,
           "7": [
             "Knock Off"
           ],
@@ -116093,6 +116523,7 @@
           "Tickle"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Sing"
           ],
@@ -116450,6 +116881,7 @@
           "3": [
             "Dark Pulse"
           ],
+          "4": false,
           "5": [
             "Eerie Impulse"
           ],
@@ -116634,6 +117066,7 @@
           "3": [
             "Signal Beam"
           ],
+          "4": false,
           "5": [
             "Cosmic Power"
           ],
@@ -116643,6 +117076,7 @@
           "7": [
             "Hypnosis"
           ],
+          "8": false,
           "9": [
             "Telekinesis"
           ],
@@ -116993,6 +117427,7 @@
             "Hidden Power",
             "Snatch"
           ],
+          "4": false,
           "5": [
             "Acid Armor"
           ],
@@ -117171,6 +117606,7 @@
             "Dizzy Punch",
             "Snatch"
           ],
+          "4": false,
           "5": [
             "Bulk Up"
           ],
@@ -117181,6 +117617,7 @@
             "Light Screen",
             "Reflect"
           ],
+          "8": false,
           "9": [
             "Ally Switch"
           ],
@@ -117533,6 +117970,7 @@
           "4": [
             "Bubble Beam"
           ],
+          "5": false,
           "6": [
             "Mist Ball"
           ],
@@ -117865,6 +118303,7 @@
           "3": [
             "Mist"
           ],
+          "4": false,
           "5": [
             "Ominous Wind"
           ],
@@ -118035,6 +118474,7 @@
           "3": [
             "Mist"
           ],
+          "4": false,
           "5": [
             "Ominous Wind"
           ],
@@ -118042,6 +118482,7 @@
             "Hail",
             "Uproar"
           ],
+          "7": false,
           "8": [
             "Double Hit"
           ],
@@ -118381,6 +118822,7 @@
           "4": [
             "Leech Seed"
           ],
+          "5": false,
           "6": [
             "Take Down"
           ],
@@ -118869,6 +119311,7 @@
           "Covet"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Fell Stinger"
           ],
@@ -119197,6 +119640,7 @@
           "Bide"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Double Team"
           ],
@@ -119525,6 +119969,7 @@
           "4": [
             "Rage Powder"
           ],
+          "5": false,
           "6": [
             "Clear Smog"
           ],
@@ -119867,6 +120312,7 @@
           "6": [
             "Brine"
           ],
+          "7": false,
           "8": [
             "Recover"
           ],
@@ -120211,6 +120657,7 @@
           "6": [
             "Agility"
           ],
+          "7": false,
           "8": [
             "Thunder Cage"
           ],
@@ -120547,6 +120994,7 @@
           "7": [
             "Iron Defense"
           ],
+          "8": false,
           "9": [
             "Flash Cannon"
           ],
@@ -120871,6 +121319,7 @@
             "Charge",
             "Charge Beam"
           ],
+          "4": false,
           "5": [
             "Metal Sound"
           ],
@@ -121036,6 +121485,7 @@
             "Charge",
             "Charge Beam"
           ],
+          "4": false,
           "5": [
             "Metal Sound"
           ],
@@ -121045,6 +121495,7 @@
           "7": [
             "Gear Grind"
           ],
+          "8": false,
           "9": [
             "Shift Gear",
             "Screech"
@@ -121187,21 +121638,29 @@
           "Charge Beam"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
+          "4": false,
           "5": [
             "Parabolic Charge"
           ],
+          "6": false,
           "7": [
             "Leech Life"
           ],
+          "8": false,
           "9": [
             "Round"
           ],
+          "10": false,
           "11": [
             "Buzzy Buzz"
           ],
+          "12": false,
           "13": [
             "Tail Glow"
           ],
+          "14": false,
           "15": [
             "Draining Kiss"
           ]
@@ -121288,6 +121747,7 @@
           "3": [
             "Crunch"
           ],
+          "4": false,
           "5": [
             "Discharge"
           ],
@@ -121451,6 +121911,8 @@
           "3": [
             "Crunch"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Discharge"
           ],
@@ -121821,6 +122283,7 @@
           "7": [
             "Recover"
           ],
+          "8": false,
           "9": [
             "Wonder Room"
           ],
@@ -122167,6 +122630,7 @@
           "4": [
             "Hex"
           ],
+          "5": false,
           "6": [
             "Fire Spin",
             "Mystical Fire"
@@ -122338,6 +122802,8 @@
           "4": [
             "Hex"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Fire Spin",
             "Mystical Fire"
@@ -122698,6 +123164,7 @@
             "Slash",
             "Brick Break"
           ],
+          "5": false,
           "6": [
             "Dragon Claw"
           ],
@@ -122887,6 +123354,7 @@
             "Slash",
             "Brick Break"
           ],
+          "5": false,
           "6": [
             "Dragon Claw"
           ],
@@ -122900,6 +123368,7 @@
             "Dragon Dance",
             "Laser Focus"
           ],
+          "10": false,
           "11": [
             "Dual Chop"
           ],
@@ -123254,6 +123723,7 @@
           "6": [
             "Slash"
           ],
+          "7": false,
           "8": [
             "Flail"
           ],
@@ -124136,6 +124606,7 @@
           "7": [
             "Drain Punch"
           ],
+          "8": false,
           "9": [
             "Hone Claws"
           ],
@@ -124694,6 +125165,7 @@
           "7": [
             "Iron Defense"
           ],
+          "8": false,
           "9": [
             "Dynamic Punch"
           ],
@@ -125065,6 +125537,7 @@
             "Slash",
             "Night Slash"
           ],
+          "8": false,
           "9": [
             "Iron Defense"
           ],
@@ -125576,6 +126049,7 @@
           "6": [
             "Sky Drop"
           ],
+          "7": false,
           "8": [
             "Whirlwind"
           ],
@@ -125906,6 +126380,7 @@
           "6": [
             "Egg Bomb"
           ],
+          "7": false,
           "8": [
             "Whirlwind"
           ],
@@ -126589,6 +127064,7 @@
           "5": [
             "Work Up"
           ],
+          "6": false,
           "7": [
             "Crunch"
           ],
@@ -126781,6 +127257,7 @@
           "5": [
             "Work Up"
           ],
+          "6": false,
           "7": [
             "Crunch"
           ],
@@ -126793,6 +127270,7 @@
           "10": [
             "Dragon Pulse"
           ],
+          "11": false,
           "12": [
             "Thunderbolt"
           ],
@@ -127143,6 +127621,7 @@
           "8": [
             "Sunny Day"
           ],
+          "9": false,
           "10": [
             "Fiery Dance"
           ],
@@ -130360,6 +130839,7 @@
           "2": [
             "Rollout"
           ],
+          "3": false,
           "4": [
             "Leech Seed"
           ],
@@ -130543,6 +131023,7 @@
           "2": [
             "Rollout"
           ],
+          "3": false,
           "4": [
             "Leech Seed"
           ],
@@ -130552,6 +131033,7 @@
           "6": [
             "Bite"
           ],
+          "7": false,
           "8": [
             "Drain Punch"
           ],
@@ -130893,6 +131375,7 @@
           "2": [
             "Psybeam"
           ],
+          "3": false,
           "4": [
             "Fire Spin"
           ],
@@ -131071,6 +131554,7 @@
           "2": [
             "Psybeam"
           ],
+          "3": false,
           "4": [
             "Fire Spin"
           ],
@@ -131080,6 +131564,7 @@
           "6": [
             "Lucky Chant"
           ],
+          "7": false,
           "8": [
             "Speed Swap"
           ],
@@ -131412,6 +131897,7 @@
           "2": [
             "Quick Attack"
           ],
+          "3": false,
           "4": [
             "Water Pulse"
           ],
@@ -131581,6 +132067,7 @@
           "2": [
             "Quick Attack"
           ],
+          "3": false,
           "4": [
             "Water Pulse"
           ],
@@ -131590,6 +132077,7 @@
           "6": [
             "Fling"
           ],
+          "7": false,
           "8": [
             "Shadow Sneak"
           ],
@@ -131986,6 +132474,7 @@
             "Dig",
             "Mud Shot"
           ],
+          "4": false,
           "5": [
             "Flail"
           ],
@@ -132313,6 +132802,7 @@
           "2": [
             "Ember"
           ],
+          "3": false,
           "4": [
             "Flail"
           ],
@@ -132473,6 +132963,7 @@
           "2": [
             "Ember"
           ],
+          "3": false,
           "4": [
             "Flail"
           ],
@@ -132482,6 +132973,7 @@
           "6": [
             "Agility"
           ],
+          "7": false,
           "8": [
             "Acrobatics"
           ],
@@ -132629,9 +133121,12 @@
           "Stun Spore"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Bug Bite"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Rage Powder"
           ],
@@ -132741,6 +133236,8 @@
           "Stun Spore"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Iron Defense"
           ],
@@ -132869,6 +133366,7 @@
             "Poison Powder",
             "Sleep Powder"
           ],
+          "3": false,
           "4": [
             "Light Screen",
             "Safeguard"
@@ -133221,6 +133719,7 @@
           "6": [
             "Echoed Voice"
           ],
+          "7": false,
           "8": [
             "Yawn"
           ],
@@ -133537,6 +134036,7 @@
             "Magical Leaf",
             "Razor Leaf"
           ],
+          "4": false,
           "5": [
             "Grassy Terrain"
           ],
@@ -133696,6 +134196,8 @@
             "Magical Leaf",
             "Razor Leaf"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Grassy Terrain"
           ],
@@ -134016,6 +134518,7 @@
           "5": [
             "Worry Seed"
           ],
+          "6": false,
           "7": [
             "Bulldoze"
           ],
@@ -134374,6 +134877,7 @@
           "5": [
             "Low Sweep"
           ],
+          "6": false,
           "7": [
             "Parting Shot"
           ],
@@ -135183,6 +135687,7 @@
           "6": [
             "Retaliate"
           ],
+          "7": false,
           "8": [
             "Sacred Sword"
           ],
@@ -135343,6 +135848,8 @@
           "6": [
             "Pursuit"
           ],
+          "7": false,
+          "8": false,
           "9": [
             "Sacred Sword"
           ],
@@ -135652,6 +136159,7 @@
           "Sweet Kiss"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Low Kick"
           ],
@@ -135983,6 +136491,7 @@
           "Play Nice"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Karate Chop"
           ],
@@ -136351,6 +136860,7 @@
           "5": [
             "Swagger"
           ],
+          "6": false,
           "7": [
             "Topsy-Turvy"
           ],
@@ -136738,6 +137248,7 @@
           "7": [
             "Night Slash"
           ],
+          "8": false,
           "9": [
             "Hone Claws"
           ],
@@ -137092,6 +137603,7 @@
           "6": [
             "Double Team"
           ],
+          "7": false,
           "8": [
             "Dragon Pulse"
           ],
@@ -137410,6 +137922,7 @@
           "6": [
             "Water Pulse"
           ],
+          "7": false,
           "8": [
             "Aura Sphere"
           ],
@@ -137742,6 +138255,7 @@
           "Mud-Slap"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Charge"
           ],
@@ -138115,6 +138629,7 @@
           "7": [
             "Crunch"
           ],
+          "8": false,
           "9": [
             "Noble Roar"
           ],
@@ -138465,6 +138980,7 @@
           "7": [
             "Dazzling Gleam"
           ],
+          "8": false,
           "9": [
             "Nature Power"
           ],
@@ -139351,6 +139867,7 @@
             "Water Pulse",
             "Dragon Pulse"
           ],
+          "6": false,
           "7": [
             "Rain Dance"
           ],
@@ -139525,6 +140042,7 @@
             "Water Pulse",
             "Dragon Pulse"
           ],
+          "6": false,
           "7": [
             "Rain Dance"
           ],
@@ -139534,6 +140052,7 @@
           "9": [
             "Sludge Bomb"
           ],
+          "10": false,
           "11": [
             "Body Slam"
           ],
@@ -140034,6 +140553,7 @@
           "Branch Poke"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Leech Seed"
           ],
@@ -140899,6 +141419,7 @@
           "Shadow Sneak"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Confuse Ray"
           ],
@@ -141081,6 +141602,7 @@
           "Shadow Sneak"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Confuse Ray"
           ],
@@ -141262,6 +141784,7 @@
           "Shadow Sneak"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Confuse Ray"
           ],
@@ -141443,6 +141966,7 @@
           "Shadow Sneak"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Confuse Ray"
           ],
@@ -141819,6 +142343,7 @@
             "Bite",
             "Ice Fang"
           ],
+          "8": false,
           "9": [
             "Liquidation"
           ],
@@ -142152,6 +142677,7 @@
           "6": [
             "Tailwind"
           ],
+          "7": false,
           "8": [
             "Super Fang"
           ],
@@ -144146,6 +144672,7 @@
           "2": [
             "Peck"
           ],
+          "3": false,
           "4": [
             "Shadow Sneak"
           ],
@@ -144316,6 +144843,7 @@
           "2": [
             "Peck"
           ],
+          "3": false,
           "4": [
             "Shadow Sneak"
           ],
@@ -144325,6 +144853,7 @@
           "6": [
             "Synthesis"
           ],
+          "7": false,
           "8": [
             "Pluck"
           ],
@@ -144660,6 +145189,7 @@
           "2": [
             "Leer"
           ],
+          "3": false,
           "4": [
             "Bite"
           ],
@@ -144837,6 +145367,7 @@
           "2": [
             "Leer"
           ],
+          "3": false,
           "4": [
             "Bite"
           ],
@@ -144846,6 +145377,7 @@
           "6": [
             "Roar"
           ],
+          "7": false,
           "8": [
             "Fury Swipes"
           ],
@@ -145200,6 +145732,7 @@
           "2": [
             "Encore"
           ],
+          "3": false,
           "4": [
             "Disarming Voice"
           ],
@@ -145377,6 +145910,7 @@
           "2": [
             "Encore"
           ],
+          "3": false,
           "4": [
             "Disarming Voice"
           ],
@@ -145386,6 +145920,7 @@
           "6": [
             "Icy Wind"
           ],
+          "7": false,
           "8": [
             "Bubble Beam"
           ],
@@ -145716,6 +146251,7 @@
           "2": [
             "Supersonic"
           ],
+          "3": false,
           "4": [
             "Bullet Seed"
           ],
@@ -145876,12 +146412,14 @@
           "2": [
             "Supersonic"
           ],
+          "3": false,
           "4": [
             "Bullet Seed"
           ],
           "5": [
             "Pluck"
           ],
+          "6": false,
           "7": [
             "Roost"
           ],
@@ -146201,6 +146739,7 @@
           "3": [
             "Bite"
           ],
+          "4": false,
           "5": [
             "Super Fang",
             "Mud-Slap"
@@ -146510,6 +147049,7 @@
           "3": [
             "Dig"
           ],
+          "4": false,
           "5": [
             "Thunder Fang"
           ],
@@ -146674,6 +147214,8 @@
           "3": [
             "Dig"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Thunder Fang"
           ],
@@ -147005,6 +147547,7 @@
           "Bubble"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Ice Ball"
           ],
@@ -147987,6 +148530,7 @@
           "4": [
             "Struggle Bug"
           ],
+          "5": false,
           "6": [
             "Aromatherapy"
           ],
@@ -148997,6 +149541,7 @@
           "7": [
             "Toxic Spikes"
           ],
+          "8": false,
           "9": [
             "Liquidation"
           ],
@@ -149317,6 +149862,7 @@
           "5": [
             "Strength"
           ],
+          "6": false,
           "7": [
             "Mud Sport"
           ],
@@ -149636,6 +150182,7 @@
           "3": [
             "Bite"
           ],
+          "4": false,
           "5": [
             "Dive"
           ],
@@ -149959,6 +150506,7 @@
           "6": [
             "Synthesis"
           ],
+          "7": false,
           "8": [
             "Solar Blade"
           ],
@@ -150278,6 +150826,7 @@
           "4": [
             "Draining Kiss"
           ],
+          "5": false,
           "6": [
             "Sleep Powder"
           ],
@@ -150620,6 +151169,7 @@
           "6": [
             "Flame Burst"
           ],
+          "7": false,
           "8": [
             "Venoshock"
           ],
@@ -150959,6 +151509,7 @@
           "4": [
             "Brutal Swing"
           ],
+          "5": false,
           "6": [
             "Strength"
           ],
@@ -151301,6 +151852,7 @@
           "3": [
             "Endeavor"
           ],
+          "4": false,
           "5": [
             "Captivate"
           ],
@@ -151470,12 +152022,14 @@
           "3": [
             "Endeavor"
           ],
+          "4": false,
           "5": [
             "Captivate"
           ],
           "6": [
             "Stomp"
           ],
+          "7": false,
           "8": [
             "Teeter Dance"
           ],
@@ -152165,12 +152719,17 @@
           "Defense Curl"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Sludge"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "U-Turn"
           ],
+          "8": false,
           "9": [
             "Rapid Spin"
           ],
@@ -152321,6 +152880,7 @@
             "Sucker Punch",
             "Slash"
           ],
+          "6": false,
           "7": [
             "Meditate"
           ],
@@ -152670,6 +153230,7 @@
           "7": [
             "Giga Drain"
           ],
+          "8": false,
           "9": [
             "Earth Power"
           ],
@@ -153145,6 +153706,7 @@
           "6": [
             "Crush Claw"
           ],
+          "7": false,
           "8": [
             "Air Slash"
           ],
@@ -155070,6 +155632,7 @@
           "5": [
             "Dragon Dance"
           ],
+          "6": false,
           "7": [
             "Scale Shot"
           ],
@@ -155267,12 +155830,14 @@
           "5": [
             "Dragon Dance"
           ],
+          "6": false,
           "7": [
             "Scale Shot"
           ],
           "8": [
             "Focus Punch"
           ],
+          "9": false,
           "10": [
             "Uproar"
           ],
@@ -156135,6 +156700,9 @@
           "Teleport"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
+          "4": false,
           "5": [
             "Play Nice"
           ],
@@ -156245,6 +156813,11 @@
           "Teleport"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
           "7": [
             "Iron Defense"
           ],
@@ -156366,6 +156939,7 @@
             "Flash Cannon",
             "Metal Burst"
           ],
+          "6": false,
           "7": [
             "Zen Headbutt"
           ],
@@ -156375,6 +156949,7 @@
           "9": [
             "Morning Sun"
           ],
+          "10": false,
           "11": [
             "Solar Beam",
             "Miracle Eye"
@@ -156550,6 +157125,7 @@
             "Shadow Ball",
             "Air Slash"
           ],
+          "6": false,
           "7": [
             "Night Daze"
           ],
@@ -156559,6 +157135,7 @@
           "9": [
             "Moonlight"
           ],
+          "10": false,
           "11": [
             "Moonblast",
             "Miracle Eye"
@@ -158775,6 +159352,7 @@
           "6": [
             "Dragon Pulse"
           ],
+          "7": false,
           "8": [
             "Nasty Plot"
           ],
@@ -159639,6 +160217,7 @@
           "5": [
             "Magnet Bomb"
           ],
+          "6": false,
           "7": [
             "Brutal Swing"
           ],
@@ -159981,6 +160560,7 @@
           "2": [
             "Taunt"
           ],
+          "3": false,
           "4": [
             "Razor Leaf"
           ],
@@ -160170,6 +160750,7 @@
           "2": [
             "Taunt"
           ],
+          "3": false,
           "4": [
             "Razor Leaf"
           ],
@@ -160179,6 +160760,7 @@
           "6": [
             "Knock Off"
           ],
+          "7": false,
           "8": [
             "Slam"
           ],
@@ -160531,6 +161113,7 @@
           "2": [
             "Double Kick"
           ],
+          "3": false,
           "4": [
             "Quick Attack"
           ],
@@ -160706,6 +161289,7 @@
           "2": [
             "Double Kick"
           ],
+          "3": false,
           "4": [
             "Quick Attack"
           ],
@@ -160715,6 +161299,7 @@
           "6": [
             "Agility"
           ],
+          "7": false,
           "8": [
             "Headbutt"
           ],
@@ -161058,6 +161643,7 @@
           "2": [
             "Bind"
           ],
+          "3": false,
           "4": [
             "Water Pulse"
           ],
@@ -161238,12 +161824,14 @@
           "2": [
             "Bind"
           ],
+          "3": false,
           "4": [
             "Water Pulse"
           ],
           "5": [
             "Fake Tears"
           ],
+          "6": false,
           "7": [
             "Sucker Punch"
           ],
@@ -161584,6 +162172,7 @@
             "Spit Up",
             "Swallow"
           ],
+          "5": false,
           "6": [
             "Rest"
           ],
@@ -161906,6 +162495,7 @@
           "3": [
             "Fury Attack"
           ],
+          "4": false,
           "5": [
             "Fly"
           ],
@@ -162070,6 +162660,7 @@
           "3": [
             "Fury Attack"
           ],
+          "4": false,
           "5": [
             "Fly"
           ],
@@ -162079,6 +162670,7 @@
           "7": [
             "Scary Face"
           ],
+          "8": false,
           "9": [
             "Reflect"
           ],
@@ -162228,6 +162820,10 @@
           "Struggle Bug"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
           "6": [
             "Disable"
           ],
@@ -162344,6 +162940,10 @@
           "Struggle Bug"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
           "6": [
             "Signal Beam"
           ],
@@ -162522,6 +163122,7 @@
           "5": [
             "Psybeam"
           ],
+          "6": false,
           "7": [
             "Telekinesis"
           ],
@@ -162864,6 +163465,7 @@
           "3": [
             "Snarl"
           ],
+          "4": false,
           "5": [
             "Assurance"
           ],
@@ -163196,6 +163798,7 @@
           "3": [
             "Razor Leaf"
           ],
+          "4": false,
           "5": [
             "Air Cutter"
           ],
@@ -163514,6 +164117,7 @@
           "4": [
             "Guard Split"
           ],
+          "5": false,
           "6": [
             "Headbutt"
           ],
@@ -163854,6 +164458,7 @@
           "4": [
             "Counter"
           ],
+          "5": false,
           "6": [
             "Ice Fang"
           ],
@@ -164198,6 +164803,7 @@
           "4": [
             "Spark"
           ],
+          "5": false,
           "6": [
             "Charge"
           ],
@@ -164531,6 +165137,7 @@
           "3": [
             "Smack Down"
           ],
+          "4": false,
           "5": [
             "Rollout"
           ],
@@ -164703,12 +165310,14 @@
           "3": [
             "Smack Down"
           ],
+          "4": false,
           "5": [
             "Rollout"
           ],
           "6": [
             "Ancient Power"
           ],
+          "7": false,
           "8": [
             "Incinerate"
           ],
@@ -164869,15 +165478,20 @@
           "Withdraw"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Growth"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Life Dew"
           ],
+          "7": false,
           "8": [
             "First Impression"
           ],
+          "9": false,
           "10": [
             "Toxic"
           ],
@@ -165515,6 +166129,7 @@
           "6": [
             "Glare"
           ],
+          "7": false,
           "8": [
             "Scorching Sands"
           ],
@@ -165989,6 +166604,7 @@
           "4": [
             "Agility"
           ],
+          "5": false,
           "6": [
             "Laser Focus"
           ],
@@ -166297,6 +166913,7 @@
           "5": [
             "Taunt"
           ],
+          "6": false,
           "7": [
             "Round",
             "Iron Tail"
@@ -166631,6 +167248,7 @@
           "5": [
             "Coil"
           ],
+          "6": false,
           "7": [
             "Bite"
           ],
@@ -166968,6 +167586,7 @@
           "7": [
             "Taunt"
           ],
+          "8": false,
           "9": [
             "Reversal"
           ],
@@ -167286,6 +167905,7 @@
           "Aromatic Mist"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Protect"
           ],
@@ -167627,6 +168247,7 @@
           "5": [
             "Heal Pulse"
           ],
+          "6": false,
           "7": [
             "Dazzling Gleam"
           ],
@@ -167798,9 +168419,11 @@
           "5": [
             "Heal Pulse"
           ],
+          "6": false,
           "7": [
             "Dazzling Gleam"
           ],
+          "8": false,
           "9": [
             "Magic Powder"
           ],
@@ -168159,6 +168782,7 @@
             "Swagger",
             "Flatter"
           ],
+          "6": false,
           "7": [
             "Sucker Punch"
           ],
@@ -168346,9 +168970,11 @@
             "Swagger",
             "Flatter"
           ],
+          "6": false,
           "7": [
             "Sucker Punch"
           ],
+          "8": false,
           "9": [
             "Torment"
           ],
@@ -168674,6 +169300,7 @@
           "Sweet Kiss"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Sweet Scent"
           ],
@@ -169149,9 +169776,12 @@
           "Struggle Bug"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Sticky Web"
           ],
+          "4": false,
+          "5": false,
           "6": [
             "Bug Bite"
           ],
@@ -169289,6 +169919,7 @@
           "4": [
             "Feather Dance"
           ],
+          "5": false,
           "6": [
             "Defog",
             "Mist"
@@ -170414,6 +171045,7 @@
           "6": [
             "Bulldoze"
           ],
+          "7": false,
           "8": [
             "Strength"
           ],
@@ -171398,12 +172030,17 @@
           "Bite"
         ],
         "levelUp": {
+          "2": false,
+          "3": false,
           "4": [
             "Ancient Power"
           ],
+          "5": false,
+          "6": false,
           "7": [
             "Nasty Plot"
           ],
+          "8": false,
           "9": [
             "Surf"
           ],
@@ -171550,6 +172187,7 @@
           "5": [
             "Agility"
           ],
+          "6": false,
           "7": [
             "Double Hit"
           ],
@@ -171730,6 +172368,7 @@
           "5": [
             "Agility"
           ],
+          "6": false,
           "7": [
             "Double Hit"
           ],
@@ -171742,6 +172381,7 @@
           "10": [
             "Phantom Force"
           ],
+          "11": false,
           "12": [
             "Dragon Rush"
           ],
@@ -173002,6 +173642,7 @@
           "Focus Energy"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Aerial Ace"
           ],
@@ -173187,6 +173828,7 @@
           "Focus Energy"
         ],
         "levelUp": {
+          "2": false,
           "3": [
             "Aerial Ace"
           ],
