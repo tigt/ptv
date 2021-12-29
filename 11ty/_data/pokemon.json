@@ -15268,7 +15268,7 @@
       "egg1": "Humanoid",
       "type1": "Psychic",
       "◓Dc": 20,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Kadabra",
       "ability1": "Synchronize",
       "ability2": "Inner Focus",
@@ -15317,7 +15317,7 @@
       },
       "catchDC": 20,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Kadabra"
       },
       "moves": {
@@ -15891,7 +15891,7 @@
       "egg1": "Humanoid",
       "type1": "Fighting",
       "◓Dc": 21,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Machoke",
       "ability1": "Guts",
       "ability2": "No Guard",
@@ -15940,7 +15940,7 @@
       },
       "catchDC": 21,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Machoke"
       },
       "moves": {
@@ -17294,7 +17294,7 @@
       "type1": "Rock",
       "type2": "Ground",
       "◓Dc": 21,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Graveler",
       "ability1": "Rock Head",
       "ability2": "Sturdy",
@@ -17343,7 +17343,7 @@
       },
       "catchDC": 21,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Graveler"
       },
       "moves": {
@@ -17838,7 +17838,7 @@
       "type1": "Rock",
       "type2": "Electric",
       "◓Dc": 21,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Alolan Graveler",
       "ability1": "Magnet Pull",
       "ability2": "Sturdy",
@@ -17887,7 +17887,7 @@
       },
       "catchDC": 21,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Alolan Graveler"
       },
       "moves": {
@@ -23212,7 +23212,7 @@
       "type1": "Ghost",
       "type2": "Poison",
       "◓Dc": 21,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Haunter",
       "ability1": "Cursed Body",
       "ability3": "Lifedrinker",
@@ -23257,7 +23257,7 @@
       },
       "catchDC": 21,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Haunter"
       },
       "moves": {
@@ -106916,7 +106916,7 @@
       "egg1": "Mineral",
       "type1": "Rock",
       "◓Dc": 20,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Boldore",
       "ability1": "Sturdy",
       "ability2": "Sand Stream",
@@ -106965,7 +106965,7 @@
       },
       "catchDC": 20,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Boldore"
       },
       "moves": {
@@ -108419,7 +108419,7 @@
       "egg1": "Humanoid",
       "type1": "Fighting",
       "◓Dc": 21,
-      "evolvesBy": "Level 10, or Trade",
+      "evolvesBy": "Level 10 or Trade",
       "evolvesFrom": "Gurdurr",
       "ability1": "Guts",
       "ability2": "Sheer Force",
@@ -108468,7 +108468,7 @@
       },
       "catchDC": 21,
       "evolves": {
-        "by": "Level 10, or Trade",
+        "by": "Level 10 or Trade",
         "from": "Gurdurr"
       },
       "moves": {
@@ -140490,7 +140490,7 @@
       "type1": "Grass",
       "type2": "Ghost",
       "◓Dc": 18,
-      "evolvesBy": "Level 6, or Trade",
+      "evolvesBy": "Level 6 or Trade",
       "evolvesFrom": "Phantump",
       "ability1": "Natural Cure",
       "ability2": "Frisk",
@@ -140540,7 +140540,7 @@
       },
       "catchDC": 18,
       "evolves": {
-        "by": "Level 6, or Trade",
+        "by": "Level 6 or Trade",
         "from": "Phantump"
       },
       "moves": {
@@ -141357,7 +141357,7 @@
       "type1": "Grass",
       "type2": "Ghost",
       "◓Dc": 18,
-      "evolvesBy": "Level 6, or Trade",
+      "evolvesBy": "Level 6 or Trade",
       "evolvesFrom": "Pumpkaboo",
       "ability1": "Pickup",
       "ability2": "Frisk",
@@ -141406,7 +141406,7 @@
       },
       "catchDC": 18,
       "evolves": {
-        "by": "Level 6, or Trade",
+        "by": "Level 6 or Trade",
         "from": "Pumpkaboo"
       },
       "moves": {
@@ -141540,7 +141540,7 @@
       "type1": "Grass",
       "type2": "Ghost",
       "◓Dc": 18,
-      "evolvesBy": "Level 6, or Trade",
+      "evolvesBy": "Level 6 or Trade",
       "evolvesFrom": "Pumpkaboo",
       "ability1": "Pickup",
       "ability2": "Frisk",
@@ -141589,7 +141589,7 @@
       },
       "catchDC": 18,
       "evolves": {
-        "by": "Level 6, or Trade",
+        "by": "Level 6 or Trade",
         "from": "Pumpkaboo"
       },
       "moves": {
@@ -141722,7 +141722,7 @@
       "type1": "Grass",
       "type2": "Ghost",
       "◓Dc": 18,
-      "evolvesBy": "Level 6, or Trade",
+      "evolvesBy": "Level 6 or Trade",
       "evolvesFrom": "Pumpkaboo",
       "ability1": "Pickup",
       "ability2": "Frisk",
@@ -141771,7 +141771,7 @@
       },
       "catchDC": 18,
       "evolves": {
-        "by": "Level 6, or Trade",
+        "by": "Level 6 or Trade",
         "from": "Pumpkaboo"
       },
       "moves": {
@@ -141904,7 +141904,7 @@
       "type1": "Grass",
       "type2": "Ghost",
       "◓Dc": 18,
-      "evolvesBy": "Level 6, or Trade",
+      "evolvesBy": "Level 6 or Trade",
       "evolvesFrom": "Pumpkaboo",
       "ability1": "Pickup",
       "ability2": "Frisk",
@@ -141953,7 +141953,7 @@
       },
       "catchDC": 18,
       "evolves": {
-        "by": "Level 6, or Trade",
+        "by": "Level 6 or Trade",
         "from": "Pumpkaboo"
       },
       "moves": {
