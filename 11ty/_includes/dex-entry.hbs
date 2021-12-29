@@ -2,8 +2,16 @@
 <article class="mon" id="{{slugify name}}">
   <h2><a href="#{{slugify name}}">{{name}}</a></h2>
 
-  <img alt="" src="./img/{{slugify name}}.png"
-  class="mon_pic">
+  {{#with (lookup @root.[dex-images] (slugify name)) as | image | }}
+    {{#if image}}
+      <img alt="" class="mon_pic"
+        src="../img/{{slugify ../name}}.jpg?{{hash}}"
+        width="{{sizes.[0]}}" height="{{sizes.[1]}}"
+        loading="lazy">
+    {{else}}
+      {{log name 'not found in dex image data' level='error'}}
+    {{/if}}
+  {{/with}}
 
   <dl class="mon_abilities">
     <dt>Type

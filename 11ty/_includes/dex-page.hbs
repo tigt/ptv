@@ -1,0 +1,82 @@
+---
+layout: base
+---
+
+<style>
+  table {
+    display: inline-table;
+  }
+
+  dl {
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 1em;
+  }
+
+  dt {
+    font-weight: 700;
+  }
+
+  dd {
+    margin-left: 2ch;
+  }
+
+  .mon_pic {
+    border-top-left-radius: 30%;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+
+  .mon_stats th,
+  .mon_stats td,
+  .mon_skills th,
+  .mon_skills td {
+    text-align: right;
+  }
+
+  .mon_moves {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .moves_heading {
+    margin: 0 0 0.5em;
+  }
+
+  .moves_table {
+    vertical-align: top;
+    border-spacing: 0.5em 0;
+  }
+
+  .moves_table th:first-child {
+    text-align: right;
+  }
+
+  .mon_moves {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .moves_heading {
+    width: 100%;
+  }
+
+  .tutor-moves {
+    flex: 1;
+  }
+
+  .tutor-moves_heading {
+    margin: 0;
+  }
+
+  .tutor-moves_list {
+    margin: 0;
+    list-style: outside;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(calc(6em + 12vmin), 100%), 1fr));
+  }
+</style>
+
+{{{content}}}

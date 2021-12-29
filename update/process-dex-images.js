@@ -9,8 +9,9 @@ const path = require('path')
 
   const outputPromises = []
   for (const filename of imageFiles) {
+    const basename = filename.replace(/\.png$/, '')
     const pathIn = path.join(__dirname, '/img/', filename)
-    const pathOut = path.join(__dirname, '/../docs/dex/img/', filename).replace(/\.png$/, '.jpg')
+    const pathOut = path.join(__dirname, '/../docs/dex/img/', basename + '.jpg')
 
     outputPromises.push(fs.readFile(pathIn).then(bytes => {
       const hash = crypto.createHash('md5')
@@ -32,7 +33,7 @@ const path = require('path')
         .blur(0.3) // Some original images have crust like whoah
         .jpeg({ mozjpeg: true })
         .toFile(pathOut)
-        .then(({ width, height }) => [filename, {
+        .then(({ width, height }) => [basename, {
           sizes: [width, height],
           hash
         }])
