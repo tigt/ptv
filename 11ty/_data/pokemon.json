@@ -55674,7 +55674,7 @@
             "Charm"
           ],
           "9": [
-            "Wild Charge"
+            "Bullet Seed"
           ],
           "10": [
             "Noble Roar"
@@ -73195,7 +73195,7 @@
             "Aurora Beam"
           ],
           "10": [
-            "Psyshock"
+            "Iron Tail"
           ],
           "11": [
             "Mud Shot"
@@ -73207,10 +73207,10 @@
             "Spacial Rend"
           ],
           "14": [
-            "Mind Blown"
+            "Psyshock"
           ],
           "15": [
-            "Iron Tail"
+            "Mind Blown"
           ]
         },
         "tutor": [
@@ -73374,7 +73374,7 @@
             "Revelation Dance"
           ],
           "11": [
-            "Psyshock"
+            "Iron Tail"
           ],
           "12": [
             "Lunar Dance"
@@ -73386,10 +73386,10 @@
             "Spacial Rend"
           ],
           "15": [
-            "Quiver Dance"
+            "Psyshock"
           ],
           "16": [
-            "Iron Tail"
+            "Quiver Dance"
           ]
         },
         "tutor": [
@@ -73667,7 +73667,7 @@
       "◓Dc": 2,
       "ability1": "Hyper Cutter",
       "ability2": "Arena Trap",
-      "ability3": "Strong Jaw",
+      "ability3": "Stall",
       "ability4": "Stakeout",
       "ability5": "Sheer Force",
       "hp": 5,
@@ -73701,7 +73701,7 @@
         ],
         "level5": [
           [
-            "Strong Jaw"
+            "Stall"
           ],
           [
             "Stakeout"
@@ -73718,7 +73718,7 @@
           "Bite",
           "Laser Focus",
           "Sand Attack",
-          "Bide"
+          "Bug Bite"
         ],
         "levelUp": {
           "2": [
@@ -73740,10 +73740,10 @@
             "Drill Run"
           ],
           "8": [
-            "First Impression"
+            "Skitter Smack"
           ],
           "9": [
-            "Jaw Lock"
+            "Poison Fang"
           ],
           "10": [
             "Earthquake"
@@ -73752,16 +73752,16 @@
             "Superpower"
           ],
           "12": [
-            "Fissure"
-          ],
-          "13": [
             "Shore Up"
           ],
+          "13": [
+            "Fissure"
+          ],
           "14": [
-            "Skitter Smack"
+            "First Impression"
           ],
           "15": [
-            "Poison Fang"
+            "Jaw Lock"
           ]
         },
         "tutor": [
@@ -73843,7 +73843,7 @@
       "ability1": "Levitate",
       "ability3": "Sand Veil",
       "ability4": "Punk Rock",
-      "ability5": "Insectivize",
+      "ability5": "Sheer Force",
       "hp": 5,
       "stats": {
         "HP": 30,
@@ -73878,7 +73878,7 @@
             "Punk Rock"
           ],
           [
-            "Insectivize"
+            "Sheer Force"
           ]
         ]
       },
@@ -73895,7 +73895,7 @@
           "Bite",
           "Laser Focus",
           "Sand Attack",
-          "Bide"
+          "Bug Bite"
         ],
         "levelUp": {
           "2": [
@@ -73918,10 +73918,10 @@
             "Scorching Sands"
           ],
           "9": [
-            "Bug Buzz"
+            "Skitter Smack"
           ],
           "10": [
-            "Gastro Acid"
+            "Bug Buzz"
           ],
           "11": [
             "Earthquake"
@@ -73930,13 +73930,13 @@
             "Uproar"
           ],
           "13": [
-            "Boomburst"
-          ],
-          "14": [
             "Shore Up"
           ],
+          "14": [
+            "Boomburst"
+          ],
           "15": [
-            "Skitter Smack"
+            "Clanging Scales"
           ],
           "16": [
             "Quiver Dance"
@@ -74025,7 +74025,7 @@
       "ability1": "Levitate",
       "ability3": "Tinted Lens",
       "ability4": "Sand Stream",
-      "ability5": "Insectivize",
+      "ability5": "Sheer Force",
       "hp": 8,
       "stats": {
         "HP": 45,
@@ -74060,7 +74060,7 @@
             "Sand Stream"
           ],
           [
-            "Insectivize"
+            "Sheer Force"
           ]
         ]
       },
@@ -74077,7 +74077,7 @@
           "Bite",
           "Laser Focus",
           "Sand Attack",
-          "Bide"
+          "Bug Bite"
         ],
         "levelUp": {
           "2": [
@@ -74101,7 +74101,7 @@
           ],
           "9": false,
           "10": [
-            "X-Scissor"
+            "Skitter Smack"
           ],
           "11": [
             "Dragon Rush"
@@ -74113,13 +74113,13 @@
             "Uproar"
           ],
           "14": [
-            "Boomburst"
-          ],
-          "15": [
             "Shore Up"
           ],
+          "15": [
+            "Boomburst"
+          ],
           "16": [
-            "Skitter Smack"
+            "Iron Tail"
           ],
           "17": [
             "Outrage"
@@ -77999,14 +77999,14 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Feint",
+          "Feint Attack",
           "Tail Whip",
           "Lick",
           "Bind"
         ],
         "levelUp": {
           "2": [
-            "Feint Attack"
+            "Camouflage"
           ],
           "3": [
             "Shadow Sneak"
@@ -78015,7 +78015,7 @@
             "Terrain Pulse"
           ],
           "5": [
-            "Camouflage"
+            "Reflect Type"
           ],
           "6": [
             "Psybeam"
@@ -78030,22 +78030,22 @@
             "Slash"
           ],
           "10": [
-            "Reflect Type"
+            "Phantom Force"
           ],
           "11": [
-            "Substitute"
+            "Synchronoise"
           ],
           "12": [
             "Sucker Punch"
           ],
           "13": [
-            "Synchronoise"
+            "Substitute"
           ],
           "14": [
-            "Dragon Claw"
+            "Foul Play"
           ],
           "15": [
-            "Phantom Force"
+            "Dragon Claw"
           ]
         },
         "tutor": [
@@ -86953,7 +86953,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Chimchar swing through the branches of swamp cypress, where the trees are too wet to burn. Chimchar that live in these swamps may never touch the ground their entire lives, only hopping down to annoy Pokémon who can’t climb back up after them.</p>\n"
+      "blurb": "<p>Chimchar swing through the branches of swamp cypress, where the trees are too wet to burn. Chimchar live their entire lives without needing to spend time on the ground, only hopping down to annoy Pokémon who can’t climb back up after them.</p>\n"
     },
     {
       "name": "Monferno",
@@ -89707,7 +89707,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Cranidos rams its head into anything reflective, taking its face as a challenger. Shieldon and Cranidos are natural rivals because of this, and it’s believed the two locked each other into an arms race millions of years ago.</p>\n"
+      "blurb": "<p>Cranidos uproots trees it comes across with a single push, destroying any roots in the process. Shieldon and Cranidos are natural rivals because of this, and it’s believed the two locked each other into an arms race millions of years ago.<br>Alternate: Cranidos loves to headbutt reflective surfaces, mistaking its face as a challenger. Mirrors, hubcaps, photographs: even high-quality paintings are in danger when this Pokemon gets in a mood.</p>\n"
     },
     {
       "name": "Rampardos",
@@ -102715,7 +102715,7 @@
           "X-scissor"
         ]
       },
-      "blurb": "<p>If Oshawott loses its scalchop, it will not battle. It drifts despondently, refusing to even eat. It takes about a month for Oshawott to grow a new scalchop.</p>\n"
+      "blurb": "<p>If Oshawott loses its scalchop, it will not battle. It drifts despondently, refusing to even defend itself. It takes about a month for Oshawott to grow a new scalchop.</p>\n"
     },
     {
       "name": "Dewott",
@@ -146969,7 +146969,7 @@
           "X-scissor"
         ]
       },
-      "blurb": "<p>Grubbin who get together will suck nearly all the sap out of a tree, only leaving just enough for the tree to survive. Every once in a while they bite down on a Sudowoodo and regret it.</p>\n"
+      "blurb": "<p>Grubbin who get together will suck nearly all the sap out of a tree, leaving just enough for the tree to survive. Every once in a while they bite down on a Sudowoodo and regret it.</p>\n"
     },
     {
       "name": "Charjabug",
@@ -149125,7 +149125,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Blue on top and white on bottom, Wishiwashi’s color makes it hard to see from above or below. It can even change its shades to better match the time of day. Fishermen say for every one Wishiwashi you see, there’s 50 you can’t.</p>\n"
+      "blurb": "<p>Blue on top and white on bottom, Wishiwashi’s countershaded colors makes it hard to see from above or below. It can even change its shades to better match the time of day. Fishermen say for every one Wishiwashi you see, there’s 50 you can’t.</p>\n"
     },
     {
       "name": "Wishiwashi (School)",
@@ -150905,7 +150905,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>While asleep, Shiinotic retract their arms and collapse their mushroom bell around their eyes to prevent daylight from disturbing their slumber.</p>\n"
+      "blurb": "<p>To sleep, Shiinotic retract their arms and collapse their mushroom bell around their eyes to prevent daylight from disturbing their slumber.</p>\n"
     }
   ],
   "salandit": [
@@ -153456,7 +153456,7 @@
           "Venom Drench"
         ]
       },
-      "blurb": "<p>Tourists think it’s cute, and natives honor it as an important part of Alola, but hotel owners and new citizens consider Pyukumuku a pest. Petitions to relocate Pyukumuku go nowhere, as they inevitably return in only a few days.</p>\n"
+      "blurb": "<p>Tourists think them cute, and natives honor them as an important part of Alola, but hotel owners and new citizens consider Pyukumuku a pest. Petitions to relocate Pyukumuku go nowhere, as they inevitably return in only a few days.</p>\n"
     }
   ],
   "type: null": [
@@ -153617,7 +153617,7 @@
           "X-scissor"
         ]
       },
-      "blurb": "<p>There is no other Pokémon more prized in criminal rings than Type: Null. A contest is held every three months to try and decrypt the data sealing its heavy mask, but no villain has found the secret yet.</p>\n"
+      "blurb": "<p>No Pokémon is more prized in criminal rings than Type: Null. A contest is held every three months to try decrypting the data sealing its heavy mask, but nobody has found the secret yet.</p>\n"
     },
     {
       "name": "Silvally",
@@ -163031,7 +163031,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>If Dottler thinks an opponent approaches, it puts up invisible barriers to guide the Pokémon elsewhere. If the Pokémon finds Dottler anyway and battles, it adds a week to Dottler’s evolution time. Trainers can overcome this delay by feeding Dottler ten times a day.</p>\n"
+      "blurb": "<p>If Dottler thinks an opponent approaches, it puts up invisible barriers to guide the Pokémon elsewhere. If the Pokémon finds Dottler anyway and battles, it adds a week to Dottler’s evolution time. Trainers can overcome this delay by reading poetry to Dottler for two hours a day.</p>\n"
     },
     {
       "name": "Orbeetle",
@@ -170555,7 +170555,109 @@
       },
       "catchDC": 20,
       "evolves": {},
-      "moves": {},
+      "moves": {
+        "starting": [
+          "Stored Power",
+          "Play Nice",
+          "Encore"
+        ],
+        "levelUp": {
+          "2": [
+            "Disarming Voice"
+          ],
+          "3": [
+            "Psychic Terrain"
+          ],
+          "4": [
+            "Iron Defense"
+          ],
+          "5": [
+            "Psybeam"
+          ],
+          "6": [
+            "Helping Hand"
+          ],
+          "7": [
+            "After You"
+          ],
+          "8": [
+            "Psych Up"
+          ],
+          "9": [
+            "Calm Mind"
+          ],
+          "10": [
+            "Psychic"
+          ],
+          "11": [
+            "Heal Bell"
+          ],
+          "12": [
+            "Power Split"
+          ],
+          "13": [
+            "Trump Card"
+          ],
+          "14": [
+            "Teatime"
+          ],
+          "15": [
+            "Fake Out"
+          ]
+        },
+        "tutor": [
+          "Ally Switch",
+          "Attract",
+          "Bide",
+          "Calm Mind",
+          "Captivate",
+          "Dazzling Gleam",
+          "Drain Punch",
+          "Draining Kiss",
+          "Encore",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
+          "Extrasensory",
+          "Facade",
+          "Fake Out",
+          "Future Sight",
+          "Giga Impact",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Imprison",
+          "Magic Room",
+          "Magical Leaf",
+          "Metronome",
+          "Mystical Fire",
+          "Pay Day",
+          "Play Rough",
+          "Power Swap",
+          "Protect",
+          "Psych Up",
+          "Psychic",
+          "Psychic Terrain",
+          "Psyshock",
+          "Rest",
+          "Round",
+          "Shadow Ball",
+          "Sleep Talk",
+          "Snore",
+          "Stored Power",
+          "Submission",
+          "Substitute",
+          "Swift",
+          "Terrain Pulse",
+          "Tri Attack",
+          "Trick",
+          "Trick Room",
+          "Wake-up Slap",
+          "Wonder Room",
+          "Work Up",
+          "Zen Headbutt"
+        ]
+      },
       "blurb": "<p>Indeedee have extremely high standards for themselves, and will repeat a task until it’s done to their liking. Complicated tasks can frustrate it, so Trainers are recommended to break elaborate orders into simpler blocks so it can focus.</p>\n"
     },
     {
@@ -170620,7 +170722,109 @@
       },
       "catchDC": 20,
       "evolves": {},
-      "moves": {},
+      "moves": {
+        "starting": [
+          "Stored Power",
+          "Play Nice",
+          "Baton Pass"
+        ],
+        "levelUp": {
+          "2": [
+            "Disarming Voice"
+          ],
+          "3": [
+            "Psychic Terrain"
+          ],
+          "4": [
+            "Amnesia"
+          ],
+          "5": [
+            "Psybeam"
+          ],
+          "6": [
+            "Helping Hand"
+          ],
+          "7": [
+            "Follow Me"
+          ],
+          "8": [
+            "Psych Up"
+          ],
+          "9": [
+            "Calm Mind"
+          ],
+          "10": [
+            "Psychic"
+          ],
+          "11": [
+            "Heal Bell"
+          ],
+          "12": [
+            "Guard Split"
+          ],
+          "13": [
+            "Healing Wish"
+          ],
+          "14": [
+            "Feather Dance"
+          ],
+          "15": [
+            "Heal Pulse"
+          ]
+        },
+        "tutor": [
+          "Ally Switch",
+          "Attract",
+          "Baton Pass",
+          "Bide",
+          "Calm Mind",
+          "Captivate",
+          "Dazzling Gleam",
+          "Drain Punch",
+          "Draining Kiss",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
+          "Facade",
+          "Fake Out",
+          "Future Sight",
+          "Giga Impact",
+          "Guard Swap",
+          "Heal Pulse",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Imprison",
+          "Light Screen",
+          "Lucky Chant",
+          "Magical Leaf",
+          "Metronome",
+          "Mystical Fire",
+          "Pay Day",
+          "Play Rough",
+          "Protect",
+          "Psych Up",
+          "Psychic",
+          "Psychic Terrain",
+          "Psycho Shift",
+          "Psyshock",
+          "Reflect",
+          "Rest",
+          "Round",
+          "Safeguard",
+          "Shadow Ball",
+          "Sleep Talk",
+          "Snore",
+          "Stored Power",
+          "Submission",
+          "Substitute",
+          "Swift",
+          "Terrain Pulse",
+          "Trick",
+          "Work Up",
+          "Zen Headbutt"
+        ]
+      },
       "blurb": "<p>When Audino and Indeedee meet, absolutely nothing gets done. They both try to make life easier for the other Pokémon, but refuse any help from the other. This will repeat until another person or Pokémon intervenes.</p>\n"
     }
   ],

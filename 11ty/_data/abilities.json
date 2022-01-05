@@ -1151,7 +1151,7 @@
   },
   {
     "name": "Stakeout",
-    "description": "<p>The user’s Moves that target foes that switched in this turn get +1 Effectiveness.</p>\n"
+    "description": "<p>The user’s Moves that target foes that switched in this round get +1 Effectiveness. (Includes switch-ins replacing KOs.) </p>\n"
   },
   {
     "name": "Stall",

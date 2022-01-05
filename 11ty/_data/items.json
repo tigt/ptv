@@ -78,18 +78,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Balm Mushroom",
-    "buy": 15000,
-    "sell": 7500,
-    "description": "A rare fungi with a nice fragrance. Roll on the Wild Mushroom table, but reroll on 49 or lower. The holder consumes mushrooms to trigger their effects when their HP drops below 3 Ticks.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Baton",
     "buy": 4000,
     "sell": 2000,
-    "description": "Used up when the holder switches out, transferring Baton Pass' effects to the replacement.",
+    "description": "Used up if the holder switches out, transferring effects as if the holder used Baton Pass.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -119,7 +111,7 @@
     "name": "Berry Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× cost ₽ to craft Berries during a Rest. Mixing seeds during your downtime.",
+    "description": "Can spend 1.5× cost ₽ to craft Berries during a Rest. Plant hybridization for kids!",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -140,27 +132,11 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Berserk Gene",
-    "buy": 200,
-    "sell": 100,
-    "description": "When the holder joins the battle, they get Confused and Boost ATK by +10. A remnant of destructive impulse.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Bicycle",
     "buy": 1000000,
     "description": "The fastest way to travel by human power. Every kid wants one. For 2000₽ more, it can inflate its tires to travel over calm water.",
     "buyIsNumeric": true,
     "sellIsNumeric": false
-  },
-  {
-    "name": "Big Mushroom",
-    "buy": 5000,
-    "sell": 2500,
-    "description": "A large rare fungi. Roll twice on the Wild Mushroom table. The holder consumes mushrooms to trigger their effects when their HP drops below 3 Ticks.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
   },
   {
     "name": "Big Root",
@@ -239,6 +215,14 @@
     "buy": 2000,
     "sell": 1000,
     "description": "If the holder misses a Move, they consume Blunder Policy to Boost +10 SPE. Inaccuracy insurance.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Bounce Shield",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Whenever a character hits the holder with a Ranged Move, they lose 1 Tick of HP.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -631,14 +615,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Full Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Moves targeting the holder get -1 Priority. Smells like butter.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Full Restore",
     "buy": 3000,
     "sell": 1500,
@@ -647,18 +623,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Fuse",
-    "buy": 1000,
-    "sell": 500,
-    "description": "If the holder is damaged by a Critical Hit and knows Self-Destruct or Explosion, the holder's Move Choice is replaced with Self-Destruct or Explosion (player's choice.)",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Galarica Loop",
     "buy": 6000,
     "sell": 3000,
-    "description": "Can be used up to evolve Galarian Slowpoke to Galarian Slowbro or Slowking (your choice). For other Pokémon, heals 120 HP but moves against the user Can't Miss for the rest of the battle.",
+    "description": "Can be used up to evolve Galarian Slowpoke to Galarian Slowbro/Slowking (your choice). The holder’s Poison or Psychic Moves cost 1 PP less.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -667,6 +635,14 @@
     "buy": 10000,
     "sell": 5000,
     "description": "Can spend 1.5x cost ₽ to craft Type Gems, Evolutionary Stones, and Type Boosters during Rests. Carving out a new hobby.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Go-Goggles",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "Dustproof eyewear that gives the holder Immunity to Weather damage and Moves with names containing “Powder” or “Spore”.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -727,18 +703,18 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Heart Scale",
-    "buy": 500,
-    "sell": 250,
-    "description": "A universal symbol of goodwill. Many accept it in exchange for a favor.",
+    "name": "Heart Prop",
+    "buy": 4000,
+    "sell": 2000,
+    "description": "The holder heals 1 Tick whenever it uses a Move that targets Allies.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
   {
-    "name": "Heart Stone",
-    "buy": 4000,
-    "sell": 2000,
-    "description": "The holder heals 1 Tick whenever it uses a Move that targets Allies. Recently discovered in Driftveil waters…",
+    "name": "Heart Scale",
+    "buy": 500,
+    "sell": 250,
+    "description": "A universal symbol of goodwill. Many accept it in exchange for a favor.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -762,7 +738,7 @@
     "name": "Hyper Potion",
     "buy": 1400,
     "sell": 700,
-    "description": "Heals 120 HP.",
+    "description": "Heals 120 HP. Industry-grade healing.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -799,14 +775,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Jolt Orb",
-    "buy": 1000,
-    "sell": 500,
-    "description": "Paralyzes the holder between rounds. Feels like pleasant tingling at first.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Key Stone",
     "description": "Trainers wearing this can use Mega Evolution. Battle jewelry from Kalos.",
     "buyIsNumeric": false,
@@ -817,14 +785,6 @@
     "buy": 5000,
     "sell": 2500,
     "description": "On 19+, the holder's attacks Flinch the target. A stone radiating a regal aura that can be used up to evolve Slowpoke and Poliwhirl.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Lax Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Moves targeting the holder get -2 Accuracy. Smells musty.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -880,7 +840,7 @@
     "name": "Light Ball",
     "buy": 1000,
     "sell": 500,
-    "description": "Pikachu gets +10 Intensity and Focus when held.\nParalyzes the holder between rounds. Feels like pleasant tingling at first.",
+    "description": "Pikachu gets +10 Intensity and Focus when held. Other holders are Paralyzed between rounds. Feels like pleasant tingling at first.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -913,14 +873,6 @@
     "buy": 40,
     "sell": 20,
     "description": "If the holder's HP falls below 3 Ticks, they eat the Sweet and get +3 to Save Bonus.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Luck Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Foes targeting the holder get −2 to Save Bonus. Smells like a new penny.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1155,14 +1107,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Odd Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Foes targeting the holder get -2 Critical Rate. Smells like... mimes?",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Oval Stone",
     "buy": 2000,
     "sell": 1000,
@@ -1247,14 +1191,6 @@
     "sellIsNumeric": false
   },
   {
-    "name": "Portable TV",
-    "buy": 3000,
-    "sell": 1500,
-    "description": "A bit outdated with phones available, but works great for group entertainment.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Potion",
     "buy": 200,
     "sell": 100,
@@ -1295,12 +1231,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Prison Bottle",
-    "description": "Changes Hoopa’s forme. Persuasion checks fail when within line of sight.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
     "name": "Protective Pads",
     "buy": 4000,
     "sell": 2000,
@@ -1329,14 +1259,6 @@
     "buy": 2000,
     "sell": 1000,
     "description": "If the field is Psychic Terrain, the holder eats Psychic Seed to Boost SDEF by +5.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Pure Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Foes targeting the holder get −2 Effect Rate. Smells like a fresh breeze.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1421,12 +1343,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Reveal Glass",
-    "description": "Changes formes for Thundurus, Tornadus and Landorus. A mirror that shows the truth. All Bluster checks fail when within line of sight.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
     "name": "Revive",
     "buy": 2500,
     "sell": 1250,
@@ -1459,14 +1375,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Rock Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Moves targeting the holder cost 1 more PP. Smells like dry dust.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Rocky Helmet",
     "buy": 4000,
     "sell": 2000,
@@ -1483,56 +1391,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Rose Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Foes targeting the holder get −2 Critical Rate. Smells like a garden in full bloom.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Rusted Shield",
-    "description": "Holding this transforms Zacian into Crowned Sword Forme and Iron Head into Behemoth Bash. For other Pokémon, Boosts +5 ATK when the holder joins the battle.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
-    "name": "Rusted Sword",
-    "description": "Holding this transforms Zamazenta into Crowned Shield Forme and Iron Head into Behemoth Blade. For other Pokémon, Boosts +5 DEF when the holder joins the battle.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
     "name": "Sachet",
     "buy": 2000,
     "sell": 1000,
     "description": "A strong-smelling stinkbag that evolves Spritzee.\nIf held, others making contact make a DC 5 Save or become Confused. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Sacred Magatama",
-    "description": "A bead that brings out benevolence. All Intensity checks fail when within line of sight.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
-    "name": "Sacred Mirror",
-    "description": "A mirror that brings true wisdom. All Deception checks fail when within line of sight.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
-    "name": "Sacred Tsurugi",
-    "description": "A sword that embodies valor. All Insight checks succeed when within line of sight.",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
-    "name": "Safety Goggles",
-    "buy": 4000,
-    "sell": 2000,
-    "description": "Dustproof eyewear that gives the holder Immunity to Weather damage and Moves with names containing “Powder” or “Spore”.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1549,14 +1411,6 @@
     "buy": 4000,
     "sell": 2000,
     "description": "Highlights vulnerabilities to give the holder +4 Critical Rate.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Sea Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Moves targeting the holder do −2 less damage. Smells like low tide.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1593,10 +1447,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Short Straw",
-    "buy": 4000,
-    "sell": 2000,
-    "description": "Redirects all Moves this round to the user's Pokemon.",
+    "name": "Short Fuse",
+    "buy": 1000,
+    "sell": 500,
+    "description": "If the holder is hit by a Fire Move and knows at least one Move that KO’s themself, the holder uses one of those Moves (player's choice) for free at the end of the round.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1631,18 +1485,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Smoke Ball",
-    "buy": 4000,
-    "sell": 2000,
-    "description": "The holder can always flee from wild Pokémon successfully without a check. A reusable ninja tool.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Snowball",
     "buy": 1000,
     "sell": 500,
-    "description": "If the holder takes Ice damage, they consume the Snowball to Boost ATK by +5.",
+    "description": "If the holder takes Ice damage, they use up the Snowball to Boost ATK by +5. Come to snowball fights prepared.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1735,6 +1581,14 @@
     "sellIsNumeric": true
   },
   {
+    "name": "Teachy TV",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "A bit outdated with Poképedia available, but works great for group entertainment. Promises to never hold relevant information for the players.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
     "name": "Technical Kit",
     "buy": 10000,
     "sell": 5000,
@@ -1745,7 +1599,7 @@
   {
     "name": "Technical Machine",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Cost $4× (500 + (500× PP Cost)) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Cost $4 × (500 + (500×PP Cost)) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -1805,14 +1659,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Tiny Mushroom",
-    "buy": 500,
-    "sell": 250,
-    "description": "Eat to roll on the Wild Mushroom table.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Toxic Orb",
     "buy": 1000,
     "sell": 500,
@@ -1829,14 +1675,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Type Drive",
-    "buy": 500,
-    "sell": 250,
-    "description": "Changes Techno Blast to the Drive’s Type when held. Acts as a Technical Record for any Move matching the Drive's Type.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Type Gem",
     "buy": 200,
     "sell": 100,
@@ -1849,14 +1687,6 @@
     "buy": 1000,
     "sell": 500,
     "description": "Activates RKS System and changes Multi-Attack's Type to the Memory's Type. Acts as a Technical Record for any Move matching the Memory's Type.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "U-Pipe",
-    "buy": 4000,
-    "sell": 2000,
-    "description": "Whenever a character hits the holder with a Ranged Move, they lose 1 Tick of HP.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1893,14 +1723,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Wave Incense",
-    "buy": 9000,
-    "sell": 4500,
-    "description": "Moves targeting the holder do −2 damage. Smells like high tide.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Weakness Policy",
     "buy": 1000,
     "sell": 500,
@@ -1913,14 +1735,6 @@
     "buy": 4000,
     "sell": 2000,
     "description": "When the holder changes the weather, it lasts 2 rounds longer.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Weathered Scarf",
-    "buy": 2000,
-    "sell": 1000,
-    "description": "Makes the Trainer immune to damage from Sandstorm and Hail.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1953,6 +1767,14 @@
     "buy": 4000,
     "sell": 2000,
     "description": "The holder gets +2 Accuracy.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Wild Mushroom",
+    "buy": 500,
+    "sell": 250,
+    "description": "Eaten when the user enters battle to roll on the Wild Mushroom table.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
