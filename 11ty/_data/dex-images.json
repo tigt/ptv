@@ -62,6 +62,13 @@
     ],
     "hash": "JYqmMsKtqiKv0yMxSuoDhA"
   },
+  "alcremie": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "Xi0jV8NX1F4OlzGfO-0dFQ"
+  },
   "alolan-diglett": {
     "sizes": [
       400,
@@ -86,9 +93,9 @@
   "alolan-geodude": {
     "sizes": [
       400,
-      249
+      247
     ],
-    "hash": "kRGFRjTf34xEpN21wU4Psg"
+    "hash": "IuubU2MEG_VFbLLNQ9q7Ew"
   },
   "alolan-golem": {
     "sizes": [
@@ -102,14 +109,14 @@
       400,
       236
     ],
-    "hash": "HWGQ3ZbUVwTUEw4Z6pOTcA"
+    "hash": "efiyDw2v_xqfHBkbCIddLg"
   },
   "alolan-grimer": {
     "sizes": [
       400,
-      248
+      246
     ],
-    "hash": "NZjRSZYcgxbfB6OKea7AsQ"
+    "hash": "COlbVDz_s8ojAPSVQJsEbg"
   },
   "alolan-marowak": {
     "sizes": [
@@ -121,23 +128,23 @@
   "alolan-meowth": {
     "sizes": [
       400,
-      247
+      246
     ],
-    "hash": "lwa1Ir1poacEaiXx3s6IKw"
+    "hash": "KZbg4OgGGO_7Jpg5sqxGlA"
   },
   "alolan-muk": {
     "sizes": [
       400,
-      236
+      235
     ],
-    "hash": "ajWsC0lqju5a1BTPZEd1eA"
+    "hash": "EuMJmqi52iGr8TrHYkjQxQ"
   },
   "alolan-ninetales": {
     "sizes": [
       400,
-      209
+      236
     ],
-    "hash": "VnPj4a0rwgIAiigYdIM55A"
+    "hash": "okDxireHHYURdjaKjSQkUA"
   },
   "alolan-persian": {
     "sizes": [
@@ -149,16 +156,16 @@
   "alolan-raichu": {
     "sizes": [
       400,
-      237
+      238
     ],
-    "hash": "JcH4PiJkCx9KiotDtAWSvA"
+    "hash": "SUg-qU7nYaDPsVyjqVWK_Q"
   },
   "alolan-raticate": {
     "sizes": [
       400,
-      236
+      238
     ],
-    "hash": "tiL1F3IiJ8QrF7yK7b4qlA"
+    "hash": "_uPHjUreWOQpvvqL1HXo2g"
   },
   "alolan-rattata": {
     "sizes": [
@@ -172,7 +179,7 @@
       400,
       248
     ],
-    "hash": "aQ3a1mSzUzTqQG7FDpbIJA"
+    "hash": "rTYWNLqgYK-KULWreB8Wdw"
   },
   "alolan-sandslash": {
     "sizes": [
@@ -184,9 +191,9 @@
   "alolan-vulpix": {
     "sizes": [
       400,
-      247
+      246
     ],
-    "hash": "FeDcLnuXJzeLXs_SfbQT6w"
+    "hash": "zUbmEpF3s__iJE0albdmig"
   },
   "alomomola": {
     "sizes": [
@@ -205,9 +212,9 @@
   "amaura": {
     "sizes": [
       400,
-      257
+      234
     ],
-    "hash": "_AMpP5uqX73YyClJG-_NTg"
+    "hash": "GFFaHaKCTtEcmkfibVPIEg"
   },
   "ambipom": {
     "sizes": [
@@ -236,6 +243,20 @@
       257
     ],
     "hash": "cvT1Aug7EOo7DuUuq2lhPA"
+  },
+  "appletun": {
+    "sizes": [
+      400,
+      232
+    ],
+    "hash": "stZjjBdB5DS-yyv-PgfQ0A"
+  },
+  "applin": {
+    "sizes": [
+      400,
+      247
+    ],
+    "hash": "htsRZNmDRnjHsms1uXEd0w"
   },
   "araquanid": {
     "sizes": [
@@ -268,16 +289,30 @@
   "archen": {
     "sizes": [
       400,
-      257
+      236
     ],
-    "hash": "kxRPxLbAI5-qymFTr99zbA"
+    "hash": "OwmiZJ0Jot2kAqAo_OQkZQ"
   },
   "archeops": {
     "sizes": [
       400,
-      257
+      237
     ],
-    "hash": "N0TMzRu_VjP4wkkkADe4-Q"
+    "hash": "-dlXzHjRXXe9k2nGV6oxnQ"
+  },
+  "arctovish": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "xD86bY95oWGVP9Ha6eCtfA"
+  },
+  "arctozolt": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "ZCqXJaIdCBEg1qUfwRozng"
   },
   "ariados": {
     "sizes": [
@@ -296,9 +331,9 @@
   "aromatisse": {
     "sizes": [
       400,
-      257
+      235
     ],
-    "hash": "eYU61q7lEWeKeqKhhz7SIw"
+    "hash": "WqQsHcstrBHSdrCa31c9Xw"
   },
   "aron": {
     "sizes": [
@@ -306,6 +341,13 @@
       263
     ],
     "hash": "oEk0QjPTGxly0q2M3iRxXw"
+  },
+  "arrokuda": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "3HPys8zyQwqOyiKcHnIhGA"
   },
   "articuno": {
     "sizes": [
@@ -387,9 +429,9 @@
   "barbaracle": {
     "sizes": [
       400,
-      258
+      233
     ],
-    "hash": "eok0jEjEoWU25MWZh7aD0g"
+    "hash": "T7DcsRMBhcWSNsdLL-4oKw"
   },
   "barboach": {
     "sizes": [
@@ -397,6 +439,13 @@
       242
     ],
     "hash": "lv7dZxRHUXuCsmMyI7p7Yw"
+  },
+  "barraskewda": {
+    "sizes": [
+      400,
+      236
+    ],
+    "hash": "mpSrz378Y9FHY8KFLg2ZMA"
   },
   "basculin": {
     "sizes": [
@@ -520,9 +569,9 @@
   "blacephalon": {
     "sizes": [
       400,
-      247
+      248
     ],
-    "hash": "mXxhes2QdsoGeZV4k508bw"
+    "hash": "gS9b--nHfOG3ymi_eaYqNg"
   },
   "black-kyurem": {
     "sizes": [
@@ -545,6 +594,13 @@
     ],
     "hash": "XwOI8MVNX3Gd18jj0Q0q-Q"
   },
+  "blipbug": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "cmN0XoZNwe6RcyrqqePpAg"
+  },
   "blissey": {
     "sizes": [
       400,
@@ -562,9 +618,16 @@
   "boldore": {
     "sizes": [
       400,
-      257
+      235
     ],
-    "hash": "w67e6SzuA2Z7in7r5pWjYw"
+    "hash": "PxzL5g97-eTmMj0GCbiqcA"
+  },
+  "boltund": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "6AcVtw6JIpzC3NewWTq6mg"
   },
   "bonsly": {
     "sizes": [
@@ -592,7 +655,7 @@
       400,
       248
     ],
-    "hash": "z0_C72OyrxTpcPb2XXYl5g"
+    "hash": "pWbKCJZ2f-SDB3SL2SfgLA"
   },
   "braixen": {
     "sizes": [
@@ -618,9 +681,9 @@
   "brionne": {
     "sizes": [
       400,
-      236
+      237
     ],
-    "hash": "2ZU3jlDGw6dJEZJhHVU9kg"
+    "hash": "xv6ogcNw4jNPbBmHrbm76Q"
   },
   "bronzong": {
     "sizes": [
@@ -695,9 +758,9 @@
   "buzzwole": {
     "sizes": [
       400,
-      248
+      247
     ],
-    "hash": "wwg48tfZT_tifmdmArGclQ"
+    "hash": "8XAO5NLQNsOwiXAhAulyVw"
   },
   "cacnea": {
     "sizes": [
@@ -713,6 +776,27 @@
     ],
     "hash": "URxGyI-XB4j1aB0MmwedpQ"
   },
+  "calyrex-ice-rider": {
+    "sizes": [
+      400,
+      300
+    ],
+    "hash": "vx-SexwcztZhB0GD1L6RtA"
+  },
+  "calyrex-shadow-rider": {
+    "sizes": [
+      400,
+      289
+    ],
+    "hash": "ZNuAW4CCRFhx3DG7wNy8Sg"
+  },
+  "calyrex": {
+    "sizes": [
+      400,
+      225
+    ],
+    "hash": "GbEk_O9uYN9pLf2vJ_OIXA"
+  },
   "camerupt": {
     "sizes": [
       400,
@@ -726,6 +810,13 @@
       263
     ],
     "hash": "HzFh8wRBDMe3x6yiE5EBHw"
+  },
+  "carkol": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "mrlibrOrom364CJQkcvKMQ"
   },
   "carnivine": {
     "sizes": [
@@ -800,16 +891,23 @@
   "celesteela": {
     "sizes": [
       400,
-      248
+      249
     ],
-    "hash": "yTvOh93hkSv9OyMtGB2jBw"
+    "hash": "htNdO0N7Php5-G2tEXYucA"
+  },
+  "centiskorch": {
+    "sizes": [
+      400,
+      231
+    ],
+    "hash": "m004yKZowbXDTtD6MLMDVg"
   },
   "chandelure": {
     "sizes": [
       400,
       237
     ],
-    "hash": "xlOQuCCWz4N8rVx6qr-47Q"
+    "hash": "uY99yZiKr2xt7Ln5s5IsEQ"
   },
   "chansey": {
     "sizes": [
@@ -888,6 +986,13 @@
     ],
     "hash": "PxMlRK08IyqnNXiQN4ERFw"
   },
+  "chewtle": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "Y1G1Zqx_FvXOD0F-HGPtYQ"
+  },
   "chikorita": {
     "sizes": [
       400,
@@ -930,6 +1035,13 @@
     ],
     "hash": "OWCYv7lpg6VYQkCT7ws93w"
   },
+  "cinderace": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "rnx-AMgchJTOz2AlaNqmxw"
+  },
   "clamperl": {
     "sizes": [
       400,
@@ -940,9 +1052,9 @@
   "clauncher": {
     "sizes": [
       400,
-      263
+      250
     ],
-    "hash": "t5zAlZzJU67ktJkBcd7knQ"
+    "hash": "4rTKHvIcYfNkEdpEKNEcRA"
   },
   "clawitzer": {
     "sizes": [
@@ -979,6 +1091,13 @@
     ],
     "hash": "zfjT2ntoiVZkb6a8f9Lz5Q"
   },
+  "clobbopus": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "i_z-XwRisf7xJUeKuxqKuA"
+  },
   "cloyster": {
     "sizes": [
       400,
@@ -986,19 +1105,26 @@
     ],
     "hash": "M7Ws0cJIQ3SZRjj1wM2mmg"
   },
+  "coalossal": {
+    "sizes": [
+      400,
+      232
+    ],
+    "hash": "Yj3C_huiGqvCX5-QT1tmwg"
+  },
   "cobalion": {
     "sizes": [
       400,
-      247
+      250
     ],
-    "hash": "7-5aq7P_4fGSP1w_N053_g"
+    "hash": "4jJob_WXHt_530wOrD71QA"
   },
   "cofagrigus": {
     "sizes": [
       400,
-      257
+      236
     ],
-    "hash": "t7cj6-xNVd5dmECG3X0VDg"
+    "hash": "27BYZMQqeB-XwShjDo0EGA"
   },
   "combee": {
     "sizes": [
@@ -1028,6 +1154,13 @@
     ],
     "hash": "yYX0oZL3TTCHgaoUWQHCcQ"
   },
+  "copperajah": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "HDPKGuWrckyuXyDkzOTshw"
+  },
   "corphish": {
     "sizes": [
       400,
@@ -1042,19 +1175,33 @@
     ],
     "hash": "KvTE3JixzMKWVUBjzCnFqg"
   },
+  "corviknight": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "NWGNKDusj_YSn8YqQDO56Q"
+  },
+  "corvisquire": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "njlqqn5wwsjIe9hSbSSsRA"
+  },
   "cosmoem": {
     "sizes": [
       400,
-      236
+      237
     ],
-    "hash": "MX8nPZ-CUVEb1hfieGGZiQ"
+    "hash": "7k_9DwlFrQnMOCvHDXYy1g"
   },
   "cosmog": {
     "sizes": [
       400,
-      248
+      247
     ],
-    "hash": "7GmzTWFAOeyJdLqLWxHt_Q"
+    "hash": "jiweZpIo1EU2XranQe15Xw"
   },
   "cottonee": {
     "sizes": [
@@ -1073,9 +1220,9 @@
   "crabrawler": {
     "sizes": [
       400,
-      247
+      248
     ],
-    "hash": "hr3_H-ZoqUj3bHhDOksCXA"
+    "hash": "SgSCcDPTSLrxD8K0VfCv-A"
   },
   "cradily": {
     "sizes": [
@@ -1083,6 +1230,13 @@
       258
     ],
     "hash": "Xdbr3ncmdzx4_vik4Mkuow"
+  },
+  "cramorant": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "AM4EwOH6wx6vPwZ9gCnnpw"
   },
   "cranidos": {
     "sizes": [
@@ -1154,12 +1308,26 @@
     ],
     "hash": "Oahkk9mnFzefJEDa30tlow"
   },
-  "cutiefly": {
+  "cufant": {
     "sizes": [
       400,
       248
     ],
-    "hash": "HDas5MjuOL5cjLfY7XdfyA"
+    "hash": "NmcBlTCZ-BRJyG46IvE_jw"
+  },
+  "cursola": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "65VTlZvWDO5e4X8WOzfzqA"
+  },
+  "cutiefly": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "6-DDz-FTEtkjtCpLC6DpxQ"
   },
   "cyndaquil": {
     "sizes": [
@@ -1192,9 +1360,9 @@
   "dartrix": {
     "sizes": [
       400,
-      236
+      233
     ],
-    "hash": "oRDJSLJASFGpxNdeNCVpVw"
+    "hash": "leurivS40I6jh1I9Xk3lHQ"
   },
   "darumaka": {
     "sizes": [
@@ -1213,9 +1381,9 @@
   "decidueye": {
     "sizes": [
       400,
-      252
+      238
     ],
-    "hash": "Jl1vI0HdwRDfeJDxX4Fz2Q"
+    "hash": "LfQGcHTBJuHRKrtSO6clOA"
   },
   "dedenne": {
     "sizes": [
@@ -1297,9 +1465,9 @@
   "dewott": {
     "sizes": [
       400,
-      258
+      235
     ],
-    "hash": "MsDz3P5qtpFMf0aBMP9cQw"
+    "hash": "H4A2IICdbJII1PY4FYa2-A"
   },
   "dewpider": {
     "sizes": [
@@ -1332,9 +1500,9 @@
   "diggersby": {
     "sizes": [
       400,
-      257
+      233
     ],
-    "hash": "p1y5EoHJmt0KfRBYigy1EA"
+    "hash": "VY7_MpXTr5TLdv4ALstXvQ"
   },
   "diglett": {
     "sizes": [
@@ -1371,6 +1539,13 @@
     ],
     "hash": "4gh9-knkMDeoIwoelRsoxg"
   },
+  "dottler": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "yM4BNzB-hWMZiNfaTNVkGQ"
+  },
   "doublade": {
     "sizes": [
       400,
@@ -1378,12 +1553,33 @@
     ],
     "hash": "HRBMhmQkPeWGfAbqoyS8NA"
   },
+  "dracovish": {
+    "sizes": [
+      400,
+      232
+    ],
+    "hash": "dHz9TcbH8BKC9pO5z1YYyQ"
+  },
+  "dracozolt": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "cAQJOaHIevm_PZ5e2hXEFg"
+  },
   "dragalge": {
     "sizes": [
       400,
       258
     ],
     "hash": "ddi7w3YkQeDcbitQzj4Waw"
+  },
+  "dragapult": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "Em5r36uzzDbLw60dk2oNaw"
   },
   "dragonair": {
     "sizes": [
@@ -1399,12 +1595,19 @@
     ],
     "hash": "Hd7RHOBH_bLZKvT8GuCj9A"
   },
+  "drakloak": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "CVD2hESzSkm79PPMsC4Y-w"
+  },
   "drampa": {
     "sizes": [
       400,
       248
     ],
-    "hash": "R9eBbX9EN6bHe_CvvqKtNA"
+    "hash": "amMO3TWaeURTD_-KMj5zFQ"
   },
   "drapion": {
     "sizes": [
@@ -1419,6 +1622,20 @@
       241
     ],
     "hash": "jpD68-gp6Uk2z_7tt3Zxng"
+  },
+  "drednaw": {
+    "sizes": [
+      400,
+      236
+    ],
+    "hash": "nIjXp_AOQboe1Xy57jI0IQ"
+  },
+  "dreepy": {
+    "sizes": [
+      400,
+      207
+    ],
+    "hash": "oh2QcjZq6pgZr0V_2MoSlg"
   },
   "drifblim": {
     "sizes": [
@@ -1441,6 +1658,13 @@
     ],
     "hash": "poUMVlZ9tq0iecOiS4T8RA"
   },
+  "drizzile": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "ThjK83xzWasrpta9YHSigw"
+  },
   "drowzee--secret": {
     "sizes": [
       400,
@@ -1461,6 +1685,13 @@
       264
     ],
     "hash": "BADjRpg7-uuAxvLM-JgSXA"
+  },
+  "dubwool": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "-Q-k2xOU4wzVf6GIIihYTw"
   },
   "ducklett": {
     "sizes": [
@@ -1490,6 +1721,13 @@
     ],
     "hash": "H1qd0F91fpdhN9VgCU162g"
   },
+  "duraludon": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "gQmirrvo5tCa8MZAzEhC_Q"
+  },
   "durant": {
     "sizes": [
       400,
@@ -1500,9 +1738,9 @@
   "dusclops": {
     "sizes": [
       400,
-      243
+      233
     ],
-    "hash": "1qmqcqGBEF8JXlauHQyDOw"
+    "hash": "DRqW6XU7_XouQNNAK1m8yA"
   },
   "dusk-mane-necrozma": {
     "sizes": [
@@ -1542,16 +1780,16 @@
   "eelektrik": {
     "sizes": [
       400,
-      258
+      234
     ],
-    "hash": "utSGQaaDI_r0LFUfR9AIlg"
+    "hash": "6jiWCWoK_-aLBfwVpCDyuA"
   },
   "eelektross": {
     "sizes": [
       400,
-      258
+      235
     ],
-    "hash": "bfedyXf92n6G5zuekzY6kw"
+    "hash": "PUNKwvaKnA9PtizeKvWzcA"
   },
   "eevee": {
     "sizes": [
@@ -1560,12 +1798,33 @@
     ],
     "hash": "LC5-a4ZI4kvVh1Ysre8TYw"
   },
+  "eiscue-noice": {
+    "sizes": [
+      400,
+      229
+    ],
+    "hash": "Y3YaCPKksHQiXINoSPTNVw"
+  },
+  "eiscue": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "OZhrki-1GFqlP1GLDXUhYQ"
+  },
   "ekans": {
     "sizes": [
       400,
-      239
+      246
     ],
-    "hash": "LwhJUvuvoAsgcygFugl49w"
+    "hash": "vVBghAX5t_ubeEKYsjp6qA"
+  },
+  "eldegoss": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "NzucZTN6IQ-3WKFYAHwJnQ"
   },
   "electabuzz": {
     "sizes": [
@@ -1640,9 +1899,9 @@
   "entei": {
     "sizes": [
       400,
-      263
+      249
     ],
-    "hash": "_lHTqxeqomivWG1S6IXKcA"
+    "hash": "pXclAS8yjy8ckY3uLbDZjg"
   },
   "escavalier": {
     "sizes": [
@@ -1664,6 +1923,20 @@
       263
     ],
     "hash": "0k8wQg8pghyfYCgYUrLsTw"
+  },
+  "eternatus-eternamax": {
+    "sizes": [
+      400,
+      224
+    ],
+    "hash": "CKQP-bIz7jzb2h6XxMiMXg"
+  },
+  "eternatus": {
+    "sizes": [
+      400,
+      274
+    ],
+    "hash": "esBQ-VPrxbNpHr2CX-MvpA"
   },
   "excadrill": {
     "sizes": [
@@ -1692,6 +1965,13 @@
       257
     ],
     "hash": "BTqHHS6PA79R5zwWhKDMuQ"
+  },
+  "falinks": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "ck6rIo0Q300zj4ue4fLtdg"
   },
   "fan-rotom": {
     "sizes": [
@@ -1768,7 +2048,14 @@
       400,
       263
     ],
-    "hash": "WuoWnHU5zD9yNGx65mEecw"
+    "hash": "Cm6DqL9bR9lv5QU0AsP2Ow"
+  },
+  "flapple": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "DZD3lWaVgOaNV4qENE-PeQ"
   },
   "flareon": {
     "sizes": [
@@ -1780,9 +2067,9 @@
   "fletchinder": {
     "sizes": [
       400,
-      238
+      234
     ],
-    "hash": "iotfvARhvhByUdGp41XcEA"
+    "hash": "Rve3xLl67MZkU1CrrZ-q9Q"
   },
   "fletchling": {
     "sizes": [
@@ -1803,14 +2090,14 @@
       400,
       257
     ],
-    "hash": "j8pt1Z7Aagfvg5ipyq1mJA"
+    "hash": "usKj-hoXllHP3FGhW48Lcw"
   },
   "florges": {
     "sizes": [
       400,
-      257
+      235
     ],
-    "hash": "zqWLABU8j-aINjKE6ZSg9Q"
+    "hash": "jbrm3UbkWOjbUlHcldeDqA"
   },
   "flygon": {
     "sizes": [
@@ -1875,6 +2162,13 @@
     ],
     "hash": "umJ8CUkmJnuVZrU5mnQslQ"
   },
+  "frosmoth": {
+    "sizes": [
+      400,
+      202
+    ],
+    "hash": "OPx8ftBur0Dcrc1CcUMD4Q"
+  },
   "frost-rotom": {
     "sizes": [
       400,
@@ -1885,9 +2179,9 @@
   "furfrou": {
     "sizes": [
       400,
-      263
+      249
     ],
-    "hash": "56YsJzJqHeAq7ZVDk4cMLg"
+    "hash": "9pP4D0VOR1j-9Nw2WDEFAg"
   },
   "furret": {
     "sizes": [
@@ -1903,12 +2197,152 @@
     ],
     "hash": "N-z_EdKm97Y0gOAWt1VDJw"
   },
+  "galarian-articuno": {
+    "sizes": [
+      400,
+      308
+    ],
+    "hash": "B-H2t_4_a31ipJOFVQoT-Q"
+  },
+  "galarian-corsola": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "teqicNcaUAy7RZSEf-gKYQ"
+  },
+  "galarian-darmanitan-zen": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "ehBnesRFPDyd_MWOLVip8Q"
+  },
+  "galarian-darmanitan": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "vvrBPwfmTRlW7-H-7yICiA"
+  },
+  "galarian-darumaka": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "JmpYOeCOcrvxTOJcPUINbA"
+  },
+  "galarian-farfetch'd": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "5anJltDgyxsOONyx0pciLQ"
+  },
+  "galarian-linoone": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "MqHDdOK_2iqp6aNpt_hjmA"
+  },
+  "galarian-meowth": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "8J0HaoBDz-KuoCBpgBxm1w"
+  },
+  "galarian-moltres": {
+    "sizes": [
+      400,
+      311
+    ],
+    "hash": "v2I4Ffpq1dsXz2vdKBXdPg"
+  },
+  "galarian-mr.-mime": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "ht8XtGUUQMykMHIxNFOI3g"
+  },
+  "galarian-ponyta": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "7zb5S_3q6GyAxqvoYmP0yg"
+  },
+  "galarian-rapidash": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "9Hdzq63ifKgIPjJEndEIyw"
+  },
+  "galarian-slowbro": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "pJGf0B01d6bUM44zrEtkwA"
+  },
+  "galarian-slowking": {
+    "sizes": [
+      400,
+      221
+    ],
+    "hash": "cy4jZq7H4lFKG3FxfWcL9w"
+  },
+  "galarian-slowpoke": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "HfHJDEGVTZ_lv25bWidV4A"
+  },
+  "galarian-stunfisk": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "eYyTtNOYAwA2RAxIo9wYSQ"
+  },
+  "galarian-weezing": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "ZkBoHeOi0zrfwqctc8BuSA"
+  },
+  "galarian-yamask": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "4-wSWb0NyT0mnz999WKUhw"
+  },
+  "galarian-zapdos": {
+    "sizes": [
+      400,
+      313
+    ],
+    "hash": "GMk_xwabAPCdIC3Us19rKw"
+  },
+  "galarian-zigzagoon": {
+    "sizes": [
+      400,
+      247
+    ],
+    "hash": "11ZpLCg6NGBWoKbvUnCGWg"
+  },
   "gallade": {
     "sizes": [
       400,
-      257
+      234
     ],
-    "hash": "BqbYTcCNshSNSnbHRQs_sQ"
+    "hash": "iB-rTXFvQJnO-gR01n7TMw"
   },
   "galvantula": {
     "sizes": [
@@ -2004,9 +2438,9 @@
   "giratina": {
     "sizes": [
       400,
-      261
+      248
     ],
-    "hash": "iDl_8lIUsHaNURGZJWtMHg"
+    "hash": "v4yeELcyP7ia8dFWzuqK1Q"
   },
   "glaceon": {
     "sizes": [
@@ -2025,9 +2459,9 @@
   "glameow": {
     "sizes": [
       400,
-      263
+      246
     ],
-    "hash": "NjYYl5RRUA3Kh7UZded3cA"
+    "hash": "oyM-RrbySMkXvAcXax9Udw"
   },
   "gligar": {
     "sizes": [
@@ -2053,9 +2487,9 @@
   "gogoat": {
     "sizes": [
       400,
-      257
+      237
     ],
-    "hash": "sUpozTcZEqWRCU6aCfK3mg"
+    "hash": "gy1R3OBO8PO6sReYZagt7Q"
   },
   "golbat": {
     "sizes": [
@@ -2127,6 +2561,13 @@
     ],
     "hash": "OonRxkbDFBydpq8AzkJVsA"
   },
+  "gossifleur": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "0X7g9vTaNRJy4BN5q3D09A"
+  },
   "gothita": {
     "sizes": [
       400,
@@ -2162,6 +2603,13 @@
     ],
     "hash": "Ag6SEj0Gcr2KuaEHkptdOQ"
   },
+  "grapploct": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "bIciZ8MVDtnbFlwPCq_OBw"
+  },
   "graveler": {
     "sizes": [
       400,
@@ -2169,12 +2617,26 @@
     ],
     "hash": "It-0Ij4HjbdmD8w0XdzWeA"
   },
+  "greedent": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "pc4DIURJnQCM1Hi9s2yG1Q"
+  },
+  "greninja-ash": {
+    "sizes": [
+      400,
+      226
+    ],
+    "hash": "0LzZ-fO7Zy7S1cZlE-wHGg"
+  },
   "greninja": {
     "sizes": [
       400,
-      257
+      236
     ],
-    "hash": "akxJ4uGRapDxirTmo3uFrA"
+    "hash": "KTsIDhc-pq4OTvhoX0l1rg"
   },
   "grimer": {
     "sizes": [
@@ -2182,6 +2644,20 @@
       263
     ],
     "hash": "qadEkZDL3M2BjJ1GHFd5Kw"
+  },
+  "grimmsnarl": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "ihVhoabQvyhAujb20Y3cGg"
+  },
+  "grookey": {
+    "sizes": [
+      400,
+      247
+    ],
+    "hash": "wOXAxQwMQHNM40X4sLWu0g"
   },
   "grotle": {
     "sizes": [
@@ -2249,9 +2725,9 @@
   "guzzlord": {
     "sizes": [
       400,
-      248
+      249
     ],
-    "hash": "kvQi-8ENg_ediNG22TI1JA"
+    "hash": "qr4EYUKwrOjDv76LlXBDYQ"
   },
   "gyarados": {
     "sizes": [
@@ -2263,9 +2739,9 @@
   "hakamo-o": {
     "sizes": [
       400,
-      237
+      236
     ],
-    "hash": "a1VY6EIm5TW3ifXDJZlrEg"
+    "hash": "sqv4Tse1G2Y_0q1Py5eGIw"
   },
   "happiny": {
     "sizes": [
@@ -2280,6 +2756,27 @@
       257
     ],
     "hash": "TDrT-dD45NqckmtzurWZ7w"
+  },
+  "hatenna": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "v2gsH_knriE8wEIFhnk5Fw"
+  },
+  "hatterene": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "ZWUUR5NO-87W6zX3N4phEg"
+  },
+  "hattrem": {
+    "sizes": [
+      400,
+      232
+    ],
+    "hash": "8rp-h06iXn1XQt_SVdudMA"
   },
   "haunter": {
     "sizes": [
@@ -2347,9 +2844,9 @@
   "herdier": {
     "sizes": [
       400,
-      257
+      235
     ],
-    "hash": "YEVF_9KUTbdcDBAeQbGCrw"
+    "hash": "h6zQU8hRZhXbO9tk5eHo9w"
   },
   "hippopotas": {
     "sizes": [
@@ -2412,7 +2909,7 @@
       400,
       248
     ],
-    "hash": "jHDBYPSBhpj59lypnPj_VA"
+    "hash": "dLrGOUlj1RYXHkqUnmDN3A"
   },
   "hoopa": {
     "sizes": [
@@ -2491,12 +2988,33 @@
     ],
     "hash": "14wtTBPAfs4dZG3XRNenMA"
   },
+  "impidimp": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "qILMf0GpsQdjQYK6BVtNKw"
+  },
   "incineroar": {
     "sizes": [
       400,
       238
     ],
     "hash": "2K7vdh90V_ImXJL1_UBKpA"
+  },
+  "indeedee-♀": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "eo-tkQSQ1bFOWehYpkhB1g"
+  },
+  "indeedee-♂": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "_q547rJNDnpapiJ75Dvt7g"
   },
   "infernape": {
     "sizes": [
@@ -2512,6 +3030,13 @@
     ],
     "hash": "6JYQvBQJuLrN2mW9UvJvtw"
   },
+  "inteleon": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "0AIsWlXtO-gWE1qklhODoA"
+  },
   "ivysaur": {
     "sizes": [
       400,
@@ -2522,9 +3047,9 @@
   "jangmo-o": {
     "sizes": [
       400,
-      248
+      249
     ],
-    "hash": "lx62pLWYNwD8DqVsQ72Gfw"
+    "hash": "cW5Fu-fWZxVbWqqCfNuv3A"
   },
   "jellicent": {
     "sizes": [
@@ -2599,9 +3124,9 @@
   "kadabra": {
     "sizes": [
       400,
-      227
+      302
     ],
-    "hash": "qHJFXn5yZ0rPqJL_0oaQHg"
+    "hash": "NNJYDKOopWeb1yS0SqGD-A"
   },
   "kakuna": {
     "sizes": [
@@ -2620,16 +3145,16 @@
   "karrablast": {
     "sizes": [
       400,
-      263
+      248
     ],
-    "hash": "BCJwMnHXOLcBn22J9mFJ3g"
+    "hash": "4fuIsUYydzOnT6wi56tTag"
   },
   "kartana": {
     "sizes": [
       400,
-      248
+      249
     ],
-    "hash": "lOoUEMB9CVbxDZadu1jhMg"
+    "hash": "7746miZ4u-ks5ZelcYJQZA"
   },
   "kecleon": {
     "sizes": [
@@ -2676,9 +3201,9 @@
   "klang": {
     "sizes": [
       400,
-      257
+      235
     ],
-    "hash": "9v0VXFj7ryMxwwwrg_ZDlA"
+    "hash": "w-zAFCT8qyHi33nd9cBJmQ"
   },
   "klefki": {
     "sizes": [
@@ -2690,9 +3215,9 @@
   "klink": {
     "sizes": [
       400,
-      263
+      247
     ],
-    "hash": "8W80I3232VSMcXOoWJs6WQ"
+    "hash": "GEBJ_vn3juNpdq1ezhDVNg"
   },
   "klinklang": {
     "sizes": [
@@ -2713,7 +3238,7 @@
       400,
       247
     ],
-    "hash": "KKYyiUVTOCVENQkq1PCHcg"
+    "hash": "OkAm07OdBZ1MacaqLFnRSg"
   },
   "kommo-o": {
     "sizes": [
@@ -2746,9 +3271,9 @@
   "krokorok": {
     "sizes": [
       400,
-      237
+      258
     ],
-    "hash": "NNQCoRfDP6mkYxFd7T7CKg"
+    "hash": "OxJ1jBT_IC0nRy1cLItlDQ"
   },
   "krookodile": {
     "sizes": [
@@ -2756,6 +3281,13 @@
       238
     ],
     "hash": "WfNK_OpicxFWAttfzHNoRg"
+  },
+  "kubfu": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "N4MS7UgaVRXUV35RG1741w"
   },
   "kyogre": {
     "sizes": [
@@ -2774,9 +3306,9 @@
   "lairon": {
     "sizes": [
       400,
-      239
+      234
     ],
-    "hash": "FKurxJRnO-Nxfs5eI6u50w"
+    "hash": "Ye_GbjEUbVTIzixmHZ1psg"
   },
   "lampent": {
     "sizes": [
@@ -2818,7 +3350,7 @@
       400,
       248
     ],
-    "hash": "yVIL7GaNsRlOfDRcdHJcBg"
+    "hash": "Wp6UdyRYu4_kaonRx_v-aA"
   },
   "larvitar": {
     "sizes": [
@@ -2830,23 +3362,23 @@
   "latias": {
     "sizes": [
       400,
-      266
+      249
     ],
-    "hash": "HDgLlAPFxwE10d7kArmDwA"
+    "hash": "GZubXxihDTGW2-MYpNlp7g"
   },
   "latios": {
     "sizes": [
       400,
-      267
+      247
     ],
-    "hash": "eIxiYrHV5uJnNxSoGvrUoQ"
+    "hash": "yTPwY9Btu-MCtm9bT69YQg"
   },
   "leafeon": {
     "sizes": [
       400,
-      257
+      236
     ],
-    "hash": "4P9ijE1p7V0li6P_57Jlug"
+    "hash": "s2zgnZSJv7w7qweO11ydvg"
   },
   "leavanny": {
     "sizes": [
@@ -2921,9 +3453,9 @@
   "litleo": {
     "sizes": [
       400,
-      263
+      248
     ],
-    "hash": "bt4n7w2CNkGG7Q8-DX8N7A"
+    "hash": "w8YjvUL8enFnjxx6ViWjDg"
   },
   "litten": {
     "sizes": [
@@ -3012,16 +3544,16 @@
   "lurantis": {
     "sizes": [
       400,
-      236
+      234
     ],
-    "hash": "gjPpn9-PTT1TXBjkRd6ULw"
+    "hash": "jDkAQAMkzlNaE3zh9D6Bqg"
   },
   "luvdisc": {
     "sizes": [
       400,
-      241
+      248
     ],
-    "hash": "8kVRBXEbpNfIAwlFXceKxQ"
+    "hash": "wSylwYDSZaE--9jFQCwwpg"
   },
   "luxio": {
     "sizes": [
@@ -3054,9 +3586,9 @@
   "lycanroc-midnight": {
     "sizes": [
       400,
-      238
+      233
     ],
-    "hash": "m2Z8LxGoTi_oUcf4dOlFug"
+    "hash": "nkfnIru5h9JjiA0Y_HLMjw"
   },
   "machamp": {
     "sizes": [
@@ -3117,9 +3649,9 @@
   "magmortar": {
     "sizes": [
       400,
-      237
+      234
     ],
-    "hash": "xhHKRI21_EVMc5TZ0pPgXA"
+    "hash": "smlC_NCZAItTFr3Rep42hQ"
   },
   "magnemite": {
     "sizes": [
@@ -3152,9 +3684,9 @@
   "malamar": {
     "sizes": [
       400,
-      262
+      237
     ],
-    "hash": "jGRj41JXVKChExdtrvQc2A"
+    "hash": "DQJ6Oo-ewBzRTOQwazLl4A"
   },
   "mamoswine": {
     "sizes": [
@@ -3264,9 +3796,9 @@
   "mawile": {
     "sizes": [
       400,
-      275
+      248
     ],
-    "hash": "6EFH4LNw65XEvppFDk1nYA"
+    "hash": "Oo8PT0xaBaWwPxrXxGBivA"
   },
   "medicham": {
     "sizes": [
@@ -3376,9 +3908,9 @@
   "mewtwo": {
     "sizes": [
       400,
-      263
+      238
     ],
-    "hash": "ZZP87MObaqVDeKOiNMelxA"
+    "hash": "D4kevg2v63_bDzIm7RgodA"
   },
   "mienfoo": {
     "sizes": [
@@ -3401,12 +3933,19 @@
     ],
     "hash": "ZN_s1cGR_9jt57xVOHzgzg"
   },
+  "milcery": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "FNX-mHqcaXNsbal6zuw4bg"
+  },
   "milotic": {
     "sizes": [
       400,
       261
     ],
-    "hash": "-Cma7TIIs5xakDE1GNOV4w"
+    "hash": "uc8MX7GSK8JzjgOkBIuglg"
   },
   "miltank": {
     "sizes": [
@@ -3436,12 +3975,19 @@
     ],
     "hash": "DOM7A0q5GPAvg_P2m3XIjg"
   },
-  "minior": {
+  "minior-core": {
     "sizes": [
       400,
       248
     ],
     "hash": "QAP_gOi5obuBJhFLbyojhA"
+  },
+  "minior": {
+    "sizes": [
+      400,
+      247
+    ],
+    "hash": "bO4BQXPWGXgZfYVbYKhSHA"
   },
   "minun": {
     "sizes": [
@@ -3460,9 +4006,9 @@
   "mismagius": {
     "sizes": [
       400,
-      264
+      237
     ],
-    "hash": "NyZG0naQRT7-CU3RAOlNtw"
+    "hash": "3VTHFZ5koxkmyKo32H074Q"
   },
   "moltres": {
     "sizes": [
@@ -3485,6 +4031,20 @@
     ],
     "hash": "4fw5vcWo-3XURN8wrEcy4w"
   },
+  "morgrem": {
+    "sizes": [
+      400,
+      232
+    ],
+    "hash": "R7mzfbi3XQsi0iTjGke9uA"
+  },
+  "morpeko": {
+    "sizes": [
+      400,
+      246
+    ],
+    "hash": "lWRjvGD_2YqaFMUJpYJwKQ"
+  },
   "mothim": {
     "sizes": [
       400,
@@ -3506,12 +4066,19 @@
     ],
     "hash": "G2sVqC_qyjm5RPijPgjoMg"
   },
+  "mr.-rime": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "qxy6IcfsCGvHUq5wwiBzpw"
+  },
   "mudbray": {
     "sizes": [
       400,
-      247
+      248
     ],
-    "hash": "WlJ1SU2UqcvF3w43SB2NXQ"
+    "hash": "4c-qRfOKwhPIwWDJSTRE-g"
   },
   "mudkip": {
     "sizes": [
@@ -3565,16 +4132,37 @@
   "naganadel": {
     "sizes": [
       400,
-      238
+      235
     ],
-    "hash": "5Vh1q-Si5F4AhhLllScHvQ"
+    "hash": "5GBOATL-fNQRF2_4Zl40Ag"
   },
   "natu": {
     "sizes": [
       400,
-      277
+      248
     ],
-    "hash": "U5yyXt2kN4LGDsDWKvUSVA"
+    "hash": "iDsVrpGRJi8qNBAVPZCpSg"
+  },
+  "necrozma-dawn-wings": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "rkfGq9TBrbXNQDYwzcJe7g"
+  },
+  "necrozma-dusk-mane": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "TSD0Qzi1-_sSAorLNzmlvQ"
+  },
+  "necrozma-ultra": {
+    "sizes": [
+      400,
+      246
+    ],
+    "hash": "6FAGEIBAL5kiyWU9LjrQtQ"
   },
   "necrozma": {
     "sizes": [
@@ -3582,6 +4170,13 @@
       222
     ],
     "hash": "x50QCt_PAu_8_mWX0ZPUCg"
+  },
+  "nickit": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "Ocp8vDu73VHMwAaVAyF9zw"
   },
   "nidoking": {
     "sizes": [
@@ -3628,9 +4223,9 @@
   "nihilego": {
     "sizes": [
       400,
-      248
+      249
     ],
-    "hash": "2IpOLl1g2z0Yr5AokVP1UA"
+    "hash": "6vcO1xnIr0Zl7ngjT-8Sqg"
   },
   "nincada": {
     "sizes": [
@@ -3695,6 +4290,13 @@
     ],
     "hash": "RnpGiTEpOB1XeBnITJqLpw"
   },
+  "obstagoon": {
+    "sizes": [
+      400,
+      236
+    ],
+    "hash": "dhzog9t0vWPRE_SLW4Kpxw"
+  },
   "octillery": {
     "sizes": [
       400,
@@ -3736,6 +4338,13 @@
       247
     ],
     "hash": "LB8xnzMRx-Krq8RZWVHl0g"
+  },
+  "orbeetle": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "4kwFPDmge-SbL8eaHHjayQ"
   },
   "oricorio-baile": {
     "sizes": [
@@ -3789,9 +4398,9 @@
   "palossand": {
     "sizes": [
       400,
-      237
+      236
     ],
-    "hash": "16FvTkRysrsT1VMNB6WbFA"
+    "hash": "-hU1LCd9GuR2e8nhaE8kRg"
   },
   "palpitoad": {
     "sizes": [
@@ -3877,6 +4486,13 @@
     ],
     "hash": "nLDOpnL83rZfknEQ1zIk5A"
   },
+  "perrserker": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "BPW2tICsqs8ieOPcbSxdcQ"
+  },
   "persian": {
     "sizes": [
       400,
@@ -3908,9 +4524,9 @@
   "pheromosa": {
     "sizes": [
       400,
-      249
+      248
     ],
-    "hash": "S8ZnGiDsBR6DFQN7RD9_Xg"
+    "hash": "ojT2LFUYRbWZO3XTJ1AWqQ"
   },
   "phione": {
     "sizes": [
@@ -3950,9 +4566,9 @@
   "pidove": {
     "sizes": [
       400,
-      263
+      248
     ],
-    "hash": "ufAuNnShaLHDgrx4JwrlpA"
+    "hash": "iLSp0doy1ARNcpLKQAXiRw"
   },
   "pignite": {
     "sizes": [
@@ -3982,6 +4598,13 @@
     ],
     "hash": "mNPlD3d3OxZ3d9DA-5evag"
   },
+  "pincurchin": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "1_M5R-KlcEO99SGWfUBhyA"
+  },
   "pineco": {
     "sizes": [
       400,
@@ -3999,9 +4622,9 @@
   "piplup": {
     "sizes": [
       400,
-      263
+      248
     ],
-    "hash": "zn_GaNsGyGYjcGJqOZwclQ"
+    "hash": "ePbvAd-2B_c2LhL4nxrXgA"
   },
   "plusle": {
     "sizes": [
@@ -4015,7 +4638,7 @@
       400,
       249
     ],
-    "hash": "qEfBN8-0_Frk-F_ZNG3VMg"
+    "hash": "Xw7ZRdKACSCvW-miwo-n0Q"
   },
   "politoed": {
     "sizes": [
@@ -4045,6 +4668,13 @@
     ],
     "hash": "FgpaS259VKeeyjVv0p31kA"
   },
+  "polteageist": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "eR_BM3XJO4xAWfQO__s1Qw"
+  },
   "ponyta": {
     "sizes": [
       400,
@@ -4062,9 +4692,9 @@
   "popplio": {
     "sizes": [
       400,
-      247
+      248
     ],
-    "hash": "hIifl2Wvw50orNJxSGbvlw"
+    "hash": "xhAvz53-VuNOtN5ScIiSFA"
   },
   "porygon-z": {
     "sizes": [
@@ -4162,7 +4792,7 @@
       400,
       247
     ],
-    "hash": "PnVtRpyk37VO-iZyKltqRg"
+    "hash": "p-TVqIXBffNnj_LZefQGyw"
   },
   "quagsire": {
     "sizes": [
@@ -4191,6 +4821,13 @@
       259
     ],
     "hash": "KHac6nH8MuFF-nCXUwuHXw"
+  },
+  "raboot": {
+    "sizes": [
+      400,
+      234
+    ],
+    "hash": "QhrxUOgNm61_qFeEaC51Tw"
   },
   "raichu": {
     "sizes": [
@@ -4251,9 +4888,9 @@
   "regice": {
     "sizes": [
       400,
-      260
+      248
     ],
-    "hash": "3yccqy1mfKH3WZGOtn_xWQ"
+    "hash": "fUHyEZVRDWFKsLrvwrbohg"
   },
   "regigigas": {
     "sizes": [
@@ -4328,9 +4965,16 @@
   "ribombee": {
     "sizes": [
       400,
-      237
+      235
     ],
-    "hash": "5qLnpQXZVCKkrDlZBq0tZg"
+    "hash": "W9rZ95ujOy2wJJVbimXhdQ"
+  },
+  "rillaboom": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "FChycGCV2iF-fZ3mv3w7_w"
   },
   "riolu": {
     "sizes": [
@@ -4344,7 +4988,7 @@
       400,
       248
     ],
-    "hash": "HhL7d3p-AXCdBZegJAdAWg"
+    "hash": "IPdih52OEuVrzRWS30wzQA"
   },
   "roggenrola": {
     "sizes": [
@@ -4352,6 +4996,20 @@
       263
     ],
     "hash": "JScsNZRfQDqnQBhal7EPGw"
+  },
+  "rolycoly": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "U5shQlmoGtM8Sdn8cWICKw"
+  },
+  "rookidee": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "WQEEOuz7D3BwPTNyF1NqDw"
   },
   "roselia": {
     "sizes": [
@@ -4388,6 +5046,13 @@
     ],
     "hash": "G3M9Kf9I3HOsJU5bo9XMpg"
   },
+  "runerigus": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "yK44cuPSB8UJkzFYVEVVSA"
+  },
   "sableye": {
     "sizes": [
       400,
@@ -4423,6 +5088,13 @@
     ],
     "hash": "krdYUuS-iyrKjA1_e-b5_Q"
   },
+  "sanaconda": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "JQviO0WfPmPZB-eCH2Ntgg"
+  },
   "sandile": {
     "sizes": [
       400,
@@ -4435,7 +5107,7 @@
       400,
       231
     ],
-    "hash": "ylTkikmD5W1EgUmQ0ArGEQ"
+    "hash": "yHpFli-UnGdih_NmlqAYUg"
   },
   "sandslash-alolan": {
     "sizes": [
@@ -4454,9 +5126,9 @@
   "sandygast": {
     "sizes": [
       400,
-      246
+      250
     ],
-    "hash": "hSE689bb78xucfpklH6Cpw"
+    "hash": "sZ794wYUlPrVp1KaQOlbmA"
   },
   "sawk": {
     "sizes": [
@@ -4500,12 +5172,19 @@
     ],
     "hash": "h7Pt1lelOAufhlnyT1ZDnQ"
   },
+  "scorbunny": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "MNixnewIoM_cUhDU_BmQEg"
+  },
   "scrafty": {
     "sizes": [
       400,
-      257
+      233
     ],
-    "hash": "GfFYePtSzH6-1qKimUJolA"
+    "hash": "GOpeSy1TPx52JHvPjx55Sg"
   },
   "scraggy": {
     "sizes": [
@@ -4643,9 +5322,9 @@
   "shellos": {
     "sizes": [
       400,
-      259
+      249
     ],
-    "hash": "nd5j3hrYAcAAhWIAOLrd2g"
+    "hash": "KnBBRTR00hQ_V1cOEMNNpA"
   },
   "shelmet": {
     "sizes": [
@@ -4692,9 +5371,9 @@
   "shuckle": {
     "sizes": [
       400,
-      263
+      249
     ],
-    "hash": "2STQq2Km97DN-BksHMRjeA"
+    "hash": "q1hwaLNNWhfgP2LbCR9EKg"
   },
   "shuppet": {
     "sizes": [
@@ -4716,6 +5395,13 @@
       239
     ],
     "hash": "io7SQFhTccaqHWfadJF1iA"
+  },
+  "silicobra": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "6sU5V7wRBrs3BxszqeONnA"
   },
   "silvally": {
     "sizes": [
@@ -4741,9 +5427,30 @@
   "simisear": {
     "sizes": [
       400,
-      237
+      258
     ],
-    "hash": "WoSHeVps-kLHA-ThQPo-wA"
+    "hash": "Wo5tqDjvtWEuqI4t9nH-9Q"
+  },
+  "sinistea": {
+    "sizes": [
+      400,
+      250
+    ],
+    "hash": "vFVRHtXRwWK32G-jOXWg9w"
+  },
+  "sirfetch'd": {
+    "sizes": [
+      400,
+      232
+    ],
+    "hash": "Y2Zy66r6URpz1BIOVnawvA"
+  },
+  "sizzlipede": {
+    "sizes": [
+      400,
+      250
+    ],
+    "hash": "BH5wY-p9pglJs3DhC19maA"
   },
   "skarmory": {
     "sizes": [
@@ -4776,16 +5483,16 @@
   "skorupi": {
     "sizes": [
       400,
-      263
+      248
     ],
-    "hash": "FtS3ycrmPFcP-qHE3C1Hyg"
+    "hash": "t984kUGDMd_k5Vd42R930A"
   },
   "skrelp": {
     "sizes": [
       400,
-      263
+      248
     ],
-    "hash": "Ygc6WjurFFrOwvzpP8qDrg"
+    "hash": "F2o8lQ8jBmIChTwa3b8ixw"
   },
   "skuntank": {
     "sizes": [
@@ -4793,6 +5500,13 @@
       264
     ],
     "hash": "P3JxCrt5nVR7aOMe-4gkHA"
+  },
+  "skwovet": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "GRWPWWBsBI47odiYvCZMFw"
   },
   "slaking": {
     "sizes": [
@@ -4811,9 +5525,9 @@
   "sliggoo": {
     "sizes": [
       400,
-      257
+      236
     ],
-    "hash": "tmte7auLgEs3BQbKGcIzQQ"
+    "hash": "TEdqnTith2GLFgQ9VgMZ1w"
   },
   "slowbro": {
     "sizes": [
@@ -4885,6 +5599,13 @@
     ],
     "hash": "ZX2d5MlA4W5jSGidQUdoRQ"
   },
+  "snom": {
+    "sizes": [
+      400,
+      246
+    ],
+    "hash": "qydTwPgfoDdPNMB0y6Xmvw"
+  },
   "snorlax": {
     "sizes": [
       400,
@@ -4902,9 +5623,9 @@
   "snover": {
     "sizes": [
       400,
-      258
+      248
     ],
-    "hash": "2qi1kZ5UU20pD3OM-TEjvQ"
+    "hash": "nS3QnFZUavHzju4to7BLdA"
   },
   "snubbull": {
     "sizes": [
@@ -4912,6 +5633,13 @@
       263
     ],
     "hash": "O99P8DoGCDSUcQd8FrujIQ"
+  },
+  "sobble": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "-ZjVaNCY0SV3dRU-mPegIg"
   },
   "solgaleo": {
     "sizes": [
@@ -5000,9 +5728,9 @@
   "stakataka": {
     "sizes": [
       400,
-      248
+      247
     ],
-    "hash": "3xob3ROLFkDgCMSUrwYszA"
+    "hash": "b1B9dTOn_qm56eZFnL8vBA"
   },
   "stantler": {
     "sizes": [
@@ -5060,12 +5788,19 @@
     ],
     "hash": "AhZdvYrLNcKvf_Dz2NdKNQ"
   },
+  "stonjourner": {
+    "sizes": [
+      400,
+      247
+    ],
+    "hash": "9yWQTpVFdpeNhrlh8JYYXQ"
+  },
   "stoutland": {
     "sizes": [
       400,
-      257
+      234
     ],
-    "hash": "xJH66SKHVHX8MbNbpcF7MQ"
+    "hash": "tyXZac_s2-EDU6StydbPXg"
   },
   "stufful": {
     "sizes": [
@@ -5203,9 +5938,9 @@
   "talonflame": {
     "sizes": [
       400,
-      258
+      234
     ],
-    "hash": "PuVK6GN_4LLvMCf5z5MN_g"
+    "hash": "UTFRc1qt0rSIiu5Bewc4pw"
   },
   "tangela": {
     "sizes": [
@@ -5233,7 +5968,7 @@
       400,
       248
     ],
-    "hash": "TT7njqs6fJVYBsQyM3EkJA"
+    "hash": "g3x_uPwg1mGx15IVMLtQgQ"
   },
   "tapu-koko": {
     "sizes": [
@@ -5252,9 +5987,9 @@
   "tauros": {
     "sizes": [
       400,
-      239
+      248
     ],
-    "hash": "zVU1lrBzIOooqHeyYAePog"
+    "hash": "pwBk5iL8pT6KlsCK5LipKQ"
   },
   "teddiursa": {
     "sizes": [
@@ -5287,9 +6022,16 @@
   "terrakion": {
     "sizes": [
       400,
-      263
+      247
     ],
-    "hash": "h4ZrNvSdYmF0LfC7SXfEwQ"
+    "hash": "fh9N-FMViPHOLsn30ldgRA"
+  },
+  "thievul": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "PlFh64Z-mA3sIy1_Z2Q8jQ"
   },
   "throh": {
     "sizes": [
@@ -5312,6 +6054,13 @@
     ],
     "hash": "3me4fjw1mvSYC8ZgqzAUjw"
   },
+  "thwackey": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "HwlV3h3rH5kwQ1z6PYYLzQ"
+  },
   "timburr": {
     "sizes": [
       400,
@@ -5329,9 +6078,9 @@
   "togedemaru": {
     "sizes": [
       400,
-      247
+      248
     ],
-    "hash": "Ss-CDNCvJSyeSF-xBCxWCw"
+    "hash": "uFAoFoKXcYDyjAMfPVX8sg"
   },
   "togekiss": {
     "sizes": [
@@ -5417,6 +6166,13 @@
     ],
     "hash": "Y1ispc9HkAOhQDiXw8rjIA"
   },
+  "toxel": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "4iNQmoUsL6m1UTCNrI65Xw"
+  },
   "toxicroak": {
     "sizes": [
       400,
@@ -5424,12 +6180,19 @@
     ],
     "hash": "V3yJpd0OMyQpMaStc-o4hw"
   },
+  "toxtricity": {
+    "sizes": [
+      400,
+      233
+    ],
+    "hash": "tX28yPMDnRsT-B9AJe44mA"
+  },
   "tranquill": {
     "sizes": [
       400,
-      257
+      235
     ],
-    "hash": "h6ofCxklL6N7NF_Wi_zRQQ"
+    "hash": "d6n0xAzxe9S85NiLNesV4A"
   },
   "trapinch": {
     "sizes": [
@@ -5476,9 +6239,9 @@
   "tsareena": {
     "sizes": [
       400,
-      237
+      233
     ],
-    "hash": "pDT7fXOYkZLDNz-r2hOHJw"
+    "hash": "wnmzT-Tr6HL77_upr6tC2A"
   },
   "turtonator": {
     "sizes": [
@@ -5504,16 +6267,16 @@
   "tynamo": {
     "sizes": [
       400,
-      270
+      248
     ],
-    "hash": "YTuE0VK9EkXk7md8gDk09A"
+    "hash": "wiKVO-ttt2wvkVHLCcKWVg"
   },
   "type-null": {
     "sizes": [
       400,
-      249
+      248
     ],
-    "hash": "FHaHpWpcfFBsYZzU3ImNCQ"
+    "hash": "Z248gQh2iy6-INgjvZ0Kzw"
   },
   "typhlosion": {
     "sizes": [
@@ -5532,9 +6295,9 @@
   "tyrantrum": {
     "sizes": [
       400,
-      257
+      245
     ],
-    "hash": "PXpL7q592WWKa6G7XefVaA"
+    "hash": "sx-DvWgMsS3tuGKHRowWeg"
   },
   "tyrogue": {
     "sizes": [
@@ -5591,6 +6354,20 @@
       279
     ],
     "hash": "lIyK3WPN0sRDLB3TCDYtog"
+  },
+  "urshifu-rapid-strike": {
+    "sizes": [
+      400,
+      224
+    ],
+    "hash": "4HeGSp7FeYSkCcV88z4hcQ"
+  },
+  "urshifu-single-strike": {
+    "sizes": [
+      400,
+      251
+    ],
+    "hash": "dzmoEX_x6v2UrWzEFqLD1g"
   },
   "uxie": {
     "sizes": [
@@ -5681,7 +6458,7 @@
       400,
       237
     ],
-    "hash": "GaURLaDyOpBI9y601ONm6g"
+    "hash": "qU2faU9lvtFsly6K2js1Tw"
   },
   "vigoroth": {
     "sizes": [
@@ -5728,16 +6505,16 @@
   "volcanion": {
     "sizes": [
       400,
-      263
+      249
     ],
-    "hash": "O-bVCFix5HiVPcYSE9j51A"
+    "hash": "NkjH9pR-Eu_tbxdoSiI7fw"
   },
   "volcarona": {
     "sizes": [
       400,
-      257
+      234
     ],
-    "hash": "Y1Akvcz_dn3FYyY-SkI7Lg"
+    "hash": "LPvPoSDkaICEtiCjwL2UUg"
   },
   "voltorb": {
     "sizes": [
@@ -5833,9 +6610,9 @@
   "whimsicott": {
     "sizes": [
       400,
-      257
+      234
     ],
-    "hash": "gAAnwm3dm-iw9FOjrKcDzA"
+    "hash": "jf2Z3rlwoP1cBUvXcRwY3Q"
   },
   "whirlipede": {
     "sizes": [
@@ -5889,9 +6666,9 @@
   "wishiwashi-school": {
     "sizes": [
       400,
-      250
+      248
     ],
-    "hash": "n6NDMZ3Xln7QlZhwsuvHVA"
+    "hash": "2H0TLCy95X5fA5tc2eSWLA"
   },
   "wishiwashi": {
     "sizes": [
@@ -5913,6 +6690,13 @@
       263
     ],
     "hash": "tPzXFDrdZ0bFQ-7C0eG5WQ"
+  },
+  "wooloo": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "6mXKrqt3mkdsciSKfz37ig"
   },
   "wooper": {
     "sizes": [
@@ -5959,9 +6743,9 @@
   "xatu": {
     "sizes": [
       400,
-      240
+      234
     ],
-    "hash": "MsdiZirihWjDEekP_4JqJg"
+    "hash": "_EkNHNkKtCMj5WkW-ovLDw"
   },
   "xerneas": {
     "sizes": [
@@ -5973,9 +6757,9 @@
   "xurkitree": {
     "sizes": [
       400,
-      249
+      247
     ],
-    "hash": "_POiE1SoeBB1fCb_betYnQ"
+    "hash": "1MYkDc6ajMRecRy3kXc8VA"
   },
   "yamask": {
     "sizes": [
@@ -5984,12 +6768,19 @@
     ],
     "hash": "OJaUuCv67Ij0MYVatIVfOw"
   },
+  "yamper": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "85hva5ttQr9Fk2VWXYHXKQ"
+  },
   "yanma": {
     "sizes": [
       400,
-      260
+      247
     ],
-    "hash": "5XOMIRAr1PNKmJj-br6PYA"
+    "hash": "KBt1eIKdGKVj3Z6iRu3ifQ"
   },
   "yanmega": {
     "sizes": [
@@ -6001,9 +6792,9 @@
   "yungoos": {
     "sizes": [
       400,
-      248
+      246
     ],
-    "hash": "sM-yMTeeVdNz6xk6CV0hlw"
+    "hash": "4QspeDNLcJJ782uZd8bGzA"
   },
   "yveltal": {
     "sizes": [
@@ -6011,6 +6802,34 @@
       248
     ],
     "hash": "N5i3k1Cc1YFvujvTMeH1fw"
+  },
+  "zacian-crowned-sword": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "HD1FgseHvIHqkgOdmgjLIw"
+  },
+  "zacian": {
+    "sizes": [
+      400,
+      225
+    ],
+    "hash": "312tnq9_QWKT7xl8sgg6sg"
+  },
+  "zamazenta-crowned-shield": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "_iNyICFYxo4ET0-oZJQ9Aw"
+  },
+  "zamazenta": {
+    "sizes": [
+      400,
+      225
+    ],
+    "hash": "YtTqMSzgg_IIM8RgjD2yqg"
   },
   "zangoose": {
     "sizes": [
@@ -6025,6 +6844,13 @@
       263
     ],
     "hash": "Lg7uPRUUgrJ3z1gS5oL0pw"
+  },
+  "zarude": {
+    "sizes": [
+      400,
+      249
+    ],
+    "hash": "tsjGuy-VNY7DYXhKClIAig"
   },
   "zebstrika": {
     "sizes": [
@@ -6045,7 +6871,7 @@
       400,
       248
     ],
-    "hash": "iDPPXMdf5A95H7BndtpcoA"
+    "hash": "Nb7j_2247Ex8N7oJ5bbm2A"
   },
   "zigzagoon": {
     "sizes": [
@@ -6078,9 +6904,9 @@
   "zweilous": {
     "sizes": [
       400,
-      237
+      234
     ],
-    "hash": "gJqDiqDUULD4lLiPEvhY_Q"
+    "hash": "VgXE_dgTomN2KCPQ1aZhzA"
   },
   "zygarde-10": {
     "sizes": [
