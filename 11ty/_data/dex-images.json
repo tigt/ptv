@@ -4871,6 +4871,20 @@
     ],
     "hash": "fUHyEZVRDWFKsLrvwrbohg"
   },
+  "regidrago": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "2KJozAWw4tYDmolbaOTvMg"
+  },
+  "regieleki": {
+    "sizes": [
+      400,
+      248
+    ],
+    "hash": "rGW-9F8fKYehX-DqeTEq-A"
+  },
   "regigigas": {
     "sizes": [
       400,
@@ -5108,6 +5122,13 @@
       233
     ],
     "hash": "JQviO0WfPmPZB-eCH2Ntgg"
+  },
+  "sandaconda": {
+    "sizes": [
+      400,
+      235
+    ],
+    "hash": "OiWelpo8PyJECGz6UrxF8g"
   },
   "sandile": {
     "sizes": [
