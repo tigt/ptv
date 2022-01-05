@@ -1966,13 +1966,6 @@
     ],
     "hash": "ck6rIo0Q300zj4ue4fLtdg"
   },
-  "fan-rotom": {
-    "sizes": [
-      400,
-      260
-    ],
-    "hash": "uZ2drXIqcjqAe6lvkaYEjw"
-  },
   "farfetch-d": {
     "sizes": [
       400,
@@ -2161,13 +2154,6 @@
       202
     ],
     "hash": "OPx8ftBur0Dcrc1CcUMD4Q"
-  },
-  "frost-rotom": {
-    "sizes": [
-      400,
-      260
-    ],
-    "hash": "75WUd2qPzi2DbzmHTDKEtQ"
   },
   "furfrou": {
     "sizes": [
@@ -2791,13 +2777,6 @@
       258
     ],
     "hash": "90lXd1rZ2oYjmgPPUZaFGA"
-  },
-  "heat-rotom": {
-    "sizes": [
-      400,
-      259
-    ],
-    "hash": "4Va26Xi0UeodmS_bVIrAHQ"
   },
   "heatmor": {
     "sizes": [
@@ -4059,13 +4038,6 @@
     ],
     "hash": "IqpxoO5m1tgm2dqQsnMH9w"
   },
-  "mow-rotom": {
-    "sizes": [
-      400,
-      259
-    ],
-    "hash": "d5OUUtOtaZYtPxBAmeQSNA"
-  },
   "mr.-mime": {
     "sizes": [
       400,
@@ -5031,6 +5003,41 @@
       243
     ],
     "hash": "a1q3J4kSyrKpvzDWeS9x3Q"
+  },
+  "rotom-fan": {
+    "sizes": [
+      400,
+      260
+    ],
+    "hash": "uZ2drXIqcjqAe6lvkaYEjw"
+  },
+  "rotom-frost": {
+    "sizes": [
+      400,
+      260
+    ],
+    "hash": "75WUd2qPzi2DbzmHTDKEtQ"
+  },
+  "rotom-heat": {
+    "sizes": [
+      400,
+      259
+    ],
+    "hash": "4Va26Xi0UeodmS_bVIrAHQ"
+  },
+  "rotom-mow": {
+    "sizes": [
+      400,
+      259
+    ],
+    "hash": "d5OUUtOtaZYtPxBAmeQSNA"
+  },
+  "rotom-wash": {
+    "sizes": [
+      400,
+      262
+    ],
+    "hash": "rU51Dgl94fg6g1KdR3SU-g"
   },
   "rotom": {
     "sizes": [
@@ -6564,13 +6571,6 @@
       257
     ],
     "hash": "s13zjUopyLZi850b8mstQQ"
-  },
-  "wash-rotom": {
-    "sizes": [
-      400,
-      262
-    ],
-    "hash": "rU51Dgl94fg6g1KdR3SU-g"
   },
   "watchog": {
     "sizes": [
