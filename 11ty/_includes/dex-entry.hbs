@@ -29,11 +29,13 @@
       <dd>{{>formatAbilities abilities=this}}
     {{/each}}
 
-    <dt>Level 5 Abilities
+    <dt>Level 5 Abilit{{#if abilities.level5.[1]}}ies{{else}}y{{/if}}
     {{#each abilities.level5}}
       <dd>{{>formatAbilities abilities=this}}
     {{/each}}
   </dl>
+
+  {{!-- Is this more or less accessible? https://codepen.io/tigt/pen/d461247540d53f36c247bf9c9c2d51b6?editors=1100 --}}
 
   <table class="mon_stats">
     {{#each stats}}
@@ -59,11 +61,11 @@
     <dd>{{weight}}&thinsp;lbs.
 
     <dt>Egg Group{{#if eggGroups.[1]}}s{{/if}}:
-    <dd>{{eggGroups}}
+    <dd>{{#each eggGroups}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}
 
     {{#if catchDC}}
-    <dt>Suggested Catch DC:
-    <dd>{{catchDC}} ◓
+    <dt>Catch DC:
+    <dd>{{catchDC}}
     {{/if}}
 
     {{#if evolves.from}}

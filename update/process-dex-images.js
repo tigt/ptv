@@ -17,6 +17,7 @@ const path = require('path')
       const hash = crypto.createHash('md5')
         .update(bytes)
         .digest('base64')
+        .substring(0, 7)
         .replace(/[/+=]/g, char => {
           switch (char) {
             case '/': return '_'

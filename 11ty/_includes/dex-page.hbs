@@ -8,9 +8,7 @@ layout: base
   }
 
   dl {
-    display: inline-block;
-    vertical-align: bottom;
-    margin: 1em;
+    margin: 1em 1em 1px; /* 1px is to align with the 1px padding of table cells */
   }
 
   dt {
@@ -25,7 +23,6 @@ layout: base
     border-top-left-radius: 30%;
     max-width: 100%;
     height: auto;
-    vertical-align: middle;
   }
 
   .mon_stats th,
@@ -33,6 +30,14 @@ layout: base
   .mon_skills th,
   .mon_skills td {
     text-align: right;
+  }
+
+  .mon_pic,
+  .mon_abilities,
+  .mon_stats,
+  .mon_skills {
+    vertical-align: bottom;
+    display: inline-block;
   }
 
   .mon_moves {
