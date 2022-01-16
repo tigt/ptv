@@ -30900,17 +30900,17 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Pound",
+          "Double Slap",
           "Copycat",
           "Confusion",
-          "Baton Pass"
+          "Encore"
         ],
         "levelUp": {
           "2": [
-            "Encore"
+            "Disarming Voice"
           ],
           "3": [
-            "Role Play"
+            "Fake Out"
           ],
           "4": [
             "Tickle"
@@ -30922,37 +30922,34 @@
             "Mimic"
           ],
           "7": [
-            "Disarming Voice",
-            "Rest"
+            "Rest",
+            "Uproar"
           ],
           "8": [
-            "Psybeam"
-          ],
-          "9": [
             "Light Screen",
             "Reflect",
             "Safeguard"
           ],
-          "10": [
+          "9": [
             "Expanding Force"
           ],
-          "11": [
-            "Thrash"
+          "10": [
+            "Play Rough"
           ],
-          "12": [
+          "11": [
             "Sucker Punch"
           ],
+          "12": [
+            "Psychic"
+          ],
           "13": [
-            "Teeter Dance"
+            "Thrash"
           ],
           "14": [
-            "Uproar"
+            "Teeter Dance"
           ],
           "15": [
-            "Psychic Terrain"
-          ],
-          "16": [
-            "Rapid Spin"
+            "Glitzy Glow"
           ]
         },
         "tutor": [
@@ -31097,59 +31094,57 @@
           "Barrier"
         ],
         "starting": [
-          "Pound",
+          "Double Slap",
           "Copycat",
           "Confusion",
-          "Skill Swap"
+          "Role Play"
         ],
         "levelUp": {
           "2": [
-            "Double Slap"
+            "Fairy Wind"
           ],
           "3": [
-            "Wide Guard"
+            "Protect"
           ],
           "4": [
+            "Wide Guard",
             "Recycle"
           ],
           "5": [
-            "Protect"
+            "Psybeam"
           ],
           "6": [
             "Mimic"
           ],
           "7": false,
           "8": [
-            "Fairy Wind"
+            "Force Palm"
           ],
           "9": [
-            "Psybeam"
-          ],
-          "10": [
             "Light Screen",
             "Reflect",
             "Safeguard"
           ],
-          "11": [
+          "10": [
             "Expanding Force"
           ],
-          "12": [
+          "11": [
             "Dazzling Gleam"
           ],
-          "13": [
+          "12": [
             "Sucker Punch"
           ],
-          "14": [
-            "Teeter Dance"
+          "13": [
+            "Psychic"
           ],
-          "15": [
+          "14": [
             "Throat Chop"
           ],
-          "16": [
-            "Psychic Terrain"
+          "15": [
+            "Teeter Dance"
           ],
-          "17": [
-            "Force Palm"
+          "16": [
+            "Misty Explosion"
           ]
         },
         "tutor": [
@@ -31308,14 +31303,14 @@
           "Swords Dance"
         ],
         "starting": [
-          "Pound",
+          "Rapid Spin",
           "Copycat",
           "Confusion",
-          "Skill Swap"
+          "Role Play"
         ],
         "levelUp": {
           "2": [
-            "Low Sweep"
+            "Ice Shard"
           ],
           "3": [
             "Ally Switch"
@@ -31324,41 +31319,39 @@
             "Double Kick"
           ],
           "5": [
-            "Rapid Spin"
+            "Icy Wind",
+            "Psybeam"
           ],
           "6": [
-            "Mimic"
+            "Hypnosis"
           ],
           "7": false,
           "8": [
-            "Icy Wind"
+            "Low Sweep"
           ],
           "9": [
-            "Psybeam"
-          ],
-          "10": [
             "Mirror Coat"
           ],
-          "11": [
+          "10": [
             "Expanding Force"
           ],
-          "12": [
+          "11": [
             "Freeze-Dry"
           ],
-          "13": [
+          "12": [
             "Foul Play"
           ],
-          "14": [
-            "Teeter Dance"
+          "13": [
+            "Psychic"
           ],
-          "15": [
+          "14": [
             "Triple Axel"
           ],
-          "16": [
-            "Hail"
+          "15": [
+            "Teeter Dance"
           ],
-          "17": [
-            "Ice Shard"
+          "16": [
+            "Blizzard"
           ]
         },
         "tutor": [
@@ -31513,14 +31506,14 @@
           "After You"
         ],
         "starting": [
-          "Pound",
+          "Rapid Spin",
           "Copycat",
           "Confusion",
-          "Skill Swap"
+          "Role Play"
         ],
         "levelUp": {
           "2": [
-            "Low Sweep"
+            "Ice Shard"
           ],
           "3": [
             "Ally Switch"
@@ -31529,42 +31522,40 @@
             "Double Kick"
           ],
           "5": [
-            "Rapid Spin"
+            "Icy Wind",
+            "Psybeam"
           ],
           "6": false,
           "7": [
-            "Mimic"
+            "Hypnosis"
           ],
           "8": [
-            "Icy Wind"
+            "Low Sweep"
           ],
           "9": false,
           "10": [
-            "Psybeam"
-          ],
-          "11": [
             "Spotlight"
           ],
-          "12": [
+          "11": [
             "Expanding Force"
           ],
-          "13": [
+          "12": [
             "Freeze-Dry"
           ],
-          "14": [
+          "13": [
             "Foul Play"
           ],
-          "15": [
-            "Teeter Dance"
+          "14": [
+            "Psychic"
           ],
-          "16": [
+          "15": [
             "Triple Axel"
           ],
-          "17": [
-            "Hail"
+          "16": [
+            "Teeter Dance"
           ],
-          "18": [
-            "Scary Face"
+          "17": [
+            "Blizzard"
           ]
         },
         "tutor": [
@@ -34633,7 +34624,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -34643,7 +34634,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Swift"
@@ -34664,25 +34655,22 @@
             "Synchronoise"
           ],
           "10": [
-            "Veevee Volley"
-          ],
-          "11": [
             "Baton Pass"
           ],
-          "12": [
+          "11": [
             "Double Edge"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Veevee Volley"
           ],
-          "14": [
+          "13": [
             "Shadow Ball"
           ],
-          "15": [
+          "14": [
             "Role Play"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -34799,7 +34787,7 @@
           "Water Gun"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -34809,7 +34797,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Mist"
@@ -34830,25 +34818,22 @@
             "Mud Shot"
           ],
           "10": [
-            "Bouncy Bubble"
-          ],
-          "11": [
             "Aqua Ring"
           ],
-          "12": [
+          "11": [
             "Hydro Pump"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Bouncy Bubble"
           ],
-          "14": [
+          "13": [
             "Breaking Swipe"
           ],
-          "15": [
+          "14": [
             "Wish"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -34972,7 +34957,7 @@
           "Thunder Shock"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -34982,7 +34967,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Thunder Wave"
@@ -35003,25 +34988,22 @@
             "Dazzling Gleam"
           ],
           "10": [
-            "Buzzy Buzz"
-          ],
-          "11": [
             "Pin Missile"
           ],
-          "12": [
+          "11": [
             "Thunder"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Buzzy Buzz"
           ],
-          "14": [
+          "13": [
             "Vacuum Wave"
           ],
-          "15": [
+          "14": [
             "After You"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -35145,7 +35127,7 @@
           "Flame Charge"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -35155,7 +35137,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Smog"
@@ -35176,25 +35158,22 @@
             "Stomping Tantrum"
           ],
           "10": [
-            "Sizzly Slide"
-          ],
-          "11": [
             "Fire Spin"
           ],
-          "12": [
+          "11": [
             "Flare Blitz"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Sizzly Slide"
           ],
-          "14": [
+          "13": [
             "Sunsteel Strike"
           ],
-          "15": [
+          "14": [
             "Power Split"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -35322,7 +35301,7 @@
           "Confusion"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -35332,7 +35311,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Swift"
@@ -35353,25 +35332,22 @@
             "Power Gem"
           ],
           "10": [
-            "Glitzy Glow"
-          ],
-          "11": [
             "Power Swap"
           ],
-          "12": [
+          "11": [
             "Future Sight"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Glitzy Glow"
           ],
-          "14": [
+          "13": [
             "Solar Beam"
           ],
-          "15": [
+          "14": [
             "Detect"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -35502,7 +35478,7 @@
           "Pursuit"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -35512,7 +35488,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Confuse Ray"
@@ -35533,25 +35509,22 @@
             "Poison Tail"
           ],
           "10": [
-            "Baddy Bad"
-          ],
-          "11": [
             "Guard Swap"
           ],
-          "12": [
+          "11": [
             "Foul Play"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Baddy Bad"
           ],
-          "14": [
+          "13": [
             "Moonblast"
           ],
-          "15": [
+          "14": [
             "Toxic"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -35612,7 +35585,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Although moon rays should evolve most Eevee, Umbreon are rare in the wild, usually evolving under a beloved Trainer to protect them from attackers. Umbreon that evolve in the wild are especially antisocial, refusing to mingle even with other Eevees.</p>\n"
+      "blurb": "<p>Although moon rays should evolve most Eevee, wild Umbreon are rare, instead usually evolving under a beloved Trainer to protect them from attackers. Umbreon that evolve in the wild are especially antisocial, refusing to mingle even with other Eevee.</p>\n"
     },
     {
       "name": "Leafeon",
@@ -35680,7 +35653,7 @@
           "Razor Leaf"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -35690,7 +35663,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Leech Seed"
@@ -35711,25 +35684,22 @@
             "X-Scissor"
           ],
           "10": [
-            "Sappy Seed"
-          ],
-          "11": [
             "Sunny Day"
           ],
-          "12": [
+          "11": [
             "Solar Blade"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Sappy Seed"
           ],
-          "14": [
+          "13": [
             "Acrobatics"
           ],
-          "15": [
+          "14": [
             "Guard Split"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -35858,7 +35828,7 @@
           "Icy Wind"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -35868,7 +35838,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Ice Shard"
@@ -35889,25 +35859,22 @@
             "Body Press"
           ],
           "10": [
-            "Freezy Frost"
-          ],
-          "11": [
             "Hail"
           ],
-          "12": [
+          "11": [
             "Blizzard"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Freezy Frost"
           ],
-          "14": [
+          "13": [
             "Flash Cannon"
           ],
-          "15": [
+          "14": [
             "Trick Room"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -35963,7 +35930,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Glaceon is a great way to avoid paying for air conditioning. It never lets the atmosphere around it go above 65 degrees, so as long as it lives in your house it never gets too warm. Don’t ever forget to feed it though, unless you want a house colder than the worst winter.</p>\n"
+      "blurb": "<p>Glaceon is a great way to avoid paying for air conditioning. It never lets the atmosphere around it go above 65°F, so as long as it lives in your house it never gets too warm. Don’t forget to feed it though, unless you want a house colder than the worst winter.</p>\n"
     },
     {
       "name": "Sylveon",
@@ -36031,7 +35998,7 @@
           "Disarming Voice"
         ],
         "starting": [
-          "Tackle",
+          "Quick Attack",
           "Tail Whip",
           "Helping Hand",
           "Growl"
@@ -36041,7 +36008,7 @@
             "Baby-Doll Eyes"
           ],
           "3": [
-            "Quick Attack"
+            "Round"
           ],
           "4": [
             "Swift"
@@ -36062,25 +36029,22 @@
             "Giga Drain"
           ],
           "10": [
-            "Sparkly Swirl"
-          ],
-          "11": [
             "Misty Terrain"
           ],
-          "12": [
+          "11": [
             "Moonblast"
           ],
-          "13": [
-            "Last Resort"
+          "12": [
+            "Sparkly Swirl"
           ],
-          "14": [
+          "13": [
             "Snarl"
           ],
-          "15": [
+          "14": [
             "Entrainment"
           ],
-          "16": [
-            "Round"
+          "15": [
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -36138,7 +36102,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Because Sylveon only evolves through a bond with a Trainer, they do not occur in the wild. It is legally debated if Sylveon is an artificial Pokémon, or simply domesticated. In theory, Sylveon could evolve from bonds with another species, but this has yet to be observed.</p>\n"
+      "blurb": "<p>Because Sylveon only evolves through a bond with a Trainer, they do not occur in the wild. It is legally debated if Sylveon is an artificial Pokémon, or simply domesticated. In theory, Sylveon could evolve from bonds with other species, but this has yet to be observed.</p>\n"
     }
   ],
   "porygon": [
@@ -36158,7 +36122,7 @@
       "ability1": "Trace",
       "ability2": "Download",
       "ability3": "RKS System",
-      "ability4": "Protean",
+      "ability4": "Transistor",
       "ability5": "Analytic",
       "gender": "No gender",
       "hp": 7,
@@ -36194,7 +36158,7 @@
             "RKS System"
           ],
           [
-            "Protean"
+            "Transistor"
           ],
           [
             "Analytic"
@@ -36338,7 +36302,7 @@
       "ability1": "Trace",
       "ability2": "Download",
       "ability3": "Filter",
-      "ability4": "Protean",
+      "ability4": "Transistor",
       "ability5": "Analytic",
       "gender": "No gender",
       "hp": 9,
@@ -36374,7 +36338,7 @@
             "Filter"
           ],
           [
-            "Protean"
+            "Transistor"
           ],
           [
             "Analytic"
@@ -36527,7 +36491,7 @@
       "ability1": "Adaptability",
       "ability2": "Download",
       "ability3": "Moody",
-      "ability4": "Protean",
+      "ability4": "Transistor",
       "ability5": "Analytic",
       "gender": "No gender",
       "hp": 9,
@@ -36563,7 +36527,7 @@
             "Moody"
           ],
           [
-            "Protean"
+            "Transistor"
           ],
           [
             "Analytic"
@@ -36722,7 +36686,7 @@
       "ability1": "Swift Swim",
       "ability2": "Shell Armor",
       "ability3": "Sticky Hold",
-      "ability4": "Petrificate",
+      "ability4": "Dry Skin",
       "ability5": "Weak Armor",
       "hp": 4,
       "stats": {
@@ -36758,7 +36722,7 @@
             "Sticky Hold"
           ],
           [
-            "Petrificate"
+            "Dry Skin"
           ],
           [
             "Weak Armor"
@@ -36893,7 +36857,7 @@
       "ability1": "Swift Swim",
       "ability2": "Shell Armor",
       "ability3": "Iron Barbs",
-      "ability4": "Petrificate",
+      "ability4": "Dry Skin",
       "ability5": "Weak Armor",
       "hp": 7,
       "stats": {
@@ -36929,7 +36893,7 @@
             "Iron Barbs"
           ],
           [
-            "Petrificate"
+            "Dry Skin"
           ],
           [
             "Weak Armor"
@@ -37074,7 +37038,7 @@
       "ability1": "Swift Swim",
       "ability2": "Battle Armor",
       "ability3": "Tinted Lens",
-      "ability4": "Petrificate",
+      "ability4": "Water Absorb",
       "ability5": "Weak Armor",
       "hp": 3,
       "stats": {
@@ -37110,7 +37074,7 @@
             "Tinted Lens"
           ],
           [
-            "Petrificate"
+            "Water Absorb"
           ],
           [
             "Weak Armor"
@@ -37252,7 +37216,7 @@
       "ability1": "Swift Swim",
       "ability2": "Battle Armor",
       "ability3": "Lifedrinker",
-      "ability4": "Petrificate",
+      "ability4": "Water Absorb",
       "ability5": "Weak Armor",
       "hp": 6,
       "stats": {
@@ -37288,7 +37252,7 @@
             "Lifedrinker"
           ],
           [
-            "Petrificate"
+            "Water Absorb"
           ],
           [
             "Weak Armor"
@@ -74023,8 +73987,8 @@
       "evolvesBy": "Level 9",
       "evolvesFrom": "Vibrava",
       "ability1": "Levitate",
-      "ability3": "Tinted Lens",
-      "ability4": "Sand Stream",
+      "ability3": "Sand Stream",
+      "ability4": "Tinted Lens",
       "ability5": "Sheer Force",
       "hp": 8,
       "stats": {
@@ -74054,10 +74018,10 @@
         ],
         "level5": [
           [
-            "Tinted Lens"
+            "Sand Stream"
           ],
           [
-            "Sand Stream"
+            "Tinted Lens"
           ],
           [
             "Sheer Force"
@@ -81092,7 +81056,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Pearl divers tell tales of sea trenches where hundreds of Clamperl sleep, with just as many pearls to be plucked away. An area with so many Clamperl would be too deep for humans, so most pay the rumor no attention.</p>\n"
+      "blurb": "<p>Pearl divers tell of sea trenches where hundreds of Clamperl sleep, with just as many pearls to be plucked from the sides of the snoozing pink roe. An area with so many Clamperl would be too deep for humans, so most pay the rumor no attention.</p>\n"
     },
     {
       "name": "Huntail",
@@ -86953,7 +86917,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Chimchar swing through the branches of swamp cypress, where the trees are too wet to burn. Chimchar live their entire lives without needing to spend time on the ground, only hopping down to annoy Pokémon who can’t climb back up after them.</p>\n"
+      "blurb": "<p>Chimchar swing through the branches of swamp cypress, where the trees are too wet to burn. Chimchar can live their entire lives without needing to spend time on the ground, only hopping down to annoy Pokémon who can’t climb back up after them.</p>\n"
     },
     {
       "name": "Monferno",
@@ -89707,7 +89671,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Cranidos uproots trees it comes across with a single push, destroying any roots in the process. Shieldon and Cranidos are natural rivals because of this, and it’s believed the two locked each other into an arms race millions of years ago.<br>Alternate: Cranidos loves to headbutt reflective surfaces, mistaking its face as a challenger. Mirrors, hubcaps, photographs: even high-quality paintings are in danger when this Pokemon gets in a mood.</p>\n"
+      "blurb": "<p>Cranidos yanks out trees with a single charge, severing their roots in the process. Shieldon and Cranidos are natural rivals because of this, and it’s believed they locked into an arms race long ago. Cranidos mistakes its own face as a challenger in reflective surfaces. Mirrors, hubcaps, water… even realistic paintings are in danger.</p>\n"
     },
     {
       "name": "Rampardos",
@@ -113945,7 +113909,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Scrafty’s acid spit is only for taunting, but it has interesting properties; the liquid can be converted into a variety of paints for cheap, making it popular with starving artists. Scrafty doesn’t take criticism of its artist partner well, and is known to headbutt a rude audience.</p>\n"
+      "blurb": "<p>Scrafty’s acid spit also has non-battle applications; the liquid can be converted into a variety of paints for cheap, making it popular with starving artists. Scrafty doesn’t take criticism of its artist partner well, and is known to headbutt a rude audience.</p>\n"
     }
   ],
   "sigilyph": [
@@ -114132,7 +114096,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Trainers biking at night near old ruins have reported large, flying creatures chasing them down the road, only to leave once the trainers reach town. Many wonder if they’re hiding something or simply afraid of the light.</p>\n"
+      "blurb": "<p>Trainers biking at night near old ruins report large flying creatures chasing them down the road, only to disappear once the trainers reach town. Many wonder if they’re hiding something or simply afraid of the light.</p>\n"
     }
   ],
   "yamask": [
@@ -114494,7 +114458,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Cofagrigus has completely abandoned its old life to revels as king of whatever tomb it inhabits. Trainers exploring old ruins should bring a small amount of gold they can tribute to Cofagrigus. It won’t decide to let you leave, but you can run away while it eats the gold.</p>\n"
+      "blurb": "<p>Cofagrigus has completely abandoned its old life to revel as king of whatever tomb it inhabits. Trainers exploring old ruins should bring a small amount of gold they can tribute to Cofagrigus. It won’t decide to let you leave, but you can run away while it eats the gold.</p>\n"
     },
     {
       "name": "Galarian Yamask",
@@ -119073,7 +119037,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>Emolga are so popular in Unova they almost eclipse Pikachu. For a short while, people even wore Emolga modeled cloaks after a runway appearance by Elesa. This trend was originally worn by teenagers, but now it’s seen as a fashion for children.</p>\n"
+      "blurb": "<p>Emolga are so popular in Unova they almost eclipse Pikachu. For a short while, people even wore Emolga-modeled cloaks after a runway appearance by Elesa. This trend was originally worn by teenagers, but now it’s seen as a fashion for children.</p>\n"
     }
   ],
   "karrablast": [
@@ -128952,7 +128916,7 @@
       "type2": "Flying",
       "◓Dc": 24,
       "ability1": "Volt Absorb",
-      "ability3": "Strong Jaw",
+      "ability3": "Dragon's Maw",
       "ability4": "Lightning Rod",
       "ability5": "Drizzle",
       "gender": "Male-only",
@@ -128983,7 +128947,7 @@
         ],
         "level5": [
           [
-            "Strong Jaw"
+            "Dragon's Maw"
           ],
           [
             "Lightning Rod"
@@ -171823,7 +171787,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Under heavy rain, Dracovish could stand out of water with no trouble. During these times, absolutely no other ancient species was safe. The only thing that could stop Dracovish was Kabutops, its natural predator.</p>\n"
+      "blurb": "<p>In heavy rain, Dracovish could stand up out of water with no trouble. During these times, no other ancient species were safe. The only thing that could stop Dracovish was Kabutops, its natural predator.</p>\n"
     }
   ],
   "arctovish": [

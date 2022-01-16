@@ -549,7 +549,7 @@
   },
   {
     "name": "Innocent Face",
-    "description": "<p>If the user could not use a Move last round, foes can’t target them this round.</p>\n"
+    "description": "<p>If the user’s Move last round failed, missed, was stopped by a status problem, or had no effect on its target(s), foes can’t target them this round.</p>\n"
   },
   {
     "name": "Insectivize",
@@ -594,7 +594,7 @@
   {
     "name": "Leaf Guard",
     "bonusStats": "+1 DEF, +2 SDEF",
-    "description": "<p>In Harsh Sunlight, the user is immune to Status Problems and can’t use Rest.</p>\n"
+    "description": "<p>In Harsh Sunlight, the user is immune to persistent Status Problems and can’t use Rest.</p>\n"
   },
   {
     "name": "Leaf Tailor",
@@ -639,7 +639,7 @@
   },
   {
     "name": "Long Reach",
-    "bonusStats": "+2 ATK, +1 SPE",
+    "bonusStats": "+1 ATK, +2 SPE",
     "description": "<p>The user’s Contact Moves become Ranged.</p>\n"
   },
   {

@@ -111,7 +111,7 @@
     "name": "Berry Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× cost ₽ to craft Berries during a Rest. Plant hybridization for kids!",
+    "description": "Can spend 1.5× their buying price to craft Berries during a Rest. Plant hybridization for kids!",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -246,7 +246,7 @@
     "name": "Calcium",
     "buy": 5000,
     "sell": 2500,
-    "description": "Gives +1 to Focus and Persuasion, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "description": "Gives +1 to Focus and Composure, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -591,6 +591,14 @@
     "sellIsNumeric": true
   },
   {
+    "name": "Four-leaf Clover",
+    "buy": 1000,
+    "sell": 500,
+    "description": "The holder's Fairy Moves get +5 damage.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
     "name": "Fresh Water",
     "buy": 200,
     "sell": 100,
@@ -634,7 +642,7 @@
     "name": "Gem Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5x cost ₽ to craft Type Gems, Evolutionary Stones, and Type Boosters during Rests. Carving out a new hobby.",
+    "description": "Can spend 1.5× their buying price to craft Type Gems, Evolutionary Stones, or Type Plates during Rests. Carving out a new hobby.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -974,7 +982,7 @@
     "name": "Medical Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5x cost ₽ to craft any non-Berry item that restores HP, PP, or Status during Rests. The best defense is a good bandage.",
+    "description": "Can spend 1.5× their buying price to craft any non-Berry item that restores HP, PP, or Status during Rests. The best defense is a good bandage.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1123,14 +1131,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Pixie Glitter",
-    "buy": 1000,
-    "sell": 500,
-    "description": "The holder's Fairy Moves get +5 damage.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Poffin",
     "buy": 500,
     "sell": 250,
@@ -1186,7 +1186,7 @@
   },
   {
     "name": "Pokédex",
-    "description": "A high-tech encyclopedia. Some models are chatty.",
+    "description": "A high-tech Pokémon encyclopedia. Some models are chatty.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -1218,7 +1218,7 @@
     "name": "PP Up",
     "buy": 10000,
     "sell": 5000,
-    "description": "Lowers the PP cost of a Move by 1. These do not stack on the same Move.",
+    "description": "Lowers the PP cost of a Move by 1. Does not stack on the same Move.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1226,7 +1226,7 @@
     "name": "Prism Scale",
     "buy": 2000,
     "sell": 1000,
-    "description": "A beautiful rainbow scale that can be used up to evolve Feebas.\nThe holder gets +2 to Persuasion checks.",
+    "description": "A beautiful rainbow scale that can be used up to evolve Feebas.\nThe holder gets +2 to Composure checks.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1544,7 +1544,7 @@
     "name": "Style Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× cost ₽ to craft any Held Item not consumed upon use during Rests. There's always time for fashion.",
+    "description": "Can spend 1.5× their buying price to craft any Held Item not consumed upon use during Rests. There's always time for fashion.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1592,7 +1592,7 @@
     "name": "Technical Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× cost ₽ to craft Technical Machines and Technical Records during Rests, if a Pokémon the Trainer owns knows the Move. Share our knowledge through technology.",
+    "description": "Can spend 1.5× their buying price to craft Technical Machines and Technical Records during Rests, if a Pokémon the Trainer owns knows the Move. Share our knowledge through technology.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1688,6 +1688,13 @@
     "sell": 500,
     "description": "Activates RKS System and changes Multi-Attack's Type to the Memory's Type. Acts as a Technical Record for any Move matching the Memory's Type.",
     "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Type Plate",
+    "sell": 500,
+    "description": "An ancient stone tablet that gives damaging Moves of a Type +5 damage.",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
