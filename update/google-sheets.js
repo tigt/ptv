@@ -37,12 +37,8 @@ for (const name of ['Pokemon', 'Abilities', 'Moves', 'Movesets', 'Items', 'Tutor
 const fetchedSheets = fetch(`https://sheets.googleapis.com/v4/spreadsheets/18Q390sVb7ZWFQFFWoj8-3UX5szDsT7f3-aOmVfo3trA/values:batchGet?${params}`)
   .then(res => res.json())
   .then(json => Object.fromEntries(json.valueRanges.map(sheet => {
-    const sheetName = sheet.range.split('!')[0] // TODO: maybe lowercase these keys…
-
+    const sheetName = sheet.range.split('!')[0]
     let columnNames = sheet.values.shift()
-    if (sheetName !== 'Tutor') { // Dunno why this sheet’s columns are cased differently than the others, but they are and it’s annoying
-      columnNames = columnNames.map(titleToCamelCase)
-    }
 
     const rows = sheet.values.map(row =>
       Object.fromEntries(
@@ -55,111 +51,102 @@ const fetchedSheets = fetch(`https://sheets.googleapis.com/v4/spreadsheets/18Q39
   })))
   .catch(console.error)
 
-/* https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values
-  Takes an array of arrays, arranged like a spreadsheet is visually:
-  [
-    [Name, Birth, Death],
-    [Plungo, 1987, ],
-    [Chicken, 1999, 2001]
-  ]
-  …and spits out an array of rows with named column/value pairs:
-  [
-    Plungo: { Birth: 1987 },
-    Chicken: { Birth: 1999, Death: 2001 }
-  ]
-  In theory this should already work with `majorDimension: COLUMNS`, but I haven’t tried that yet.
- */
-function tableToNamedObjects (sheet) {
-  let columnNames = sheet.values.shift()
-
-  const rows = sheet.values.map(row => 
-    row.map((cell, i) => [columnNames[i], cell])
-      .filter(([_, val]) => /[^-\u2014\s]/.test(val) // Ignore empty and marked-as-empty cells
-  ))
-
-  return Object.fromEntries(rows)
-}
-
 fetchedSheets.then(data => {
   writeJson('items', data['Items'].map(row => ({
-    ...row,
-    buyIsNumeric: isFinite(+row.buy),
-    sellIsNumeric: isFinite(+row.sell)
+    name: row.Name,
+    buy: row.Buy,
+    sell: row.Sell,
+    description: row.Description,
+    buyIsNumeric: isFinite(+row.Buy),
+    sellIsNumeric: isFinite(+row.Sell)
   })))
 
   writeJson('moves', data['Moves'].map(row => ({
-    ...row,
-    name: row.move,
-    description: row.description && markdown(row.description)
+    type: row.Type,
+    kind: row.Kind,
+    power: row.Power,
+    pp: row.PP,
+    accuracy: row.Accuracy,
+    range: row.Range,
+    description: row.Description && markdown(row.Description),
+    'z-effect': row['Z-Effect'],
+    maxPower: row['MAX Power'],
+    name: row.Move
   })))
 
   writeJson('abilities', data['Abilities'].map(row => ({
-    name: row.ability,
-    bonusStats: row.bonusStats,
-    description: row.description && markdown(row.description)
+    name: row.Ability,
+    bonusStats: row['Bonus Stats'],
+    description: row.Description && markdown(row.Description)
   })))
 
   const movesets = Object.fromEntries(data['Movesets'].map(movesetsMapper))
   const tutorMoves = Object.fromEntries(data["'Tutor Matrix'"].map(tutorMatrixMapper))
-  const dexBlurbs = Object.fromEntries(data['Dex'].map(row => [row.name, row.blurb]))
+  const dexBlurbs = Object.fromEntries(data['Dex'].map(row => [row.Name, row.Blurb]))
   const dexData = Object.fromEntries(data['Pokemon'].map(data => dexMapper(data, tutorMoves, movesets, dexBlurbs)))
   
   const families = {}
   for (const name in dexData) {
     const mon = dexData[name]
     const baseForm = getBaseForm(name, dexData)
-    const baseName = baseForm.name.replace(/^Galarian |^Alolan |^Hisuian |^Mega | \([^)]*?\)$/g, '').toLowerCase()
+    const baseName = baseForm?.name.replace(/^Galarian |^Alolan |^Hisuian |^Mega | \([^)]*?\)$/g, '').toLowerCase()
     families[baseName]?.push(mon) || (families[baseName] = [mon])
   }
   writeJson('pokemon', families)
 
   function getBaseForm (name, dex) {
     if (name === '...?') { return dex['Luvdisc'] }
-  
-    let mon = dex[name]
-    if (mon.evolves.from) {
-      if (mon.evolves.from === name) {
+    
+    const mon = dex[name]
+    const prevo = mon.evolves.from
+    if (prevo) {
+      if (prevo === name) {
         throw Error(`${name} listed as evolving from from itself, exiting to avoid infinite recursion`)
       }
-      return getBaseForm(mon.evolves.from, dex)
+      return getBaseForm(prevo, dex)
     }
     return mon
   }
 
   function dexMapper (row, tutorMoves, movesets, dexBlurbs) {
-    const blurb = dexBlurbs[row.name]
+    const blurb = dexBlurbs[row.Name]
+    const naturalMoves = movesets[row.Name]
+    const { form, starting, levelUp } = naturalMoves || {}
   
-    return [row.name, {
-        ...row,
+    return [row.Name, {
+        name: row.Name,
         stats: {
-          HP: +row.newHp,
-          ATK: +row.atk,
-          DEF: +row.def,
-          SATK: +row.satk,
-          SDEF: +row.sdef,
-          SPE: +row.spe
+          HP: +row['New HP'],
+          ATK: +row.ATK,
+          DEF: +row.DEF,
+          SATK: +row.SATK,
+          SDEF: +row.SDEF,
+          SPE: +row.SPE
         },
         skills: {
-          Athletics: row.atk - 5,
-          Endurance: row.def - 5,
-          Focus: row.satk - 5,
-          Stealth: row.sdef - 5,
-          Acrobatics: row.spe - 5
+          Athletics: row.ATK - 5,
+          Endurance: row.DEF - 5,
+          Focus: row.SATK - 5,
+          Stealth: row.SDEF - 5,
+          Acrobatics: row.SPE - 5
         },
-        height: row.height.replace(/'/g, '′').replace(/"/g, '″'),
-        eggGroups: [row.egg1, row.egg2].filter(Boolean),
+        height: row.Height.replace(/'/g, '′').replace(/"/g, '″'),
+        weight: row.Weight,
+        eggGroups: [row['Egg 1'], row['Egg 2']].filter(Boolean),
         abilities: {
-          start: parseAbilities(row.ability1, row.ability2),
-          level5: parseAbilities(row.ability3, row.ability4, row.ability5)
+          start: parseAbilities(row['Ability 1'], row['Ability 2']),
+          level5: parseAbilities(row['Ability 3'], row['Ability 4'], row['Ability 5'])
         },
-        catchDC: +row['◓Dc'],
+        catchDC: +row['◓ DC'],
         evolves: {
-          by: row.evolvesBy,
-          from: row.evolvesFrom
+          by: row['Evolves By'],
+          from: row['Evolves From']
         },
         moves: {
-          ...movesets[row.name],
-          tutor: tutorMoves[row.name]
+          form,
+          starting,
+          levelUp,
+          tutor: tutorMoves[row.Name]?.filter(move => !naturalMoves.all.includes(move))
         },
         blurb: blurb && markdown(blurb)
       }]
@@ -176,8 +163,8 @@ fetchedSheets.then(data => {
 })
 
 function movesetsMapper (row) {
-  const levelUpEntries = Object.entries(row).filter(([name]) => name.startsWith('level'))
-      .map(([name, val]) => [parseInt(name.replace('level', '')), val.split(', ')])
+  const levelUpEntries = Object.entries(row).filter(([name]) => name.startsWith('Level'))
+      .map(([name, val]) => [parseInt(name.replace('Level', '')), val.split(', ')])
   
   // Preserve in-between levels that don’t learn moves
   const lastLevel = levelUpEntries.slice(-1)?.[0]?.[0] // Ditto, for example, has no level-up moves
@@ -193,33 +180,23 @@ function movesetsMapper (row) {
       .map((moves, i) => [i + 2, moves])
   )
 
-  return [row.mon, {
-    form: row.form?.split(', '),
-    starting: [row.start1, row.start2, row.start3, row.start4].filter(Boolean),
-    levelUp
+  const form = row.Form?.split(', ')
+  const starting = [row.Start1, row.Start2, row.Start3, row.Start4].filter(Boolean)
+
+  return [row.Mon, {
+    form,
+    starting,
+    levelUp,
+    all: [].concat(form, starting, levelUpEntries.flatMap(([_, val]) => val))
   }]
 }
 
-// may have to use `i` to correctly map back column indices to formatted move names
-function tutorMatrixMapper (row, i) {
-  const tutorSet = [row.mon, []]
+function tutorMatrixMapper (row) {
+  const tutorSet = []
   for (const key in row) {
     if (row[key] === 'x') {
-      tutorSet[1].push(camelToTitleCase(key))
+      tutorSet.push(key)
     }
   }
-  return tutorSet
-}
-
-function titleToCamelCase (str) {
-  return str.split(' ').map((word, i) => {
-    return i === 0
-      ? word.toLowerCase()
-      : word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
-  }).join('')
-}
-
-function camelToTitleCase (str) {
-  return str.charAt(0).toUpperCase()
-    + str.slice(1).replace(/[A-Z]/g, char => ' ' + char.toUpperCase())
+  return [row.Mon, tutorSet]
 }
