@@ -12,12 +12,9 @@ layout: base
 - [GM materials](https://drive.google.com/drive/folders/1O8HJkyncJL0a8PfXB03Y0-eNNvhQQ7om?usp=sharing)
 
 <details>
-<summary>
+<summary>Dev stuff</summary>
 
-## Dev stuff
-
-</summary>
-
+- [Credits](./credits/)
 - [Dobbers’s PP costing sheet](https://docs.google.com/spreadsheets/d/1hyCeExbdkwMI6tqha9i9zTl1tXyttNwo2tehlj3XdSA/edit)
 - [Regional Variant Maker sheet](https://docs.google.com/spreadsheets/d/1xrKBWtvrcRv5iTXZXkrkokW3mvxjTE11qggt690lmzM/edit?usp=sharing)
 

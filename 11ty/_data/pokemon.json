@@ -2,6 +2,8 @@
   "bulbasaur": [
     {
       "name": "Bulbasaur",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -151,6 +153,8 @@
     },
     {
       "name": "Ivysaur",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -307,6 +311,8 @@
     },
     {
       "name": "Venusaur",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -467,6 +473,8 @@
     },
     {
       "name": "Mega Venusaur",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -517,6 +525,7 @@
   "charmander": [
     {
       "name": "Charmander",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -677,6 +686,7 @@
     },
     {
       "name": "Charmeleon",
+      "type1": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -846,6 +856,8 @@
     },
     {
       "name": "Charizard",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -1022,6 +1034,8 @@
     },
     {
       "name": "Mega Charizard X",
+      "type1": "Fire",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -1070,6 +1084,8 @@
     },
     {
       "name": "Mega Charizard Y",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -1120,6 +1136,7 @@
   "squirtle": [
     {
       "name": "Squirtle",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -1285,6 +1302,7 @@
     },
     {
       "name": "Wartortle",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -1458,6 +1476,7 @@
     },
     {
       "name": "Blastoise",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -1634,6 +1653,7 @@
     },
     {
       "name": "Mega Blastoise",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -1684,6 +1704,7 @@
   "caterpie": [
     {
       "name": "Caterpie",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -1773,6 +1794,7 @@
     },
     {
       "name": "Metapod",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 1,
@@ -1873,6 +1895,8 @@
     },
     {
       "name": "Butterfree",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -2020,6 +2044,8 @@
   "weedle": [
     {
       "name": "Weedle",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -2112,6 +2138,8 @@
     },
     {
       "name": "Kakuna",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -2212,6 +2240,8 @@
     },
     {
       "name": "Beedrill",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -2355,6 +2385,8 @@
     },
     {
       "name": "Mega Beedrill",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -2404,6 +2436,8 @@
   "pidgey": [
     {
       "name": "Pidgey",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -2537,6 +2571,8 @@
     },
     {
       "name": "Pidgeotto",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -2679,6 +2715,8 @@
     },
     {
       "name": "Pidgeot",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -2824,6 +2862,8 @@
     },
     {
       "name": "Mega Pidgeot",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -2873,6 +2913,7 @@
   "rattata": [
     {
       "name": "Rattata",
+      "type1": "Normal",
       "stats": {
         "HP": 20,
         "ATK": 5,
@@ -3025,6 +3066,7 @@
     },
     {
       "name": "Raticate",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -3188,6 +3230,8 @@
     },
     {
       "name": "Alolan Rattata",
+      "type1": "Dark",
+      "type2": "Normal",
       "stats": {
         "HP": 20,
         "ATK": 5,
@@ -3344,6 +3388,8 @@
     },
     {
       "name": "Alolan Raticate",
+      "type1": "Dark",
+      "type2": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -3514,6 +3560,8 @@
   "spearow": [
     {
       "name": "Spearow",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -3651,6 +3699,8 @@
     },
     {
       "name": "Fearow",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -3796,6 +3846,7 @@
   "ekans": [
     {
       "name": "Ekans",
+      "type1": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -3947,6 +3998,7 @@
     },
     {
       "name": "Arbok",
+      "type1": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -4108,6 +4160,7 @@
   "pichu": [
     {
       "name": "Pichu",
+      "type1": "Electric",
       "stats": {
         "HP": 15,
         "ATK": 3,
@@ -4250,6 +4303,7 @@
     },
     {
       "name": "Pikachu",
+      "type1": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -4408,6 +4462,7 @@
     },
     {
       "name": "Raichu",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -4570,6 +4625,8 @@
     },
     {
       "name": "Alolan Raichu",
+      "type1": "Electric",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -4734,6 +4791,7 @@
   "sandshrew": [
     {
       "name": "Sandshrew",
+      "type1": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -4878,6 +4936,7 @@
     },
     {
       "name": "Sandslash",
+      "type1": "Ground",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -5031,6 +5090,8 @@
     },
     {
       "name": "Alolan Sandshrew",
+      "type1": "Ice",
+      "type2": "Steel",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -5178,6 +5239,8 @@
     },
     {
       "name": "Alolan Sandslash",
+      "type1": "Ice",
+      "type2": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -5335,6 +5398,7 @@
   "nidoran♀": [
     {
       "name": "Nidoran♀",
+      "type1": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -5510,6 +5574,7 @@
     },
     {
       "name": "Nidorina",
+      "type1": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -5694,6 +5759,8 @@
     },
     {
       "name": "Nidoqueen",
+      "type1": "Poison",
+      "type2": "Ground",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -5881,6 +5948,7 @@
   "nidoran♂": [
     {
       "name": "Nidoran♂",
+      "type1": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -6057,6 +6125,7 @@
     },
     {
       "name": "Nidorino",
+      "type1": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -6241,6 +6310,8 @@
     },
     {
       "name": "Nidoking",
+      "type1": "Poison",
+      "type2": "Ground",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -6429,6 +6500,7 @@
   "cleffa": [
     {
       "name": "Cleffa",
+      "type1": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -6601,6 +6673,7 @@
     },
     {
       "name": "Clefairy",
+      "type1": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -6786,6 +6859,7 @@
     },
     {
       "name": "Clefable",
+      "type1": "Fairy",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -6975,6 +7049,7 @@
   "vulpix": [
     {
       "name": "Vulpix",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -7122,6 +7197,7 @@
     },
     {
       "name": "Ninetales",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -7278,6 +7354,8 @@
     },
     {
       "name": "Alolan Vulpix",
+      "type1": "Ice",
+      "type2": "One",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -7427,6 +7505,8 @@
     },
     {
       "name": "Alolan Ninetales",
+      "type1": "Ice",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -7585,6 +7665,8 @@
   "igglybuff": [
     {
       "name": "Igglybuff",
+      "type1": "Normal",
+      "type2": "Fairy",
       "stats": {
         "HP": 50,
         "ATK": 2,
@@ -7755,6 +7837,8 @@
     },
     {
       "name": "Jigglypuff",
+      "type1": "Normal",
+      "type2": "Fairy",
       "stats": {
         "HP": 65,
         "ATK": 4,
@@ -7935,6 +8019,8 @@
     },
     {
       "name": "Wigglytuff",
+      "type1": "Normal",
+      "type2": "Fairy",
       "stats": {
         "HP": 75,
         "ATK": 6,
@@ -8118,6 +8204,8 @@
   "zubat": [
     {
       "name": "Zubat",
+      "type1": "Poison",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -8263,6 +8351,8 @@
     },
     {
       "name": "Golbat",
+      "type1": "Poison",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -8415,6 +8505,8 @@
     },
     {
       "name": "Crobat",
+      "type1": "Poison",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -8571,6 +8663,8 @@
   "oddish": [
     {
       "name": "Oddish",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -8703,6 +8797,8 @@
     },
     {
       "name": "Gloom",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -8844,6 +8940,8 @@
     },
     {
       "name": "Vileplume",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -8993,6 +9091,7 @@
     },
     {
       "name": "Bellossom",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -9143,6 +9242,8 @@
   "paras": [
     {
       "name": "Paras",
+      "type1": "Bug",
+      "type2": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -9297,6 +9398,8 @@
     },
     {
       "name": "Parasect",
+      "type1": "Bug",
+      "type2": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -9461,6 +9564,8 @@
   "venonat": [
     {
       "name": "Venonat",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -9603,6 +9708,8 @@
     },
     {
       "name": "Venomoth",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -9757,6 +9864,7 @@
   "diglett": [
     {
       "name": "Diglett",
+      "type1": "Ground",
       "stats": {
         "HP": 10,
         "ATK": 5,
@@ -9900,6 +10008,7 @@
     },
     {
       "name": "Dugtrio",
+      "type1": "Ground",
       "stats": {
         "HP": 25,
         "ATK": 9,
@@ -10051,6 +10160,8 @@
     },
     {
       "name": "Alolan Diglett",
+      "type1": "Ground",
+      "type2": "Steel",
       "stats": {
         "HP": 10,
         "ATK": 5,
@@ -10196,6 +10307,8 @@
     },
     {
       "name": "Alolan Dugtrio",
+      "type1": "Ground",
+      "type2": "Steel",
       "stats": {
         "HP": 25,
         "ATK": 9,
@@ -10351,6 +10464,7 @@
   "meowth": [
     {
       "name": "Meowth",
+      "type1": "Normal",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -10499,6 +10613,7 @@
     },
     {
       "name": "Persian",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -10655,6 +10770,7 @@
     },
     {
       "name": "Alolan Meowth",
+      "type1": "Dark",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -10803,6 +10919,7 @@
     },
     {
       "name": "Alolan Persian",
+      "type1": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -10959,6 +11076,7 @@
     },
     {
       "name": "Galarian Meowth",
+      "type1": "Steel",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -11113,6 +11231,7 @@
     },
     {
       "name": "Perrserker",
+      "type1": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -11278,6 +11397,7 @@
   "psyduck": [
     {
       "name": "Psyduck",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -11440,6 +11560,7 @@
     },
     {
       "name": "Golduck",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -11609,6 +11730,7 @@
   "mankey": [
     {
       "name": "Mankey",
+      "type1": "Fighting",
       "stats": {
         "HP": 25,
         "ATK": 7,
@@ -11778,6 +11900,7 @@
     },
     {
       "name": "Primeape",
+      "type1": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -11958,6 +12081,7 @@
   "growlithe": [
     {
       "name": "Growlithe",
+      "type1": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -12103,6 +12227,7 @@
     },
     {
       "name": "Arcanine",
+      "type1": "Fire",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -12258,6 +12383,8 @@
     },
     {
       "name": "Hisuian Growlithe",
+      "type1": "Fire",
+      "type2": "Rock",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -12356,6 +12483,8 @@
     },
     {
       "name": "Hisuian Arcanine",
+      "type1": "Fire",
+      "type2": "Rock",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -12463,6 +12592,7 @@
   "poliwag": [
     {
       "name": "Poliwag",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -12604,6 +12734,7 @@
     },
     {
       "name": "Poliwhirl",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -12755,6 +12886,8 @@
     },
     {
       "name": "Poliwrath",
+      "type1": "Water",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -12920,6 +13053,7 @@
     },
     {
       "name": "Politoed",
+      "type1": "Water",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -13082,6 +13216,7 @@
   "abra": [
     {
       "name": "Abra",
+      "type1": "Psychic",
       "stats": {
         "HP": 20,
         "ATK": 1,
@@ -13225,6 +13360,7 @@
     },
     {
       "name": "Kadabra",
+      "type1": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -13392,6 +13528,7 @@
     },
     {
       "name": "Alakazam",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -13562,6 +13699,7 @@
     },
     {
       "name": "Mega Alakazam",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -13611,6 +13749,7 @@
   "machop": [
     {
       "name": "Machop",
+      "type1": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -13768,6 +13907,7 @@
     },
     {
       "name": "Machoke",
+      "type1": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -13930,6 +14070,7 @@
     },
     {
       "name": "Machamp",
+      "type1": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -14102,6 +14243,8 @@
   "bellsprout": [
     {
       "name": "Bellsprout",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -14241,6 +14384,8 @@
     },
     {
       "name": "Weepinbell",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -14386,6 +14531,8 @@
     },
     {
       "name": "Victreebel",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -14537,6 +14684,8 @@
   "tentacool": [
     {
       "name": "Tentacool",
+      "type1": "Water",
+      "type2": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -14683,6 +14832,8 @@
     },
     {
       "name": "Tentacruel",
+      "type1": "Water",
+      "type2": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -14840,6 +14991,8 @@
   "geodude": [
     {
       "name": "Geodude",
+      "type1": "Rock",
+      "type2": "Ground",
       "stats": {
         "HP": 25,
         "ATK": 7,
@@ -14988,6 +15141,8 @@
     },
     {
       "name": "Graveler",
+      "type1": "Rock",
+      "type2": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -15142,6 +15297,8 @@
     },
     {
       "name": "Golem",
+      "type1": "Rock",
+      "type2": "Ground",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -15299,6 +15456,8 @@
     },
     {
       "name": "Alolan Geodude",
+      "type1": "Rock",
+      "type2": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 7,
@@ -15455,6 +15614,8 @@
     },
     {
       "name": "Alolan Graveler",
+      "type1": "Rock",
+      "type2": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -15617,6 +15778,8 @@
     },
     {
       "name": "Alolan Golem",
+      "type1": "Rock",
+      "type2": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -15784,6 +15947,7 @@
   "ponyta": [
     {
       "name": "Ponyta",
+      "type1": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -15926,6 +16090,7 @@
     },
     {
       "name": "Rapidash",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -16077,6 +16242,7 @@
     },
     {
       "name": "Galarian Ponyta",
+      "type1": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 8,
@@ -16221,6 +16387,8 @@
     },
     {
       "name": "Galarian Rapidash",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -16376,6 +16544,8 @@
   "slowpoke": [
     {
       "name": "Slowpoke",
+      "type1": "Water",
+      "type2": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -16545,6 +16715,8 @@
     },
     {
       "name": "Slowbro",
+      "type1": "Water",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -16726,6 +16898,8 @@
     },
     {
       "name": "Mega Slowbro",
+      "type1": "Water",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -16774,6 +16948,8 @@
     },
     {
       "name": "Slowking",
+      "type1": "Water",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -16956,6 +17132,7 @@
     },
     {
       "name": "Galarian Slowpoke",
+      "type1": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -17123,6 +17300,8 @@
     },
     {
       "name": "Galarian Slowbro",
+      "type1": "Poison",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -17305,6 +17484,8 @@
     },
     {
       "name": "Galarian Slowking",
+      "type1": "Poison",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -17489,6 +17670,8 @@
   "magnemite": [
     {
       "name": "Magnemite",
+      "type1": "Electric",
+      "type2": "Steel",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -17626,6 +17809,8 @@
     },
     {
       "name": "Magneton",
+      "type1": "Electric",
+      "type2": "Steel",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -17771,6 +17956,8 @@
     },
     {
       "name": "Magnezone",
+      "type1": "Electric",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -17919,6 +18106,8 @@
   "farfetch'd": [
     {
       "name": "Farfetch'd",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -18077,6 +18266,7 @@
     },
     {
       "name": "Galarian Farfetch'd",
+      "type1": "Fighting",
       "stats": {
         "HP": 25,
         "ATK": 9,
@@ -18220,6 +18410,7 @@
     },
     {
       "name": "Sirfetch'd",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 13,
@@ -18375,6 +18566,8 @@
   "doduo": [
     {
       "name": "Doduo",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 8,
@@ -18517,6 +18710,8 @@
     },
     {
       "name": "Dodrio",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -18669,6 +18864,7 @@
   "seel": [
     {
       "name": "Seel",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -18812,6 +19008,8 @@
     },
     {
       "name": "Dewgong",
+      "type1": "Water",
+      "type2": "Ice",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -18967,6 +19165,7 @@
   "grimer": [
     {
       "name": "Grimer",
+      "type1": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -19124,6 +19323,7 @@
     },
     {
       "name": "Muk",
+      "type1": "Poison",
       "stats": {
         "HP": 60,
         "ATK": 10,
@@ -19291,6 +19491,8 @@
     },
     {
       "name": "Alolan Grimer",
+      "type1": "Poison",
+      "type2": "Dark",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -19450,6 +19652,8 @@
     },
     {
       "name": "Alolan Muk",
+      "type1": "Poison",
+      "type2": "Dark",
       "stats": {
         "HP": 60,
         "ATK": 10,
@@ -19619,6 +19823,7 @@
   "shellder": [
     {
       "name": "Shellder",
+      "type1": "Water",
       "stats": {
         "HP": 20,
         "ATK": 6,
@@ -19759,6 +19964,8 @@
     },
     {
       "name": "Cloyster",
+      "type1": "Water",
+      "type2": "Ice",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -19906,6 +20113,8 @@
   "gastly": [
     {
       "name": "Gastly",
+      "type1": "Ghost",
+      "type2": "Poison",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -20063,6 +20272,8 @@
     },
     {
       "name": "Haunter",
+      "type1": "Ghost",
+      "type2": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -20231,6 +20442,8 @@
     },
     {
       "name": "Gengar",
+      "type1": "Ghost",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -20405,6 +20618,8 @@
     },
     {
       "name": "Mega Gengar",
+      "type1": "Ghost",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -20454,6 +20669,8 @@
   "onix": [
     {
       "name": "Onix",
+      "type1": "Rock",
+      "type2": "Ground",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -20603,6 +20820,8 @@
     },
     {
       "name": "Steelix",
+      "type1": "Steel",
+      "type2": "Ground",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -20765,6 +20984,8 @@
     },
     {
       "name": "Mega Steelix",
+      "type1": "Steel",
+      "type2": "Ground",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -20814,6 +21035,7 @@
   "drowzee": [
     {
       "name": "Drowzee",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -20981,6 +21203,7 @@
     },
     {
       "name": "Hypno",
+      "type1": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -21159,6 +21382,7 @@
   "krabby": [
     {
       "name": "Krabby",
+      "type1": "Water",
       "stats": {
         "HP": 20,
         "ATK": 10,
@@ -21314,6 +21538,7 @@
     },
     {
       "name": "Kingler",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 12,
@@ -21478,6 +21703,7 @@
   "voltorb": [
     {
       "name": "Voltorb",
+      "type1": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -21618,6 +21844,7 @@
     },
     {
       "name": "Electrode",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -21766,6 +21993,8 @@
     },
     {
       "name": "Hisuian Voltorb",
+      "type1": "Electric",
+      "type2": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -21874,6 +22103,8 @@
     },
     {
       "name": "Hisuian Electrode",
+      "type1": "Electric",
+      "type2": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -21991,6 +22222,8 @@
   "exeggcute": [
     {
       "name": "Exeggcute",
+      "type1": "Grass",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -22128,6 +22361,8 @@
     },
     {
       "name": "Exeggutor",
+      "type1": "Grass",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -22288,6 +22523,8 @@
     },
     {
       "name": "Alolan Exeggutor",
+      "type1": "Grass",
+      "type2": "Dragon",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -22452,6 +22689,7 @@
   "cubone": [
     {
       "name": "Cubone",
+      "type1": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -22612,6 +22850,7 @@
     },
     {
       "name": "Marowak",
+      "type1": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -22792,6 +23031,8 @@
     },
     {
       "name": "Alolan Marowak",
+      "type1": "Fire",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -22974,6 +23215,7 @@
   "tyrogue": [
     {
       "name": "Tyrogue",
+      "type1": "Fighting",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -23114,6 +23356,7 @@
     },
     {
       "name": "Hitmonlee",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 11,
@@ -23271,6 +23514,7 @@
     },
     {
       "name": "Hitmonchan",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 10,
@@ -23434,6 +23678,7 @@
     },
     {
       "name": "Hitmontop",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -23594,6 +23839,7 @@
   "lickitung": [
     {
       "name": "Lickitung",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -23763,6 +24009,7 @@
     },
     {
       "name": "Lickilicky",
+      "type1": "Normal",
       "stats": {
         "HP": 60,
         "ATK": 8,
@@ -23941,6 +24188,7 @@
   "koffing": [
     {
       "name": "Koffing",
+      "type1": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -24082,6 +24330,7 @@
     },
     {
       "name": "Weezing",
+      "type1": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -24243,6 +24492,8 @@
     },
     {
       "name": "Galarian Weezing",
+      "type1": "Poison",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -24406,6 +24657,8 @@
   "rhyhorn": [
     {
       "name": "Rhyhorn",
+      "type1": "Ground",
+      "type2": "Rock",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -24580,6 +24833,8 @@
     },
     {
       "name": "Rhydon",
+      "type1": "Ground",
+      "type2": "Rock",
       "stats": {
         "HP": 60,
         "ATK": 12,
@@ -24767,6 +25022,8 @@
     },
     {
       "name": "Rhyperior",
+      "type1": "Ground",
+      "type2": "Rock",
       "stats": {
         "HP": 65,
         "ATK": 13,
@@ -24959,6 +25216,7 @@
   "happiny": [
     {
       "name": "Happiny",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 0,
@@ -25127,6 +25385,7 @@
     },
     {
       "name": "Chansey",
+      "type1": "Normal",
       "stats": {
         "HP": 130,
         "ATK": 0,
@@ -25306,6 +25565,7 @@
     },
     {
       "name": "Blissey",
+      "type1": "Normal",
       "stats": {
         "HP": 135,
         "ATK": 0,
@@ -25488,6 +25748,7 @@
   "tangela": [
     {
       "name": "Tangela",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -25644,6 +25905,7 @@
     },
     {
       "name": "Tangrowth",
+      "type1": "Grass",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -25812,6 +26074,7 @@
   "kangaskhan": [
     {
       "name": "Kangaskhan",
+      "type1": "Normal",
       "stats": {
         "HP": 60,
         "ATK": 9,
@@ -25986,6 +26249,7 @@
     },
     {
       "name": "Mega Kangaskhan",
+      "type1": "Normal",
       "stats": {
         "HP": 60,
         "ATK": 12,
@@ -26035,6 +26299,7 @@
   "horsea": [
     {
       "name": "Horsea",
+      "type1": "Water",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -26172,6 +26437,7 @@
     },
     {
       "name": "Seadra",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -26317,6 +26583,8 @@
     },
     {
       "name": "Kingdra",
+      "type1": "Water",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -26470,6 +26738,7 @@
   "goldeen": [
     {
       "name": "Goldeen",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -26606,6 +26875,7 @@
     },
     {
       "name": "Seaking",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -26755,6 +27025,7 @@
   "staryu": [
     {
       "name": "Staryu",
+      "type1": "Water",
       "stats": {
         "HP": 20,
         "ATK": 4,
@@ -26901,6 +27172,8 @@
     },
     {
       "name": "Starmie",
+      "type1": "Water",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -27062,6 +27335,8 @@
   "mime jr.": [
     {
       "name": "Mime Jr.",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 15,
         "ATK": 2,
@@ -27222,6 +27497,8 @@
     },
     {
       "name": "Mr. Mime",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -27405,6 +27682,8 @@
     },
     {
       "name": "Galarian Mr. Mime",
+      "type1": "Ice",
+      "type2": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -27581,6 +27860,8 @@
     },
     {
       "name": "Mr. Rime",
+      "type1": "Ice",
+      "type2": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -27762,6 +28043,8 @@
   "scyther": [
     {
       "name": "Scyther",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -27902,6 +28185,8 @@
     },
     {
       "name": "Scizor",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -28057,6 +28342,8 @@
     },
     {
       "name": "Kleavor",
+      "type1": "Bug",
+      "type2": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -28162,6 +28449,8 @@
     },
     {
       "name": "Mega Scizor",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 14,
@@ -28211,6 +28500,8 @@
   "smoochum": [
     {
       "name": "Smoochum",
+      "type1": "Ice",
+      "type2": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -28383,6 +28674,8 @@
     },
     {
       "name": "Jynx",
+      "type1": "Ice",
+      "type2": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -28566,6 +28859,7 @@
   "elekid": [
     {
       "name": "Elekid",
+      "type1": "Electric",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -28715,6 +29009,7 @@
     },
     {
       "name": "Electabuzz",
+      "type1": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -28870,6 +29165,7 @@
     },
     {
       "name": "Electivire",
+      "type1": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -29030,6 +29326,7 @@
   "magby": [
     {
       "name": "Magby",
+      "type1": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -29182,6 +29479,7 @@
     },
     {
       "name": "Magmar",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -29343,6 +29641,7 @@
     },
     {
       "name": "Magmortar",
+      "type1": "Fire",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -29508,6 +29807,7 @@
   "pinsir": [
     {
       "name": "Pinsir",
+      "type1": "Bug",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -29664,6 +29964,8 @@
     },
     {
       "name": "Mega Pinsir",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 15,
@@ -29713,6 +30015,7 @@
   "tauros": [
     {
       "name": "Tauros",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -29874,6 +30177,7 @@
   "magikarp": [
     {
       "name": "Magikarp",
+      "type1": "Water",
       "stats": {
         "HP": 15,
         "ATK": 0,
@@ -29955,6 +30259,8 @@
     },
     {
       "name": "Gyarados",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -30109,6 +30415,8 @@
     },
     {
       "name": "Mega Gyarados",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 55,
         "ATK": 15,
@@ -30159,6 +30467,8 @@
   "lapras": [
     {
       "name": "Lapras",
+      "type1": "Water",
+      "type2": "Ice",
       "stats": {
         "HP": 70,
         "ATK": 8,
@@ -30321,6 +30631,7 @@
   "ditto": [
     {
       "name": "Ditto",
+      "type1": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -30374,6 +30685,7 @@
   "eevee": [
     {
       "name": "Eevee",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -30512,6 +30824,7 @@
     },
     {
       "name": "Vaporeon",
+      "type1": "Water",
       "stats": {
         "HP": 70,
         "ATK": 6,
@@ -30661,6 +30974,7 @@
     },
     {
       "name": "Jolteon",
+      "type1": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -30808,6 +31122,7 @@
     },
     {
       "name": "Flareon",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -30960,6 +31275,7 @@
     },
     {
       "name": "Espeon",
+      "type1": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -31114,6 +31430,7 @@
     },
     {
       "name": "Umbreon",
+      "type1": "Dark",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -31265,6 +31582,7 @@
     },
     {
       "name": "Leafeon",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -31417,6 +31735,7 @@
     },
     {
       "name": "Glaceon",
+      "type1": "Ice",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -31565,6 +31884,7 @@
     },
     {
       "name": "Sylveon",
+      "type1": "Fairy",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -31716,6 +32036,7 @@
   "porygon": [
     {
       "name": "Porygon",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -31874,6 +32195,7 @@
     },
     {
       "name": "Porygon2",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -32039,6 +32361,7 @@
     },
     {
       "name": "Porygon-Z",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -32211,6 +32534,8 @@
   "omanyte": [
     {
       "name": "Omanyte",
+      "type1": "Rock",
+      "type2": "Water",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -32355,6 +32680,8 @@
     },
     {
       "name": "Omastar",
+      "type1": "Rock",
+      "type2": "Water",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -32508,6 +32835,8 @@
   "kabuto": [
     {
       "name": "Kabuto",
+      "type1": "Rock",
+      "type2": "Water",
       "stats": {
         "HP": 20,
         "ATK": 7,
@@ -32662,6 +32991,8 @@
     },
     {
       "name": "Kabutops",
+      "type1": "Rock",
+      "type2": "Water",
       "stats": {
         "HP": 35,
         "ATK": 11,
@@ -32829,6 +33160,8 @@
   "aerodactyl": [
     {
       "name": "Aerodactyl",
+      "type1": "Rock",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -32984,6 +33317,8 @@
     },
     {
       "name": "Mega Aerodactyl",
+      "type1": "Rock",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 13,
@@ -33033,6 +33368,7 @@
   "munchlax": [
     {
       "name": "Munchlax",
+      "type1": "Normal",
       "stats": {
         "HP": 75,
         "ATK": 8,
@@ -33211,6 +33547,7 @@
     },
     {
       "name": "Snorlax",
+      "type1": "Normal",
       "stats": {
         "HP": 85,
         "ATK": 10,
@@ -33394,6 +33731,8 @@
   "articuno": [
     {
       "name": "Articuno",
+      "type1": "Ice",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -33532,6 +33871,8 @@
     },
     {
       "name": "Galarian Articuno",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -33670,6 +34011,8 @@
   "zapdos": [
     {
       "name": "Zapdos",
+      "type1": "Electric",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -33809,6 +34152,8 @@
     },
     {
       "name": "Galarian Zapdos",
+      "type1": "Fighting",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -33949,6 +34294,8 @@
   "moltres": [
     {
       "name": "Moltres",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -34082,6 +34429,8 @@
     },
     {
       "name": "Galarian Moltres",
+      "type1": "Dark",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -34215,6 +34564,7 @@
   "dratini": [
     {
       "name": "Dratini",
+      "type1": "Dragon",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -34363,6 +34713,7 @@
     },
     {
       "name": "Dragonair",
+      "type1": "Dragon",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -34518,6 +34869,8 @@
     },
     {
       "name": "Dragonite",
+      "type1": "Dragon",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -34694,6 +35047,7 @@
   "mewtwo": [
     {
       "name": "Mewtwo",
+      "type1": "Psychic",
       "stats": {
         "HP": 60,
         "ATK": 10,
@@ -34882,6 +35236,8 @@
     },
     {
       "name": "Mega Mewtwo X",
+      "type1": "Psychic",
+      "type2": "Fighting",
       "stats": {
         "HP": 60,
         "ATK": 18,
@@ -34929,6 +35285,7 @@
     },
     {
       "name": "Mega Mewtwo Y",
+      "type1": "Psychic",
       "stats": {
         "HP": 60,
         "ATK": 14,
@@ -34978,6 +35335,7 @@
   "mew": [
     {
       "name": "Mew",
+      "type1": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -35812,6 +36170,7 @@
   "chikorita": [
     {
       "name": "Chikorita",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -35953,6 +36312,7 @@
     },
     {
       "name": "Bayleef",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -36099,6 +36459,7 @@
     },
     {
       "name": "Meganium",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -36252,6 +36613,7 @@
   "cyndaquil": [
     {
       "name": "Cyndaquil",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -36401,6 +36763,7 @@
     },
     {
       "name": "Quilava",
+      "type1": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -36556,6 +36919,7 @@
     },
     {
       "name": "Typhlosion",
+      "type1": "Fire",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -36722,6 +37086,8 @@
     },
     {
       "name": "Hisuian Typhlosion",
+      "type1": "Fire",
+      "type2": "Ghost",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -36827,6 +37193,7 @@
   "totodile": [
     {
       "name": "Totodile",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -36991,6 +37358,7 @@
     },
     {
       "name": "Croconaw",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -37162,6 +37530,7 @@
     },
     {
       "name": "Feraligatr",
+      "type1": "Water",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -37339,6 +37708,7 @@
   "sentret": [
     {
       "name": "Sentret",
+      "type1": "Normal",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -37483,6 +37853,7 @@
     },
     {
       "name": "Furret",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -37639,6 +38010,8 @@
   "hoothoot": [
     {
       "name": "Hoothoot",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 2,
@@ -37785,6 +38158,8 @@
     },
     {
       "name": "Noctowl",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 4,
@@ -37941,6 +38316,8 @@
   "ledyba": [
     {
       "name": "Ledyba",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 1,
@@ -38092,6 +38469,8 @@
     },
     {
       "name": "Ledian",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -38254,6 +38633,8 @@
   "spinarak": [
     {
       "name": "Spinarak",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -38404,6 +38785,8 @@
     },
     {
       "name": "Ariados",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -38566,6 +38949,8 @@
   "chinchou": [
     {
       "name": "Chinchou",
+      "type1": "Water",
+      "type2": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 3,
@@ -38702,6 +39087,8 @@
     },
     {
       "name": "Lanturn",
+      "type1": "Water",
+      "type2": "Electric",
       "stats": {
         "HP": 70,
         "ATK": 5,
@@ -38851,6 +39238,7 @@
   "togepi": [
     {
       "name": "Togepi",
+      "type1": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 1,
@@ -39023,6 +39411,8 @@
     },
     {
       "name": "Togetic",
+      "type1": "Fairy",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -39204,6 +39594,8 @@
     },
     {
       "name": "Togekiss",
+      "type1": "Fairy",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 4,
@@ -39388,6 +39780,8 @@
   "natu": [
     {
       "name": "Natu",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -39550,6 +39944,8 @@
     },
     {
       "name": "Xatu",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -39720,6 +40116,7 @@
   "mareep": [
     {
       "name": "Mareep",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -39861,6 +40258,7 @@
     },
     {
       "name": "Flaaffy",
+      "type1": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -40014,6 +40412,7 @@
     },
     {
       "name": "Ampharos",
+      "type1": "Electric",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -40171,6 +40570,8 @@
     },
     {
       "name": "Mega Ampharos",
+      "type1": "Electric",
+      "type2": "Dragon",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -40221,6 +40622,8 @@
   "azurill": [
     {
       "name": "Azurill",
+      "type1": "Normal",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 1,
@@ -40369,6 +40772,8 @@
     },
     {
       "name": "Marill",
+      "type1": "Water",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 1,
@@ -40536,6 +40941,8 @@
     },
     {
       "name": "Azumarill",
+      "type1": "Water",
+      "type2": "Fairy",
       "stats": {
         "HP": 55,
         "ATK": 4,
@@ -40707,6 +41114,7 @@
   "bonsly": [
     {
       "name": "Bonsly",
+      "type1": "Rock",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -40848,6 +41256,7 @@
     },
     {
       "name": "Sudowoodo",
+      "type1": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -41004,6 +41413,8 @@
   "hoppip": [
     {
       "name": "Hoppip",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -41148,6 +41559,8 @@
     },
     {
       "name": "Skiploom",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -41299,6 +41712,8 @@
     },
     {
       "name": "Jumpluff",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 5,
@@ -41455,6 +41870,7 @@
   "aipom": [
     {
       "name": "Aipom",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -41617,6 +42033,7 @@
     },
     {
       "name": "Ambipom",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -41793,6 +42210,7 @@
   "sunkern": [
     {
       "name": "Sunkern",
+      "type1": "Grass",
       "stats": {
         "HP": 20,
         "ATK": 2,
@@ -41939,6 +42357,7 @@
     },
     {
       "name": "Sunflora",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -42094,6 +42513,8 @@
   "yanma": [
     {
       "name": "Yanma",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -42230,6 +42651,8 @@
     },
     {
       "name": "Yanmega",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -42377,6 +42800,8 @@
   "wooper": [
     {
       "name": "Wooper",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -42539,6 +42964,8 @@
     },
     {
       "name": "Quagsire",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 8,
@@ -42714,6 +43141,8 @@
   "murkrow": [
     {
       "name": "Murkrow",
+      "type1": "Dark",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -42865,6 +43294,8 @@
     },
     {
       "name": "Honchkrow",
+      "type1": "Dark",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -43027,6 +43458,7 @@
   "misdreavus": [
     {
       "name": "Misdreavus",
+      "type1": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -43172,6 +43604,7 @@
     },
     {
       "name": "Mismagius",
+      "type1": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -43329,6 +43762,7 @@
   "unown": [
     {
       "name": "Unown",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -43386,6 +43820,7 @@
   "wynaut": [
     {
       "name": "Wynaut",
+      "type1": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 1,
@@ -43464,6 +43899,7 @@
     },
     {
       "name": "Wobbuffet",
+      "type1": "Psychic",
       "stats": {
         "HP": 100,
         "ATK": 2,
@@ -43553,6 +43989,8 @@
   "girafarig": [
     {
       "name": "Girafarig",
+      "type1": "Normal",
+      "type2": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -43725,6 +44163,7 @@
   "pineco": [
     {
       "name": "Pineco",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -43863,6 +44302,8 @@
     },
     {
       "name": "Forretress",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -44012,6 +44453,7 @@
   "dunsparce": [
     {
       "name": "Dunsparce",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -44181,6 +44623,8 @@
   "gligar": [
     {
       "name": "Gligar",
+      "type1": "Ground",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -44347,6 +44791,8 @@
     },
     {
       "name": "Gliscor",
+      "type1": "Ground",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -44522,6 +44968,7 @@
   "snubbull": [
     {
       "name": "Snubbull",
+      "type1": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -44697,6 +45144,7 @@
     },
     {
       "name": "Granbull",
+      "type1": "Fairy",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -44882,6 +45330,8 @@
   "qwilfish": [
     {
       "name": "Qwilfish",
+      "type1": "Water",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -45043,6 +45493,8 @@
     },
     {
       "name": "Hisuian Qwilfish",
+      "type1": "Dark",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -45142,6 +45594,8 @@
     },
     {
       "name": "Overqwil",
+      "type1": "Dark",
+      "type2": "Poison",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -45250,6 +45704,8 @@
   "shuckle": [
     {
       "name": "Shuckle",
+      "type1": "Bug",
+      "type2": "Rock",
       "stats": {
         "HP": 15,
         "ATK": 0,
@@ -45410,6 +45866,8 @@
   "heracross": [
     {
       "name": "Heracross",
+      "type1": "Bug",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -45566,6 +46024,8 @@
     },
     {
       "name": "Mega Heracross",
+      "type1": "Bug",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 18,
@@ -45615,6 +46075,8 @@
   "sneasel": [
     {
       "name": "Sneasel",
+      "type1": "Dark",
+      "type2": "Ice",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -45784,6 +46246,8 @@
     },
     {
       "name": "Weavile",
+      "type1": "Dark",
+      "type2": "Ice",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -45958,6 +46422,8 @@
     },
     {
       "name": "Hisuian Sneasel",
+      "type1": "Poison",
+      "type2": "Fighting",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -46059,6 +46525,8 @@
     },
     {
       "name": "Sneasler",
+      "type1": "Poison",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -46166,6 +46634,7 @@
   "teddiursa": [
     {
       "name": "Teddiursa",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -46330,6 +46799,7 @@
     },
     {
       "name": "Ursaring",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -46500,6 +46970,8 @@
     },
     {
       "name": "Ursaluna",
+      "type1": "Normal",
+      "type2": "Ground",
       "stats": {
         "HP": 70,
         "ATK": 13,
@@ -46609,6 +47081,7 @@
   "slugma": [
     {
       "name": "Slugma",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -46762,6 +47235,8 @@
     },
     {
       "name": "Magcargo",
+      "type1": "Fire",
+      "type2": "Rock",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -46925,6 +47400,8 @@
   "swinub": [
     {
       "name": "Swinub",
+      "type1": "Ice",
+      "type2": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -47072,6 +47549,8 @@
     },
     {
       "name": "Piloswine",
+      "type1": "Ice",
+      "type2": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -47227,6 +47706,8 @@
     },
     {
       "name": "Mamoswine",
+      "type1": "Ice",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 12,
@@ -47389,6 +47870,8 @@
   "corsola": [
     {
       "name": "Corsola",
+      "type1": "Water",
+      "type2": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -47549,6 +48032,7 @@
     },
     {
       "name": "Galarian Corsola",
+      "type1": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -47706,6 +48190,7 @@
     },
     {
       "name": "Cursola",
+      "type1": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -47876,6 +48361,7 @@
   "remoraid": [
     {
       "name": "Remoraid",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -48035,6 +48521,7 @@
     },
     {
       "name": "Octillery",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -48209,6 +48696,8 @@
   "delibird": [
     {
       "name": "Delibird",
+      "type1": "Ice",
+      "type2": "Flying",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -48379,6 +48868,8 @@
   "mantyke": [
     {
       "name": "Mantyke",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 30,
         "ATK": 1,
@@ -48523,6 +49014,8 @@
     },
     {
       "name": "Mantine",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 3,
@@ -48682,6 +49175,8 @@
   "skarmory": [
     {
       "name": "Skarmory",
+      "type1": "Steel",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -48832,6 +49327,8 @@
   "houndour": [
     {
       "name": "Houndour",
+      "type1": "Dark",
+      "type2": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -48984,6 +49481,8 @@
     },
     {
       "name": "Houndoom",
+      "type1": "Dark",
+      "type2": "Fire",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -49144,6 +49643,8 @@
     },
     {
       "name": "Mega Houndoom",
+      "type1": "Dark",
+      "type2": "Fire",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -49193,6 +49694,7 @@
   "phanpy": [
     {
       "name": "Phanpy",
+      "type1": "Ground",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -49343,6 +49845,7 @@
     },
     {
       "name": "Donphan",
+      "type1": "Ground",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -49504,6 +50007,7 @@
   "stantler": [
     {
       "name": "Stantler",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -49658,6 +50162,8 @@
     },
     {
       "name": "Wyrdeer",
+      "type1": "Normal",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -49768,6 +50274,7 @@
   "smeargle": [
     {
       "name": "Smeargle",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 1,
@@ -49882,6 +50389,7 @@
   "miltank": [
     {
       "name": "Miltank",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -50051,6 +50559,7 @@
   "raikou": [
     {
       "name": "Raikou",
+      "type1": "Electric",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -50203,6 +50712,7 @@
   "entei": [
     {
       "name": "Entei",
+      "type1": "Fire",
       "stats": {
         "HP": 65,
         "ATK": 11,
@@ -50354,6 +50864,7 @@
   "suicune": [
     {
       "name": "Suicune",
+      "type1": "Water",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -50507,6 +51018,8 @@
   "larvitar": [
     {
       "name": "Larvitar",
+      "type1": "Rock",
+      "type2": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -50677,6 +51190,8 @@
     },
     {
       "name": "Pupitar",
+      "type1": "Rock",
+      "type2": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -50843,6 +51358,8 @@
     },
     {
       "name": "Tyranitar",
+      "type1": "Rock",
+      "type2": "Dark",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -51027,6 +51544,8 @@
     },
     {
       "name": "Mega Tyranitar",
+      "type1": "Rock",
+      "type2": "Dark",
       "stats": {
         "HP": 55,
         "ATK": 15,
@@ -51076,6 +51595,8 @@
   "lugia": [
     {
       "name": "Lugia",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 60,
         "ATK": 8,
@@ -51248,6 +51769,8 @@
   "ho-oh": [
     {
       "name": "Ho-Oh",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 60,
         "ATK": 12,
@@ -51413,6 +51936,8 @@
   "celebi": [
     {
       "name": "Celebi",
+      "type1": "Psychic",
+      "type2": "Grass",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -51596,6 +52121,7 @@
   "treecko": [
     {
       "name": "Treecko",
+      "type1": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -51752,6 +52278,7 @@
     },
     {
       "name": "Grovyle",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -51915,6 +52442,7 @@
     },
     {
       "name": "Sceptile",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -52086,6 +52614,7 @@
     },
     {
       "name": "Mega Sceptile",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -52136,6 +52665,7 @@
   "torchic": [
     {
       "name": "Torchic",
+      "type1": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -52287,6 +52817,8 @@
     },
     {
       "name": "Combusken",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -52449,6 +52981,8 @@
     },
     {
       "name": "Blaziken",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -52617,6 +53151,8 @@
     },
     {
       "name": "Mega Blaziken",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 15,
@@ -52666,6 +53202,7 @@
   "mudkip": [
     {
       "name": "Mudkip",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -52819,6 +53356,8 @@
     },
     {
       "name": "Marshtomp",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -52981,6 +53520,8 @@
     },
     {
       "name": "Swampert",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -53147,6 +53688,8 @@
     },
     {
       "name": "Mega Swampert",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 14,
@@ -53197,6 +53740,7 @@
   "poochyena": [
     {
       "name": "Poochyena",
+      "type1": "Dark",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -53337,6 +53881,7 @@
     },
     {
       "name": "Mightyena",
+      "type1": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -53484,6 +54029,7 @@
   "zigzagoon": [
     {
       "name": "Zigzagoon",
+      "type1": "Normal",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -53631,6 +54177,7 @@
     },
     {
       "name": "Linoone",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -53789,6 +54336,8 @@
     },
     {
       "name": "Galarian Zigzagoon",
+      "type1": "Dark",
+      "type2": "Normal",
       "stats": {
         "HP": 20,
         "ATK": 2,
@@ -53937,6 +54486,8 @@
     },
     {
       "name": "Galarian Linoone",
+      "type1": "Dark",
+      "type2": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -54095,6 +54646,8 @@
     },
     {
       "name": "Obstagoon",
+      "type1": "Dark",
+      "type2": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -54264,6 +54817,7 @@
   "wurmple": [
     {
       "name": "Wurmple",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -54356,6 +54910,7 @@
     },
     {
       "name": "Silcoon",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -54455,6 +55010,8 @@
     },
     {
       "name": "Beautifly",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -54593,6 +55150,7 @@
     },
     {
       "name": "Cascoon",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -54694,6 +55252,8 @@
     },
     {
       "name": "Dustox",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -54834,6 +55394,8 @@
   "lotad": [
     {
       "name": "Lotad",
+      "type1": "Water",
+      "type2": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -54986,6 +55548,8 @@
     },
     {
       "name": "Lombre",
+      "type1": "Water",
+      "type2": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -55151,6 +55715,8 @@
     },
     {
       "name": "Ludicolo",
+      "type1": "Water",
+      "type2": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -55324,6 +55890,7 @@
   "seedot": [
     {
       "name": "Seedot",
+      "type1": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -55488,6 +56055,8 @@
     },
     {
       "name": "Nuzleaf",
+      "type1": "Grass",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -55662,6 +56231,8 @@
     },
     {
       "name": "Shiftry",
+      "type1": "Grass",
+      "type2": "Dark",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -55841,6 +56412,8 @@
   "taillow": [
     {
       "name": "Taillow",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -55971,6 +56544,8 @@
     },
     {
       "name": "Swellow",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -56109,6 +56684,8 @@
   "wingull": [
     {
       "name": "Wingull",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -56249,6 +56826,8 @@
     },
     {
       "name": "Pelipper",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -56404,6 +56983,8 @@
   "ralts": [
     {
       "name": "Ralts",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 20,
         "ATK": 2,
@@ -56563,6 +57144,8 @@
     },
     {
       "name": "Kirlia",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -56731,6 +57314,8 @@
     },
     {
       "name": "Gardevoir",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -56922,6 +57507,8 @@
     },
     {
       "name": "Mega Gardevoir",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -56970,6 +57557,8 @@
     },
     {
       "name": "Gallade",
+      "type1": "Psychic",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -57163,6 +57752,8 @@
     },
     {
       "name": "Mega Gallade",
+      "type1": "Psychic",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 16,
@@ -57213,6 +57804,8 @@
   "surskit": [
     {
       "name": "Surskit",
+      "type1": "Bug",
+      "type2": "Water",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -57348,6 +57941,8 @@
     },
     {
       "name": "Masquerain",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -57494,6 +58089,7 @@
   "shroomish": [
     {
       "name": "Shroomish",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -57634,6 +58230,8 @@
     },
     {
       "name": "Breloom",
+      "type1": "Grass",
+      "type2": "Fighting",
       "stats": {
         "HP": 35,
         "ATK": 12,
@@ -57798,6 +58396,7 @@
   "slakoth": [
     {
       "name": "Slakoth",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -57950,6 +58549,7 @@
     },
     {
       "name": "Vigoroth",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -58108,6 +58708,7 @@
     },
     {
       "name": "Slaking",
+      "type1": "Normal",
       "stats": {
         "HP": 80,
         "ATK": 15,
@@ -58270,6 +58871,8 @@
   "nincada": [
     {
       "name": "Nincada",
+      "type1": "Bug",
+      "type2": "Ground",
       "stats": {
         "HP": 20,
         "ATK": 4,
@@ -58392,6 +58995,8 @@
     },
     {
       "name": "Ninjask",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -58531,6 +59136,8 @@
     },
     {
       "name": "Shedinja",
+      "type1": "Bug",
+      "type2": "Ghost",
       "stats": {
         "HP": 5,
         "ATK": 8,
@@ -58674,6 +59281,7 @@
   "whismur": [
     {
       "name": "Whismur",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -58831,6 +59439,7 @@
     },
     {
       "name": "Loudred",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -58999,6 +59608,7 @@
     },
     {
       "name": "Exploud",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 8,
@@ -59171,6 +59781,7 @@
   "makuhita": [
     {
       "name": "Makuhita",
+      "type1": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -59336,6 +59947,7 @@
     },
     {
       "name": "Hariyama",
+      "type1": "Fighting",
       "stats": {
         "HP": 75,
         "ATK": 11,
@@ -59510,6 +60122,7 @@
   "nosepass": [
     {
       "name": "Nosepass",
+      "type1": "Rock",
       "stats": {
         "HP": 20,
         "ATK": 4,
@@ -59655,6 +60268,8 @@
     },
     {
       "name": "Probopass",
+      "type1": "Rock",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -59810,6 +60425,7 @@
   "skitty": [
     {
       "name": "Skitty",
+      "type1": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -59969,6 +60585,7 @@
     },
     {
       "name": "Delcatty",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -60138,6 +60755,8 @@
   "sableye": [
     {
       "name": "Sableye",
+      "type1": "Dark",
+      "type2": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -60314,6 +60933,8 @@
     },
     {
       "name": "Mega Sableye",
+      "type1": "Dark",
+      "type2": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -60363,6 +60984,8 @@
   "mawile": [
     {
       "name": "Mawile",
+      "type1": "Steel",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -60536,6 +61159,8 @@
     },
     {
       "name": "Mega Mawile",
+      "type1": "Steel",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 10,
@@ -60586,6 +61211,8 @@
   "aron": [
     {
       "name": "Aron",
+      "type1": "Steel",
+      "type2": "Rock",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -60752,6 +61379,8 @@
     },
     {
       "name": "Lairon",
+      "type1": "Steel",
+      "type2": "Rock",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -60925,6 +61554,8 @@
     },
     {
       "name": "Aggron",
+      "type1": "Steel",
+      "type2": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -61110,6 +61741,7 @@
     },
     {
       "name": "Mega Aggron",
+      "type1": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -61159,6 +61791,8 @@
   "meditite": [
     {
       "name": "Meditite",
+      "type1": "Fighting",
+      "type2": "Psychic",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -61324,6 +61958,8 @@
     },
     {
       "name": "Medicham",
+      "type1": "Fighting",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -61498,6 +62134,8 @@
     },
     {
       "name": "Mega Medicham",
+      "type1": "Fighting",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -61547,6 +62185,7 @@
   "electrike": [
     {
       "name": "Electrike",
+      "type1": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -61688,6 +62327,7 @@
     },
     {
       "name": "Manectric",
+      "type1": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -61835,6 +62475,7 @@
     },
     {
       "name": "Mega Manectric",
+      "type1": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -61884,6 +62525,7 @@
   "plusle": [
     {
       "name": "Plusle",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -62035,6 +62677,7 @@
   "minun": [
     {
       "name": "Minun",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -62185,6 +62828,7 @@
   "volbeat": [
     {
       "name": "Volbeat",
+      "type1": "Bug",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -62338,6 +62982,7 @@
   "illumise": [
     {
       "name": "Illumise",
+      "type1": "Bug",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -62490,6 +63135,8 @@
   "budew": [
     {
       "name": "Budew",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -62634,6 +63281,8 @@
     },
     {
       "name": "Roselia",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -62789,6 +63438,8 @@
     },
     {
       "name": "Roserade",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -62949,6 +63600,7 @@
   "gulpin": [
     {
       "name": "Gulpin",
+      "type1": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 3,
@@ -63096,6 +63748,7 @@
     },
     {
       "name": "Swalot",
+      "type1": "Poison",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -63253,6 +63906,8 @@
   "carvanha": [
     {
       "name": "Carvanha",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -63401,6 +64056,8 @@
     },
     {
       "name": "Sharpedo",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -63557,6 +64214,8 @@
     },
     {
       "name": "Mega Sharpedo",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -63606,6 +64265,7 @@
   "wailmer": [
     {
       "name": "Wailmer",
+      "type1": "Water",
       "stats": {
         "HP": 70,
         "ATK": 6,
@@ -63749,6 +64409,7 @@
     },
     {
       "name": "Wailord",
+      "type1": "Water",
       "stats": {
         "HP": 90,
         "ATK": 8,
@@ -63905,6 +64566,8 @@
   "numel": [
     {
       "name": "Numel",
+      "type1": "Fire",
+      "type2": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -64053,6 +64716,8 @@
     },
     {
       "name": "Camerupt",
+      "type1": "Fire",
+      "type2": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -64211,6 +64876,8 @@
     },
     {
       "name": "Mega Camerupt",
+      "type1": "Fire",
+      "type2": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -64260,6 +64927,7 @@
   "torkoal": [
     {
       "name": "Torkoal",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -64411,6 +65079,7 @@
   "spoink": [
     {
       "name": "Spoink",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 2,
@@ -64557,6 +65226,7 @@
     },
     {
       "name": "Grumpig",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -64722,6 +65392,7 @@
   "spinda": [
     {
       "name": "Spinda",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -64895,6 +65566,7 @@
   "trapinch": [
     {
       "name": "Trapinch",
+      "type1": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -65041,6 +65713,8 @@
     },
     {
       "name": "Vibrava",
+      "type1": "Ground",
+      "type2": "Dragon",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -65195,6 +65869,8 @@
     },
     {
       "name": "Flygon",
+      "type1": "Ground",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -65359,6 +66035,7 @@
   "cacnea": [
     {
       "name": "Cacnea",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -65516,6 +66193,8 @@
     },
     {
       "name": "Cacturne",
+      "type1": "Grass",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -65683,6 +66362,8 @@
   "swablu": [
     {
       "name": "Swablu",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -65825,6 +66506,8 @@
     },
     {
       "name": "Altaria",
+      "type1": "Dragon",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -65976,6 +66659,8 @@
     },
     {
       "name": "Mega Altaria",
+      "type1": "Dragon",
+      "type2": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -66026,6 +66711,7 @@
   "zangoose": [
     {
       "name": "Zangoose",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -66194,6 +66880,7 @@
   "seviper": [
     {
       "name": "Seviper",
+      "type1": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -66341,6 +67028,8 @@
   "lunatone": [
     {
       "name": "Lunatone",
+      "type1": "Rock",
+      "type2": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -66498,6 +67187,8 @@
   "solrock": [
     {
       "name": "Solrock",
+      "type1": "Rock",
+      "type2": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -66656,6 +67347,8 @@
   "barboach": [
     {
       "name": "Barboach",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -66796,6 +67489,8 @@
     },
     {
       "name": "Whiscash",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 7,
@@ -66949,6 +67644,7 @@
   "corphish": [
     {
       "name": "Corphish",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 7,
@@ -67108,6 +67804,8 @@
     },
     {
       "name": "Crawdaunt",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 35,
         "ATK": 11,
@@ -67276,6 +67974,8 @@
   "baltoy": [
     {
       "name": "Baltoy",
+      "type1": "Ground",
+      "type2": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -67432,6 +68132,8 @@
     },
     {
       "name": "Claydol",
+      "type1": "Ground",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -67599,6 +68301,8 @@
   "lileep": [
     {
       "name": "Lileep",
+      "type1": "Rock",
+      "type2": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 3,
@@ -67739,6 +68443,8 @@
     },
     {
       "name": "Cradily",
+      "type1": "Rock",
+      "type2": "Grass",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -67890,6 +68596,8 @@
   "anorith": [
     {
       "name": "Anorith",
+      "type1": "Rock",
+      "type2": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -68026,6 +68734,8 @@
     },
     {
       "name": "Armaldo",
+      "type1": "Rock",
+      "type2": "Bug",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -68173,6 +68883,7 @@
   "feebas": [
     {
       "name": "Feebas",
+      "type1": "Water",
       "stats": {
         "HP": 15,
         "ATK": 1,
@@ -68279,6 +68990,7 @@
     },
     {
       "name": "Milotic",
+      "type1": "Water",
       "stats": {
         "HP": 55,
         "ATK": 5,
@@ -68440,6 +69152,7 @@
   "castform": [
     {
       "name": "Castform",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -68592,6 +69305,7 @@
   "kecleon": [
     {
       "name": "Kecleon",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -68756,6 +69470,7 @@
   "shuppet": [
     {
       "name": "Shuppet",
+      "type1": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 7,
@@ -68901,6 +69616,7 @@
     },
     {
       "name": "Banette",
+      "type1": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 11,
@@ -69061,6 +69777,7 @@
     },
     {
       "name": "Mega Banette",
+      "type1": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 16,
@@ -69110,6 +69827,7 @@
   "duskull": [
     {
       "name": "Duskull",
+      "type1": "Ghost",
       "stats": {
         "HP": 15,
         "ATK": 3,
@@ -69256,6 +69974,7 @@
     },
     {
       "name": "Dusclops",
+      "type1": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -69419,6 +70138,7 @@
     },
     {
       "name": "Dusknoir",
+      "type1": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -69589,6 +70309,8 @@
   "tropius": [
     {
       "name": "Tropius",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -69743,6 +70465,7 @@
   "chingling": [
     {
       "name": "Chingling",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -69886,6 +70609,7 @@
     },
     {
       "name": "Chimecho",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -70040,6 +70764,7 @@
   "absol": [
     {
       "name": "Absol",
+      "type1": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -70210,6 +70935,7 @@
     },
     {
       "name": "Mega Absol",
+      "type1": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 14,
@@ -70259,6 +70985,7 @@
   "snorunt": [
     {
       "name": "Snorunt",
+      "type1": "Ice",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -70390,6 +71117,7 @@
     },
     {
       "name": "Glalie",
+      "type1": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -70545,6 +71273,7 @@
     },
     {
       "name": "Mega Glalie",
+      "type1": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -70593,6 +71322,8 @@
     },
     {
       "name": "Froslass",
+      "type1": "Ice",
+      "type2": "Ghost",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -70747,6 +71478,8 @@
   "spheal": [
     {
       "name": "Spheal",
+      "type1": "Ice",
+      "type2": "Water",
       "stats": {
         "HP": 40,
         "ATK": 3,
@@ -70886,6 +71619,8 @@
     },
     {
       "name": "Sealeo",
+      "type1": "Ice",
+      "type2": "Water",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -71031,6 +71766,8 @@
     },
     {
       "name": "Walrein",
+      "type1": "Ice",
+      "type2": "Water",
       "stats": {
         "HP": 60,
         "ATK": 7,
@@ -71181,6 +71918,7 @@
   "clamperl": [
     {
       "name": "Clamperl",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -71303,6 +72041,7 @@
     },
     {
       "name": "Huntail",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -71440,6 +72179,7 @@
     },
     {
       "name": "Gorebyss",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -71579,6 +72319,8 @@
   "relicanth": [
     {
       "name": "Relicanth",
+      "type1": "Water",
+      "type2": "Rock",
       "stats": {
         "HP": 55,
         "ATK": 8,
@@ -71736,6 +72478,7 @@
   "luvdisc": [
     {
       "name": "Luvdisc",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -71885,6 +72628,7 @@
     },
     {
       "name": "Alomomola",
+      "type1": "Water",
       "stats": {
         "HP": 90,
         "ATK": 7,
@@ -72036,6 +72780,7 @@
   "bagon": [
     {
       "name": "Bagon",
+      "type1": "Dragon",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -72176,6 +72921,7 @@
     },
     {
       "name": "Shelgon",
+      "type1": "Dragon",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -72321,6 +73067,8 @@
     },
     {
       "name": "Salamence",
+      "type1": "Dragon",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 13,
@@ -72474,6 +73222,8 @@
     },
     {
       "name": "Mega Salamence",
+      "type1": "Dragon",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 14,
@@ -72523,6 +73273,8 @@
   "beldum": [
     {
       "name": "Beldum",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -72606,6 +73358,8 @@
     },
     {
       "name": "Metang",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -72762,6 +73516,8 @@
     },
     {
       "name": "Metagross",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 13,
@@ -72919,6 +73675,8 @@
     },
     {
       "name": "Mega Metagross",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 14,
@@ -72968,6 +73726,7 @@
   "regirock": [
     {
       "name": "Regirock",
+      "type1": "Rock",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -73118,6 +73877,7 @@
   "regice": [
     {
       "name": "Regice",
+      "type1": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -73270,6 +74030,7 @@
   "registeel": [
     {
       "name": "Registeel",
+      "type1": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -73419,6 +74180,7 @@
   "regieleki": [
     {
       "name": "Regieleki",
+      "type1": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -73561,6 +74323,7 @@
   "regidrago": [
     {
       "name": "Regidrago",
+      "type1": "Dragon",
       "stats": {
         "HP": 100,
         "ATK": 9,
@@ -73699,6 +74462,7 @@
   "regigigas": [
     {
       "name": "Regigigas",
+      "type1": "Normal",
       "stats": {
         "HP": 60,
         "ATK": 15,
@@ -73856,6 +74620,8 @@
   "latias": [
     {
       "name": "Latias",
+      "type1": "Dragon",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -74020,6 +74786,8 @@
     },
     {
       "name": "Mega Latias",
+      "type1": "Dragon",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -74069,6 +74837,8 @@
   "latios": [
     {
       "name": "Latios",
+      "type1": "Dragon",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -74232,6 +75002,8 @@
     },
     {
       "name": "Mega Latios",
+      "type1": "Dragon",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -74281,6 +75053,7 @@
   "kyogre": [
     {
       "name": "Kyogre",
+      "type1": "Water",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -74415,6 +75188,7 @@
     },
     {
       "name": "Primal Kyogre",
+      "type1": "Water",
       "stats": {
         "HP": 55,
         "ATK": 14,
@@ -74465,6 +75239,7 @@
   "groudon": [
     {
       "name": "Groudon",
+      "type1": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 14,
@@ -74618,6 +75393,8 @@
     },
     {
       "name": "Primal Groudon",
+      "type1": "Ground",
+      "type2": "Fire",
       "stats": {
         "HP": 55,
         "ATK": 17,
@@ -74668,6 +75445,8 @@
   "rayquaza": [
     {
       "name": "Rayquaza",
+      "type1": "Dragon",
+      "type2": "Flying",
       "stats": {
         "HP": 60,
         "ATK": 14,
@@ -74826,6 +75605,8 @@
     },
     {
       "name": "Mega Rayquaza",
+      "type1": "Dragon",
+      "type2": "Flying",
       "stats": {
         "HP": 60,
         "ATK": 17,
@@ -74875,6 +75656,8 @@
   "jirachi": [
     {
       "name": "Jirachi",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -75040,6 +75823,7 @@
   "deoxys": [
     {
       "name": "Deoxys",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 14,
@@ -75205,6 +75989,7 @@
     },
     {
       "name": "Deoxys (Attack)",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 17,
@@ -75368,6 +76153,7 @@
     },
     {
       "name": "Deoxys (Defense)",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -75534,6 +76320,7 @@
     },
     {
       "name": "Deoxys (Speed)",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -75701,6 +76488,7 @@
   "turtwig": [
     {
       "name": "Turtwig",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -75849,6 +76637,7 @@
     },
     {
       "name": "Grotle",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -76005,6 +76794,8 @@
     },
     {
       "name": "Torterra",
+      "type1": "Grass",
+      "type2": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -76171,6 +76962,7 @@
   "chimchar": [
     {
       "name": "Chimchar",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -76326,6 +77118,8 @@
     },
     {
       "name": "Monferno",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -76489,6 +77283,8 @@
     },
     {
       "name": "Infernape",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -76660,6 +77456,7 @@
   "piplup": [
     {
       "name": "Piplup",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -76804,6 +77601,7 @@
     },
     {
       "name": "Prinplup",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -76958,6 +77756,8 @@
     },
     {
       "name": "Empoleon",
+      "type1": "Water",
+      "type2": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -77123,6 +77923,8 @@
   "starly": [
     {
       "name": "Starly",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -77255,6 +78057,8 @@
     },
     {
       "name": "Staravia",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -77392,6 +78196,8 @@
     },
     {
       "name": "Staraptor",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -77534,6 +78340,7 @@
   "bidoof": [
     {
       "name": "Bidoof",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -77681,6 +78488,8 @@
     },
     {
       "name": "Bibarel",
+      "type1": "Normal",
+      "type2": "Water",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -77843,6 +78652,7 @@
   "kricketot": [
     {
       "name": "Kricketot",
+      "type1": "Bug",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -77949,6 +78759,7 @@
     },
     {
       "name": "Kricketune",
+      "type1": "Bug",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -78093,6 +78904,7 @@
   "shinx": [
     {
       "name": "Shinx",
+      "type1": "Electric",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -78233,6 +79045,7 @@
     },
     {
       "name": "Luxio",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -78378,6 +79191,7 @@
     },
     {
       "name": "Luxray",
+      "type1": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -78529,6 +79343,7 @@
   "cranidos": [
     {
       "name": "Cranidos",
+      "type1": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -78692,6 +79507,7 @@
     },
     {
       "name": "Rampardos",
+      "type1": "Rock",
       "stats": {
         "HP": 55,
         "ATK": 16,
@@ -78865,6 +79681,8 @@
   "shieldon": [
     {
       "name": "Shieldon",
+      "type1": "Rock",
+      "type2": "Steel",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -79016,6 +79834,8 @@
     },
     {
       "name": "Bastiodon",
+      "type1": "Rock",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -79176,6 +79996,7 @@
   "burmy": [
     {
       "name": "Burmy",
+      "type1": "Bug",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -79281,6 +80102,8 @@
     },
     {
       "name": "Wormadam (Plant)",
+      "type1": "Bug",
+      "type2": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -79423,6 +80246,8 @@
     },
     {
       "name": "Wormadam (Sand)",
+      "type1": "Bug",
+      "type2": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -79564,6 +80389,8 @@
     },
     {
       "name": "Wormadam (Trash)",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -79704,6 +80531,8 @@
     },
     {
       "name": "Mothim",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -79846,6 +80675,8 @@
   "combee": [
     {
       "name": "Combee",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 20,
         "ATK": 2,
@@ -79968,6 +80799,8 @@
     },
     {
       "name": "Vespiquen",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -80115,6 +80948,7 @@
   "pachirisu": [
     {
       "name": "Pachirisu",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -80264,6 +81098,7 @@
   "buizel": [
     {
       "name": "Buizel",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -80410,6 +81245,7 @@
     },
     {
       "name": "Floatzel",
+      "type1": "Water",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -80565,6 +81401,7 @@
   "cherubi": [
     {
       "name": "Cherubi",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -80701,6 +81538,7 @@
     },
     {
       "name": "Cherrim",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -80846,6 +81684,7 @@
   "shellos": [
     {
       "name": "Shellos",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -81001,6 +81840,8 @@
     },
     {
       "name": "Gastrodon",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 7,
@@ -81166,6 +82007,8 @@
   "drifloon": [
     {
       "name": "Drifloon",
+      "type1": "Ghost",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 4,
@@ -81316,6 +82159,8 @@
     },
     {
       "name": "Drifblim",
+      "type1": "Ghost",
+      "type2": "Flying",
       "stats": {
         "HP": 80,
         "ATK": 7,
@@ -81476,6 +82321,7 @@
   "buneary": [
     {
       "name": "Buneary",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -81640,6 +82486,7 @@
     },
     {
       "name": "Lopunny",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -81812,6 +82659,8 @@
     },
     {
       "name": "Mega Lopunny",
+      "type1": "Normal",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -81862,6 +82711,7 @@
   "glameow": [
     {
       "name": "Glameow",
+      "type1": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -82006,6 +82856,7 @@
     },
     {
       "name": "Purugly",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -82160,6 +83011,8 @@
   "stunky": [
     {
       "name": "Stunky",
+      "type1": "Poison",
+      "type2": "Dark",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -82305,6 +83158,8 @@
     },
     {
       "name": "Skuntank",
+      "type1": "Poison",
+      "type2": "Dark",
       "stats": {
         "HP": 55,
         "ATK": 8,
@@ -82467,6 +83322,8 @@
   "bronzor": [
     {
       "name": "Bronzor",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 1,
@@ -82617,6 +83474,8 @@
     },
     {
       "name": "Bronzong",
+      "type1": "Steel",
+      "type2": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -82777,6 +83636,8 @@
   "chatot": [
     {
       "name": "Chatot",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -82920,6 +83781,8 @@
   "spiritomb": [
     {
       "name": "Spiritomb",
+      "type1": "Ghost",
+      "type2": "Dark",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -83081,6 +83944,8 @@
   "gible": [
     {
       "name": "Gible",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -83221,6 +84086,8 @@
     },
     {
       "name": "Gabite",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -83371,6 +84238,8 @@
     },
     {
       "name": "Garchomp",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 12,
@@ -83524,6 +84393,8 @@
     },
     {
       "name": "Mega Garchomp",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 16,
@@ -83574,6 +84445,7 @@
   "riolu": [
     {
       "name": "Riolu",
+      "type1": "Fighting",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -83738,6 +84610,8 @@
     },
     {
       "name": "Lucario",
+      "type1": "Fighting",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -83916,6 +84790,8 @@
     },
     {
       "name": "Mega Lucario",
+      "type1": "Fighting",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 14,
@@ -83966,6 +84842,7 @@
   "hippopotas": [
     {
       "name": "Hippopotas",
+      "type1": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -84100,6 +84977,7 @@
     },
     {
       "name": "Hippowdon",
+      "type1": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -84245,6 +85123,8 @@
   "skorupi": [
     {
       "name": "Skorupi",
+      "type1": "Poison",
+      "type2": "Bug",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -84399,6 +85279,8 @@
     },
     {
       "name": "Drapion",
+      "type1": "Poison",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -84570,6 +85452,8 @@
   "croagunk": [
     {
       "name": "Croagunk",
+      "type1": "Poison",
+      "type2": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -84734,6 +85618,8 @@
     },
     {
       "name": "Toxicroak",
+      "type1": "Poison",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -84908,6 +85794,7 @@
   "carnivine": [
     {
       "name": "Carnivine",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -85054,6 +85941,7 @@
   "finneon": [
     {
       "name": "Finneon",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -85195,6 +86083,7 @@
     },
     {
       "name": "Lumineon",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -85347,6 +86236,8 @@
   "snover": [
     {
       "name": "Snover",
+      "type1": "Grass",
+      "type2": "Ice",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -85497,6 +86388,8 @@
     },
     {
       "name": "Abomasnow",
+      "type1": "Grass",
+      "type2": "Ice",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -85656,6 +86549,8 @@
     },
     {
       "name": "Mega Abomasnow",
+      "type1": "Grass",
+      "type2": "Ice",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -85706,6 +86601,8 @@
   "rotom": [
     {
       "name": "Rotom",
+      "type1": "Electric",
+      "type2": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -85847,6 +86744,8 @@
     },
     {
       "name": "Rotom (Heat)",
+      "type1": "Electric",
+      "type2": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -85946,6 +86845,8 @@
     },
     {
       "name": "Rotom (Wash)",
+      "type1": "Electric",
+      "type2": "Water",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -86045,6 +86946,8 @@
     },
     {
       "name": "Rotom (Frost)",
+      "type1": "Electric",
+      "type2": "Ice",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -86144,6 +87047,8 @@
     },
     {
       "name": "Rotom (Fan)",
+      "type1": "Electric",
+      "type2": "Flying",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -86243,6 +87148,8 @@
     },
     {
       "name": "Rotom (Mow)",
+      "type1": "Electric",
+      "type2": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -86344,6 +87251,7 @@
   "uxie": [
     {
       "name": "Uxie",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -86508,6 +87416,7 @@
   "mesprit": [
     {
       "name": "Mesprit",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -86671,6 +87580,7 @@
   "azelf": [
     {
       "name": "Azelf",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -86835,6 +87745,8 @@
   "dialga": [
     {
       "name": "Dialga",
+      "type1": "Steel",
+      "type2": "Dragon",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -86988,6 +87900,8 @@
     },
     {
       "name": "Dialga (Origin)",
+      "type1": "Steel",
+      "type2": "Dragon",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -87093,6 +88007,8 @@
   "palkia": [
     {
       "name": "Palkia",
+      "type1": "Water",
+      "type2": "Dragon",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -87251,6 +88167,8 @@
     },
     {
       "name": "Palkia (Origin)",
+      "type1": "Water",
+      "type2": "Dragon",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -87356,6 +88274,8 @@
   "giratina": [
     {
       "name": "Giratina",
+      "type1": "Ghost",
+      "type2": "Dragon",
       "stats": {
         "HP": 80,
         "ATK": 9,
@@ -87507,6 +88427,8 @@
     },
     {
       "name": "Giratina (Origin)",
+      "type1": "Ghost",
+      "type2": "Dragon",
       "stats": {
         "HP": 80,
         "ATK": 11,
@@ -87662,6 +88584,8 @@
   "heatran": [
     {
       "name": "Heatran",
+      "type1": "Fire",
+      "type2": "Steel",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -87806,6 +88730,7 @@
   "cresselia": [
     {
       "name": "Cresselia",
+      "type1": "Psychic",
       "stats": {
         "HP": 65,
         "ATK": 6,
@@ -87952,6 +88877,7 @@
   "darkrai": [
     {
       "name": "Darkrai",
+      "type1": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -88101,6 +89027,7 @@
   "manaphy": [
     {
       "name": "Manaphy",
+      "type1": "Water",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -88239,6 +89166,7 @@
     },
     {
       "name": "Phione",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -88382,6 +89310,7 @@
   "shaymin": [
     {
       "name": "Shaymin",
+      "type1": "Grass",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -88518,6 +89447,8 @@
     },
     {
       "name": "Shaymin (Sky)",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -88660,6 +89591,7 @@
   "arceus": [
     {
       "name": "Arceus",
+      "type1": "Normal",
       "stats": {
         "HP": 65,
         "ATK": 11,
@@ -88900,6 +89832,8 @@
   "victini": [
     {
       "name": "Victini",
+      "type1": "Psychic",
+      "type2": "Fire",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -89071,6 +90005,7 @@
   "snivy": [
     {
       "name": "Snivy",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -89210,6 +90145,7 @@
     },
     {
       "name": "Servine",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -89355,6 +90291,7 @@
     },
     {
       "name": "Serperior",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -89507,6 +90444,7 @@
   "tepig": [
     {
       "name": "Tepig",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -89665,6 +90603,8 @@
     },
     {
       "name": "Pignite",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -89830,6 +90770,8 @@
     },
     {
       "name": "Emboar",
+      "type1": "Fire",
+      "type2": "Fighting",
       "stats": {
         "HP": 60,
         "ATK": 11,
@@ -90002,6 +90944,7 @@
   "oshawott": [
     {
       "name": "Oshawott",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -90143,6 +91086,7 @@
     },
     {
       "name": "Dewott",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -90291,6 +91235,7 @@
     },
     {
       "name": "Samurott",
+      "type1": "Water",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -90444,6 +91389,8 @@
     },
     {
       "name": "Hisuian Samurott",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -90550,6 +91497,7 @@
   "patrat": [
     {
       "name": "Patrat",
+      "type1": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -90706,6 +91654,7 @@
     },
     {
       "name": "Watchog",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -90874,6 +91823,7 @@
   "lillipup": [
     {
       "name": "Lillipup",
+      "type1": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -91012,6 +91962,7 @@
     },
     {
       "name": "Herdier",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -91157,6 +92108,7 @@
     },
     {
       "name": "Stoutland",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -91307,6 +92259,7 @@
   "purrloin": [
     {
       "name": "Purrloin",
+      "type1": "Dark",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -91460,6 +92413,7 @@
     },
     {
       "name": "Liepard",
+      "type1": "Dark",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -91621,6 +92575,7 @@
   "pansage": [
     {
       "name": "Pansage",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -91774,6 +92729,7 @@
     },
     {
       "name": "Simisage",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -91937,6 +92893,7 @@
   "pansear": [
     {
       "name": "Pansear",
+      "type1": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -92087,6 +93044,7 @@
     },
     {
       "name": "Simisear",
+      "type1": "Fire",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -92247,6 +93205,7 @@
   "panpour": [
     {
       "name": "Panpour",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -92398,6 +93357,7 @@
     },
     {
       "name": "Simipour",
+      "type1": "Water",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -92559,6 +93519,7 @@
   "munna": [
     {
       "name": "Munna",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 2,
@@ -92704,6 +93665,7 @@
     },
     {
       "name": "Musharna",
+      "type1": "Psychic",
       "stats": {
         "HP": 65,
         "ATK": 5,
@@ -92858,6 +93820,8 @@
   "pidove": [
     {
       "name": "Pidove",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -92992,6 +93956,8 @@
     },
     {
       "name": "Tranquill",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -93131,6 +94097,8 @@
     },
     {
       "name": "Unfezant",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -93280,6 +94248,7 @@
   "blitzle": [
     {
       "name": "Blitzle",
+      "type1": "Electric",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -93416,6 +94385,7 @@
     },
     {
       "name": "Zebstrika",
+      "type1": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -93563,6 +94533,7 @@
   "roggenrola": [
     {
       "name": "Roggenrola",
+      "type1": "Rock",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -93701,6 +94672,7 @@
     },
     {
       "name": "Boldore",
+      "type1": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -93846,6 +94818,7 @@
     },
     {
       "name": "Gigalith",
+      "type1": "Rock",
       "stats": {
         "HP": 50,
         "ATK": 13,
@@ -93996,6 +94969,8 @@
   "woobat": [
     {
       "name": "Woobat",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -94156,6 +95131,8 @@
     },
     {
       "name": "Swoobat",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -94328,6 +95305,7 @@
   "drilbur": [
     {
       "name": "Drilbur",
+      "type1": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -94463,6 +95441,8 @@
     },
     {
       "name": "Excadrill",
+      "type1": "Ground",
+      "type2": "Steel",
       "stats": {
         "HP": 60,
         "ATK": 13,
@@ -94609,6 +95589,7 @@
   "audino": [
     {
       "name": "Audino",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 5,
@@ -94781,6 +95762,8 @@
     },
     {
       "name": "Mega Audino",
+      "type1": "Normal",
+      "type2": "Fairy",
       "stats": {
         "HP": 55,
         "ATK": 5,
@@ -94830,6 +95813,7 @@
   "timburr": [
     {
       "name": "Timburr",
+      "type1": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -94983,6 +95967,7 @@
     },
     {
       "name": "Gurdurr",
+      "type1": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -95144,6 +96129,7 @@
     },
     {
       "name": "Conkeldurr",
+      "type1": "Fighting",
       "stats": {
         "HP": 60,
         "ATK": 13,
@@ -95309,6 +96295,7 @@
   "tympole": [
     {
       "name": "Tympole",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -95452,6 +96439,8 @@
     },
     {
       "name": "Palpitoad",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -95602,6 +96591,8 @@
     },
     {
       "name": "Seismitoad",
+      "type1": "Water",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 8,
@@ -95765,6 +96756,7 @@
   "throh": [
     {
       "name": "Throh",
+      "type1": "Fighting",
       "stats": {
         "HP": 65,
         "ATK": 9,
@@ -95910,6 +96902,7 @@
   "sawk": [
     {
       "name": "Sawk",
+      "type1": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -96053,6 +97046,8 @@
   "sewaddle": [
     {
       "name": "Sewaddle",
+      "type1": "Bug",
+      "type2": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -96201,6 +97196,8 @@
     },
     {
       "name": "Swadloon",
+      "type1": "Bug",
+      "type2": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -96355,6 +97352,8 @@
     },
     {
       "name": "Leavanny",
+      "type1": "Bug",
+      "type2": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -96517,6 +97516,8 @@
   "venipede": [
     {
       "name": "Venipede",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 20,
         "ATK": 4,
@@ -96659,6 +97660,8 @@
     },
     {
       "name": "Whirlipede",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -96808,6 +97811,8 @@
     },
     {
       "name": "Scolipede",
+      "type1": "Bug",
+      "type2": "Poison",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -96966,6 +97971,8 @@
   "cottonee": [
     {
       "name": "Cottonee",
+      "type1": "Grass",
+      "type2": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -97106,6 +98113,8 @@
     },
     {
       "name": "Whimsicott",
+      "type1": "Grass",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -97258,6 +98267,7 @@
   "petilil": [
     {
       "name": "Petilil",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -97390,6 +98400,7 @@
     },
     {
       "name": "Lilligant",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -97532,6 +98543,8 @@
     },
     {
       "name": "Hisuian Lilligant",
+      "type1": "Grass",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -97640,6 +98653,7 @@
   "basculin": [
     {
       "name": "Basculin",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -97784,6 +98798,7 @@
     },
     {
       "name": "Basculin (White Stripe)",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -97882,6 +98897,8 @@
     },
     {
       "name": "Basculegion (♂)",
+      "type1": "Water",
+      "type2": "Ghost",
       "stats": {
         "HP": 65,
         "ATK": 10,
@@ -97989,6 +99006,8 @@
     },
     {
       "name": "Basculegion (♀)",
+      "type1": "Water",
+      "type2": "Ghost",
       "stats": {
         "HP": 65,
         "ATK": 8,
@@ -98098,6 +99117,8 @@
   "sandile": [
     {
       "name": "Sandile",
+      "type1": "Ground",
+      "type2": "Dark",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -98262,6 +99283,8 @@
     },
     {
       "name": "Krokorok",
+      "type1": "Ground",
+      "type2": "Dark",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -98436,6 +99459,8 @@
     },
     {
       "name": "Krookodile",
+      "type1": "Ground",
+      "type2": "Dark",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -98614,6 +99639,7 @@
   "darumaka": [
     {
       "name": "Darumaka",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -98772,6 +99798,7 @@
     },
     {
       "name": "Darmanitan",
+      "type1": "Fire",
       "stats": {
         "HP": 60,
         "ATK": 13,
@@ -98938,6 +99965,8 @@
     },
     {
       "name": "Darmanitan (Zen)",
+      "type1": "Fire",
+      "type2": "Psychic",
       "stats": {
         "HP": 60,
         "ATK": 2,
@@ -99096,6 +100125,7 @@
     },
     {
       "name": "Galarian Darumaka",
+      "type1": "Ice",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -99254,6 +100284,7 @@
     },
     {
       "name": "Galarian Darmanitan",
+      "type1": "Ice",
       "stats": {
         "HP": 55,
         "ATK": 13,
@@ -99421,6 +100452,8 @@
     },
     {
       "name": "Galarian Darmanitan (Zen)",
+      "type1": "Ice",
+      "type2": "Fire",
       "stats": {
         "HP": 55,
         "ATK": 15,
@@ -99581,6 +100614,7 @@
   "maractus": [
     {
       "name": "Maractus",
+      "type1": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -99728,6 +100762,8 @@
   "dwebble": [
     {
       "name": "Dwebble",
+      "type1": "Bug",
+      "type2": "Rock",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -99866,6 +100902,8 @@
     },
     {
       "name": "Crustle",
+      "type1": "Bug",
+      "type2": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -100014,6 +101052,8 @@
   "scraggy": [
     {
       "name": "Scraggy",
+      "type1": "Dark",
+      "type2": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -100183,6 +101223,8 @@
     },
     {
       "name": "Scrafty",
+      "type1": "Dark",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -100361,6 +101403,8 @@
   "sigilyph": [
     {
       "name": "Sigilyph",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -100522,6 +101566,7 @@
   "yamask": [
     {
       "name": "Yamask",
+      "type1": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -100676,6 +101721,7 @@
     },
     {
       "name": "Cofagrigus",
+      "type1": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -100838,6 +101884,8 @@
     },
     {
       "name": "Galarian Yamask",
+      "type1": "Ground",
+      "type2": "Ghost",
       "stats": {
         "HP": 20,
         "ATK": 5,
@@ -100990,6 +102038,8 @@
     },
     {
       "name": "Runerigus",
+      "type1": "Ground",
+      "type2": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -101152,6 +102202,8 @@
   "tirtouga": [
     {
       "name": "Tirtouga",
+      "type1": "Water",
+      "type2": "Rock",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -101294,6 +102346,8 @@
     },
     {
       "name": "Carracosta",
+      "type1": "Water",
+      "type2": "Rock",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -101451,6 +102505,8 @@
   "archen": [
     {
       "name": "Archen",
+      "type1": "Rock",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -101596,6 +102652,8 @@
     },
     {
       "name": "Archeops",
+      "type1": "Rock",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 13,
@@ -101750,6 +102808,7 @@
   "trubbish": [
     {
       "name": "Trubbish",
+      "type1": "Poison",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -101899,6 +102958,7 @@
     },
     {
       "name": "Garbodor",
+      "type1": "Poison",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -102058,6 +103118,7 @@
   "zorua": [
     {
       "name": "Zorua",
+      "type1": "Dark",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -102214,6 +103275,7 @@
     },
     {
       "name": "Zoroark",
+      "type1": "Dark",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -102380,6 +103442,8 @@
     },
     {
       "name": "Hisuian Zorua",
+      "type1": "Normal",
+      "type2": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -102475,6 +103539,8 @@
     },
     {
       "name": "Hisuian Zoroark",
+      "type1": "Normal",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -102579,6 +103645,7 @@
   "minccino": [
     {
       "name": "Minccino",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -102721,6 +103788,7 @@
     },
     {
       "name": "Cinccino",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -102875,6 +103943,7 @@
   "gothita": [
     {
       "name": "Gothita",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -103029,6 +104098,7 @@
     },
     {
       "name": "Gothorita",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -103189,6 +104259,7 @@
     },
     {
       "name": "Gothitelle",
+      "type1": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -103354,6 +104425,7 @@
   "solosis": [
     {
       "name": "Solosis",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -103498,6 +104570,7 @@
     },
     {
       "name": "Duosion",
+      "type1": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 3,
@@ -103649,6 +104722,7 @@
     },
     {
       "name": "Reuniclus",
+      "type1": "Psychic",
       "stats": {
         "HP": 60,
         "ATK": 6,
@@ -103815,6 +104889,8 @@
   "ducklett": [
     {
       "name": "Ducklett",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -103950,6 +105026,8 @@
     },
     {
       "name": "Swanna",
+      "type1": "Water",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -104098,6 +105176,7 @@
   "vanillite": [
     {
       "name": "Vanillite",
+      "type1": "Ice",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -104236,6 +105315,7 @@
     },
     {
       "name": "Vanillish",
+      "type1": "Ice",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -104379,6 +105459,7 @@
     },
     {
       "name": "Vanilluxe",
+      "type1": "Ice",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -104530,6 +105611,8 @@
   "deerling": [
     {
       "name": "Deerling",
+      "type1": "Normal",
+      "type2": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -104675,6 +105758,8 @@
     },
     {
       "name": "Sawsbuck",
+      "type1": "Normal",
+      "type2": "Grass",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -104834,6 +105919,8 @@
   "emolga": [
     {
       "name": "Emolga",
+      "type1": "Electric",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -104978,6 +106065,7 @@
   "karrablast": [
     {
       "name": "Karrablast",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -105113,6 +106201,8 @@
     },
     {
       "name": "Escavalier",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -105260,6 +106350,7 @@
   "shelmet": [
     {
       "name": "Shelmet",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -105397,6 +106488,7 @@
     },
     {
       "name": "Accelgor",
+      "type1": "Bug",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -105544,6 +106636,8 @@
   "foongus": [
     {
       "name": "Foongus",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -105675,6 +106769,8 @@
     },
     {
       "name": "Amoonguss",
+      "type1": "Grass",
+      "type2": "Poison",
       "stats": {
         "HP": 60,
         "ATK": 8,
@@ -105817,6 +106913,8 @@
   "frillish": [
     {
       "name": "Frillish",
+      "type1": "Water",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -105961,6 +107059,8 @@
     },
     {
       "name": "Jellicent",
+      "type1": "Water",
+      "type2": "Ghost",
       "stats": {
         "HP": 55,
         "ATK": 5,
@@ -106116,6 +107216,8 @@
   "joltik": [
     {
       "name": "Joltik",
+      "type1": "Bug",
+      "type2": "Electric",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -106254,6 +107356,8 @@
     },
     {
       "name": "Galvantula",
+      "type1": "Bug",
+      "type2": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -106404,6 +107508,8 @@
   "ferroseed": [
     {
       "name": "Ferroseed",
+      "type1": "Grass",
+      "type2": "Steel",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -106540,6 +107646,8 @@
     },
     {
       "name": "Ferrothorn",
+      "type1": "Grass",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -106689,6 +107797,7 @@
   "klink": [
     {
       "name": "Klink",
+      "type1": "Steel",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -106825,6 +107934,7 @@
     },
     {
       "name": "Klang",
+      "type1": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -106969,6 +108079,7 @@
     },
     {
       "name": "Klinklang",
+      "type1": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -107117,6 +108228,7 @@
   "tynamo": [
     {
       "name": "Tynamo",
+      "type1": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -107198,6 +108310,7 @@
     },
     {
       "name": "Eelektrik",
+      "type1": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -107340,6 +108453,7 @@
     },
     {
       "name": "Eelektross",
+      "type1": "Electric",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -107490,6 +108604,7 @@
   "elgyem": [
     {
       "name": "Elgyem",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -107645,6 +108760,7 @@
     },
     {
       "name": "Beheeyem",
+      "type1": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -107810,6 +108926,8 @@
   "litwick": [
     {
       "name": "Litwick",
+      "type1": "Ghost",
+      "type2": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 2,
@@ -107950,6 +109068,8 @@
     },
     {
       "name": "Lampent",
+      "type1": "Ghost",
+      "type2": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 3,
@@ -108098,6 +109218,8 @@
     },
     {
       "name": "Chandelure",
+      "type1": "Ghost",
+      "type2": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -108251,6 +109373,7 @@
   "axew": [
     {
       "name": "Axew",
+      "type1": "Dragon",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -108406,6 +109529,7 @@
     },
     {
       "name": "Fraxure",
+      "type1": "Dragon",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -108566,6 +109690,7 @@
     },
     {
       "name": "Haxorus",
+      "type1": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 14,
@@ -108729,6 +109854,7 @@
   "cubchoo": [
     {
       "name": "Cubchoo",
+      "type1": "Ice",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -108878,6 +110004,7 @@
     },
     {
       "name": "Beartic",
+      "type1": "Ice",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -109038,6 +110165,7 @@
   "cryogonal": [
     {
       "name": "Cryogonal",
+      "type1": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -109179,6 +110307,8 @@
   "stunfisk": [
     {
       "name": "Stunfisk",
+      "type1": "Ground",
+      "type2": "Electric",
       "stats": {
         "HP": 60,
         "ATK": 6,
@@ -109330,6 +110460,8 @@
     },
     {
       "name": "Galarian Stunfisk",
+      "type1": "Ground",
+      "type2": "Steel",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -109484,6 +110616,7 @@
   "mienfoo": [
     {
       "name": "Mienfoo",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -109639,6 +110772,7 @@
     },
     {
       "name": "Mienshao",
+      "type1": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -109804,6 +110938,7 @@
   "druddigon": [
     {
       "name": "Druddigon",
+      "type1": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -109964,6 +111099,8 @@
   "golett": [
     {
       "name": "Golett",
+      "type1": "Ground",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -110125,6 +111262,8 @@
     },
     {
       "name": "Golurk",
+      "type1": "Ground",
+      "type2": "Ghost",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -110296,6 +111435,8 @@
   "pawniard": [
     {
       "name": "Pawniard",
+      "type1": "Dark",
+      "type2": "Steel",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -110446,6 +111587,8 @@
     },
     {
       "name": "Bisharp",
+      "type1": "Dark",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -110609,6 +111752,7 @@
   "bouffalant": [
     {
       "name": "Bouffalant",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -110755,6 +111899,8 @@
   "rufflet": [
     {
       "name": "Rufflet",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -110892,6 +112038,8 @@
     },
     {
       "name": "Braviary",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -111037,6 +112185,8 @@
     },
     {
       "name": "Hisuian Braviary",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 60,
         "ATK": 7,
@@ -111143,6 +112293,8 @@
   "vullaby": [
     {
       "name": "Vullaby",
+      "type1": "Dark",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -111284,6 +112436,8 @@
     },
     {
       "name": "Mandibuzz",
+      "type1": "Dark",
+      "type2": "Flying",
       "stats": {
         "HP": 60,
         "ATK": 6,
@@ -111436,6 +112590,7 @@
   "heatmor": [
     {
       "name": "Heatmor",
+      "type1": "Fire",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -111589,6 +112744,8 @@
   "durant": [
     {
       "name": "Durant",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -111725,6 +112882,8 @@
   "deino": [
     {
       "name": "Deino",
+      "type1": "Dark",
+      "type2": "Dragon",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -111883,6 +113042,8 @@
     },
     {
       "name": "Zweilous",
+      "type1": "Dark",
+      "type2": "Dragon",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -112050,6 +113211,8 @@
     },
     {
       "name": "Hydreigon",
+      "type1": "Dark",
+      "type2": "Dragon",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -112224,6 +113387,8 @@
   "larvesta": [
     {
       "name": "Larvesta",
+      "type1": "Bug",
+      "type2": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -112356,6 +113521,8 @@
     },
     {
       "name": "Volcarona",
+      "type1": "Bug",
+      "type2": "Fire",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -112502,6 +113669,8 @@
   "cobalion": [
     {
       "name": "Cobalion",
+      "type1": "Steel",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -112641,6 +113810,8 @@
   "terrakion": [
     {
       "name": "Terrakion",
+      "type1": "Rock",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -112780,6 +113951,8 @@
   "virizion": [
     {
       "name": "Virizion",
+      "type1": "Grass",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -112920,6 +114093,8 @@
   "keldeo": [
     {
       "name": "Keldeo",
+      "type1": "Water",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -113062,6 +114237,8 @@
     },
     {
       "name": "Keldeo (Resolute)",
+      "type1": "Water",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -113109,6 +114286,7 @@
   "tornadus": [
     {
       "name": "Tornadus",
+      "type1": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -113256,6 +114434,7 @@
     },
     {
       "name": "Tornadus (Therian)",
+      "type1": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -113408,6 +114587,8 @@
   "thundurus": [
     {
       "name": "Thundurus",
+      "type1": "Electric",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -113560,6 +114741,8 @@
     },
     {
       "name": "Thundurus (Therian)",
+      "type1": "Electric",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -113718,6 +114901,8 @@
   "landorus": [
     {
       "name": "Landorus",
+      "type1": "Ground",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -113857,6 +115042,8 @@
     },
     {
       "name": "Landorus (Therian)",
+      "type1": "Ground",
+      "type2": "Flying",
       "stats": {
         "HP": 50,
         "ATK": 14,
@@ -114004,6 +115191,8 @@
   "enamorus": [
     {
       "name": "Enamorus",
+      "type1": "Fairy",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -114104,6 +115293,8 @@
     },
     {
       "name": "Enamorus (Therian)",
+      "type1": "Fairy",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -114209,6 +115400,8 @@
   "reshiram": [
     {
       "name": "Reshiram",
+      "type1": "Dragon",
+      "type2": "Fire",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -114358,6 +115551,8 @@
   "zekrom": [
     {
       "name": "Zekrom",
+      "type1": "Dragon",
+      "type2": "Electric",
       "stats": {
         "HP": 55,
         "ATK": 14,
@@ -114507,6 +115702,8 @@
   "kyurem": [
     {
       "name": "Kyurem",
+      "type1": "Dragon",
+      "type2": "Ice",
       "stats": {
         "HP": 70,
         "ATK": 12,
@@ -114661,6 +115858,8 @@
     },
     {
       "name": "Kyurem (White)",
+      "type1": "Dragon",
+      "type2": "Ice",
       "stats": {
         "HP": 70,
         "ATK": 11,
@@ -114705,6 +115904,8 @@
     },
     {
       "name": "Kyurem (Black)",
+      "type1": "Dragon",
+      "type2": "Ice",
       "stats": {
         "HP": 70,
         "ATK": 16,
@@ -114751,6 +115952,8 @@
   "meloetta": [
     {
       "name": "Meloetta",
+      "type1": "Normal",
+      "type2": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -114908,6 +116111,8 @@
     },
     {
       "name": "Meloetta (Pirouette)",
+      "type1": "Normal",
+      "type2": "Fighting",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -115067,6 +116272,8 @@
   "genesect": [
     {
       "name": "Genesect",
+      "type1": "Bug",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -115180,6 +116387,7 @@
   "chespin": [
     {
       "name": "Chespin",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -115334,6 +116542,7 @@
     },
     {
       "name": "Quilladin",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -115495,6 +116704,8 @@
     },
     {
       "name": "Chesnaught",
+      "type1": "Grass",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -115663,6 +116874,7 @@
   "fennekin": [
     {
       "name": "Fennekin",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -115803,6 +117015,7 @@
     },
     {
       "name": "Braixen",
+      "type1": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -115957,6 +117170,8 @@
     },
     {
       "name": "Delphox",
+      "type1": "Fire",
+      "type2": "Psychic",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -116115,6 +117330,7 @@
   "froakie": [
     {
       "name": "Froakie",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -116253,6 +117469,7 @@
     },
     {
       "name": "Frogadier",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -116400,6 +117617,8 @@
     },
     {
       "name": "Greninja",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -116553,6 +117772,8 @@
     },
     {
       "name": "Greninja (Ash)",
+      "type1": "Water",
+      "type2": "Dark",
       "stats": {
         "HP": 40,
         "ATK": 14,
@@ -116596,6 +117817,7 @@
   "bunnelby": [
     {
       "name": "Bunnelby",
+      "type1": "Normal",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -116740,6 +117962,8 @@
     },
     {
       "name": "Diggersby",
+      "type1": "Normal",
+      "type2": "Ground",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -116904,6 +118128,8 @@
   "fletchling": [
     {
       "name": "Fletchling",
+      "type1": "Flying",
+      "type2": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -117028,6 +118254,8 @@
     },
     {
       "name": "Fletchinder",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -117163,6 +118391,8 @@
     },
     {
       "name": "Talonflame",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -117303,6 +118533,7 @@
   "scatterbug": [
     {
       "name": "Scatterbug",
+      "type1": "Bug",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -117399,6 +118630,7 @@
     },
     {
       "name": "Spewpa",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 1,
@@ -117503,6 +118735,8 @@
     },
     {
       "name": "Vivillon",
+      "type1": "Bug",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -117653,6 +118887,8 @@
   "litleo": [
     {
       "name": "Litleo",
+      "type1": "Fire",
+      "type2": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -117795,6 +119031,8 @@
     },
     {
       "name": "Pyroar",
+      "type1": "Fire",
+      "type2": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -117950,6 +119188,7 @@
   "flabébé": [
     {
       "name": "Flabébé",
+      "type1": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -118080,6 +119319,7 @@
     },
     {
       "name": "Floette",
+      "type1": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -118217,6 +119457,7 @@
     },
     {
       "name": "Florges",
+      "type1": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -118360,6 +119601,7 @@
   "skiddo": [
     {
       "name": "Skiddo",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -118494,6 +119736,7 @@
     },
     {
       "name": "Gogoat",
+      "type1": "Grass",
       "stats": {
         "HP": 65,
         "ATK": 9,
@@ -118638,6 +119881,7 @@
   "pancham": [
     {
       "name": "Pancham",
+      "type1": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -118805,6 +120049,8 @@
     },
     {
       "name": "Pangoro",
+      "type1": "Fighting",
+      "type2": "Dark",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -118990,6 +120236,7 @@
   "furfrou": [
     {
       "name": "Furfrou",
+      "type1": "Normal",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -119119,6 +120366,7 @@
   "espurr": [
     {
       "name": "Espurr",
+      "type1": "Psychic",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -119266,6 +120514,7 @@
     },
     {
       "name": "Meowstic (♂)",
+      "type1": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -119316,6 +120565,7 @@
     },
     {
       "name": "Meowstic (♀)",
+      "type1": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 4,
@@ -119368,6 +120618,8 @@
   "honedge": [
     {
       "name": "Honedge",
+      "type1": "Ghost",
+      "type2": "Steel",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -119500,6 +120752,8 @@
     },
     {
       "name": "Doublade",
+      "type1": "Ghost",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -119639,6 +120893,8 @@
     },
     {
       "name": "Aegislash",
+      "type1": "Ghost",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -119784,6 +121040,7 @@
   "spritzee": [
     {
       "name": "Spritzee",
+      "type1": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 4,
@@ -119921,6 +121178,7 @@
     },
     {
       "name": "Aromatisse",
+      "type1": "Fairy",
       "stats": {
         "HP": 55,
         "ATK": 6,
@@ -120070,6 +121328,7 @@
   "swirlix": [
     {
       "name": "Swirlix",
+      "type1": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -120209,6 +121468,7 @@
     },
     {
       "name": "Slurpuff",
+      "type1": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -120356,6 +121616,8 @@
   "inkay": [
     {
       "name": "Inkay",
+      "type1": "Dark",
+      "type2": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -120514,6 +121776,8 @@
     },
     {
       "name": "Malamar",
+      "type1": "Dark",
+      "type2": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -120683,6 +121947,8 @@
   "binacle": [
     {
       "name": "Binacle",
+      "type1": "Rock",
+      "type2": "Water",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -120850,6 +122116,8 @@
     },
     {
       "name": "Barbaracle",
+      "type1": "Rock",
+      "type2": "Water",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -121029,6 +122297,8 @@
   "skrelp": [
     {
       "name": "Skrelp",
+      "type1": "Poison",
+      "type2": "Water",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -121162,6 +122432,8 @@
     },
     {
       "name": "Dragalge",
+      "type1": "Poison",
+      "type2": "Dragon",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -121306,6 +122578,7 @@
   "clauncher": [
     {
       "name": "Clauncher",
+      "type1": "Water ",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -121440,6 +122713,7 @@
     },
     {
       "name": "Clawitzer",
+      "type1": "Water",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -121582,6 +122856,8 @@
   "helioptile": [
     {
       "name": "Helioptile",
+      "type1": "Normal",
+      "type2": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -121731,6 +123007,8 @@
     },
     {
       "name": "Heliolisk",
+      "type1": "Normal",
+      "type2": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -121894,6 +123172,8 @@
   "tyrunt": [
     {
       "name": "Tyrunt",
+      "type1": "Rock",
+      "type2": "Dragon",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -122040,6 +123320,8 @@
     },
     {
       "name": "Tyrantrum",
+      "type1": "Rock",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -122198,6 +123480,8 @@
   "amaura": [
     {
       "name": "Amaura",
+      "type1": "Rock",
+      "type2": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 5,
@@ -122344,6 +123628,8 @@
     },
     {
       "name": "Aurorus",
+      "type1": "Rock",
+      "type2": "Ice",
       "stats": {
         "HP": 65,
         "ATK": 7,
@@ -122499,6 +123785,8 @@
   "hawlucha": [
     {
       "name": "Hawlucha",
+      "type1": "Fighting",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -122673,6 +123961,8 @@
   "dedenne": [
     {
       "name": "Dedenne",
+      "type1": "Electric",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -122819,6 +124109,8 @@
   "carbink": [
     {
       "name": "Carbink",
+      "type1": "Rock",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -122964,6 +124256,7 @@
   "goomy": [
     {
       "name": "Goomy",
+      "type1": "Dragon",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -123105,6 +124398,7 @@
     },
     {
       "name": "Sliggoo",
+      "type1": "Dragon",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -123258,6 +124552,7 @@
     },
     {
       "name": "Goodra",
+      "type1": "Dragon",
       "stats": {
         "HP": 50,
         "ATK": 9,
@@ -123419,6 +124714,8 @@
     },
     {
       "name": "Hisuian Sliggoo",
+      "type1": "Dragon",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -123525,6 +124822,8 @@
     },
     {
       "name": "Hisuian Goodra",
+      "type1": "Dragon",
+      "type2": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -123634,6 +124933,8 @@
   "klefki": [
     {
       "name": "Klefki",
+      "type1": "Steel",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -123769,6 +125070,8 @@
   "phantump": [
     {
       "name": "Phantump",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -123925,6 +125228,8 @@
     },
     {
       "name": "Trevenant",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -124090,6 +125395,8 @@
   "pumpkaboo": [
     {
       "name": "Pumpkaboo",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -124236,6 +125543,8 @@
     },
     {
       "name": "Pumpkaboo (Small)",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 20,
         "ATK": 6,
@@ -124381,6 +125690,8 @@
     },
     {
       "name": "Pumpkaboo (Large)",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -124526,6 +125837,8 @@
     },
     {
       "name": "Pumpkaboo (Super)",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -124671,6 +125984,8 @@
     },
     {
       "name": "Gourgeist",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -124828,6 +126143,8 @@
     },
     {
       "name": "Gourgeist (Small)",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -124984,6 +126301,8 @@
     },
     {
       "name": "Gourgeist (Large)",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -125140,6 +126459,8 @@
     },
     {
       "name": "Gourgeist (Super)",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -125298,6 +126619,7 @@
   "bergmite": [
     {
       "name": "Bergmite",
+      "type1": "Ice",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -125440,6 +126762,7 @@
     },
     {
       "name": "Avalugg",
+      "type1": "Ice",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -125590,6 +126913,8 @@
     },
     {
       "name": "Hisuian Avalugg",
+      "type1": "Ice",
+      "type2": "Rock",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -125703,6 +127028,8 @@
   "noibat": [
     {
       "name": "Noibat",
+      "type1": "Flying",
+      "type2": "Dragon",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -125846,6 +127173,8 @@
     },
     {
       "name": "Noivern",
+      "type1": "Flying",
+      "type2": "Dragon",
       "stats": {
         "HP": 50,
         "ATK": 6,
@@ -126000,6 +127329,7 @@
   "xerneas": [
     {
       "name": "Xerneas",
+      "type1": "Fairy",
       "stats": {
         "HP": 70,
         "ATK": 12,
@@ -126147,6 +127477,8 @@
   "yveltal": [
     {
       "name": "Yveltal",
+      "type1": "Dark",
+      "type2": "Flying",
       "stats": {
         "HP": 70,
         "ATK": 12,
@@ -126292,6 +127624,8 @@
   "zygarde": [
     {
       "name": "Zygarde",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 60,
         "ATK": 9,
@@ -126445,6 +127779,8 @@
     },
     {
       "name": "Zygarde (10%)",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -126597,6 +127933,8 @@
     },
     {
       "name": "Zygarde (Complete)",
+      "type1": "Dragon",
+      "type2": "Ground",
       "stats": {
         "HP": 115,
         "ATK": 9,
@@ -126753,6 +128091,8 @@
   "diancie": [
     {
       "name": "Diancie",
+      "type1": "Rock",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -126904,6 +128244,8 @@
     },
     {
       "name": "Mega Diancie",
+      "type1": "Rock",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 15,
@@ -126953,6 +128295,8 @@
   "hoopa": [
     {
       "name": "Hoopa",
+      "type1": "Psychic",
+      "type2": "Ghost",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -127107,6 +128451,8 @@
     },
     {
       "name": "Hoopa (Unbound)",
+      "type1": "Psychic",
+      "type2": "Dark",
       "stats": {
         "HP": 45,
         "ATK": 15,
@@ -127266,6 +128612,8 @@
   "volcanion": [
     {
       "name": "Volcanion",
+      "type1": "Fire",
+      "type2": "Water",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -127421,6 +128769,8 @@
   "rowlet": [
     {
       "name": "Rowlet",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -127565,6 +128915,8 @@
     },
     {
       "name": "Dartrix",
+      "type1": "Grass",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 7,
@@ -127715,6 +129067,8 @@
     },
     {
       "name": "Decidueye",
+      "type1": "Grass",
+      "type2": "Ghost",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -127878,6 +129232,8 @@
     },
     {
       "name": "Hisuian Decidueye",
+      "type1": "Grass",
+      "type2": "Fighting",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -127983,6 +129339,7 @@
   "litten": [
     {
       "name": "Litten",
+      "type1": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -128127,6 +129484,7 @@
     },
     {
       "name": "Torracat",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -128284,6 +129642,8 @@
     },
     {
       "name": "Incineroar",
+      "type1": "Fire",
+      "type2": "Dark",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -128459,6 +129819,7 @@
   "popplio": [
     {
       "name": "Popplio",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -128606,6 +129967,7 @@
     },
     {
       "name": "Brionne",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -128758,6 +130120,8 @@
     },
     {
       "name": "Primarina",
+      "type1": "Water",
+      "type2": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -128920,6 +130284,8 @@
   "pikipek": [
     {
       "name": "Pikipek",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 25,
         "ATK": 7,
@@ -129051,6 +130417,8 @@
     },
     {
       "name": "Trumbeak",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -129186,6 +130554,8 @@
     },
     {
       "name": "Toucannon",
+      "type1": "Normal",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -129332,6 +130702,7 @@
   "yungoos": [
     {
       "name": "Yungoos",
+      "type1": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -129469,6 +130840,7 @@
     },
     {
       "name": "Gumshoos",
+      "type1": "Normal",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -129616,6 +130988,7 @@
   "grubbin": [
     {
       "name": "Grubbin",
+      "type1": "Bug",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -129743,6 +131116,8 @@
     },
     {
       "name": "Charjabug",
+      "type1": "Bug",
+      "type2": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -129884,6 +131259,8 @@
     },
     {
       "name": "Vikavolt",
+      "type1": "Bug",
+      "type2": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -130033,6 +131410,7 @@
   "crabrawler": [
     {
       "name": "Crabrawler",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 7,
@@ -130174,6 +131552,8 @@
     },
     {
       "name": "Crabominable",
+      "type1": "Fighting",
+      "type2": "Ice",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -130330,6 +131710,8 @@
   "oricorio": [
     {
       "name": "Oricorio (Baile)",
+      "type1": "Fire",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -130466,6 +131848,8 @@
     },
     {
       "name": "Oricorio (Pom-Pom)",
+      "type1": "Electric",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -130602,6 +131986,8 @@
     },
     {
       "name": "Oricorio (Pa'u)",
+      "type1": "Psychic",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -130738,6 +132124,8 @@
     },
     {
       "name": "Oricorio (Sensu)",
+      "type1": "Ghost",
+      "type2": "Flying",
       "stats": {
         "HP": 45,
         "ATK": 6,
@@ -130876,6 +132264,8 @@
   "cutiefly": [
     {
       "name": "Cutiefly",
+      "type1": "Bug",
+      "type2": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -131012,6 +132402,8 @@
     },
     {
       "name": "Ribombee",
+      "type1": "Bug",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -131161,6 +132553,7 @@
   "rockruff": [
     {
       "name": "Rockruff",
+      "type1": "Rock",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -131296,6 +132689,7 @@
     },
     {
       "name": "Lycanroc (Midday)",
+      "type1": "Rock",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -131347,6 +132741,7 @@
     },
     {
       "name": "Lycanroc (Midnight)",
+      "type1": "Rock",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -131398,6 +132793,7 @@
     },
     {
       "name": "Lycanroc (Dusk)",
+      "type1": "Rock",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -131448,6 +132844,7 @@
   "wishiwashi": [
     {
       "name": "Wishiwashi",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 1,
@@ -131581,6 +132978,7 @@
     },
     {
       "name": "Wishiwashi (School)",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 13,
@@ -131719,6 +133117,8 @@
   "mareanie": [
     {
       "name": "Mareanie",
+      "type1": "Poison",
+      "type2": "Water",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -131855,6 +133255,8 @@
     },
     {
       "name": "Toxapex",
+      "type1": "Poison",
+      "type2": "Water",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -131999,6 +133401,7 @@
   "mudbray": [
     {
       "name": "Mudbray",
+      "type1": "Ground",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -132130,6 +133533,7 @@
     },
     {
       "name": "Mudsdale",
+      "type1": "Ground",
       "stats": {
         "HP": 55,
         "ATK": 12,
@@ -132272,6 +133676,8 @@
   "dewpider": [
     {
       "name": "Dewpider",
+      "type1": "Water",
+      "type2": "Bug",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -132404,6 +133810,8 @@
     },
     {
       "name": "Araquanid",
+      "type1": "Water",
+      "type2": "Bug",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -132546,6 +133954,7 @@
   "fomantis": [
     {
       "name": "Fomantis",
+      "type1": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -132673,6 +134082,7 @@
     },
     {
       "name": "Lurantis",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -132818,6 +134228,8 @@
   "morelull": [
     {
       "name": "Morelull",
+      "type1": "Grass",
+      "type2": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -132952,6 +134364,8 @@
     },
     {
       "name": "Shiinotic",
+      "type1": "Grass",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -133098,6 +134512,8 @@
   "salandit": [
     {
       "name": "Salandit",
+      "type1": "Poison",
+      "type2": "Fire",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -133243,6 +134659,8 @@
     },
     {
       "name": "Salazzle",
+      "type1": "Poison",
+      "type2": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -133398,6 +134816,8 @@
   "stufful": [
     {
       "name": "Stufful",
+      "type1": "Normal",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -133537,6 +134957,8 @@
     },
     {
       "name": "Bewear",
+      "type1": "Normal",
+      "type2": "Fighting",
       "stats": {
         "HP": 65,
         "ATK": 12,
@@ -133697,6 +135119,7 @@
   "bounsweet": [
     {
       "name": "Bounsweet",
+      "type1": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -133835,6 +135258,7 @@
     },
     {
       "name": "Steenee",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -133982,6 +135406,7 @@
     },
     {
       "name": "Tsareena",
+      "type1": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -134136,6 +135561,7 @@
   "comfey": [
     {
       "name": "Comfey",
+      "type1": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -134285,6 +135711,8 @@
   "oranguru": [
     {
       "name": "Oranguru",
+      "type1": "Normal",
+      "type2": "Psychic",
       "stats": {
         "HP": 50,
         "ATK": 5,
@@ -134443,6 +135871,7 @@
   "passimian": [
     {
       "name": "Passimian",
+      "type1": "Fighting",
       "stats": {
         "HP": 55,
         "ATK": 11,
@@ -134602,6 +136031,8 @@
   "wimpod": [
     {
       "name": "Wimpod",
+      "type1": "Bug",
+      "type2": "Water",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -134721,6 +136152,8 @@
     },
     {
       "name": "Golisopod",
+      "type1": "Bug",
+      "type2": "Water",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -134886,6 +136319,8 @@
   "sandygast": [
     {
       "name": "Sandygast",
+      "type1": "Ghost",
+      "type2": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -135023,6 +136458,8 @@
     },
     {
       "name": "Palossand",
+      "type1": "Ghost",
+      "type2": "Ground",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -135171,6 +136608,7 @@
   "pyukumuku": [
     {
       "name": "Pyukumuku",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -135300,6 +136738,7 @@
   "type: null": [
     {
       "name": "Type: Null",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -135438,6 +136877,7 @@
     },
     {
       "name": "Silvally",
+      "type1": "Normal",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -135607,6 +137047,8 @@
   "minior": [
     {
       "name": "Minior",
+      "type1": "Rock",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -135747,6 +137189,8 @@
     },
     {
       "name": "Minior (Core)",
+      "type1": "Rock",
+      "type2": "Flying",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -135892,6 +137336,7 @@
   "komala": [
     {
       "name": "Komala",
+      "type1": "Normal",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -136033,6 +137478,8 @@
   "turtonator": [
     {
       "name": "Turtonator",
+      "type1": "Fire",
+      "type2": "Dragon",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -136190,6 +137637,8 @@
   "togedemaru": [
     {
       "name": "Togedemaru",
+      "type1": "Electric",
+      "type2": "Steel",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -136346,6 +137795,8 @@
   "mimikyu": [
     {
       "name": "Mimikyu",
+      "type1": "Ghost",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -136498,6 +137949,8 @@
   "bruxish": [
     {
       "name": "Bruxish",
+      "type1": "Water",
+      "type2": "Psychic",
       "stats": {
         "HP": 40,
         "ATK": 10,
@@ -136644,6 +138097,8 @@
   "drampa": [
     {
       "name": "Drampa",
+      "type1": "Normal",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 5,
@@ -136809,6 +138264,8 @@
   "dhelmise": [
     {
       "name": "Dhelmise",
+      "type1": "Ghost",
+      "type2": "Grass",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -136957,6 +138414,7 @@
   "jangmo-o": [
     {
       "name": "Jangmo-o",
+      "type1": "Dragon",
       "stats": {
         "HP": 30,
         "ATK": 5,
@@ -137113,6 +138571,8 @@
     },
     {
       "name": "Hakamo-o",
+      "type1": "Dragon",
+      "type2": "Fighting",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -137284,6 +138744,8 @@
     },
     {
       "name": "Kommo-o",
+      "type1": "Dragon",
+      "type2": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 10,
@@ -137460,6 +138922,8 @@
   "tapu koko": [
     {
       "name": "Tapu Koko",
+      "type1": "Electric",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -137607,6 +139071,8 @@
   "tapu lele": [
     {
       "name": "Tapu Lele",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 8,
@@ -137758,6 +139224,8 @@
   "tapu bulu": [
     {
       "name": "Tapu Bulu",
+      "type1": "Grass",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 12,
@@ -137916,6 +139384,8 @@
   "tapu fini": [
     {
       "name": "Tapu Fini",
+      "type1": "Water",
+      "type2": "Fairy",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -138064,6 +139534,7 @@
   "cosmog": [
     {
       "name": "Cosmog",
+      "type1": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -138154,6 +139625,7 @@
     },
     {
       "name": "Cosmoem",
+      "type1": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 2,
@@ -138246,6 +139718,8 @@
     },
     {
       "name": "Solgaleo",
+      "type1": "Psychic",
+      "type2": "Steel",
       "stats": {
         "HP": 75,
         "ATK": 13,
@@ -138405,6 +139879,8 @@
     },
     {
       "name": "Lunala",
+      "type1": "Psychic",
+      "type2": "Ghost",
       "stats": {
         "HP": 75,
         "ATK": 10,
@@ -138564,6 +140040,7 @@
   "necrozma": [
     {
       "name": "Necrozma",
+      "type1": "Psychic",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -138718,6 +140195,8 @@
     },
     {
       "name": "Necrozma (Dusk Mane)",
+      "type1": "Psychic",
+      "type2": "Steel",
       "stats": {
         "HP": 55,
         "ATK": 15,
@@ -138763,6 +140242,8 @@
     },
     {
       "name": "Necrozma (Dawn Wings)",
+      "type1": "Psychic",
+      "type2": "Ghost",
       "stats": {
         "HP": 55,
         "ATK": 10,
@@ -138808,6 +140289,8 @@
     },
     {
       "name": "Necrozma (Ultra)",
+      "type1": "Psychic",
+      "type2": "Dragon",
       "stats": {
         "HP": 55,
         "ATK": 16,
@@ -138855,6 +140338,8 @@
   "nihilego": [
     {
       "name": "Nihilego",
+      "type1": "Rock",
+      "type2": "Poison",
       "stats": {
         "HP": 60,
         "ATK": 4,
@@ -139002,6 +140487,8 @@
   "buzzwole": [
     {
       "name": "Buzzwole",
+      "type1": "Bug",
+      "type2": "Fighting",
       "stats": {
         "HP": 90,
         "ATK": 13,
@@ -139145,6 +140632,8 @@
   "pheromosa": [
     {
       "name": "Pheromosa",
+      "type1": "Bug",
+      "type2": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 13,
@@ -139289,6 +140778,7 @@
   "xurkitree": [
     {
       "name": "Xurkitree",
+      "type1": "Electric",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -139426,6 +140916,8 @@
   "celesteela": [
     {
       "name": "Celesteela",
+      "type1": "Steel",
+      "type2": "Flying",
       "stats": {
         "HP": 55,
         "ATK": 9,
@@ -139567,6 +141059,8 @@
   "kartana": [
     {
       "name": "Kartana",
+      "type1": "Grass",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 17,
@@ -139697,6 +141191,8 @@
   "guzzlord": [
     {
       "name": "Guzzlord",
+      "type1": "Dark",
+      "type2": "Dragon",
       "stats": {
         "HP": 115,
         "ATK": 9,
@@ -139856,6 +141352,8 @@
   "stakataka": [
     {
       "name": "Stakataka",
+      "type1": "Rock",
+      "type2": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 12,
@@ -140002,6 +141500,8 @@
   "blacephalon": [
     {
       "name": "Blacephalon",
+      "type1": "Fire",
+      "type2": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 12,
@@ -140146,6 +141646,7 @@
   "poipole": [
     {
       "name": "Poipole",
+      "type1": "Poison",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -140288,6 +141789,8 @@
     },
     {
       "name": "Naganadel",
+      "type1": "Poison",
+      "type2": "Dragon",
       "stats": {
         "HP": 40,
         "ATK": 6,
@@ -140445,6 +141948,8 @@
   "magearna": [
     {
       "name": "Magearna",
+      "type1": "Steel",
+      "type2": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -140598,6 +142103,8 @@
   "marshadow": [
     {
       "name": "Marshadow",
+      "type1": "Fighting",
+      "type2": "Ghost",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -140757,6 +142264,7 @@
   "zeraora": [
     {
       "name": "Zeraora",
+      "type1": "Electric",
       "stats": {
         "HP": 50,
         "ATK": 10,
@@ -140915,6 +142423,7 @@
   "meltan": [
     {
       "name": "Meltan",
+      "type1": "Steel",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -141044,6 +142553,7 @@
     },
     {
       "name": "Melmetal",
+      "type1": "Steel",
       "stats": {
         "HP": 75,
         "ATK": 13,
@@ -141191,6 +142701,7 @@
   "grookey": [
     {
       "name": "Grookey",
+      "type1": "Grass",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -141351,6 +142862,7 @@
     },
     {
       "name": "Thwackey",
+      "type1": "Grass",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -141519,6 +143031,7 @@
     },
     {
       "name": "Rillaboom",
+      "type1": "Grass",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -141692,6 +143205,7 @@
   "scorbunny": [
     {
       "name": "Scorbunny",
+      "type1": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -141837,6 +143351,7 @@
     },
     {
       "name": "Raboot",
+      "type1": "Fire",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -141989,6 +143504,7 @@
     },
     {
       "name": "Cinderace",
+      "type1": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -142148,6 +143664,7 @@
   "sobble": [
     {
       "name": "Sobble",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -142298,6 +143815,7 @@
     },
     {
       "name": "Drizzile",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 4,
@@ -142456,6 +143974,7 @@
     },
     {
       "name": "Inteleon",
+      "type1": "Water",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -142619,6 +144138,7 @@
   "skwovet": [
     {
       "name": "Skwovet",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -142757,6 +144277,7 @@
     },
     {
       "name": "Greedent",
+      "type1": "Normal",
       "stats": {
         "HP": 60,
         "ATK": 9,
@@ -142904,6 +144425,7 @@
   "rookidee": [
     {
       "name": "Rookidee",
+      "type1": "Flying",
       "stats": {
         "HP": 20,
         "ATK": 4,
@@ -143038,6 +144560,7 @@
     },
     {
       "name": "Corvisquire",
+      "type1": "Flying",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -143178,6 +144701,8 @@
     },
     {
       "name": "Corviknight",
+      "type1": "Flying",
+      "type2": "Steel",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -143329,6 +144854,7 @@
   "blipbug": [
     {
       "name": "Blipbug",
+      "type1": "Bug",
       "stats": {
         "HP": 15,
         "ATK": 1,
@@ -143421,6 +144947,8 @@
     },
     {
       "name": "Dottler",
+      "type1": "Bug",
+      "type2": "Psychic",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -143566,6 +145094,8 @@
     },
     {
       "name": "Orbeetle",
+      "type1": "Bug",
+      "type2": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -143723,6 +145253,7 @@
   "nickit": [
     {
       "name": "Nickit",
+      "type1": "Dark",
       "stats": {
         "HP": 20,
         "ATK": 2,
@@ -143864,6 +145395,7 @@
     },
     {
       "name": "Thievul",
+      "type1": "Dark",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -144018,6 +145550,7 @@
   "gossifleur": [
     {
       "name": "Gossifleur",
+      "type1": "Grass",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -144152,6 +145685,7 @@
     },
     {
       "name": "Eldegoss",
+      "type1": "Grass",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -144296,6 +145830,7 @@
   "wooloo": [
     {
       "name": "Wooloo",
+      "type1": "Normal",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -144427,6 +145962,7 @@
     },
     {
       "name": "Dubwool",
+      "type1": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -144568,6 +146104,7 @@
   "chewtle": [
     {
       "name": "Chewtle",
+      "type1": "Water",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -144720,6 +146257,8 @@
     },
     {
       "name": "Drednaw",
+      "type1": "Water",
+      "type2": "Rock",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -144887,6 +146426,7 @@
   "yamper": [
     {
       "name": "Yamper",
+      "type1": "Electric",
       "stats": {
         "HP": 30,
         "ATK": 4,
@@ -145022,6 +146562,7 @@
     },
     {
       "name": "Boltund",
+      "type1": "Electric",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -145163,6 +146704,7 @@
   "rolycoly": [
     {
       "name": "Rolycoly",
+      "type1": "Rock",
       "stats": {
         "HP": 15,
         "ATK": 3,
@@ -145308,6 +146850,8 @@
     },
     {
       "name": "Carkol",
+      "type1": "Rock",
+      "type2": "Fire",
       "stats": {
         "HP": 40,
         "ATK": 5,
@@ -145459,6 +147003,8 @@
     },
     {
       "name": "Coalossal",
+      "type1": "Rock",
+      "type2": "Fire",
       "stats": {
         "HP": 55,
         "ATK": 7,
@@ -145619,6 +147165,8 @@
   "applin": [
     {
       "name": "Applin",
+      "type1": "Grass",
+      "type2": "Dragon",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -145714,6 +147262,8 @@
     },
     {
       "name": "Flapple",
+      "type1": "Grass",
+      "type2": "Dragon",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -145859,6 +147409,8 @@
     },
     {
       "name": "Appletun",
+      "type1": "Grass",
+      "type2": "Dragon",
       "stats": {
         "HP": 55,
         "ATK": 8,
@@ -146008,6 +147560,7 @@
   "silicobra": [
     {
       "name": "Silicobra",
+      "type1": "Ground",
       "stats": {
         "HP": 25,
         "ATK": 5,
@@ -146150,6 +147703,7 @@
     },
     {
       "name": "Sandaconda",
+      "type1": "Ground",
       "stats": {
         "HP": 35,
         "ATK": 10,
@@ -146303,6 +147857,8 @@
   "cramorant": [
     {
       "name": "Cramorant",
+      "type1": "Flying",
+      "type2": "Water",
       "stats": {
         "HP": 35,
         "ATK": 8,
@@ -146439,6 +147995,7 @@
   "arrokuda": [
     {
       "name": "Arrokuda",
+      "type1": "Water",
       "stats": {
         "HP": 20,
         "ATK": 5,
@@ -146568,6 +148125,7 @@
     },
     {
       "name": "Barraskewda",
+      "type1": "Water",
       "stats": {
         "HP": 30,
         "ATK": 11,
@@ -146707,6 +148265,8 @@
   "toxel": [
     {
       "name": "Toxel",
+      "type1": "Poison",
+      "type2": "Electric",
       "stats": {
         "HP": 20,
         "ATK": 3,
@@ -146824,6 +148384,8 @@
     },
     {
       "name": "Toxtricity",
+      "type1": "Poison",
+      "type2": "Electric",
       "stats": {
         "HP": 40,
         "ATK": 9,
@@ -146986,6 +148548,8 @@
   "sizzlipede": [
     {
       "name": "Sizzlipede",
+      "type1": "Bug",
+      "type2": "Fire",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -147117,6 +148681,8 @@
     },
     {
       "name": "Centiskorch",
+      "type1": "Bug",
+      "type2": "Fire",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -147259,6 +148825,7 @@
   "clobbopus": [
     {
       "name": "Clobbopus",
+      "type1": "Fighting",
       "stats": {
         "HP": 25,
         "ATK": 6,
@@ -147402,6 +148969,7 @@
     },
     {
       "name": "Grapploct",
+      "type1": "Fighting",
       "stats": {
         "HP": 40,
         "ATK": 11,
@@ -147557,6 +149125,7 @@
   "sinistea": [
     {
       "name": "Sinistea",
+      "type1": "Ghost",
       "stats": {
         "HP": 20,
         "ATK": 4,
@@ -147692,6 +149261,7 @@
     },
     {
       "name": "Polteageist",
+      "type1": "Ghost",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -147836,6 +149406,7 @@
   "hatenna": [
     {
       "name": "Hatenna",
+      "type1": "Psychic",
       "stats": {
         "HP": 20,
         "ATK": 2,
@@ -147977,6 +149548,7 @@
     },
     {
       "name": "Hattrem",
+      "type1": "Psychic",
       "stats": {
         "HP": 30,
         "ATK": 3,
@@ -148126,6 +149698,8 @@
     },
     {
       "name": "Hatterene",
+      "type1": "Psychic",
+      "type2": "Fairy",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -148282,6 +149856,8 @@
   "impidimp": [
     {
       "name": "Impidimp",
+      "type1": "Dark",
+      "type2": "Fairy",
       "stats": {
         "HP": 25,
         "ATK": 4,
@@ -148437,6 +150013,8 @@
     },
     {
       "name": "Morgrem",
+      "type1": "Dark",
+      "type2": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -148597,6 +150175,8 @@
     },
     {
       "name": "Grimmsnarl",
+      "type1": "Dark",
+      "type2": "Fairy",
       "stats": {
         "HP": 50,
         "ATK": 11,
@@ -148765,6 +150345,7 @@
   "milcery": [
     {
       "name": "Milcery",
+      "type1": "Fary",
       "stats": {
         "HP": 25,
         "ATK": 3,
@@ -148899,6 +150480,7 @@
     },
     {
       "name": "Alcremie",
+      "type1": "Fairy",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -149045,6 +150627,7 @@
   "falinks": [
     {
       "name": "Falinks",
+      "type1": "Fighting",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -149182,6 +150765,7 @@
   "pincurchin": [
     {
       "name": "Pincurchin",
+      "type1": "Electric",
       "stats": {
         "HP": 25,
         "ATK": 9,
@@ -149320,6 +150904,8 @@
   "snom": [
     {
       "name": "Snom",
+      "type1": "Ice",
+      "type2": "Bug",
       "stats": {
         "HP": 15,
         "ATK": 2,
@@ -149427,6 +151013,8 @@
     },
     {
       "name": "Frosmoth",
+      "type1": "Ice",
+      "type2": "Bug",
       "stats": {
         "HP": 35,
         "ATK": 6,
@@ -149574,6 +151162,7 @@
   "stonjourner": [
     {
       "name": "Stonjourner",
+      "type1": "Rock",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -149719,6 +151308,7 @@
   "eiscue": [
     {
       "name": "Eiscue",
+      "type1": "Ice",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -149855,6 +151445,7 @@
     },
     {
       "name": "Eiscue (Noice)",
+      "type1": "Ice",
       "stats": {
         "HP": 40,
         "ATK": 7,
@@ -149996,6 +151587,8 @@
   "indeedee": [
     {
       "name": "Indeedee (♂)",
+      "type1": "Psychic",
+      "type2": "Normal",
       "stats": {
         "HP": 30,
         "ATK": 6,
@@ -150138,6 +151731,8 @@
     },
     {
       "name": "Indeedee (♀)",
+      "type1": "Psychic",
+      "type2": "Normal",
       "stats": {
         "HP": 35,
         "ATK": 5,
@@ -150282,6 +151877,8 @@
   "morpeko": [
     {
       "name": "Morpeko",
+      "type1": "Electric",
+      "type2": "Dark",
       "stats": {
         "HP": 30,
         "ATK": 9,
@@ -150431,6 +152028,7 @@
   "cufant": [
     {
       "name": "Cufant",
+      "type1": "Steel",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -150569,6 +152167,7 @@
     },
     {
       "name": "Copperajah",
+      "type1": "Steel",
       "stats": {
         "HP": 60,
         "ATK": 12,
@@ -150717,6 +152316,8 @@
   "dracozolt": [
     {
       "name": "Dracozolt",
+      "type1": "Electric",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -150866,6 +152467,8 @@
   "arctozolt": [
     {
       "name": "Arctozolt",
+      "type1": "Electric",
+      "type2": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 9,
@@ -151011,6 +152614,8 @@
   "dracovish": [
     {
       "name": "Dracovish",
+      "type1": "Water",
+      "type2": "Dragon",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -151151,6 +152756,8 @@
   "arctovish": [
     {
       "name": "Arctovish",
+      "type1": "Water",
+      "type2": "Ice",
       "stats": {
         "HP": 45,
         "ATK": 8,
@@ -151293,6 +152900,8 @@
   "duraludon": [
     {
       "name": "Duraludon",
+      "type1": "Steel",
+      "type2": "Dragon",
       "stats": {
         "HP": 35,
         "ATK": 9,
@@ -151442,6 +153051,8 @@
   "dreepy": [
     {
       "name": "Dreepy",
+      "type1": "Dragon",
+      "type2": "Ghost",
       "stats": {
         "HP": 15,
         "ATK": 5,
@@ -151560,6 +153171,8 @@
     },
     {
       "name": "Drakloak",
+      "type1": "Dragon",
+      "type2": "Ghost",
       "stats": {
         "HP": 35,
         "ATK": 7,
@@ -151715,6 +153328,8 @@
     },
     {
       "name": "Dragapult",
+      "type1": "Dragon",
+      "type2": "Ghost",
       "stats": {
         "HP": 45,
         "ATK": 11,
@@ -151879,6 +153494,7 @@
   "zacian": [
     {
       "name": "Zacian",
+      "type1": "Fairy",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -152011,6 +153627,8 @@
     },
     {
       "name": "Zacian (Crowned Sword)",
+      "type1": "Fairy",
+      "type2": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 16,
@@ -152148,6 +153766,7 @@
   "zamazenta": [
     {
       "name": "Zamazenta",
+      "type1": "Fighting",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -152294,6 +153913,8 @@
     },
     {
       "name": "Zamazenta (Crowned Shield)",
+      "type1": "Fighting",
+      "type2": "Steel",
       "stats": {
         "HP": 45,
         "ATK": 12,
@@ -152445,6 +154066,8 @@
   "eternatus": [
     {
       "name": "Eternatus",
+      "type1": "Poison",
+      "type2": "Dragon",
       "stats": {
         "HP": 70,
         "ATK": 8,
@@ -152572,6 +154195,8 @@
     },
     {
       "name": "Eternatus (Eternamax)",
+      "type1": "Poison",
+      "type2": "Dragon",
       "stats": {
         "HP": 130,
         "ATK": 11,
@@ -152704,6 +154329,7 @@
   "kubfu": [
     {
       "name": "Kubfu",
+      "type1": "Fighting",
       "stats": {
         "HP": 30,
         "ATK": 8,
@@ -152831,6 +154457,8 @@
     },
     {
       "name": "Urshifu (Single Strike)",
+      "type1": "Fighting",
+      "type2": "Dark",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -152992,6 +154620,8 @@
     },
     {
       "name": "Urshifu (Rapid Strike)",
+      "type1": "Fighting",
+      "type2": "Water",
       "stats": {
         "HP": 50,
         "ATK": 12,
@@ -153153,6 +154783,8 @@
   "zarude": [
     {
       "name": "Zarude",
+      "type1": "Dark",
+      "type2": "Grass",
       "stats": {
         "HP": 60,
         "ATK": 11,
@@ -153309,6 +154941,8 @@
   "calyrex": [
     {
       "name": "Calyrex",
+      "type1": "Psychic",
+      "type2": "Grass",
       "stats": {
         "HP": 50,
         "ATK": 7,
@@ -153456,6 +155090,8 @@
     },
     {
       "name": "Calyrex (Ice Rider)",
+      "type1": "Psychic",
+      "type2": "Ice",
       "stats": {
         "HP": 50,
         "ATK": 16,
@@ -153637,6 +155273,8 @@
     },
     {
       "name": "Calyrex (Shadow Rider)",
+      "type1": "Psychic",
+      "type2": "Ghost",
       "stats": {
         "HP": 50,
         "ATK": 8,
@@ -153812,6 +155450,7 @@
   "glastrier": [
     {
       "name": "Glastrier",
+      "type1": "Ice",
       "stats": {
         "HP": 50,
         "ATK": 14,
@@ -153949,6 +155588,7 @@
   "spectrier": [
     {
       "name": "Spectrier",
+      "type1": "Ghost",
       "stats": {
         "HP": 50,
         "ATK": 6,

@@ -75,7 +75,7 @@ fetchedSheets.then(data => {
   })))
 
   writeJson('abilities', data['Abilities'].map(row => ({
-    name: row.Ability,
+    name: row.Name,
     bonusStats: row['Bonus Stats'],
     description: row.Description && markdown(row.Description)
   })))
@@ -115,6 +115,8 @@ fetchedSheets.then(data => {
   
     return [row.Name, {
         name: row.Name,
+        type1: row['Type 1'],
+        type2: row['Type 2'],
         stats: {
           HP: +row['New HP'],
           ATK: +row.ATK,
