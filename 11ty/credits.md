@@ -3,6 +3,8 @@ title: Credits & Thanks
 layout: base
 ---
 
+# Credits & Thanks
+
 All of this is thanks to and copyright GAME FREAK and Nintendo.
 
 ## Special thanks
@@ -27,6 +29,6 @@ All of this is thanks to and copyright GAME FREAK and Nintendo.
 - [Michael B.](https://github.com/Yukiiro-Nite)
 - [Steph M.](https://twitter.com/smmaci)
 
-[dobbers] https://twitter.com/aridobbers
-[pg] https://twitter.com/Pengogod
-[matt] https://www.youtube.com/watch?v=lgpHuGSy3Jk
+[dobbers]: https://twitter.com/aridobbers
+[pg]: https://twitter.com/Pengogod
+[matt]: https://www.youtube.com/watch?v=lgpHuGSy3Jk
