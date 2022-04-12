@@ -5,13 +5,19 @@
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#ee1515">
+<meta name="theme-color" content="#b02a32">
 <meta name="robots" content="none">
 <title>{{#if title}}{{title}} · {{/if}}Pokémon: Tabletop Version</title>
 <style>
   *, ::before, ::after { box-sizing: border-box }
   html {
     font: 1.1em/1.4 -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, Roboto, Lato, Helvetica, sans-serif;
+    background: #b02a32; /* for overscroll */
+  }
+
+  body {
+    margin: 0;
+    padding: 0.5em;
     background: #ecebdd;
   }
 
@@ -21,10 +27,48 @@
     height: auto;
   }
 
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1em;
+    background: #b02a32;
+    margin: -0.5em;
+    padding: 0.5em;
+    color: #fff;
+  }
+
+  header a {
+    color: inherit;
+  }
+
+  header > h1 {
+    margin: 0;
+    font: italic 1em Georgia, serif;
+  }
+
+  .siteName {
+    text-decoration: none;
+  }
+  .siteName > svg {
+    vertical-align: middle;
+  }
+
+  .✲ {
+    vertical-align: top;
+    font-size: small;
+  }
+
   footer {
-    margin: 2em 0;
+    margin: 6em 0 2em;
     font-size: smaller;
     text-align: center;
+  }
+
+  #™ {
+    display: block;
+  }
+  #™:target {
+    border: thin dashed;
   }
 
   .© {
@@ -32,8 +76,33 @@
   }
 </style>
 
+<header>
+  <h1>
+    <a href="/ptv/" class="siteName" rel="home">{{> dottler width="2em" }} Pokémon: Tabletop Version</a><!--
+    --><a class="✲" href="#™" rel="license">✲</a>
+  </h1>
+
+  <nav>
+    <a href="/ptv/dex/">Pokédex</a>
+    <a href="/ptv/moves/">Moves</a>
+    <a href="/ptv/abilities/">Abilities</a>
+    <a href="/ptv/items/">Items</a>
+  </nav>
+
+  <form role="search" action="https://www.google.com/search">
+    <input type="search" name="q"
+      autocapitalize="off"
+      size="14"
+      pattern=".*?\S.*" title="Search for one or more terms"
+      disabled="" {{! replace with required="" when ready }}
+    ><input type="hidden" name="q" value="site:code.ti.gt/ptv/"><!--
+
+    --><button disabled="">Search</button>
+  </form>
+</header>
+
 {{{content}}}
 
 <footer>
-  <small><a class="©" rel="license" href="https://www.pokemon.com/us/legal/">Pokémon © Nintendo/Creatures Inc/GAME FREAK. Pokémon and Pokémon character names ™ Nintendo.</a></small>
+  <small id="™">This site is not endorsed by, affiliated with, or sponsored by <a class="©" href="https://www.pokemon.com/us/legal/">Pokémon © Nintendo/Creatures Inc/GAME FREAK. Pokémon and Pokémon character names ™ Nintendo.</a> Trademarks are used for identification and reference only.</small>
 </footer>

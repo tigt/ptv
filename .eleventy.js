@@ -28,4 +28,8 @@ module.exports = function (eleventyConfig) {
       return content
     }
   })
+
+  return {
+    markdownTemplateEngine: 'hbs'
+  }
 }

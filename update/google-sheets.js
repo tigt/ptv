@@ -69,7 +69,7 @@ fetchedSheets.then(data => {
     accuracy: row.Accuracy,
     range: row.Range,
     description: row.Description && markdown(row.Description),
-    'z-effect': row['Z-Effect'],
+    zEffect: row['Z-Effect'],
     maxPower: row['MAX Power'],
     name: row.Move
   })))

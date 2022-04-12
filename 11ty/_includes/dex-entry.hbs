@@ -54,23 +54,23 @@
   </table>
 
   <dl class="mon_info">
-    <dt>Height:
+    <dt>Height:&nbsp;
     <dd>{{height}}
 
-    <dt>Weight:
+    <dt>Weight:&nbsp;
     <dd>{{weight}}&thinsp;lbs.
 
-    <dt>Egg Group{{#if eggGroups.[1]}}s{{/if}}:
+    <dt>Egg Group{{#if eggGroups.[1]}}s{{/if}}:&nbsp;
     <dd>{{#each eggGroups}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}
 
     {{#if catchDC}}
-    <dt>Catch DC:
-    <dd>{{catchDC}}
+      <dt>Catch DC:&nbsp;
+      <dd>{{catchDC}}
     {{/if}}
 
     {{#if evolves.from}}
-      <dt>Evolves from:
-      <dd>{{evolves.from}}, by {{evolves.by}}
+      <dt>Evolves from:&nbsp;
+      <dd>{{evolves.from}} ({{evolves.by}})
     {{/if}}
   </dl>
 
