@@ -246,7 +246,7 @@
     "name": "Calcium",
     "buy": 5000,
     "sell": 2500,
-    "description": "Gives +1 to Focus and Composure, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "description": "Stat Booster. Gives +1 to the user's Focus and Composure, but they no longer gain gain skill bonuses at Level 20. Consuming other Stat Booster items stacks at 1 level lower for each.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -254,7 +254,7 @@
     "name": "Carbos",
     "buy": 5000,
     "sell": 2500,
-    "description": "Gets +1 to Acrobatics and Deception, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "description": "Stat Booster. Gives +1 to the user's Acrobatics and Deception, but they no longer gain gain skill bonuses at Level 20. Consuming other Stat Booster items stacks at 1 level lower for each.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -310,7 +310,7 @@
     "name": "Choice Specs",
     "buy": 4000,
     "sell": 2000,
-    "description": "The holder gets +10 SATK, but can only repeat the first Move they used until they leave the battle. Glasses that cause short-sightedness.",
+    "description": "The holder gets +10 SATK, but can only repeat the first Move they used until they leave the battle. Glasses that cause shortsightedness.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -326,7 +326,7 @@
     "name": "Cooking Pot",
     "buy": 5000,
     "sell": 2500,
-    "description": "A campfire cauldron where the entire party can participate. During a Rest, each Trainer consumes one berry to restore 3 PP and get +3 Max PP until their next Rest.",
+    "description": "A campfire cauldron for the whole party! During a Rest, each Trainer consumes one berry to restore 3 PP and get +3 Max PP until their next Rest.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -770,7 +770,7 @@
     "name": "Iron",
     "buy": 4000,
     "sell": 2000,
-    "description": "Gets +1 to Endurance and Bluster, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "description": "Stat Booster. Gives +1 to the user's Endurance and Bluster, but they no longer gain gain skill bonuses at Level 20. Consuming other Stat Booster items stacks at 1 level lower for each.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -808,7 +808,7 @@
     "name": "Leek",
     "buy": 1000,
     "sell": 500,
-    "description": "Doubles Farfetch'd’s Critical Rate when held. A mighty scallion.",
+    "description": "Doubles Farfetch'd’s or Sirfetch'd's Critical Rate when held. A mighty scallion.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1250,7 +1250,7 @@
     "name": "Protein",
     "buy": 5000,
     "sell": 2500,
-    "description": "Gets +1 to Athletics and Intensity, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "description": "Stat Booster. Gives +1 to the user's Athletics and Intensity, but they no longer gain gain skill bonuses at Level 20. Consuming other Stat Booster items stacks at 1 level lower for each.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1865,7 +1865,7 @@
     "name": "Zinc",
     "buy": 5000,
     "sell": 2500,
-    "description": "Gets +1 to Stealth and Insight, but does not gain skill bonuses from Level 20. Effect stacks at 1 Level lower until it meets the user's Level.",
+    "description": "Stat Booster. Gives +1 to the user's Stealth and Insight, but they no longer gain gain skill bonuses at Level 20. Consuming other Stat Booster items stacks at 1 level lower for each.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

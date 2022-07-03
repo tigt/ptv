@@ -682,7 +682,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Charmander’s diet is reflected in its tail. Experienced Trainers can guess the area food sources from wild Charmander flames’ intensity, smoke, and color. Other Charmander follow individuals with strong flames, hoping to chow down.</p>\n"
+      "blurb": "<p>Charmander’s tail reflects its diet. Experts can guess area food sources from wild Charmander flames’ behavior, smoke, and color. Other Charmander follow individuals with strong flames, hoping to chow down.</p>\n"
     },
     {
       "name": "Charmeleon",
@@ -1790,7 +1790,7 @@
         },
         "tutor": []
       },
-      "blurb": "<p>Caterpie infestations smell awful, but their silk can be collected to create tough, lightweight cloth. Many gardeners frustrated with their ruined plants cheer up after learning how much weavers will pay for the remains. </p>\n"
+      "blurb": "<p>Caterpie infestations smell awful, but their silk can be collected afterwards. Many gardeners frustrated with their ruined plants cheer up after learning how much weavers will pay for the remains. </p>\n"
     },
     {
       "name": "Metapod",
@@ -2134,7 +2134,7 @@
           "Odor Sleuth"
         ]
       },
-      "blurb": "<p>The smaller tail stinger is completely venomless — it just discourages attacks from behind. While Weedle is popular with kids, parents dread learning that their child’s first Pokémon friend is the kind that turns into a 3-foot hornet.</p>\n"
+      "blurb": "<p>While Weedle is popular with kids, parents dread learning that their child’s first Pokémon friend is the kind that turns into a 3-foot hornet.</p>\n"
     },
     {
       "name": "Kakuna",
@@ -2236,7 +2236,7 @@
           "Substitute"
         ]
       },
-      "blurb": "<p>Weedle plunge their tail barb into the nearest surface to start their evolution. Kakuna can be surprisingly warm to the touch from how fast they transform. The cooling down as they approach evolution is important for the shell to be brittle enough to break out of.</p>\n"
+      "blurb": "<p>Weedle plunge their tail barb into the nearest surface to start their evolution. The cooling down as they approach evolution is important for the shell to be brittle enough to break out of.</p>\n"
     },
     {
       "name": "Beedrill",
@@ -2381,7 +2381,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Many have tried to train Beedrill to produce honey, only to learn that it probably shouldn’t be eaten by anyone. Fermentation makes a mead with a familiar impact and an even more familiar unpleasant buzzing.</p>\n"
+      "blurb": "<p>Many have tried to train Beedrill to produce honey, only to learn that it probably shouldn’t be eaten. Fermentation makes a mead with a familiar impact and an even more familiar unpleasant buzzing.</p>\n"
     },
     {
       "name": "Mega Beedrill",
@@ -4154,7 +4154,7 @@
           "Venoshock"
         ]
       },
-      "blurb": "<p>Rangers will tell tales around the campfire about the largest thing they’ve seen an Arbok swallow whole. This usually concludes with everyone calling the others liars, and then not sleeping until dawn.<br>Pokefeature: if the GM and players agree, <a href=\"https://bulbapedia.bulbagarden.net/wiki/Variant_Pok%C3%A9mon#Arbok\">Arbok’s different patterns</a> can provide other choices for its Level 5 Ability: Regenerator, Pure Power, Immunity to Poison Moves, Speed Boost, Antagonize, etc.</p>\n"
+      "blurb": "<p>Rangers will tell tales around the campfire about the largest thing they’ve seen an Arbok swallow whole. This usually concludes with everyone calling the others liars, and then not sleeping until dawn.<br>Pokéfeature: if the table agrees, <a href=\"https://bulbapedia.bulbagarden.net/wiki/Variant_Pok%C3%A9mon#Arbok\">Arbok’s different patterns</a> can offer more choices for its Level 5 Ability: Regenerator, Pure Power, Immunity to Poison Moves, Speed Boost, Antagonize, etc.</p>\n"
     }
   ],
   "pichu": [
@@ -4621,7 +4621,7 @@
           "Wish"
         ]
       },
-      "blurb": "<p>Their nests are easily distinguishable from Raticate’s by the smell of ozone. Gathering storms provoke Raichu outbursts as their static charges build. Sometimes they get so riled up that after lightning strikes, they fire back at the clouds.</p>\n"
+      "blurb": "<p>Their nests are easily distinguished by the smell of ozone. Gathering storms provoke Raichu outbursts as their static charges build. Sometimes they get so riled up that after lightning strikes, they fire <strong>back</strong> at the clouds.</p>\n"
     },
     {
       "name": "Alolan Raichu",
@@ -4785,7 +4785,7 @@
           "Wish"
         ]
       },
-      "blurb": "<p>Raichu in Alola are normally peppy, pleasant, and easygoing, but dispense swift and terrible justice to Rattata if there’s pancakes nearby. Feuds between pancake-loving Raichus and Raticates can escalate into outright gang warfare.</p>\n"
+      "blurb": "<p>Raichu in Alola are normally peppy, pleasant, and easygoing, but dispense swift and terrible justice to Rattata if there’s pancakes nearby. Feuds between pancake-loving Raichu and Raticate can escalate into gang warfare.</p>\n"
     }
   ],
   "sandshrew": [
@@ -4932,7 +4932,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Sandshrew taking dust baths are famously adorable. They frolic in coarse, abrasive sand, smoothing their armor for faster rolling and slippier for foes’ grip. Domestic Sandshrew seek out litterboxes or childrens’ sandboxes if not provided with sand to their liking.</p>\n"
+      "blurb": "<p>Sandshrew taking dust baths are famously adorable. They frolic in coarse, abrasive sand, smoothing their armor for faster rolling and slipping out of foes’ grip. Domestic Sandshrew seek out litterboxes or childrens’ sandboxes if not provided with sand to their liking.</p>\n"
     },
     {
       "name": "Sandslash",
@@ -5086,7 +5086,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Sandslash ambush prey by popping out of the earth or rolling down hills at great speed. Their shed plates are collected and used to smooth wood, scour kitchenware, and polish stone.</p>\n"
+      "blurb": "<p>Sandslash ambush prey by popping out of the earth or rolling down hills at great speed. Their shed plates are traditionally used to smooth wood, scour kitchenware, and polish stone.</p>\n"
     },
     {
       "name": "Alolan Sandshrew",
@@ -6669,7 +6669,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Cleffa can’t tell the difference between a shooting star and nighttime aircraft. This leads to airfield infestations as Cleffa follow planes to their landings. They then stowaway on flights to get closer to the sky.</p>\n"
+      "blurb": "<p>Cleffa can’t tell the difference between shooting stars and nighttime aircraft. This leads to airfield infestations as Cleffa follow planes to their landings. They then stowaway on flights to get closer to the sky.</p>\n"
     },
     {
       "name": "Clefairy",
@@ -47074,7 +47074,74 @@
           "17": [
             "Moonlight"
           ]
-        }
+        },
+        "tutor": [
+          "Attract",
+          "Avalanche",
+          "Belly Drum",
+          "Body Slam",
+          "Brick Break",
+          "Bulk Up",
+          "Bulldoze",
+          "Charm",
+          "Chip Away",
+          "Close Combat",
+          "Counter",
+          "Covet",
+          "Cross Chop",
+          "Crunch",
+          "Cut",
+          "Dig",
+          "Earth Power",
+          "Earthquake",
+          "Endure",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Gunk Shot",
+          "Hone Claws",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Ice Punch",
+          "Laser Focus",
+          "Lash Out",
+          "Low Kick",
+          "Mega Kick",
+          "Mega Punch",
+          "Metal Claw",
+          "Metronome",
+          "Night Slash",
+          "Payback",
+          "Play Rough",
+          "Protect",
+          "Rain Dance",
+          "Retaliate",
+          "Rock Slide",
+          "Rock Tomb",
+          "Round",
+          "Scary Face",
+          "Seed Bomb",
+          "Seismic Toss",
+          "Shadow Claw",
+          "Snore",
+          "Stomping Tantrum",
+          "Stone Edge",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Swift",
+          "Swords Dance",
+          "Take Down",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Punch",
+          "Uproar",
+          "Work Up",
+          "Yawn"
+        ]
       }
     }
   ],
@@ -49477,7 +49544,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Very young Houndour might mistake any skull in low visibility for a member of its pack. This results in the Houndour calling out to the lost pack member until another Pokémon (or its Trainer) comes to console it.</p>\n"
+      "blurb": "<p>Young Houndour may mistake any skull in low visibility for a pack member. This results in the Houndour calling out to it until another Pokémon (or its Trainer) comes to console it.</p>\n"
     },
     {
       "name": "Houndoom",
@@ -60313,7 +60380,7 @@
       },
       "catchDC": 18,
       "evolves": {
-        "by": "Level 5",
+        "by": "Thunder Stone",
         "from": "Nosepass"
       },
       "moves": {
@@ -70758,7 +70825,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Chimecho attach to any flat underside and chatter if their perch moves. They’re popular on fairgrounds, drawing children with their friendly chimes. Construction sites consider them good omens.</p>\n"
+      "blurb": "<p>Chimecho attach to any high underside and chatter if their perch moves. They draw children at fairgrounds and are good omens at construction sites. They’re pests at airfields and wherever they feud with Shuppet over territory.</p>\n"
     }
   ],
   "absol": [
@@ -79990,7 +80057,7 @@
           "Thunderbolt"
         ]
       },
-      "blurb": "<p>Bastiodon are used to protect archaeological digs from thieves. When the dig crew goes to bed, they release Bastiodon walls around the site. Unless thieves have Flying-Types, the chances of getting in are slim.</p>\n"
+      "blurb": "<p>Bastiodon are used to protect archaeological digs from thieves. While the dig is unattended, they release Bastiodon walls around the site. Unless thieves have Flying-Types, the chances of getting in are slim.</p>\n"
     }
   ],
   "burmy": [
@@ -80242,7 +80309,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Its cloak’s photosynthesis only provides part of Wormadam’s daily calorie needs. It makes up the rest by eating lichen, mosses, and fungi off trees before nesting on them. As a result, navigating by the direction moss grows is especially unreliable in Wormadam territory.</p>\n"
+      "blurb": "<p>Wormadam’s cloak photosynthesizes only part of its calorie needs. It also eats lichen, moss, and fungi off trees before nesting on them. Navigating by the direction moss grows is especially unreliable in Wormadam territory.</p>\n"
     },
     {
       "name": "Wormadam (Sand)",
@@ -80669,7 +80736,7 @@
           "Venoshock"
         ]
       },
-      "blurb": "<p>Twice yearly, shops along Mothim migration routes hang bowls of honey for when the Mothim fly through town. The tradition began to deter Mothim from invading nearby businesses, but it became such a popular tourist attraction that it turned into a festival.</p>\n"
+      "blurb": "<p>Twice yearly, shops along Mothim migration routes hang bowls of honey. The idea was to distract Mothim from invading nearby businesses, but it was such a tourist attraction that it became a festival.</p>\n"
     }
   ],
   "combee": [
@@ -80795,7 +80862,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>When two beehives of Combee meet, their natural inclination is to join together as friends. Only one Vespiquen is able to lead the new cluster though. When a Combee is captured, they demand to be kept busy all day.</p>\n"
+      "blurb": "<p>When two hives of Combee meet, their natural inclination is to join as friends. Only one Vespiquen is able to lead the new cluster though. If Combee is captured, they demand to be kept busy all day.</p>\n"
     },
     {
       "name": "Vespiquen",
@@ -80942,7 +81009,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Vespiquen pheromones can control Beedrill and Ribombee almost as well as Combee. If enough of these species congregate, Vespiquen can become an environmental nuisance — at least surrounding plants thrive!</p>\n"
+      "blurb": "<p>Vespiquen pheromones can control Beedrill and Ribombee almost as well as Combee. If enough congregate, Vespiquen can become an environmental nuisance — at least surrounding plants thrive!</p>\n"
     }
   ],
   "pachirisu": [
@@ -81092,7 +81159,7 @@
           "Volt Switch"
         ]
       },
-      "blurb": "<p>It stores its furballs that crackle with static electricity together with its favorite berries in tree hollows. These berry traps are such a nuisance for Hikers that rubber gloves are common for foraging. The traps keep Pokémon away from its hoard, so Pachirisu resents the gloves.</p>\n"
+      "blurb": "<p>It stores furballs crackling with static electricity along with its favorite berries in tree hollows. These berry traps are such a nuisance for Hikers that rubber gloves are common for foraging. Pachirisu resent the gloves.</p>\n"
     }
   ],
   "buizel": [
@@ -81241,7 +81308,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Buizel are popular with children, so many stories have been written about them. The superstitions in these stories run the gamut: Buizel can be good luck, bad omens, familiars of witches, transformed humans, or symbols of dignity or villainy.</p>\n"
+      "blurb": "<p>Buizel are popular with children, with many stories written about them. Their superstitions run the gamut: Buizel can be good luck, bad omens, witch familiars, transformed humans, or symbols of dignity or villainy.</p>\n"
     },
     {
       "name": "Floatzel",
@@ -81395,7 +81462,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Floatzel compete with Bibarel for control over rivers, breaking up their dams to make the currents stronger. Bidoof and Bibarel aren’t fast enough to chase, so these conflicts are one-sided.</p>\n"
+      "blurb": "<p>Floatzel compete with Bibarel for control over rivers, breaking up their dams to strengthen currents. Bidoof and Bibarel are too slow to chase, so these conflicts are one-sided.</p>\n"
     }
   ],
   "cherubi": [
@@ -82155,7 +82222,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Drifloon are helpless against strong winds, getting blown around without any control. They’ll grab onto anything they can to keep put, even other Pokémon. If the other Pokémon isn’t heavy enough, they get carried along too.</p>\n"
+      "blurb": "<p>Drifloon are helpless against strong winds, getting blown around uncontrollably. They grab onto anything to keep put, even other Pokémon. If not heavy enough, they’re carried along too.</p>\n"
     },
     {
       "name": "Drifblim",
@@ -82315,7 +82382,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Drifblim love to drift through clouds, hidden from the rest of the world. People report fleets of Drifblim in stormy skies, only visible when the lightning strikes.</p>\n"
+      "blurb": "<p>Drifblim love to drift through clouds, hidden from the rest of the world. People report fleets of Drifblim in stormy skies, only visible when lightning strikes.</p>\n"
     }
   ],
   "buneary": [
@@ -83154,7 +83221,7 @@
           "Torment"
         ]
       },
-      "blurb": "<p>Young Stunky don’t know what deserves a spray, so they use it on anyone. They tend to go after a house’s garbage at night when guard Pokémon sleep. The best way to stop a Stunky infestation is to put Cherrim around your yard; for whatever reason, they hate the smell.</p>\n"
+      "blurb": "<p>Young Stunky don’t know what deserves a spray, so they use it on anyone. They go after a house’s trash at night. The best way to stop an infestation is Cherrim; for some reason, Stunky hate its smell.</p>\n"
     },
     {
       "name": "Skuntank",
@@ -83316,7 +83383,7 @@
           "Venom Drench"
         ]
       },
-      "blurb": "<p>Skuntank are feared even by much stronger Pokémon for its noxious fumes, but Steel-Types have no problem with the smell. To deal with this, Skuntank uses its back claws as flint to ignite their acid and set foes on fire.</p>\n"
+      "blurb": "<p>Skuntank’s noxious fumes are feared even by strong Pokémon, but Steel-Types have no problem with the smell. To deal with this, Skuntank uses its claws as flint to ignite their spray and thus their foes.</p>\n"
     }
   ],
   "bronzor": [
@@ -83470,7 +83537,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Ancient people made an alloy that imitated Bronzor’s body, resisting earthquakes and only melting at incredibly high temperatures. The formula has been lost for ages, but rumors float around the archaeology sceneof ancient scrolls describing the process.</p>\n"
+      "blurb": "<p>Ancient alloys imitated Bronzor’s body to resist earthquakes and withstand high temperatures. The formula has been lost for ages, but the archaeologists rumor of scrolls describing the process.</p>\n"
     },
     {
       "name": "Bronzong",
@@ -83630,7 +83697,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Bronzong gains no benefit from the rain it brings — it seeks cover when the water falls. Ruin Maniacs Monthly theorizes that it learned to summon rain to bargain for tribute from other species. If Bronzong cannot find food, it buries itself and sleeps until somebody needs it again.</p>\n"
+      "blurb": "<p>Bronzong gains no benefit from the rain it brings — it seeks cover in rainfall. Ruin Maniacs Monthly theorizes it summons rain to bargain for tribute from other species. If Bronzong cannot find food, it buries itself and sleeps until needed.</p>\n"
     }
   ],
   "chatot": [
@@ -83775,7 +83842,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Chatot is the star of the Jubilife Late Night Comedy Hour show. It introduces guests, interviews them, and even tells its own jokes. Most people don’t know this is actually a whole flock of Chatot, whose Trainers prep them for weeks before every episode.</p>\n"
+      "blurb": "<p>Chatot is the star of the Jubilife Late Night Comedy Hour. It introduces and interviews guests, and even tells its own jokes. Most don’t know this is actually a whole flock of Chatot, who are prepped for weeks before every episode.</p>\n"
     }
   ],
   "spiritomb": [
@@ -84082,7 +84149,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Gible is fascinated by things it can’t chomp to pieces. It will keep on trying for hours before accepting that whatever it’s found is just too tough. Gible who make their home near roadsides can sometimes be seen hanging on the back of passing bicycles.</p>\n"
+      "blurb": "<p>Gible is fascinated by what it can’t chomp to pieces, biting for hours before accepting that whatever it found is too tough. Gible with homes near roads can be seen hanging on the back of passing bicycles.</p>\n"
     },
     {
       "name": "Gabite",
@@ -84234,7 +84301,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Druddigon and Gabite regularly feud. Druddigon usually drives Gabite out of its nest to sleep on the hoarded jewels, enjoying their smoothness on its rough skin. In the rare case that Gabite evolves, the ensuing retaliation can shake mountains.</p>\n"
+      "blurb": "<p>Druddigon and Gabite regularly feud. Druddigon usually drives Gabite from nests to sleep on the hoarded jewels, enjoying their smoothness on its rough skin. If Gabite evolves, the ensuing retaliation shakes mountains.</p>\n"
     },
     {
       "name": "Garchomp",
@@ -84389,7 +84456,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Garchomp can only fly at high speeds, so it’s not useful for battling. Trainers who try and ride Garchomp without special gear almost always get thrown off, crashing after just seconds. It’s said to be an extremely exciting experience, so people try all the time anyway.</p>\n"
+      "blurb": "<p>Garchomp only fly at high speeds, so it’s not useful in battle. Riding Garchomp without special gear almost always gets you thrown off within seconds. It’s said to be extremely exciting, so people try anyway.</p>\n"
     },
     {
       "name": "Mega Garchomp",
@@ -84606,7 +84673,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Riolu are natural-born masters of martial combat, but can’t control the aura flaring inside them. It visibly bursts whenever they feel strong emotions, making them vulnerable to predators looking from above.</p>\n"
+      "blurb": "<p>Riolu are natural-born masters of combat, but can’t control the aura flaring inside them. It visibly bursts when they feel strong emotions, making them vulnerable to predators looking from above.</p>\n"
     },
     {
       "name": "Lucario",
@@ -84786,7 +84853,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Wild Lucario seek mentors when they’ve learned all they can alone. In high level areas, Trainers may see Lucario fighting alongside other strong Pokémon. If the Lucario thinks this makes things unfair, you may be able to convince it to leave.</p>\n"
+      "blurb": "<p>Wild Lucario seek mentors after learning all they can alone. In high-level areas, Lucario may fight alongside strong Pokémon. If the Lucario thinks this unfair, you may convince it to leave.</p>\n"
     },
     {
       "name": "Mega Lucario",
@@ -84973,7 +85040,7 @@
           "Whirlwind"
         ]
       },
-      "blurb": "<p>Hippopotas hides perfectly in deserts and swamps with its camouflage. It likes to sink down and soak up sun, but resents when others walk over its protruding nose. In Hippopotas colonies, this can be nigh-impossible to avoid, and they communicate instantly to the others via subtle tremors.</p>\n"
+      "blurb": "<p>Hippopotas camouflages perfectly in deserts and swamps. It sinks down to soak up sun, but resents others walking on its protruding nose. This is nigh-impossible to avoid in Hippopotas colonies, and they communicate to the others via subtle tremors.</p>\n"
     },
     {
       "name": "Hippowdon",
@@ -85117,7 +85184,7 @@
           "Whirlwind"
         ]
       },
-      "blurb": "<p>If Hippowdon cannot find sand to steep in, it will create some. Wild Hippowdon wandering into urban areas have covered entire streets in sand, making temporary deserts. They make it into the Top 10 Most Dangerous Pokémon list every week in Rangers’ Digest.</p>\n"
+      "blurb": "<p>If Hippowdon cannot find sand to steep in, it creates some. Wild Hippowdon wandering into urban areas have covered entire streets in sand, making temporary deserts. They’re in the Top 10 Most Dangerous Pokémon list every week in Rangers’ Digest.</p>\n"
     }
   ],
   "skorupi": [
@@ -85275,7 +85342,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Not many Pokémon bother dealing with Skorupi’s aggressive toxins and pincers, so they have few predators. Skarmory is a noted exception, carrying off Skorupi by its poison tail. Skorupi hide whenever Skarmory are in the sky.</p>\n"
+      "blurb": "<p>Few Pokémon bother with Skorupi’s aggression, toxins, and pincers, so they have few predators. Skarmory, a noted exception, carries off Skorupi by its tail. Skorupi hide when Skarmory fly overhead.</p>\n"
     },
     {
       "name": "Drapion",
@@ -85446,7 +85513,7 @@
           "Whirlwind"
         ]
       },
-      "blurb": "<p>Skarmory do not hunt Drapion. Drapion never hide, and smash anything that gets in their way with their powerful claws. They’re a villain in many fairy tales as the Ogre Scorp who wishes to eat innocent heroes.</p>\n"
+      "blurb": "<p>Skarmory do not hunt Drapion. Drapion never hide, and smash anything in their way with powerful claws. Many a fairy tale has an Ogre Scorp villian who wishes to eat innocent heroes.</p>\n"
     }
   ],
   "croagunk": [
@@ -85788,7 +85855,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Toxicroak are not naturally battle-hungry, choosing to spend their time croaking on rocks and lazily swimming in marshes. But the second they’re threatened, they become cruel and paranoid. What makes a wild Pokémon feel threatened is unpredictable, so be careful.</p>\n"
+      "blurb": "<p>Toxicroak aren’t naturally battle-hungry, spending time croaking on rocks and lazily swimming in marshes. But when threatened, they become cruel and paranoid. What threatens a wild Pokémon is unpredictable, so be careful.</p>\n"
     }
   ],
   "carnivine": [
@@ -85935,7 +86002,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Carnivine and Weepinbel fight over the best branches to hang from and attract prey. Because both Pokémon hunt by waiting for prey to jump into their mouth, this mostly involves staring at each other for days. It is very dangerous to interrupt this battle.</p>\n"
+      "blurb": "<p>Carnivine and Weepinbel fight over branches to hang from and attract prey. Because both hunt by waiting, this mostly involves staring at each other for days. It is very dangerous to interrupt this battle.</p>\n"
     }
   ],
   "finneon": [
@@ -86079,7 +86146,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Finneon love jumping, despite the danger of being snatched up by Wingull. Their pink stripes soak up sunlight bouncing off the surface, shining even more vividly when they dive back in. If Finneon jump into a boat by accident, fishermen toss it back to avoid bad luck.</p>\n"
+      "blurb": "<p>Finneon love jumping, despite the danger of Wingull. Their pink stripes soak up surface sunlight to shine even more vividly. If Finneon jumps into a boat by accident, toss it back to avoid bad luck.</p>\n"
     },
     {
       "name": "Lumineon",
@@ -86230,7 +86297,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Every year, Lumineon gather in the hundreds off a certain beach for reasons unknown. Their glowing fins are so numerous it’s said you can’t tell the stars from the sea. Locals hold a Star Ocean festival on the sands nearby, and it’s said to be a perfect night for romance.</p>\n"
+      "blurb": "<p>Every year, hundreds of Lumineon gather off a certain beach for reasons unknown. It’s said their glowing fins are so numerous you can’t tell the stars from the sea. A Star Ocean festival is held nearby, said to be a perfect night for romance.</p>\n"
     }
   ],
   "snover": [
@@ -86740,7 +86807,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Rotom’s electronic possession has been harnessed as a CPU for many modern inventions. They don’t mind helping Trainers out in exchange for the new form, but Rotom can get bored of the device and leave it empty.<br>Pokéfeature: Rotom can change forms by possessing machines. Rotom’s forms have separate Types, Level-up Moves, and Level 5 Abilities.</p>\n"
+      "blurb": "<p>Rotom’s electronic possession is harnessed as a CPU for many modern inventions. They don’t mind helping out in exchange for the new form, but Rotom can get bored of the device and leave it empty.<br>Pokéfeature: Rotom can change forms by possessing machines. Rotom’s forms have separate Types, Level-up Moves, and Level 5 Abilities.</p>\n"
     },
     {
       "name": "Rotom (Heat)",
@@ -87896,7 +87963,7 @@
           "Thunderbolt"
         ]
       },
-      "blurb": "<p>Dialga’s timeline is inconsistent, appearing out of sync with the world it lives in. In its loneliness, it lashes out at any creature it sees. If a person touches the diamond on Dialga’s chest, they can see the rest of their life laid out all at once.</p>\n"
+      "blurb": "<p>Dialga’s timeline is inconsistent, appearing out of sync with history. In its loneliness, it lashes out at anyone it sees. If you touch the diamond on Dialga’s chest, you can see the rest of their life all at once.</p>\n"
     },
     {
       "name": "Dialga (Origin)",
@@ -88163,7 +88230,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Palkia moves in multiple directions at once before making a decision, and it resents being forced into a spatial dimension where this is abnormal. It is said that the pearls on Palkia’s shoulders are mirrors into other worlds.</p>\n"
+      "blurb": "<p>Palkia moves in multiple directions at once before making a decision, and it resents being forced into a spatial dimension where this is abnormal. It is said that the pearls on Palkia’s shoulders are mirrors to other worlds.</p>\n"
     },
     {
       "name": "Palkia (Origin)",
@@ -88423,7 +88490,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Superstition says that if you stand at a crossroads during a stormy night, Giratina will appear. The only way to escape being taken away to the Distortion World is to count Giratina’s legs, forcing them to grow.</p>\n"
+      "blurb": "<p>Superstition says that if you stand at a crossroads during a stormy night, Giratina appears. The only way to escape being taken away to the Distortion World is to count Giratina’s legs, forcing them to grow.</p>\n"
     },
     {
       "name": "Giratina (Origin)",
@@ -88724,7 +88791,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Heatran do not live in volcanoes, but under them. What they feed on is unknown, as no other species can stand Heatran’s natural environment. When volcanic pressure is high, they’re pushed up to the surface of craters.</p>\n"
+      "blurb": "<p>Heatran do not live in volcanoes, but under them. What they eat is unknown, as no other species can stand Heatran’s natural environment. High volcanic pressure pushes them up to the crater surface.</p>\n"
     }
   ],
   "cresselia": [
@@ -89826,7 +89893,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>When the Azure Flute plays, Arceus must appear. Its thousand arms litter the Earth, shattered when it protected us from those beyond. Those who approach Arceus without humility in their heart cannot stand in its presence.</p>\n"
+      "blurb": "<p>When the Azure Flute plays, Arceus must appear. Its thousand arms litter the Earth, shattered protecting us from those beyond. Those who approach Arceus without humility in their heart cannot stand in its presence.</p>\n"
     }
   ],
   "victini": [
@@ -89999,7 +90066,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Victini’s favor is fickle, and ancient armies on both sides of war would clamor for its energy. Only those who give appreciation towards Victini’s power can ever hope to see it again.</p>\n"
+      "blurb": "<p>Victini’s favor is fickle, and ancient armies on both sides of war clamored for its energy. Only those who give appreciation towards Victini’s power can hope to see it again.</p>\n"
     }
   ],
   "snivy": [
@@ -90141,7 +90208,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Snivy starts life in the trees. It uses its small arms and legs to hop between branches, not long enough yet to wrap its body around them. It hides amongst leafage, and many walk right past it without noticing. To tell if a Snivy is in your tree, bow to the branches.</p>\n"
+      "blurb": "<p>Snivy starts life in the trees. It uses its small arms and legs to hop between branches, not long enough yet to wrap its body around them. It hides amongst leafage, and many walk past without noticing. To tell if a Snivy is in your tree, bow to the branches.</p>\n"
     },
     {
       "name": "Servine",
@@ -90438,7 +90505,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Ancient texts describe Serperior as the ruler of wild areas, never allowing warriors through its home. To travel through Serperior territory without conflict, bring a Pokémon that can perform Sunny Day as tribute.</p>\n"
+      "blurb": "<p>Ancient texts describe Serperior as the ruler of wild areas, never allowing warriors through. To travel through Serperior territory without conflict, bring a Pokémon that can perform Sunny Day as tribute.</p>\n"
     }
   ],
   "tepig": [
@@ -90599,7 +90666,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Chefs used to cook their food with Tepig’s help, but it has imperfect control over its temperature. Modern conventional ovens are better for restaurant-quality meals. Tepig is still popular to cook for festivals and holidays, giving a more ‘natural’ taste.</p>\n"
+      "blurb": "<p>Chefs once cooked their food with Tepig’s help, but it has imperfect temperature control. Modern conventional ovens are better at restaurant-quality meals. Tepig cooks are still popular for festivals and holidays, with a more ‘natural’ taste.</p>\n"
     },
     {
       "name": "Pignite",
@@ -90766,7 +90833,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Pignite grazes in drought-stricken grasslands, picking and roasting dry berries. Nobody’s sure how Pignite determines when an area is going to stop getting rain, but farmers grow nervous when it appears.</p>\n"
+      "blurb": "<p>Pignite grazes in drought-stricken grasslands. Nobody’s sure how Pignite determines when an area will stop getting rain, but farmers grow nervous when it appears.</p>\n"
     },
     {
       "name": "Emboar",
@@ -90938,7 +91005,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Emboar is strong but lazy. If not fed properly, it refuses to battle with full strength. The exception seems to be when it meets Infernape, where Emboar suddenly does everything with maximum firepower. The two don’t live in the same habitats, so Pokéologists are unsure why.</p>\n"
+      "blurb": "<p>Emboar is strong but lazy. If not fed properly, it refuses to battle with full strength — except against Infernape, where Emboar suddenly does everything with maximum firepower. The two don’t share habitats, so Pokéologists are unsure why.</p>\n"
     }
   ],
   "oshawott": [
@@ -91369,6 +91436,7 @@
           "Round",
           "Scald",
           "Screech",
+          "Shell Smash",
           "Sleep Talk",
           "Smart Strike",
           "Snore",
@@ -91385,7 +91453,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Samurott needs a home to protect, and when it settles down will not retreat no matter the circumstances. Historians sometimes find Samurott guarding fortresses that have been abandoned for generations.</p>\n"
+      "blurb": "<p>Samurott needs a home to protect, and when it settles down will not retreat no matter what. Historians sometimes find Samurott guarding fortresses that have been abandoned for generations.</p>\n"
     },
     {
       "name": "Hisuian Samurott",
@@ -91490,7 +91558,13 @@
           "17": [
             "Sucker Punch"
           ]
-        }
+        },
+        "tutor": [
+          "Shell Smash",
+          "Sleep Talk",
+          "Smart Strike",
+          "Snore"
+        ]
       }
     }
   ],
@@ -91650,7 +91724,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Patrat are skittish and paranoid, but extremely easy to capture regardless. Most Patrat confuse Poké Balls for berries and grab the ball of their own accord. Parents who haven’t taught their children how to throw often end up with a Patrat running around the house.</p>\n"
+      "blurb": "<p>Patrat are skittish and paranoid, but easy to capture regardless. Most Patrat confuse Poké Balls for berries and grab the ball of their own accord. Parents who haven’t taught their children how to throw often end up with a Patrat around the house.</p>\n"
     },
     {
       "name": "Watchog",
@@ -91817,7 +91891,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Watchog’s glowing body and eyes fluctuate wildly when it senses a threat. This confuses enemies so badly they nearly vomit, but Watchog’s Trainer often suffers the same fate.</p>\n"
+      "blurb": "<p>Watchog’s glowing body and eyes fluctuate wildly when it senses a threat. This confuses enemies so badly they nearly vomit, but Watchog Trainers often suffer the same fate.</p>\n"
     }
   ],
   "lillipup": [
@@ -91958,7 +92032,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Lillipup is even more popular than Growlithe in areas where both naturally occur. Lillipup deals with strangers easier and can’t put scorch marks on the couch, even if it isn’t as powerful and won’t scare away strong Pokémon in the yard.</p>\n"
+      "blurb": "<p>Lillipup is even more popular than Growlithe in areas where both naturally occur. Lillipup handles strangers better and can’t put scorch marks on the couch, even if it isn’t as powerful and can’t scare away strong Pokémon in the yard.</p>\n"
     },
     {
       "name": "Herdier",
@@ -94093,7 +94167,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>When Pidove evolve into Tranquill, they leave the city. Magnetic sensors in their beak find suitable nesting places in forests, and they hide until they evolve again. Magnemite and Probopass mess with its ability to return home.</p>\n"
+      "blurb": "<p>Pidove leave cities after evolving into Tranquill. They compete to find suitable nesting places in forests, and they hide until evolving again. Magnemite and Probopass mess with their internal compass’s ability to return home.</p>\n"
     },
     {
       "name": "Unfezant",
@@ -96125,7 +96199,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Gurdurr’s instincts make it so good at construction that historians think it was bred by ancient human workers. If it thinks the steel beam it carries isn’t big enough, it steals another from a work site.</p>\n"
+      "blurb": "<p>Gurdurr’s instincts make it so good at construction that historians think it was bred by ancient human workers. If it thinks the steel beam it carries is too small, it steals another from a work site.</p>\n"
     },
     {
       "name": "Conkeldurr",
@@ -96289,7 +96363,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Conkeldurr is confident in its strength and only picks up its concrete pillars when it’s time to work. During mornings you can hear Conkeldurr barking orders to Timburr and Gurdurr, but it certainly sounds proud of them.</p>\n"
+      "blurb": "<p>Conkeldurr is confident in its strength, only picking up its concrete pillars when it’s time to work. At morning you can hear Conkeldurr barking orders to Timburr and Gurdurr, but it sounds proud of them.</p>\n"
     }
   ],
   "tympole": [
@@ -96435,7 +96509,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>Even though humans can’t hear Tympole’s sound waves, the vibrations can still be felt. Dancers report better rhythm if a Tympole is croaking in the room, and sometimes Tympole Trainers feel an inexplicable urge to tap their feet.</p>\n"
+      "blurb": "<p>While humans can’t hear Tympole’s sound waves, the vibrations can be felt. Dancers report better rhythm if a Tympole is croaking in the room, and Tympole Trainers may feel an inexplicable urge to tap their feet.</p>\n"
     },
     {
       "name": "Palpitoad",
@@ -96587,7 +96661,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>When Palpitoad shakes the ground, it can unearth Stunfisk hiding nearby. Stunfisk can’t do anything about this, so some Palpitoad turn it into a game. If a route is covered in mad Stunfisk, you have Palpitoad to thank.</p>\n"
+      "blurb": "<p>When Palpitoad shakes the ground, it can unearth Stunfisk hiding nearby. Stunfisk can’t do anything about it, so some Palpitoad turn it into a game. If a route is covered in angry Stunfisk, thank Palpitoad.</p>\n"
     },
     {
       "name": "Seismitoad",
@@ -96750,7 +96824,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>Seismitoad can swim but prefers land in areas with high rainfall. They use vibrations to force fish Pokémon out shallow water for easy prey. Their forehead venom curiously only paralyzes humans, making Pokéologists wonder about its purpose.</p>\n"
+      "blurb": "<p>Seismitoad can swim but prefers land with high rainfall. They use vibrations to force prey fish Pokémon out shallow water. Their forehead venom curiously only paralyzes humans, making Pokéologists wonder about its purpose.</p>\n"
     }
   ],
   "throh": [
@@ -98109,7 +98183,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Cottonee bunch up together for warmth in high cold winds, but also to offer each other better control over where they drift. It is one of the 10 species that do not get penalized for a ring out if it’s caused by a natural breeze.</p>\n"
+      "blurb": "<p>Cottonee bunch together for warmth in cold wind, but also to offer each other better control over where they drift. It is one of the 10 species that aren’t penalized for ring outs caused by natural breezes.</p>\n"
     },
     {
       "name": "Whimsicott",
@@ -98261,7 +98335,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Trainers who put Whimsicott through many battles can spend hours cleaning up all the debris stuck in its cotton. If Whimsicott gets too burdened by the mess, it will take off its cotton entirely and wait to regrow. This leaves it defenseless, so it would prefer to just be groomed.</p>\n"
+      "blurb": "<p>Trainers who put Whimsicott through many battles can spend hours cleaning up the debris stuck in its cotton. If Whimsicott gets too burdened by the mess, it will take off its cotton entirely and wait to regrow. This leaves it defenseless, so it would prefer to just be groomed.</p>\n"
     }
   ],
   "petilil": [
@@ -110536,7 +110610,7 @@
             "Bounce"
           ],
           "10": [
-            "Muddy Water"
+            "Iron Head"
           ],
           "11": [
             "Sucker Punch"
@@ -110579,6 +110653,7 @@
           "Iron Defense",
           "Lash Out",
           "Misty Explosion",
+          "Muddy Water",
           "Pain Split",
           "Payback",
           "Protect",
@@ -120230,7 +120305,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Pangoro is rough for adults, but practically passive around children. Pangoro owned by older siblings are often found into games of house, piano recitals, and are overwhelmingly nicknamed “Mrs. Nesbit”. They appreciate the attention.</p>\n"
+      "blurb": "<p>Pangoro is rough to adults, but practically passive around children. Pangoro owned by older siblings are often found into games of house, piano recitals, and are overwhelmingly nicknamed “Mrs. Nesbit”. They appreciate the attention.</p>\n"
     }
   ],
   "furfrou": [
@@ -120360,7 +120435,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Furfrou is the Kalos icon, especially after Lysandre soured Pyroar’s popularity. In the wild, they use their sharp claws to cut their own fur. The results aren’t particularly stylish, so they jump at the chance for a groomer to beautify them.<br>Pokéfeature: When Furfrou gets a haircut, its Level 5 Ability and the move False Surrender changes based on its haircut. Haircuts can be given during Long Rests (or by a Stylist any time outside of combat).</p>\n<ul>\n<li>Untrimmed: False Surrender, Tangling Hair</li>\n<li>Heart: Heart Swap, Soul-Heart</li>\n<li>Star: Water Shuriken, Victory Star</li>\n<li>Diamond: Power Gem, Prism Armor</li>\n<li>Pharaoh: Hex, Cursed Body</li>\n<li>Kabuki: Role Play, Dancer</li>\n<li>Matron: Teatime, Friend Guard</li>\n<li>Dandy: After You, Rivalry</li>\n<li>La Reine: Trop Kick, Queenly Majesty</li>\n<li>Debutante: Follow Me, Enthrall<br>(The GM and players are encouraged to collaborate to create more.)</li>\n</ul>\n"
+      "blurb": "<p>Furfrou is the icon of Kalos, especially after Lysandre soured Pyroar’s popularity. In the wild, they use their sharp claws to cut their own fur. The results aren’t very stylish, so they jump at the chance for a groomer to beautify them.<br>Pokéfeature: When Furfrou gets a haircut, its Level 5 Ability and the move False Surrender changes based on its haircut. Haircuts can be given during Long Rests (or by a Stylist any time outside of combat).</p>\n<ul>\n<li>Untrimmed: False Surrender, Tangling Hair</li>\n<li>Heart: Heart Swap, Soul-Heart</li>\n<li>Star: Water Shuriken, Victory Star</li>\n<li>Diamond: Power Gem, Prism Armor</li>\n<li>Pharaoh: Hex, Cursed Body</li>\n<li>Kabuki: Role Play, Dancer</li>\n<li>Matron: Teatime, Friend Guard</li>\n<li>Dandy: After You, Rivalry</li>\n<li>La Reine: Trop Kick, Queenly Majesty</li>\n<li>Debutante: Follow Me, Enthrall<br>(The GM and players are encouraged to collaborate to create more.)</li>\n</ul>\n"
     }
   ],
   "espurr": [
@@ -120561,7 +120636,64 @@
         "by": "Level 5",
         "from": "Espurr"
       },
-      "moves": {}
+      "moves": {
+        "form": [
+          "Imprison"
+        ],
+        "starting": [
+          "Scratch",
+          "Leer",
+          "Fake Out",
+          "Disarming Voice"
+        ],
+        "levelUp": {
+          "2": [
+            "Helping Hand"
+          ],
+          "3": [
+            "Confusion"
+          ],
+          "4": [
+            "Covet"
+          ],
+          "5": false,
+          "6": [
+            "Psybeam"
+          ],
+          "7": [
+            "Sucker Punch"
+          ],
+          "8": [
+            "Quick Guard"
+          ],
+          "9": [
+            "Light Screen",
+            "Reflect"
+          ],
+          "10": [
+            "Psychic"
+          ],
+          "11": [
+            "Role Play"
+          ],
+          "12": [
+            "Thunder Wave"
+          ],
+          "13": [
+            "Psychic Terrain"
+          ],
+          "14": [
+            "Assist"
+          ],
+          "15": [
+            "Dazzling Gleam"
+          ],
+          "16": [
+            "Copycat"
+          ]
+        }
+      },
+      "blurb": "<p>Male Meowstic stay with the colony and protect it from intruders by putting up psychic walls and giving off illusions that there’s nobody home. If left alone at home, they’re usually well-behaved, but panic when they hear the mailman.</p>\n"
     },
     {
       "name": "Meowstic (♀)",
@@ -120612,7 +120744,64 @@
         "by": "Level 5",
         "from": "Espurr"
       },
-      "moves": {}
+      "moves": {
+        "form": [
+          "Extrasensory"
+        ],
+        "starting": [
+          "Scratch",
+          "Leer",
+          "Fake Out",
+          "Disarming Voice"
+        ],
+        "levelUp": {
+          "2": [
+            "Stored Power"
+          ],
+          "3": [
+            "Confusion"
+          ],
+          "4": [
+            "Covet"
+          ],
+          "5": false,
+          "6": [
+            "Psybeam"
+          ],
+          "7": [
+            "Sucker Punch"
+          ],
+          "8": [
+            "Shadow Ball"
+          ],
+          "9": [
+            "Light Screen",
+            "Reflect"
+          ],
+          "10": [
+            "Psychic"
+          ],
+          "11": [
+            "Role Play"
+          ],
+          "12": [
+            "Charge Beam"
+          ],
+          "13": [
+            "Future Sight"
+          ],
+          "14": [
+            "Assist"
+          ],
+          "15": [
+            "Dazzling Gleam"
+          ],
+          "16": [
+            "Stored Power"
+          ]
+        }
+      },
+      "blurb": "<p>Female Meowstic are the ones that hunt, using psychic energies to bring back prey thrice their size. They need a big space to run around in, or they get restless and claw up furniture before tossing it into walls.</p>\n"
     }
   ],
   "honedge": [
@@ -128911,7 +129100,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Rowlet’s popularity as a non-battling pet has led to special furniture to accommodate it for a typical home. Rowlet beds are nailed to many household walls, and handbags with “Rowlet pockets” appear in every major Alolan city. #Rowletizing is a popular hastag on social media.</p>\n"
+      "blurb": "<p>Rowlet’s popularity as a non-battling pet has led to special furniture to accommodate it for a typical home. Rowlet beds are nailed to many walls, and handbags with “Rowlet pockets” appear in every major Alolan city. #Rowletizing is a popular hastag on social media.</p>\n"
     },
     {
       "name": "Dartrix",
@@ -130982,7 +131171,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Police frequently team with Gumshoos to stake out criminal hideouts. Gumshoos watches for suspicious activity during the day, and the policeperson watches during the night. Rookie Gumshoos tend to run into danger without waking their partner first.</p>\n"
+      "blurb": "<p>Police frequently team with Gumshoos to stake out criminal hideouts. Gumshoos watches for suspicious activity during the day, and the officer watches during the night. Rookie Gumshoos tend to run into danger without waking their partner first.</p>\n"
     }
   ],
   "grubbin": [
@@ -131548,7 +131737,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>All the hard materials Crabrawler eats goes into its mighty pincers. This leaves the rest of its shell soft and vulnerable, so it’s weak to flanks. Crabrawler who get into boxing matches constantly strafe around each other, trying to find an opening.</p>\n"
+      "blurb": "<p>The hard materials Crabrawler eats go into its mighty pincers. This leaves the rest of its shell soft and vulnerable, so it’s weak to flanks. Crabrawler who get into boxing matches constantly strafe around each other, searching for an opening.</p>\n"
     },
     {
       "name": "Crabominable",
@@ -131704,7 +131893,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Crabominable keeps training in the mountains, punching the ground as it walks to make its pincers tougher. Even today, people think the prints left by these training sessions are really evidence of a gigantic monster walking through the snow.</p>\n"
+      "blurb": "<p>Crabominable trains in the mountains, punching the ground as it walks to make its pincers tougher. Even today, some think the prints left by these training sessions are from a gigantic monster walking through the snow.</p>\n"
     }
   ],
   "oricorio": [
@@ -132838,7 +133027,7 @@
         "from": "Rockruff"
       },
       "moves": {},
-      "blurb": "<p>The Criminal Trade System pays out the nose for Dusk Lycanroc. Rich Trainers use it as a way to showcase their wealth, but they rarely battle with it. This only makes Lycanroc more explosive when it does finally get to fight.</p>\n"
+      "blurb": "<p>The Criminal Trade System pays out the nose for Dusk Lycanroc. Rich Trainers use it as a way to showcase their wealth, but rarely battle with it. This only makes Lycanroc more explosive when it does finally get to fight.</p>\n"
     }
   ],
   "wishiwashi": [
@@ -135555,7 +135744,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Tsareena’s hard sepals cover its back entirely, so surprise attacks are impossible. It viciously kicks anything that dares to attack Bounsweet or Steenee in its presence, but expects absolute loyalty in return.</p>\n"
+      "blurb": "<p>Tsareena’s hard sepals cover its entire back to thwart surprise attacks. It viciously kicks whatever dares to attack Bounsweet or Steenee in its presence, but expects absolute loyalty in return.</p>\n"
     }
   ],
   "comfey": [
@@ -137041,7 +137230,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Aether Foundation’s claim that there were only three Silvally created has been investigated after multiple ten-year-olds registered the Pokémon under their ownership. Its memory drives are popular on the black market, driving further suspicion.</p>\n"
+      "blurb": "<p>Aether Foundation’s claim that they created only three Silvally has been investigated after multiple ten-year-olds registered the Pokémon under their ownership. Its memory drives are popular on the black market, driving further suspicion.</p>\n"
     }
   ],
   "minior": [
@@ -143199,7 +143388,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>The grass that makes up Rillaboom’s hair also acts as a perfect place for maple and hickory seeds to sprout. If Rillaboom’s drum is somehow destroyed, it will grow a new drum in its hair before the week is up.</p>\n"
+      "blurb": "<p>The grass that makes up Rillaboom’s hair also acts as a perfect bed for maple and hickory seeds. If Rillaboom’s drum is destroyed, it will grow a new drum in its hair in a week.</p>\n"
     }
   ],
   "scorbunny": [
@@ -143347,7 +143536,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Scorbunny is always on the move, and even prone to kicking around while dreaming. It never lives in one place long, as it burns away the grass it needs to eat whenever it runs. Always give your Scorbunny an outlet for its excess energy, or it’ll take it out on your belongings.</p>\n"
+      "blurb": "<p>Scorbunny is always on the move, prone to kicking around while dreaming. It never lives in one place lfor ong, as it burns away the grass it needs to eat when it runs. Give your Scorbunny an outlet for its excess energy, or it’ll take it out on your belongings.</p>\n"
     },
     {
       "name": "Raboot",
@@ -143811,7 +144000,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Sobble’s limbs evolved for grasping onto seaweed stalks. It can hide underwater on a seaweed’s side for hours, only making itself visible when it’s alone. Anything that disturbs the seaweed gets a nasty ambush.</p>\n"
+      "blurb": "<p>Sobble’s limbs evolved to grasp onto seaweed stalks. It can hide underwater on a seaweed’s side for hours, only becoming visible when alone. Anything that disturbs the seaweed gets a nasty ambush.</p>\n"
     },
     {
       "name": "Drizzile",
@@ -143970,7 +144159,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Drizzile prefers freshwater lakes for a habitat, so it moves inland. If it finds a lake that Frogadier already lives in, the two scheme endlessly to drive each other out. Other Pokémon living nearby deal with the consequences.</p>\n"
+      "blurb": "<p>Drizzile prefers freshwater lake habitats, so it moves inland. If it finds a lake that Frogadier already lives in, the two scheme endlessly to drive each other out. Other nearby Pokémon deal with the consequences.</p>\n"
     },
     {
       "name": "Inteleon",
@@ -144273,7 +144462,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>Children in Galar aren’t allowed to climb berry trees without a Pokémon companion because of Skwovet; it interprets anything as a threat towards its stash. Skwovet can hoard berries from over a dozen different trees, and you can even find missing school lunches up there.</p>\n"
+      "blurb": "<p>Children in Galar are forbidden to climb berry trees without a Pokémon companion because of Skwovet; it interprets anything as a threat to its stash. Skwovet can hoard berries from over a dozen different trees, and you may even find missing school lunches up there.</p>\n"
     },
     {
       "name": "Greedent",
@@ -144697,7 +144886,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Corvisquire is an incredibly social bird that can remember faces and teach them to others. Trainers who abuse Rookidee in one route can find themselves harassed by Corvisquire throughout the entire region if there’s enough witnesses.</p>\n"
+      "blurb": "<p>Corvisquire is an incredibly social bird that can remember faces and teach them to others. Trainers who abuse Rookidee in one route can find themselves harassed by Corvisquire across the entire region if there’s enough witnesses.</p>\n"
     },
     {
       "name": "Corviknight",
@@ -146420,7 +146609,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Drednaw don’t appreciate complicated tactics or fancy techniques. If they can’t bite or smash a foe to bits, they try again over and over. Only dedicated Trainers can bring out a Drednaw’s full potential, but then it becomes practically unstoppable.</p>\n"
+      "blurb": "<p>Drednaw don’t appreciate complicated tactics or fancy techniques. If they can’t bite or smash a foe to bits, they try again over and over. Only dedicated Trainers can bring out Drednaw’s full potential, where it becomes practically unstoppable.</p>\n"
     }
   ],
   "yamper": [
@@ -146558,7 +146747,7 @@
           "Volt Tackle"
         ]
       },
-      "blurb": "<p>Yamper’s prancing-generated electricity massages its short leg muscles, letting it run further. This feedback loop sometimes keeps Yamper moving for hours, chasing Flying Taxis. Frustrated Trainers across the region end up calling the Lost &amp; Found in Motostoke.</p>\n"
+      "blurb": "<p>Yamper’s prance-generated electricity massages its short leg muscles, letting it run further. This feedback loop sometimes keeps Yamper moving for hours, chasing Flying Taxis. Frustrated Trainers across the region end up calling the Lost &amp; Found in Motostoke.</p>\n"
     },
     {
       "name": "Boltund",
@@ -148380,7 +148569,7 @@
           "Substitute"
         ]
       },
-      "blurb": "<p>The rumors you heard in middle school are false. All licking a Toxel will get you is a trip to the hospital and a weeklong stomachache.</p>\n"
+      "blurb": "<p>The rumors you heard in middle school are false: licking a Toxel will only get you a trip to the hospital and a weeklong stomachache.</p>\n"
     },
     {
       "name": "Toxtricity",
