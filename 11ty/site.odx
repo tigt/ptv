@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>PTV</ShortName>
+<Description>Search Pokémon: Tabletop Version</Description>
+<Url type="text/html" template="https://www.google.com/search?q={searchTerms}+site:code.ti.gt/ptv/"/>
+<Url rel="self" type="application/opensearchdescription+xml" template="https://code.ti.gt/ptv/site.odx"/>
+<Image height="16" width="16" type="image/x-icon">https://code.ti.gt/favicon.ico</Image>
+<Language>en</Language>
+</OpenSearchDescription>

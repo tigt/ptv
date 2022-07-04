@@ -6,8 +6,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#b02a32">
-<meta name="robots" content="none">
+{{#if robots}}<meta name="robots" content="{{robots}}">{{/if}}
 <title>{{#if title}}{{title}} · {{/if}}Pokémon: Tabletop Version</title>
+<link rel="search" type="application/opensearchdescription+xml" title="PTV" href="/ptv/site.odx">
 <style>
   *, ::before, ::after { box-sizing: border-box }
   html {
@@ -94,10 +95,10 @@
       autocapitalize="off"
       size="14"
       pattern=".*?\S.*" title="Search for one or more terms"
-      disabled="" {{! replace with required="" when ready }}
+      required=""
     ><input type="hidden" name="q" value="site:code.ti.gt/ptv/"><!--
 
-    --><button disabled="">Search</button>
+    --><button>Search</button>
   </form>
 </header>
 
