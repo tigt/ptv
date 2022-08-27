@@ -84,7 +84,7 @@
     "pp": 0,
     "accuracy": "Can’t miss",
     "range": "Contact",
-    "description": "<p>A turning swallow cut so precise it even cuts the air.</p>\n",
+    "description": "<p>Slices twice so precise to cut the air <a href=\"https://en.wikipedia.org/wiki/Sasaki_Kojirō#Swallow_cut\">like a swallowtail in flight</a>.</p>\n",
     "zEffect": "Supersonic Skystrike — 36 Power",
     "maxPower": 110,
     "name": "Aerial Ace"
@@ -2707,7 +2707,7 @@
     "type": "Flying",
     "kind": "Physical",
     "power": 12,
-    "pp": 1,
+    "pp": 0,
     "accuracy": 2,
     "range": "Contact",
     "description": "<p>First turn: The user ascends into the air. Next turn: The user dives towards the target and attacks.</p>\n<p>The user can soar tirelessly through the sky.</p>\n",
@@ -5571,7 +5571,7 @@
     "pp": 2,
     "accuracy": "Can’t miss",
     "range": "Self",
-    "description": "<p>The user’s Boosts/Drops change to match the target’s Boosts/Drops with the power of self-hypnosis.</p>\n",
+    "description": "<p>The user’s Boosts/Drops change to match the target’s with the power of self-hypnosis.</p>\n",
     "zEffect": "Fully restore the user's HP.",
     "name": "Psych Up"
   },
@@ -6437,7 +6437,7 @@
     "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Critical hit on 18+. A wicked blade of air is formed using a shadowy aura. </p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 66 Power",
     "name": "Shadow Blast"
   },
   {
@@ -6448,7 +6448,7 @@
     "accuracy": 1,
     "range": "Contact",
     "description": "<p>A Pokémon throws this tackle while casting a shadowy aura. </p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 28 Power",
     "name": "Shadow Blitz"
   },
   {
@@ -6459,7 +6459,7 @@
     "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Paralyzes on 18+. A shadowy thunder attack.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 64 Power",
     "name": "Shadow Bolt"
   },
   {
@@ -6482,7 +6482,7 @@
     "accuracy": 1,
     "range": "Contact",
     "description": "<p>A shattering ram attack with a shadowy aura. </p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 64 Power",
     "name": "Shadow Break"
   },
   {
@@ -6493,7 +6493,7 @@
     "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Freezes on 18+. A shadowy ice attack.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 64 Power",
     "name": "Shadow Chill"
   },
   {
@@ -6526,7 +6526,7 @@
     "accuracy": 9,
     "range": "Contact",
     "description": "<p>A shadowy ram attack that cuts the user’s current HP by ½ if it hits.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 68 Power",
     "name": "Shadow End"
   },
   {
@@ -6537,7 +6537,7 @@
     "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Burns on 18+. A shadowy fireball attack.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 64 Power",
     "name": "Shadow Fire"
   },
   {
@@ -6611,8 +6611,8 @@
     "pp": 0,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>A shadowy aura in the ground launches spikes through foes. </p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "description": "<p>A shadowy aura in the ground launches spikes through foes. If there is only one target, gets +16 Power.</p>\n",
+    "zEffect": "Soulless Fighting Machine — 62 Power",
     "name": "Shadow Rave"
   },
   {
@@ -6623,7 +6623,7 @@
     "accuracy": 1,
     "range": "Contact",
     "description": "<p>Recoil 1 Tick. Ignores Type; always 1× Effectiveness. Enters Hyper Mode instead of attacking on a roll of 13+. If in Hyper Mode, critical hit on 3+.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 68 Power",
     "name": "Shadow Rush"
   },
   {
@@ -6666,7 +6666,7 @@
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
     "description": "<p>A shadowy aura whips up a vicious tornado.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "zEffect": "Soulless Fighting Machine — 68 Power",
     "name": "Shadow Storm"
   },
   {
@@ -6676,8 +6676,8 @@
     "pp": 0,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>Shadowy aura waves are loosed to inflict damage.</p>\n",
-    "zEffect": "Soulless Fighting Machine — ",
+    "description": "<p>Shadowy aura waves are loosed to inflict damage. If there is only one target, gets +8 Power.</p>\n",
+    "zEffect": "Soulless Fighting Machine — 44 Power",
     "name": "Shadow Wave"
   },
   {
@@ -7170,7 +7170,7 @@
     "pp": 4,
     "accuracy": 3,
     "range": "Ranged",
-    "description": "<p>Critical Hit on 18+. Rips the fabric of spacetime, and the target.</p>\n",
+    "description": "<p>Critical Hit on 18+. Rips the fabric of spacetime and also the target.</p>\n",
     "zEffect": "Devastating Drake — 60 Power",
     "maxPower": 130,
     "name": "Spacial Rend"
@@ -7479,7 +7479,7 @@
     "pp": 3,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>If the user’s previous Move failed, missed, was stopped by a status problem, or had no effect on its target(s), Stomping Tantrum does +10 damage. (No buff if the targets Protected themselves.)</p>\n",
+    "description": "<p>If the user’s previous Move failed, missed, was stopped by a status problem, or had no effect on its target(s), Stomping Tantrum gets +10 Power. (No buff if the targets Protected themselves.)</p>\n",
     "zEffect": "Tectonic Rage — 52 Power",
     "maxPower": 130,
     "name": "Stomping Tantrum"
@@ -8352,7 +8352,7 @@
     "pp": 3,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>If this move deals damage, the user then switches out, even if Trapped. A momentum shift like a darting dragonfly.</p>\n",
+    "description": "<p>If this move deals damage, the user then switches out, even if Trapped. A momentum-shifting aerial somersault like a darting dragonfly.</p>\n",
     "zEffect": "Savage Spin-Out — 44 Power",
     "maxPower": 120,
     "name": "U-Turn"

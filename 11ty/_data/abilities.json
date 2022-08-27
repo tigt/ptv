@@ -71,7 +71,7 @@
   },
   {
     "name": "Battery",
-    "description": "<p>The user’s Allies in Zone get +10 damage to their Special Moves.</p>\n"
+    "description": "<p>The user’s Allies in Zone get +5 damage to their Special Moves.</p>\n"
   },
   {
     "name": "Battle Armor",
@@ -432,7 +432,7 @@
   },
   {
     "name": "Gulp Missile",
-    "description": "<p>After using Surf or Dive, the user holds Arrokuda in its mouth, or Pikachu if their HP is below 5 Ticks. Attackers damaging the user make it spit out the Pokémon (even if KO’d): the attacker loses 3 Ticks, and Arrokuda Drops DEF by -5 / Pikachu inflicts Paralysis.</p>\n"
+    "description": "<p>After using Surf or Dive, Cramorant holds Arrokuda in its mouth, or Pikachu if its HP is below 5 Ticks. Attackers damaging Cramorant make it spit out the Pokémon (even if KO’d): the attacker loses 3 Ticks, and Arrokuda Drops DEF by -5 / Pikachu inflicts Paralysis.</p>\n"
   },
   {
     "name": "Guts",
@@ -465,7 +465,7 @@
   },
   {
     "name": "Honed Edge",
-    "description": "<p>Moves with Crit Rates (critically hit on rolls lower than 20) get +5 damage.</p>\n"
+    "description": "<p>Moves with Crit Rates (i.e. crit on rolls below 20) get +5 damage.</p>\n"
   },
   {
     "name": "Honey Gather",
@@ -482,13 +482,12 @@
   },
   {
     "name": "Hunger Switch",
-    "bonusStats": "+3 DEF,SDEF / +3 ATK,SATK",
-    "description": "<p>The user swaps between Full-Belly Form and Hangry Form between rounds.</p>\n"
+    "bonusStats": "+3 DEF, +3 SDEF/+3 ATK, +3 SATK",
+    "description": "<p>The user swaps between Full-Belly Form and Hangry Form (and this Ability’s Bonus Stats) between rounds.</p>\n"
   },
   {
     "name": "Hustle",
-    "bonusStats": "+4 ATK",
-    "description": "<p>The user’s Physical Moves raise their Accuracy Check by +4 and get +5 damage.</p>\n"
+    "description": "<p>The user’s Physical Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n"
   },
   {
     "name": "Hydration",
@@ -505,7 +504,7 @@
   },
   {
     "name": "Ice Face",
-    "description": "<p>Eiscue’s icy faceguard protects against one Physical Attack, breaking into Noice Face. Creating or switching into Hail immediately restores Ice Face.</p>\n"
+    "description": "<p>Eiscue’s icy faceguard protects against 1 Physical Attack, breaking into Noice Face. Creating or switching into Hail immediately restores Ice Face.</p>\n"
   },
   {
     "name": "Ice Scales",
@@ -648,7 +647,7 @@
   },
   {
     "name": "Loose Cannon",
-    "description": "<p>The user’s Special Moves raise their Accuracy Check by +4 and get +5 damage.</p>\n"
+    "description": "<p>The user’s Special Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n"
   },
   {
     "name": "Lunar Power",
@@ -724,7 +723,7 @@
   },
   {
     "name": "Momentum",
-    "description": "<p>When the user consecutively chooses a damaging Move, that Move gets +2 extra damage each time it succeeds.</p>\n"
+    "description": "<p>Each consecutive turn the user hits with a damaging Move, that move gets +5 damage each future use until it misses, fails, or another Move is used. Max +20.</p>\n"
   },
   {
     "name": "Moody",
@@ -875,7 +874,7 @@
   },
   {
     "name": "Power of Alchemy",
-    "description": "<p>When an ally Faints, the user copies and activates their Starting Ability, except for Wonder Guard, Stance Change, Zen Mode, Multitype, RKS System, Imposter or Flower Gift.</p>\n"
+    "description": "<p>When an ally Faints, the user copies and activates that ally’s Starting Ability, except for Wonder Guard, Stance Change, Zen Mode, Multitype, RKS System, Imposter or Flower Gift.</p>\n"
   },
   {
     "name": "Power Spot",
@@ -960,7 +959,7 @@
   },
   {
     "name": "Receiver",
-    "description": "<p>When an ally faints in battle, the user copies and activates the ally’s Starting Ability, except for Wonder Guard, Stance Change, Zen Mode, Multitype, RKS System, Imposter, or Flower Gift.</p>\n"
+    "description": "<p>When an ally faints in battle, the user copies and activates that ally’s Starting Ability, except for Wonder Guard, Stance Change, Zen Mode, Multitype, RKS System, Imposter, or Flower Gift.</p>\n"
   },
   {
     "name": "Reckless",

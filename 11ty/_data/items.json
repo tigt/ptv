@@ -1022,7 +1022,7 @@
     "name": "Metronome",
     "buy": 4000,
     "sell": 2000,
-    "description": "If the holder hits with a damaging Move consecutively, that move gets +5 damage each use until another Move is used. Rewards rhythm.",
+    "description": "Each consecutive turn the holder hits with a damaging Move, that move gets +5 damage each future use until it misses, fails, or another Move is used. Max +20. Rewards rhythm.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

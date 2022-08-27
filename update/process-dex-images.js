@@ -32,7 +32,10 @@ const path = require('path')
           withoutEnlargement: true
         })
         .blur(0.3) // Some original images have crust like whoah
-        .jpeg({ mozjpeg: true })
+        .jpeg({
+          mozjpeg: true,
+          quality: 85
+        })
         .toFile(pathOut)
         .then(({ width, height }) => [basename, {
           sizes: [width, height],

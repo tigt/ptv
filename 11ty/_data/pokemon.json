@@ -545,7 +545,7 @@
       "weight": 18.7,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -706,7 +706,7 @@
       "weight": 41.9,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -877,7 +877,7 @@
       "weight": 199.5,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -1055,7 +1055,7 @@
       "weight": 243.6,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -1105,7 +1105,7 @@
       "weight": 221.6,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -1723,7 +1723,7 @@
       "height": "1′",
       "weight": 6.4,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -1813,7 +1813,7 @@
       "height": "2′4″",
       "weight": 21.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -1915,7 +1915,7 @@
       "height": "3′7″",
       "weight": 70.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -2064,7 +2064,7 @@
       "height": "1′",
       "weight": 7.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -2158,7 +2158,7 @@
       "height": "2′",
       "weight": 22,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -2260,7 +2260,7 @@
       "height": "3′3″",
       "weight": 65,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -2405,7 +2405,7 @@
       "height": "4′7″",
       "weight": 89.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -2456,7 +2456,7 @@
       "height": "1′",
       "weight": 4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -2591,7 +2591,7 @@
       "height": "3′7″",
       "weight": 66.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -2735,7 +2735,7 @@
       "height": "4′11″",
       "weight": 87.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -2858,7 +2858,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Pidgeot’s glossy, colorful feathers are a common motif for vehicles. They seem vaguely insulted by this, and cars with Pidgeot stripes often find themselves mysteriously covered in branches.</p>\n"
+      "blurb": "<p>Pidgeot’s glossy, colorful feathers are a common motif for vehicles. They seem vaguely insulted by this; cars with Pidgeot striping often find themselves mysteriously covered in branches.</p>\n"
     },
     {
       "name": "Mega Pidgeot",
@@ -2882,7 +2882,7 @@
       "height": "7′3″",
       "weight": 111.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -3580,7 +3580,7 @@
       "height": "1′",
       "weight": 4.4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -3719,7 +3719,7 @@
       "height": "3′11″",
       "weight": 83.8,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -3840,7 +3840,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Fearow swap their youthful tempers for vindictiveness. They nest in tall cliffs other birds can’t reach. While this protects newborn Spearow, the subsequent toppling from such heights explains a lot about Spearow temperament.</p>\n"
+      "blurb": "<p>Fearow swap their youthful tempers for vindictiveness. They nest in tall places others can’t reach. While this protects newborn Spearow, the subsequent toppling from such heights explains a lot about Spearow temperament.</p>\n"
     }
   ],
   "ekans": [
@@ -3866,7 +3866,7 @@
       "weight": 15.2,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -4018,7 +4018,7 @@
       "weight": 143.3,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -4323,7 +4323,7 @@
       "weight": 13.2,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -4482,7 +4482,7 @@
       "weight": 66.1,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -4646,7 +4646,7 @@
       "weight": 46.3,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -6306,7 +6306,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Nidorino are fearsome guards, listening and watching intently, and charging at anything they notice. Pictures of them with their horn stuck inside various objects are very popular on the internet.</p>\n"
+      "blurb": "<p>Nidorino are excellent guards. They listen and watch intently, and charge at anything they notice. Pictures of them with their horn stuck inside various objects are very popular on the internet.</p>\n"
     },
     {
       "name": "Nidoking",
@@ -6494,7 +6494,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Nidoking get banished from their original warrens, as their unchecked strength causes constant cave-ins. Frustrated and aimless, they usually rampage through towns and other Pokémon habitats. TODO THIS IS A BARAGON REFERENCE</p>\n"
+      "blurb": "<p>While tunneling, the notched ears can fold around its horn for face protection, and its orchid-colored spikes help break up earth. Their coloration varies by area — rose-tinted Nidos are particularly notable.</p>\n"
     }
   ],
   "cleffa": [
@@ -6692,7 +6692,7 @@
       "height": "2′",
       "weight": 16.5,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -6855,7 +6855,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>While their wings are incapable of flight, they help steer and ride wind currents as Clefairy bounce along. Their behavior changes with the phases of the moon: new moons cause docile and pleasant Clefairy, while full moons see them at their most mischevious.</p>\n"
+      "blurb": "<p>While their wings are incapable of flight, they help ride wind currents and steer as Clefairy bounce along. Their behavior changes with the phases of the moon: new moons cause docile and pleasant Clefairy, while full moons see them at their most mischevious.</p>\n"
     },
     {
       "name": "Clefable",
@@ -6878,7 +6878,7 @@
       "height": "4′3″",
       "weight": 88.2,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -7193,7 +7193,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Viewed from behind, their tails ripple and sway much like the tongues of a fire. Vulpix den together in the wild as they love warmth, and in captivity can be found under refrigerators, near heating vents, by furnaces, and other heat sources.</p>\n"
+      "blurb": "<p>Viewed from behind, the tails ripple and sway like the tongues of a fire. Vulpix den together in the wild as they love warmth, and in captivity can be found under refrigerators, near heating vents, by furnaces, and other heat sources.</p>\n"
     },
     {
       "name": "Ninetales",
@@ -7857,7 +7857,7 @@
       "height": "1′8″",
       "weight": 12.1,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -8039,7 +8039,7 @@
       "height": "3′3″",
       "weight": 26.5,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -8224,7 +8224,7 @@
       "height": "2′7″",
       "weight": 16.5,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -8371,7 +8371,7 @@
       "height": "5′3″",
       "weight": 121.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -8525,7 +8525,7 @@
       "height": "5′11″",
       "weight": 165.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -8936,7 +8936,7 @@
           "Venoshock"
         ]
       },
-      "blurb": "<p>Research is underway to determine how Gloom’s drool can smell awful and still attract prey. The current theory: other Pokémon seek out the source of the stink after getting fed up with it. They then get stuck in the sticky drool trail, and Gloom finds them by retracing its steps.</p>\n"
+      "blurb": "<p>Research is underway on how Gloom’s drool can smell awful and still attract prey. The current theory: other Pokémon seek out the source of the stink after getting fed up with it, then get stuck in the sticky drool trail, and Gloom finds them by retracing its steps.</p>\n"
     },
     {
       "name": "Vileplume",
@@ -9262,7 +9262,7 @@
       "height": "1′",
       "weight": 11.9,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Plant"
       ],
       "abilities": {
@@ -9394,7 +9394,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Paras colonies plant their tochukaso on each other as a rite of passage. There have been reports of such colonies adopting other subterranean Pokémon and attempting to bestow upon them the same honor, with varying results.</p>\n"
+      "blurb": "<p>Paras colonies plant tochukaso on each other as a rite of passage, and can attempt to bestow the honor on other species with varying results. Paras chase aggressively; perhaps to scare away, or compelled to germinate with prejudice.</p>\n"
     },
     {
       "name": "Parasect",
@@ -9418,7 +9418,7 @@
       "height": "3′3″",
       "weight": 65,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Plant"
       ],
       "abilities": {
@@ -9584,7 +9584,7 @@
       "height": "3′3″",
       "weight": 66.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -9728,7 +9728,7 @@
       "height": "4′11″",
       "weight": 27.6,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -10004,7 +10004,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Although Diglett’s body is weak, its grip strength is unparalleled. Trainers that try to pull Diglett out of the ground have dislocated their shoulders without budging it an inch.</p>\n"
+      "blurb": "<p>Although Diglett’s body is weak, its grip strength is unparalleled. Trying to pull Diglett from the ground will dislocate your shoulders without budging it an inch.</p>\n"
     },
     {
       "name": "Dugtrio",
@@ -13695,7 +13695,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Despite early studies proclaiming Alakazam’s unlimited intelligence, they’re unable to speak or write human languages, don’t really grasp the concept of lying, and can’t seem to recognize themselves in mirrors.</p>\n"
+      "blurb": "<p>Despite Alakazam’s raw intelligence, they can’t speak or write human languages, don’t really grasp the concept of lying, and seem unable to recognize themselves in mirrors.</p>\n"
     },
     {
       "name": "Mega Alakazam",
@@ -14678,7 +14678,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Victreebel hate changing their ambush position, since their movement makes loud sloshing noises. Fleeing Victreebel will dump all of their acid on the ground to lessen their sound and scent, and to increase their speed.</p>\n"
+      "blurb": "<p>Victreebel hate changing their ambush position, since they slosh loudly while moving. Fleeing Victreebel dump all of their acid to lessen their sound and scent and increase their speed.</p>\n"
     }
   ],
   "tentacool": [
@@ -15941,7 +15941,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>If suitable rocks are scarce, Golem will improvise with anything sufficiently magnetic: scrap, unattended machinery, or Steel-Type Pokémon. Alolan locations inhabited by both Golem and the Magnemite family are dangerous indeed.</p>\n"
+      "blurb": "<p>If suitable rocks are scarce, Golem will improvise with anything sufficiently magnetic: scrap, unattended machinery, or Steel-Types. Alolan locations inhabited by both Golem and the Magnemite family are dangerous indeed.</p>\n"
     }
   ],
   "ponyta": [
@@ -18126,7 +18126,7 @@
       "height": "2′7″",
       "weight": 33.1,
       "eggGroups": [
-        "Flying",
+        "Winged",
         "Field"
       ],
       "abilities": {
@@ -18285,7 +18285,7 @@
       "height": "2′7″",
       "weight": 92.6,
       "eggGroups": [
-        "Flying",
+        "Winged",
         "Field"
       ],
       "abilities": {
@@ -18429,7 +18429,7 @@
       "height": "2′7″",
       "weight": 257.9,
       "eggGroups": [
-        "Flying",
+        "Winged",
         "Field"
       ],
       "abilities": {
@@ -18586,7 +18586,7 @@
       "height": "4′7″",
       "weight": 86.4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -18730,7 +18730,7 @@
       "height": "5′11″",
       "weight": 187.8,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -20614,7 +20614,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>Home intrusions by Gengar are common on cold moonless nights. Recent relieving research suggests they are energized by heat, so offerings of plugged-in electric blankets have become a common sight near cemeteries.</p>\n"
+      "blurb": "<p>Gengar home intrusions are common on cold moonless nights. Recent relieving research suggests they are energized by heat, so offerings of plugged-in electric blankets have become common near cemeteries.</p>\n"
     },
     {
       "name": "Mega Gengar",
@@ -21989,7 +21989,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>Many have tried to peacefully harness Electrode’s explosive power. The most effective method is to keep them hungry and low on electricity, but that makes them so cranky that sometimes they explode prematurely.</p>\n"
+      "blurb": "<p>Many try to peacefully harness Electrode’s explosive power. The most effective method is to keep them low on electricity, but that makes them so hungry and cranky that they may explode prematurely.</p>\n"
     },
     {
       "name": "Hisuian Voltorb",
@@ -25404,7 +25404,7 @@
       "height": "3′7″",
       "weight": 76.3,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -25584,7 +25584,7 @@
       "height": "4′11″",
       "weight": 103.2,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -26319,7 +26319,7 @@
       "weight": 17.6,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -26457,7 +26457,7 @@
       "weight": 55.1,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -26604,7 +26604,7 @@
       "weight": 335.1,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -26871,7 +26871,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Goldeens are proud of their horns, and assume anything they attack is dead unless it bites back. Aquariums keep them behind eight inches of shatterproof glass.</p>\n"
+      "blurb": "<p>Goldeen are proud of their horns, and assume anything they attack is dead unless it bites back. Aquariums keep them behind eight inches of anti-ballistic plastic.</p>\n"
     },
     {
       "name": "Seaking",
@@ -27060,7 +27060,7 @@
             "Victory Star"
           ],
           [
-            "Tinted Lens"
+            "Regenerator"
           ],
           [
             "Analytic"
@@ -27205,10 +27205,10 @@
         ],
         "level5": [
           [
-            "Compound Eyes"
+            "Prism Armor"
           ],
           [
-            "Tinted Lens"
+            "Regenerator"
           ],
           [
             "Analytic"
@@ -28063,7 +28063,7 @@
       "height": "4′11″",
       "weight": 123.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -28205,7 +28205,7 @@
       "height": "5′11″",
       "weight": 260.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -28362,7 +28362,7 @@
       "height": "5′11″",
       "weight": 196.2,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -28469,7 +28469,7 @@
       "height": "6′7″",
       "weight": 275.6,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -29475,7 +29475,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Magby has such a high reputation for glassblowing that many shops will advertise with Magby even if they use other Fire-Type Pokémon to craft their wares. If an inspector finds out, the shop can be charged for fraud.</p>\n"
+      "blurb": "<p>Magby has such a high reputation for glassblowing that many shops will advertise with Magby even if they use other Fire-Types to craft their wares. If an inspector finds out, the shop can be charged for fraud.</p>\n"
     },
     {
       "name": "Magmar",
@@ -29801,7 +29801,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>When a Magmar causes their volcano to erupt, they can evolve into Magmortar. Magmortar is endlessly confident and will burn down anything to make the area feel as hot as home. They respect anything that sticks around after getting shot.</p>\n"
+      "blurb": "<p>When a Magmar causes their volcano to erupt, they can evolve into Magmortar. Magmortar is endlessly confident and will burn down anything to make the area feel as hot as home. They respect anything that survives getting shot.</p>\n"
     }
   ],
   "pinsir": [
@@ -29826,7 +29826,7 @@
       "height": "4′11″",
       "weight": 121.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -29984,7 +29984,7 @@
       "height": "5′7″",
       "weight": 130.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -30197,7 +30197,7 @@
       "weight": 22,
       "eggGroups": [
         "Fish",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -30280,7 +30280,7 @@
       "weight": 518.1,
       "eggGroups": [
         "Fish",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -30436,7 +30436,7 @@
       "weight": 672.4,
       "eggGroups": [
         "Crustacean",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -30625,7 +30625,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Lapras born during their resurgence are quicker to defend themselves and snap at strangers than before. Some aggressive specimens come onto land and attempt to engage vehicles in dominance contests by slamming their bodies against them.</p>\n"
+      "blurb": "<p>Lapras born during their resurgence are quicker to defend themselves than before. Some aggressive specimens try to engage beachside vehicles in dominance contests by slamming against them.</p>\n"
     }
   ],
   "ditto": [
@@ -30970,7 +30970,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Piscine mutations let Vaporeon live both on land and in water. Tales of mermaids may have come from very drunk sailors spotting Vaporeon. Nowadays they’re often found lying in sinks.</p>\n"
+      "blurb": "<p>Piscine mutations let Vaporeon live both on land and in water. Tales of mermaids may have come from very drunk sailors spotting Vaporeon. Nowadays they’re often found lying in sinks, or hiding in the toilet pretending they don’t know who shredded the toilet paper.</p>\n"
     },
     {
       "name": "Jolteon",
@@ -31006,7 +31006,7 @@
             "Speed Boost"
           ],
           [
-            "Rough Skin"
+            "Moody"
           ],
           [
             "Quick Feet"
@@ -31507,7 +31507,7 @@
             "Dark Pulse"
           ],
           "9": [
-            "Poison Tail"
+            "Toxic"
           ],
           "10": [
             "Guard Swap"
@@ -31522,7 +31522,7 @@
             "Moonblast"
           ],
           "14": [
-            "Toxic"
+            "Quick Guard"
           ],
           "15": [
             "Last Resort"
@@ -31571,6 +31571,8 @@
           "Thief",
           "Throat Chop",
           "Tickle",
+          "Venom Drench",
+          "Venoshock",
           "Weather Ball",
           "Wish",
           "Wonder Room",
@@ -33180,7 +33182,7 @@
       "height": "5′11″",
       "weight": 130.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -33337,7 +33339,7 @@
       "height": "6′11″",
       "weight": 174.2,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -34584,7 +34586,7 @@
       "weight": 7.3,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -34733,7 +34735,7 @@
       "weight": 36.4,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -34890,7 +34892,7 @@
       "weight": 463,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -38030,7 +38032,7 @@
       "height": "2′4″",
       "weight": 46.7,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -38178,7 +38180,7 @@
       "height": "5′3″",
       "weight": 89.9,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -38310,7 +38312,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Noctowl historically nest in clock towers. Modern construction reveals they prefer anywhere with rhythmic sounds, so they also roost near generators, air-conditioners, and other industrial noise pollutants.</p>\n"
+      "blurb": "<p>Noctowl historically nest in clock towers. Modern construction reveals they prefer anywhere with rhythmic sounds, so they now roost near generators, air conditioners, and other industrial noise pollutants.</p>\n"
     }
   ],
   "ledyba": [
@@ -38336,7 +38338,7 @@
       "height": "3′3″",
       "weight": 23.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -38465,7 +38467,7 @@
           "Volt Tackle"
         ]
       },
-      "blurb": "<p>Ledyba’s wing coverings — or “elytra” — buckle and crumple under crush force, but their perfect roundness and smooth surface deflects projectiles without a scratch. An ancient military tactic is the wall of overlapping shields, inspired by Ledyba clusters.</p>\n"
+      "blurb": "<p>Ledyba’s wing coverings — “elytra” — buckle and crumple under crush force, but their perfect roundness and smooth surface deflects projectiles without a scratch. An ancient military tactic is the wall of overlapping shields, inspired by Ledyba clusters.</p>\n"
     },
     {
       "name": "Ledian",
@@ -38489,7 +38491,7 @@
       "height": "3′3″",
       "weight": 78.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -38653,7 +38655,7 @@
       "height": "1′8″",
       "weight": 18.7,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -38805,7 +38807,7 @@
       "height": "3′7″",
       "weight": 73.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -39083,7 +39085,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>Chinchou schools produce enough electromagnetic disturbance to disrupt undersea communications cables, but are also breathtaking sights that draw tourists. Their feet developed to walk on the ocean floor and are too stubby to use on land.</p>\n"
+      "blurb": "<p>Chinchou schools are breathtaking sights that draw tourists, but produce enough electromagnetic interference to disrupt undersea communication cables. Their feet developed to walk on the ocean floor and are clumsy on land.</p>\n"
     },
     {
       "name": "Lanturn",
@@ -39232,7 +39234,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>Trained Lanturn escort deepsea divers to provide light and advance warning. They sense movement through their electric fields further than their light can reach. Other Water Pokémon know Lanturn’s friendly appearance hides a super-effective viciousness.</p>\n"
+      "blurb": "<p>Trained Lanturn escort deepsea divers to provide light and advance warning; they sense movement via electric fields further than light can reach. Other Water-Types know Lanturn’s friendly appearance hides a super-effective viciousness.</p>\n"
     }
   ],
   "togepi": [
@@ -39407,7 +39409,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>It is unknown how Togepi survive in the wild long enough to evolve. Theories span from secret poison secretions, to joining egg clutches of other Pokémon. Togepi’s rarity means whatever the method is, it must not work very well.</p>\n"
+      "blurb": "<p>It is unknown how wild Togepi survive long enough to evolve. Theories span from secret poison secretions to joining egg clutches of other Pokémon. Togepi’s rarity means whatever the method, it must not work very well.</p>\n"
     },
     {
       "name": "Togetic",
@@ -39431,8 +39433,8 @@
       "height": "2′",
       "weight": 7.1,
       "eggGroups": [
-        "Flying",
-        "Fairy"
+        "Winged",
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -39590,7 +39592,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Togetic are hard to train. They dislike shouted commands and respond poorly to the heightened emotions of battle. But with a positive attitude and patience, they can grow to adore the feelings of triumph, pride, and respect from well-fought battles.</p>\n"
+      "blurb": "<p>Togetic are hard to train. They dislike shouted commands and respond poorly to the tense emotions of battle. But with a positive attitude and patience, they grow to adore the feelings of pride and respect from well-fought battles.</p>\n"
     },
     {
       "name": "Togekiss",
@@ -39614,8 +39616,8 @@
       "height": "4′11″",
       "weight": 83.8,
       "eggGroups": [
-        "Flying",
-        "Fairy"
+        "Winged",
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -39800,7 +39802,7 @@
       "height": "8″",
       "weight": 4.4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -39964,7 +39966,7 @@
       "height": "4′11″",
       "weight": 33.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -40793,7 +40795,7 @@
       "weight": 18.7,
       "eggGroups": [
         "Aquatic",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -40962,7 +40964,7 @@
       "weight": 62.8,
       "eggGroups": [
         "Aquatic",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -41433,7 +41435,7 @@
       "height": "1′4″",
       "weight": 1.1,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -41579,7 +41581,7 @@
       "height": "2′",
       "weight": 2.2,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -41732,7 +41734,7 @@
       "height": "2′7″",
       "weight": 6.6,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -42533,7 +42535,7 @@
       "height": "3′11″",
       "weight": 83.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -42567,7 +42569,7 @@
         ],
         "levelUp": {
           "2": [
-            "Double Team"
+            "U-Turn"
           ],
           "3": [
             "Struggle Bug",
@@ -42584,7 +42586,7 @@
             "Silver Wind"
           ],
           "7": [
-            "Leech Life"
+            "Double Team"
           ],
           "8": [
             "Air Cutter"
@@ -42599,7 +42601,7 @@
             "Screech"
           ],
           "12": [
-            "U-turn"
+            "Leech Life"
           ],
           "13": [
             "Dragon Pulse"
@@ -42643,7 +42645,6 @@
           "Sunny Day",
           "Swords Dance",
           "Thief",
-          "U-Turn",
           "Whirlwind"
         ]
       },
@@ -42671,7 +42672,7 @@
       "height": "6′3",
       "weight": 113.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -42711,7 +42712,7 @@
         ],
         "levelUp": {
           "2": [
-            "Double Team"
+            "U-Turn"
           ],
           "3": [
             "Struggle Bug",
@@ -42729,7 +42730,7 @@
           ],
           "7": false,
           "8": [
-            "Leech Life"
+            "Double Team"
           ],
           "9": [
             "Air Slash"
@@ -42744,7 +42745,7 @@
             "Screech"
           ],
           "13": [
-            "U-turn"
+            "Leech Life"
           ],
           "14": [
             "Fly"
@@ -42790,7 +42791,6 @@
           "Sunny Day",
           "Swords Dance",
           "Thief",
-          "U-Turn",
           "Whirlwind"
         ]
       },
@@ -43161,7 +43161,7 @@
       "height": "1′8″",
       "weight": 4.6,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -43314,7 +43314,7 @@
       "height": "2′11″",
       "weight": 60.2,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -44182,7 +44182,7 @@
       "height": "2′",
       "weight": 15.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -44322,7 +44322,7 @@
       "height": "3′11″",
       "weight": 277.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -44488,7 +44488,7 @@
             "Dracolize"
           ],
           [
-            "Excavate"
+            "Simple"
           ],
           [
             "Rattled"
@@ -44563,6 +44563,7 @@
           "Bulldoze",
           "Calm Mind",
           "Charm",
+          "Chatter",
           "Curse",
           "Dream Eater",
           "Dual Wingbeat",
@@ -44586,6 +44587,7 @@
           "Poison Jab",
           "Protect",
           "Psych Up",
+          "Quiver Dance",
           "Rain Dance",
           "Rest",
           "Retaliate",
@@ -44643,7 +44645,7 @@
       "height": "3′7″",
       "weight": 142.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -44787,7 +44789,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Gligar uses its tongue to sense air currents, then glides on them to extend its airtime. Its sensitivity heightens when fed spicy food — Gligar that figure this out break into buildings to burgle their hot sauce or spicy seasonings.</p>\n"
+      "blurb": "<p>Gligar uses its tongue to sense air currents, then glides on them to extend its airtime. Its sensitivity heightens when fed spicy food — Gligar that figure this out burgle hot sauce or spicy seasonings.</p>\n"
     },
     {
       "name": "Gliscor",
@@ -44811,7 +44813,7 @@
       "height": "6′7″",
       "weight": 93.7,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -44988,7 +44990,7 @@
       "weight": 17.2,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -45164,7 +45166,7 @@
       "weight": 107.4,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -45724,7 +45726,7 @@
       "height": "2′",
       "weight": 45.2,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -45886,7 +45888,7 @@
       "height": "4′11″",
       "weight": 119,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -46044,7 +46046,7 @@
       "height": "5′7″",
       "weight": 137.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -47142,7 +47144,8 @@
           "Work Up",
           "Yawn"
         ]
-      }
+      },
+      "blurb": "<p>NOTE: the gray parts are actually peat/mud slopped all over it. it’s hard to tell in the art</p>\n"
     }
   ],
   "slugma": [
@@ -47298,7 +47301,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Slugma migrate en masse along the lava flows of active volcanoes, sometimes to such an extent that the lava appears to flow backward. Every volcanic settlement has a superstition for this phenomenon, but whether that superstition is good or bad varies.</p>\n"
+      "blurb": "<p>Slugma migrate en masse along lava flows of active volcanoes, sometimes to such an extent that the lava appears to flow backward. Volcanic settlements have superstitions for this phenomenon, but whether that superstition is good or bad varies.</p>\n"
     },
     {
       "name": "Magcargo",
@@ -49172,7 +49175,7 @@
             "Bounce"
           ],
           "13": [
-            "Take Down"
+            "Icy Wind"
           ],
           "14": [
             "Hydro Pump"
@@ -49209,7 +49212,6 @@
           "Helping Hand",
           "Hyper Beam",
           "Ice Beam",
-          "Icy Wind",
           "Iron Head",
           "Liquidation",
           "Mirror Coat",
@@ -49262,7 +49264,7 @@
       "height": "5′7″",
       "weight": 111.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -52208,7 +52210,7 @@
       "weight": 11,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -52365,7 +52367,7 @@
       "weight": 47.6,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -52529,7 +52531,7 @@
       "weight": 115.1,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -52701,7 +52703,7 @@
       "weight": 121.7,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -54903,7 +54905,7 @@
       "height": "1′",
       "weight": 7.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -54996,7 +54998,7 @@
       "height": "2′",
       "weight": 22,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -55097,7 +55099,7 @@
       "height": "3′3″",
       "weight": 62.6,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -55236,7 +55238,7 @@
       "height": "2′4″",
       "weight": 25.4,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -55339,7 +55341,7 @@
       "height": "3′11″",
       "weight": 69.7,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -55778,7 +55780,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Children tell nasty rumors about Lombre, from stealing Mudbray and ruining soba noodles to drowning anybody who gets too close. Nobody knows the source of these rumors, but they make the rounds in nearly every school.</p>\n"
+      "blurb": "<p>Children tell nasty rumors about Lombre, from stealing Mudbray and ruining soba noodles to drowning whoever gets too close. Nobody knows the source of these rumors, but they’re in nearly every school.</p>\n"
     },
     {
       "name": "Ludicolo",
@@ -56499,7 +56501,7 @@
       "height": "1′",
       "weight": 5.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -56631,7 +56633,7 @@
       "height": "2′4″",
       "weight": 43.7,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -56745,7 +56747,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>The Complete Thief’s Handbook has a chapter dedicated to Swellow falconry. Swellow are trained to swipe small objects from unsuspecting victims in a dive, then fly away before they can be battled. If the Swellow picks up a Klefki, the thief is encouraged to leave it behind.</p>\n"
+      "blurb": "<p>The Complete Thief’s Handbook has a chapter on Swellow falconry: train them to swipe small objects from unsuspecting victims in a dive, then fly away before they can be battled. If the Swellow picks up a Klefki, the thief is encouraged to leave it behind.</p>\n"
     }
   ],
   "wingull": [
@@ -56772,7 +56774,7 @@
       "weight": 20.9,
       "eggGroups": [
         "Aquatic",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -56914,7 +56916,7 @@
       "weight": 61.7,
       "eggGroups": [
         "Aquatic",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -57815,7 +57817,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>In old films, watch carefully when the action starts. Directors used Gallade as stunt doubles during swordfights, producing dazzling scenes that fooled absolutely nobody. When the character starts swinging their elbow at their opponent, you know the switch has been made.</p>\n"
+      "blurb": "<p>In old films, watch carefully when the action starts. Directors used Gallade as swordfight stunt doubles, producing dazzling scenes that fooled absolutely nobody. When a character starts swinging their elbow at their opponent, you know the switch has been made.</p>\n"
     },
     {
       "name": "Mega Gallade",
@@ -57892,7 +57894,7 @@
       "weight": 3.7,
       "eggGroups": [
         "Aquatic",
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -58029,7 +58031,7 @@
       "weight": 7.9,
       "eggGroups": [
         "Aquatic",
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -58175,7 +58177,7 @@
       "height": "1′4″",
       "weight": 9.9,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -58317,7 +58319,7 @@
       "height": "3′11″",
       "weight": 86.4,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -58958,7 +58960,7 @@
       "height": "1′8″",
       "weight": 12.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -59082,7 +59084,7 @@
       "height": "2′7″",
       "weight": 26.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -60512,7 +60514,7 @@
       "weight": 24.3,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -60672,7 +60674,7 @@
       "weight": 71.9,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -61072,7 +61074,7 @@
       "weight": 25.4,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -61247,7 +61249,7 @@
       "weight": 51.8,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -62538,7 +62540,7 @@
           "Uproar"
         ]
       },
-      "blurb": "<p>Manectric are collected by wealthy owners for security, but these people rarely train their own Pokémon. Security Manectric are raised to follow orders from whoever gives them treats, but wealthy owners rarely do this personally either.</p>\n"
+      "blurb": "<p>The wealthy collect Manectric for security, but such people rarely train their own Pokémon. Working Manectric are raised to obey whoever gives them treats, but wealthy owners also rarely do that.</p>\n"
     },
     {
       "name": "Mega Manectric",
@@ -62611,7 +62613,7 @@
       "height": "1′4″",
       "weight": 9.3,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -62621,7 +62623,7 @@
         ],
         "level5": [
           [
-            "Teamwork"
+            "Rowdy"
           ],
           [
             "Electric Cheeks"
@@ -62646,7 +62648,8 @@
             "Lucky Chant"
           ],
           "3": [
-            "Nuzzle"
+            "Nuzzle",
+            "Reflect"
           ],
           "4": [
             "Bestow",
@@ -62738,7 +62741,7 @@
           "Wish"
         ]
       },
-      "blurb": "<p>Plusle and Minun are a popular choice for parents to give twins as first Pokémon, in the hope that the children learn to work together. Despite initial cries of how the children really wanted a Pikachu, the gambit usually works.</p>\n"
+      "blurb": "<p>Plusle and Minun are a popular choice for twins’ first Pokémon, the parents hoping the children learn to work together. Despite initial cries of how they really wanted a Pikachu, the gambit usually works.</p>\n"
     }
   ],
   "minun": [
@@ -62763,7 +62766,7 @@
       "height": "1′4″",
       "weight": 9.3,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -62773,7 +62776,7 @@
         ],
         "level5": [
           [
-            "Teamwork"
+            "Battery"
           ],
           [
             "Electric Cheeks"
@@ -62798,7 +62801,8 @@
             "Lucky Chant"
           ],
           "3": [
-            "Nuzzle"
+            "Nuzzle",
+            "Light Screen"
           ],
           "4": [
             "Switcheroo",
@@ -62863,7 +62867,6 @@
           "Grass Pledge",
           "Hyper Beam",
           "Iron Tail",
-          "Light Screen",
           "Mega Kick",
           "Mega Punch",
           "Metronome",
@@ -62889,7 +62892,7 @@
           "Wish"
         ]
       },
-      "blurb": "<p>Plusle and Minun love bothering Charjabug. They interpret its electric attacks as cheering sparks, and follow it everywhere. The magnetic charge Plusle and Minun create between them even sometimes form the conditions for a Charjabug to evolve!</p>\n"
+      "blurb": "<p>Plusle and Minun love to bother Charjabug. They think its electric attacks are cheering sparks and follow it everywhere. The magnetism between Plusle and Minun may even form the conditions for Charjabug to evolve!</p>\n"
     }
   ],
   "volbeat": [
@@ -62914,7 +62917,7 @@
       "height": "2′4″",
       "weight": 39,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Humanoid"
       ],
       "abilities": {
@@ -63043,7 +63046,7 @@
           "U-Turn"
         ]
       },
-      "blurb": "<p>Volbeat fly around vehicles at night, trying to communicate with the “creature’s” headlights. If a driver does not flash their headlights back in a pattern the Volbeat enjoys, it gets offended and may even attack.</p>\n"
+      "blurb": "<p>Volbeat fly around vehicles at night, trying to communicate with the “creature’s” headlights. If a driver doesn’t flash their lights back in a pattern the Volbeat likes, it gets offended and may even attack.</p>\n"
     }
   ],
   "illumise": [
@@ -63068,7 +63071,7 @@
       "height": "2′",
       "weight": 39,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Humanoid"
       ],
       "abilities": {
@@ -63344,7 +63347,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>Rival gardeners can sabotage each other by planting dormant Budew in the winter. When Budew wakes up in a strange new location, it spreads its toxic pollen everywhere and kills off other plants. Doing this to another gardener risks a lifetime ban from botany contests.</p>\n"
+      "blurb": "<p>Planting dormant Budew in the winter is a classic form of garden sabotage. When Budew wakes up in a strange location, it scatters its toxic pollen and kills off other plants. Doing this to other gardeners risks lifetime bans from botany contests.</p>\n"
     },
     {
       "name": "Roselia",
@@ -63368,7 +63371,7 @@
       "height": "1′",
       "weight": 4.4,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -63501,7 +63504,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>Roselia’s body is influenced by its diet, with its flower colors changing daily to reflect its mineral intake. It used to be quite rare to see a purple-petaled Roselia, but domesticated ones have popped up all over after the spread of social media.</p>\n"
+      "blurb": "<p>Roselia’s body is influenced by its diet, its flower colors changing daily to reflect its mineral intake. It used to be quite rare to see purple-petaled Roselia, but domesticated ones popped up all over after the spread of social media.</p>\n"
     },
     {
       "name": "Roserade",
@@ -63525,7 +63528,7 @@
       "height": "2′11″",
       "weight": 32,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -63661,7 +63664,7 @@
           "Water Sport"
         ]
       },
-      "blurb": "<p>Filled with dazzling confidence, Roserade travels the land to find the best sunny spots. It chases away other Grass-Types with its poison whips if it finds them annoying, making Roserade a monarch nearly anywhere they go. Except Kanto, for some reason.</p>\n"
+      "blurb": "<p>With dazzling confidence, Roserade travels to find the best sunny spots. It chases off other Grass-Types with its poison whips if it finds them annoying, making Roserade a monarch nearly anywhere — except Kanto.</p>\n"
     }
   ],
   "gulpin": [
@@ -63811,7 +63814,7 @@
           "Water Pulse"
         ]
       },
-      "blurb": "<p>Although wild Gulpin can and will eat anything, domesticated specimens are often picky eaters. Most Gulpin grow to have the same food preferences as their Trainers, to the point that food critics will sometimes send their Gulpin instead of personally attending a restaurant.</p>\n"
+      "blurb": "<p>Although wild Gulpin will eat anything, domesticated ones can be picky eaters. Gulpin grow to share their Trainers’ food preferences — food critics sometimes send their Gulpin instead of personally attending a restaurant.</p>\n"
     },
     {
       "name": "Swalot",
@@ -63967,7 +63970,7 @@
           "Water Pulse"
         ]
       },
-      "blurb": "<p>Before Muk’s Alolan variant was discovered, Swalot were the number one Pokémon for cleaning up hazardous waste. Murmurs say the harsh Alolan laws on exporting Muk is partially to keep Swalot garbage disposal industries in business.</p>\n"
+      "blurb": "<p>Before Muk’s Alolan variant was discovered, Swalot were the top choice for cleaning up hazardous waste. Rumors say the harsh Alolan Muk export laws are partially to keep Swalot garbage disposal in business.</p>\n"
     }
   ],
   "carvanha": [
@@ -64119,7 +64122,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Carvanha don’t even get along with Sharpedo. When a Carvanha evolves, it is exiled from its school and forced to move to new territory. Despite this, many exotic fish traders find them to be wonderful pets.</p>\n"
+      "blurb": "<p>Carvanha don’t even get along with Sharpedo. When a Carvanha evolves, it’s exiled from its school and forced to move to new territory. Despite this, many exotic fish traders find them to be wonderful pets.</p>\n"
     },
     {
       "name": "Sharpedo",
@@ -64472,7 +64475,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Wailmer pods have some of the longest migration routes in the world. Merchants looking to sell their wares in distant countries can follow these routes from Galar all the way to Kanto without ever having to travel over land.</p>\n"
+      "blurb": "<p>Wailmer pods have some of the longest migrations in the world. Merchants looking to sell in distant countries can follow Wailmer from Galar all the way to Kanto without ever having to travel over land.</p>\n"
     },
     {
       "name": "Wailord",
@@ -64627,7 +64630,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Wailord has large floatation sacs on its underside that it fills with water to sink to the lowest depths of the sea, or with hot air to become light enough to leap off the surface of the water. These sacs helped Wailord’s body remain light enough to move when it lived on land.</p>\n"
+      "blurb": "<p>Wailord has large floatation sacs on its underside that fill with water to sink to the sea depths, or with hot air to become light enough to leap off the surface of the water. These sacs helped Wailord stay light enough to move when it lived on land.</p>\n"
     }
   ],
   "numel": [
@@ -64779,7 +64782,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Numel is a great partner for campers, sitting still as it heats anything on top its back. Just don’t cook anything the Numel might want to eat, or you’ll find your meal gobbled up when you look away.</p>\n"
+      "blurb": "<p>Numel is a great partner for campers; it sits still as you heat anything atop its back. Just don’t cook anything Numel might want to eat, or it’ll gobble up your meal when you look away.</p>\n"
     },
     {
       "name": "Camerupt",
@@ -64939,7 +64942,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Areas Camerupt visit gain rich crops and fertile soil, a veritable paradise for Grass-Types and all the different species that follow. Areas where Camerupt live are barren and unbearable even for some Fire-Types.</p>\n"
+      "blurb": "<p>Areas Camerupt visit gain fertile soil, then rich crops and a veritable Grass-Type paradise, then the different species that follow. Areas Camerupt <em>live in</em> are barren, unbearable even for some Fire-Types.</p>\n"
     },
     {
       "name": "Mega Camerupt",
@@ -65140,7 +65143,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Hoenn brick ovens imitate Torkoal’s shell, soaking up heat and evenly releasing it over hours. This significantly improves the flavor and texture, but the ovens take time to build. Many find it easier to catch a Torkoal and use it instead.</p>\n"
+      "blurb": "<p>Hoenn ovens mimic Torkoal shells to evenly release stored heat for hours. This significantly improves flavor and texture, but the ovens take time to build. It’s often easier to employ a Torkoal directly.</p>\n"
     }
   ],
   "spoink": [
@@ -65289,7 +65292,7 @@
           "Whirlwind"
         ]
       },
-      "blurb": "<p>Spoink lives far from the shore, and is a poor swimmer. How Spoink obtain pearls from Clamperl is a mystery yet to be solved, but recent theory is that Spoink grows the pearl itself. This would explain why Spoink loves to eat sand.</p>\n"
+      "blurb": "<p>Spoink lives far from shore and is a poor swimmer. How they obtain Clamperl pearls is still a mystery; recent theory is that Spoink grows the pearl itself. This would explain why it loves eating sand.</p>\n"
     },
     {
       "name": "Grumpig",
@@ -65453,7 +65456,7 @@
           "Whirlwind"
         ]
       },
-      "blurb": "<p>Grumpig still loves to bounce on its tail, but only when it thinks nobody is watching. If Grumpig falls asleep, it can start bouncing out of habit. Grumpig owners love to record video of this.</p>\n"
+      "blurb": "<p>Grumpig still loves bouncing on its tail, but only when it thinks nobody is watching. If Grumpig falls asleep, it can start bouncing out of habit. Grumpig owners love to record video of this.</p>\n"
     }
   ],
   "spinda": [
@@ -65627,7 +65630,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Spinda who spend time with each other synchronize their steps. Not all Spinda are immune to each other’s movements, so they end up tripping over their own steps. Trainers who mimic Spinda’s teetering report it to be a rewarding bonding experience, until they throw up.</p>\n"
+      "blurb": "<p>Spinda who spend time with each other synchronize their steps. Not all Spinda are immune to each other’s movements, so they end up tripping over their own feet. Trainers who mimic Spinda’s teetering say it’s a rewarding bonding experience, until they throw up.</p>\n"
     }
   ],
   "trapinch": [
@@ -65652,8 +65655,8 @@
       "height": "2′4″",
       "weight": 33.1,
       "eggGroups": [
-        "Bug",
-        "Dragon"
+        "Insect",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -65800,8 +65803,8 @@
       "height": "3′7″",
       "weight": 33.7,
       "eggGroups": [
-        "Bug",
-        "Dragon"
+        "Insect",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -65956,8 +65959,8 @@
       "height": "6′7″",
       "weight": 180.8,
       "eggGroups": [
-        "Bug",
-        "Dragon"
+        "Insect",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -66096,7 +66099,7 @@
           "U-Turn"
         ]
       },
-      "blurb": "<p>Flygon’s popularity with Trainers has made their eggs one of the most expensive items on the black market. Many bidders are disappointed when the “Vibrava” that hatch from a purchased Egg evolve into a screaming Yanmega.</p>\n"
+      "blurb": "<p>Flygon’s battle popularity makes their eggs one of the most expensive items on the black market. Many bidders are disappointed when their hatched “Vibrava” evolves into a screaming Yanmega.</p>\n"
     }
   ],
   "cacnea": [
@@ -66256,7 +66259,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Cacnea’s stubby legs and long arms produce a distinctive jaunty walk. Landscapers use them to aerate lawns with their pointy feet. They’re especially effective at aerating slopes that machines struggle with, since their spines poke holes as they roll down.</p>\n"
+      "blurb": "<p>Cacnea’s stub legs and long arms produce a distinctive jaunty walk. Landscapers use their pointy feet to aerate lawns, especially for slopes that aerating machines struggle with; the spines poke holes as they roll down.</p>\n"
     },
     {
       "name": "Cacturne",
@@ -66423,7 +66426,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Cacturne stand completely still in the daytime, photosynthesizing energy to outlast prey during their nighttime stakeouts. They are effective as scarecrows, but for a different, more straightforward reason.</p>\n"
+      "blurb": "<p>Cacturne stand completely still in the daytime, photosynthesizing energy to outlast prey during their nighttime stakeouts. They <strong><em>are</em></strong> effective as scarecrows, but for a different, more straightforward reason.</p>\n"
     }
   ],
   "swablu": [
@@ -66449,8 +66452,8 @@
       "height": "1′4″",
       "weight": 2.6,
       "eggGroups": [
-        "Flying",
-        "Dragon"
+        "Winged",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -66569,7 +66572,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>Most love Swablu’s friendliness towards humans, but bakers find them a nuisance. Swablu will casually sit on a baker’s bench and eat all the bread it can, not even moving when threatened by a broom or spraybottle. What it doesn’t eat, it carries off to hoard in the wilderness.</p>\n"
+      "blurb": "<p>Most love Swablu’s familiarity with humans, but bakers find them a nuisance. Swablu casually sit on bakers’ benches and eat all the bread they can, unperturbed by brooms or spraybottles. What they don’t eat is carried off to wilderness hoards.</p>\n"
     },
     {
       "name": "Altaria",
@@ -66593,8 +66596,8 @@
       "height": "4′3″",
       "weight": 45.4,
       "eggGroups": [
-        "Flying",
-        "Dragon"
+        "Winged",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -66722,7 +66725,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>Altaria flock together for fall and spring migrations. These flocks can reach amazing sizes, but citizens rarely notice, reporting pleasant blue skies with scattered clouds. If the sky stays cloudy for three days with no rain, superstition says you’ve been visited by Altaria’s blessing.</p>\n"
+      "blurb": "<p>Altaria flock for fall and spring migrations. These flocks can reach amazing sizes, but citizens rarely notice, reporting pleasant blue skies with scattered clouds. If the sky stays cloudy for three days with no rain, superstition says you’ve been visited by Altaria’s blessing.</p>\n"
     },
     {
       "name": "Mega Altaria",
@@ -66746,8 +66749,8 @@
       "height": "4′11″",
       "weight": 45.4,
       "eggGroups": [
-        "Flying",
-        "Dragon"
+        "Winged",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -66813,7 +66816,7 @@
             "Super Luck"
           ],
           [
-            "Tough Claws"
+            "Guts"
           ],
           [
             "Regenerator"
@@ -66941,7 +66944,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>It is hard to motivate Zangoose against foes other than Seviper, but other snakes provoke a similar response. In fact, if Zangoose catches wind of a snake Pokémon, it is hard to keep it inside its Poké Ball.</p>\n"
+      "blurb": "<p>It’s hard to motivate Zangoose against foes other than Seviper, but other snake Pokémon provoke a similar response. In fact, if Zangoose catches wind of a snake, it’s hard to keep it inside its Poké Ball.</p>\n"
     }
   ],
   "seviper": [
@@ -66967,7 +66970,7 @@
       "weight": 115.7,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -67089,7 +67092,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Seviper’s hissy laughter and joyous wriggling seem silly, but are insidious ploys. The constant movement makes it hard to read its next attack, and the distraction gives it time to find a victim’s weak points. When a Seviper decides to attack, the battle is already decided.</p>\n"
+      "blurb": "<p>Seviper’s hissy laughter and joyous wriggling seem silly, but are insidious ploys. The unpredictable movement makes it hard to read its next attack, and the distraction lets it scout a victim’s weak points. When Seviper decides to attack, the battle is already decided.</p>\n"
     }
   ],
   "lunatone": [
@@ -67248,7 +67251,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Wild Lunatone spend large amounts of time dormant, waking under the light of the moon. Archaeologists who unearth suspicious statues place them outside on full moon nights, to test whether they’re actually Pokémon.</p>\n"
+      "blurb": "<p>Wild Lunatone are dormant for long periods, waking under moonlight. Archaeologists who unearth suspicious statues place them outside during full moons, to test if they’re actually Pokémon.</p>\n"
     }
   ],
   "solrock": [
@@ -67408,7 +67411,7 @@
           "Wing Attack"
         ]
       },
-      "blurb": "<p>At the end of autumn, Solrocks end their aimless wandering and travel to the nearest desert. When they arrive, they bury themselves halfway into the sand and hibernate for the winter. When the Solrock wake at the beginning of spring, the light is visible for miles.</p>\n"
+      "blurb": "<p>By autumn’s end, Solrock end their aimless wandering and head to the nearest desert. On arrival, they bury themselves halfway into the sand and hibernate for the winter. When Solrock wake at the beginning of spring, the light is visible for miles.</p>\n"
     }
   ],
   "barboach": [
@@ -67552,7 +67555,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Barboach’s whiskers are so sensitive they can feel differences in barometric pressure, making them a reliable way for sailors to predict the weather. If Barboach hides deep in its mud, the sun is going to shine strong. If they come up for air, expect a lot of precipitation.</p>\n"
+      "blurb": "<p>Barboach’s whiskers can sense barometric pressure, a reliable tool for sailors to predict the weather. If Barboach hide deep in mud, the sun will shine strong. If they stay out in air, expect lots of precipitation.</p>\n"
     },
     {
       "name": "Whiscash",
@@ -67705,7 +67708,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Whiscash’s whiskers look soft and fluffy, but they’re very strong. If a Whiscash untwirls its whiskers, it can cause severe injury to a foe. The whiskers are full of nerves, so Whiscash prefers to use its earthquakes as a defense instead.</p>\n"
+      "blurb": "<p>Whiscash’s whiskers look soft and fluffy, but they’re very strong; Whiscash can untwirl them to severely injure foes. The whiskers are full of nerves, so Whiscash prefers its earthquakes as a defense instead.</p>\n"
     }
   ],
   "corphish": [
@@ -68035,7 +68038,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>When people see a Crawdaunt shell in the wild, there’s an immediate search to find the molted creature and drive it out of the area. If the Crawdaunt is captured instead of defeated, the new owner is usually treated as a noble martyr.</p>\n"
+      "blurb": "<p>When a Crawdaunt shell is found in the wild, there’s an immediate search for the molted creature to drive it out of the area. If the Crawdaunt is captured instead of defeated, the new owner is usually treated as a noble martyr.</p>\n"
     }
   ],
   "baltoy": [
@@ -68195,7 +68198,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Attempts to recreate the process that brought Claydol to life have failed, and Baltoy destroy toys made in their image. Despite these unanswered questions, Baltoy was voted #1 in Ruin Maniacs Monthly for the last twenty years.</p>\n"
+      "blurb": "<p>Attempts to recreate the process that brought Baltoy to life have failed, and they destroy toys made in their image. Baltoy has been voted #1 in Ruin Maniacs Monthly for the last twenty years.</p>\n"
     },
     {
       "name": "Claydol",
@@ -68657,7 +68660,7 @@
           "Water Sport"
         ]
       },
-      "blurb": "<p>Although Cradily was believed extinct, there have been confirmed sightings off Unovan coasts. Scientific expeditions to the deep sea are funded to discover if Cradily is actually still alive in areas yet explored.</p>\n"
+      "blurb": "<p>Cradily was believed extinct, but sightings were confirmed off Unovan coasts. Scientific deep-sea expeditions are funded to discover if Cradily still lives in areas yet explored.</p>\n"
     }
   ],
   "anorith": [
@@ -68797,7 +68800,7 @@
           "Swords Dance"
         ]
       },
-      "blurb": "<p>Anorith’s delicate constitution makes it an expensive pet. Aquariums need a specific temperature and daily minerals, and must be big enough for it to swim around. Most specimens are kept in labs, but some extremely wealthy patrons show off their Anorith “artificial coasts.”</p>\n"
+      "blurb": "<p>Anorith’s delicate constitution makes it an expensive pet. Aquariums need a specific temperature, daily minerals, and must be big enough for swimming. Most specimens are kept in labs, but some extremely wealthy patrons show off their Anorith “artificial coasts.”</p>\n"
     },
     {
       "name": "Armaldo",
@@ -68944,7 +68947,7 @@
           "Swords Dance"
         ]
       },
-      "blurb": "<p>Armaldo’s tough armor and powerful pincers should make it an apex predator in wild environments. However, its slow walking speed and loud scales allow most prey to flee before it even gets close. Pokéologists think this is why Armaldo went extinct.</p>\n"
+      "blurb": "<p>Armaldo’s tough armor and powerful pincers should make it an apex predator. However, its slow walk and loud plates warn most prey to flee before it gets close. Maybe that’s why Armaldo went extinct.</p>\n"
     }
   ],
   "feebas": [
@@ -68970,7 +68973,7 @@
       "weight": 16.3,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -69077,7 +69080,7 @@
       "weight": 357.1,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -69238,7 +69241,7 @@
       "height": "1′",
       "weight": 1.8,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Amorphous"
       ],
       "abilities": {
@@ -69366,7 +69369,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>The Hoenn Weather Institute patented the creation process for Castform, keeping it a secret for another twenty years. This caused controversy until it was discovered that Castform can live in the wild and breed without issue.</p>\n"
+      "blurb": "<p>The Hoenn Weather Institute patented how to create Castform, keeping it secret for twenty years. This caused controversy until it was discovered that Castform can live in the wild and breed without issue.</p>\n"
     }
   ],
   "kecleon": [
@@ -69531,7 +69534,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Directors are always trying to hire Kecleon for Pokémon Musicals, and audiences adore their color-changing mood swings. Musical Trainers find Kecleon difficult to work with, as it is naturally inclined to vanish away in stage fright.</p>\n"
+      "blurb": "<p>Directors are always trying to hire Kecleon for Pokémon Musicals, and audiences adore their color-changing mood swings. Musical Trainers find Kecleon difficult to work with, as it is naturally inclined to vanish in stage fright.</p>\n"
     }
   ],
   "shuppet": [
@@ -69679,7 +69682,7 @@
           "Trick Room"
         ]
       },
-      "blurb": "<p>Although they feed on negative emotions, Shuppet are especially friendly and love playing with children. With its abilities and disposition, Shuppet is the only licensed therapy Ghost-Type.</p>\n"
+      "blurb": "<p>Although they feed on negative emotions, Shuppet are especially friendly to and love playing with children. With its abilities and disposition, Shuppet is the only licensed therapy Ghost-Type.</p>\n"
     },
     {
       "name": "Banette",
@@ -69840,7 +69843,7 @@
           "Trick Room"
         ]
       },
-      "blurb": "<p>The book “If You Give a Shuppet a Plush” is a perennial bestseller. Banette’s increasing mischief throughout the book initially sparked a debate on what behavior was alright to depict in children’s literature, but that only made it more popular.</p>\n"
+      "blurb": "<p>The book “If You Give a Banette a Plush” is a perennial bestseller. Banette’s increasing mischief throughout the book initially sparked a debate on what behavior was alright to depict in children’s literature, but that only made it more popular.</p>\n"
     },
     {
       "name": "Mega Banette",
@@ -70037,7 +70040,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>Duskull is frightening to behold, but ultimately a harmless pest. The worst it does is phasing through fridge doors and eating all the food. When a Duskull does make its way into a fridge, it likes to sit there for a while.</p>\n"
+      "blurb": "<p>Duskull is a frightening but ultimately harmless pest. The worst it does is phasing through kitchens and eating all the food. When a Duskull infiltrates a fridge, it likes to stay there a while.</p>\n"
     },
     {
       "name": "Dusclops",
@@ -70201,7 +70204,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>Dusclops’ bandages are its cocoon, evolving into Dusknoir naturally after 108 years. The first Pokéologist to witness this phenomenon won an award, but then was mysteriously unable to attend the ceremony.</p>\n"
+      "blurb": "<p>Dusclops’ bandages cocoon it, evolving into Dusknoir naturally after 108 years. The first Pokéologist to witness this phenomenon won an award, but then was mysteriously unable to attend the ceremony.</p>\n"
     },
     {
       "name": "Dusknoir",
@@ -70370,7 +70373,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>Dusknoir’s antenna rings when it hears church bells, and it feels compelled to follow the sound. Other Ghost-Types fear Dusknoir’s appearance, but none more than Drifloon. The Balloon Pokémon mysteriously go missing whenever a Dusknoir is in the same area.</p>\n"
+      "blurb": "<p>Dusknoir’s antenna rings when it hears church bells, and compels it to follow the sound. Other Ghost-Types fear Dusknoir, but none more than Drifloon. The Balloon Pokémon mysteriously go missing when a Dusknoir is in the same area.</p>\n"
     }
   ],
   "tropius": [
@@ -70526,7 +70529,7 @@
           "Swords Dance"
         ]
       },
-      "blurb": "<p>Without a tail, Tropius beat their wings to keep balance while raising and lowering their necks. This makes them look very unstable in the air, and only experienced Trainers can hope to ride one without throwing up.</p>\n"
+      "blurb": "<p>Without a tail, Tropius beat their wings to counterbalance raising and lowering their necks. This makes them look very unstable in the air; only experienced Trainers can hope to ride without throwing up.</p>\n"
     }
   ],
   "chingling": [
@@ -70825,7 +70828,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Chimecho attach to any high underside and chatter if their perch moves. They draw children at fairgrounds and are good omens at construction sites. They’re pests at airfields and wherever they feud with Shuppet over territory.</p>\n"
+      "blurb": "<p>Chimecho attach to any high underside, chattering if their perch moves. They draw children at fairgrounds and are good omens at construction sites, but are pests at airfields and wherever they feud with Shuppet over eaves.</p>\n"
     }
   ],
   "absol": [
@@ -71071,7 +71074,7 @@
       "height": "2′4″",
       "weight": 37,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Mineral"
       ],
       "abilities": {
@@ -71180,7 +71183,7 @@
           "Torment"
         ]
       },
-      "blurb": "<p>Snorunt loves to play with humans, taking no offense at having snow thrown at them in snowball fights. If a child happens to throw an ice ball, it sees that as a new game. Children sometimes come home with bruises after playing too hard.</p>\n"
+      "blurb": "<p>Snorunt loves playing with humans, taking no offense at having snow thrown at them in snowball fights. But if an ice ball happens to be thrown, it sees that as a new game. Children sometimes come home with bruises after playing too hard.</p>\n"
     },
     {
       "name": "Glalie",
@@ -71203,7 +71206,7 @@
       "height": "4′11″",
       "weight": 565.5,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Mineral"
       ],
       "abilities": {
@@ -71336,7 +71339,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>If a Snorunt is mistreated enough, it evolves into Glalie. Glalie flash-freezes anything that looks like a bully, then ignores it. People frozen by Glalie should be thawed as soon as possible, then brought in for questioning.</p>\n"
+      "blurb": "<p>If a Snorunt is mistreated enough, it evolves into Glalie. Glalie flash-freezes anything that looks like a bully, then deserts it. People frozen by Glalie should be thawed as soon as possible, then brought in for questioning.</p>\n"
     },
     {
       "name": "Mega Glalie",
@@ -71359,7 +71362,7 @@
       "height": "6′11″",
       "weight": 772.1,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Mineral"
       ],
       "abilities": {
@@ -71409,7 +71412,7 @@
       "height": "4′3″",
       "weight": 58.6,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Mineral"
       ],
       "abilities": {
@@ -71539,7 +71542,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>If you hear singing not of any language in a snowstorm, do not seek it out! It’s Froslass, shrieking over the winds to announce its presence. People who want to cross Froslass mountains wear masks that make them look too ugly for its collection .</p>\n"
+      "blurb": "<p>If you hear singing not of any language in a snowstorm, don’t seek it out! It’s Froslass keening over the winds to announce its presence. If you want to cross Froslass mountains, wear masks that make you look too ugly for its collection.</p>\n"
     }
   ],
   "spheal": [
@@ -71682,7 +71685,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Spheal are the most popular attraction at any aquarium. Natural performers, they roll and bounce endlessly the second an audience is watching. Wary Trainers note: Spheal does the same thing when it sees something it wants to fight.</p>\n"
+      "blurb": "<p>Spheal are popular attractions at aquariums. Natural performers, they roll and bounce endlessly while an audience is watching. Wary Trainers note: Spheal does the same thing when it sees something it wants to fight.</p>\n"
     },
     {
       "name": "Sealeo",
@@ -71829,7 +71832,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Sealeo mothers hatch eggs on land, and will spend approximately a year nursing her new Spheal pups. A Sealeo mother will leave her pups on the ice to forage alone at least once a month, or whenever an entire pack of Spheal gets to be too much to deal with.</p>\n"
+      "blurb": "<p>Sealeo mothers hatch eggs on land, then spend approximately a year nursing her new Spheal pups. Sealeo mothers leave pups on the ice to forage alone at least once a month, or whenever an entire litter of Spheal is too much to deal with.</p>\n"
     },
     {
       "name": "Walrein",
@@ -71979,7 +71982,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Only two species challenge Walrein in the wild: Sharpedo and Beartic. Sharpedo will disrupt a Walrein pod without fear, Beartic generally only makes that mistake once.</p>\n"
+      "blurb": "<p>Only two species challenge Walrein in the wild: Sharpedo and Beartic. Sharpedo will disrupt Walrein herds without fear; Beartic generally only make that mistake once.</p>\n"
     }
   ],
   "clamperl": [
@@ -72104,7 +72107,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Pearl divers tell of sea trenches where hundreds of Clamperl sleep, with just as many pearls to be plucked from the sides of the snoozing pink roe. An area with so many Clamperl would be too deep for humans, so most pay the rumor no attention.</p>\n"
+      "blurb": "<p>Pearl divers tell of sea trenches with hundreds of Clamperl and as many pearls to be plucked from the sides of the sleeping pink roe. But wouldn’t an area with so many Clamperl be too deep for humans?</p>\n"
     },
     {
       "name": "Huntail",
@@ -72242,7 +72245,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Huntail’s body acts differently on deep sea than on land. A weak swimmer in its own environment, its wriggling becomes effective slithering on dry land or in shallow waters. It is no longer an ambush predator, instead choosing to chase prey down.</p>\n"
+      "blurb": "<p>Huntail’s body acts differently undersea than on land and shallows. A weak swimmer in its own environment, its wriggling becomes effective slithering. It is no longer an ambush predator, instead chasing prey.</p>\n"
     },
     {
       "name": "Gorebyss",
@@ -72539,7 +72542,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Although Relicanth never changes, there are variants. Some Relicanth have different patterns to their tan and brown markings, always centered around the red dot. Treasure hunters think these patterns could be treasure maps.</p>\n"
+      "blurb": "<p>Although Relicanth never changes, there are variants. Relicanth patterns differ in their tan and brown markings, but always center around the red dot. Some think these patterns could be treasure maps.</p>\n"
     }
   ],
   "luvdisc": [
@@ -72691,7 +72694,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>DNA sequencing reveals Luvdisc could evolve into Alomomola, but we have yet to discover how. Most Luvdisc owners don’t want them to evolve, so funding is hard to find.</p>\n"
+      "blurb": "<p>DNA sequencing reveals Luvdisc could evolve, but we have yet to discover how. Most Luvdisc owners don’t want them to evolve, so funding is hard to find.</p>\n"
     },
     {
       "name": "Alomomola",
@@ -72841,7 +72844,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Wild Alomomola are followed at all times by grateful Pokémon, who wish to give thanks for healing them. Not all species Alomomola takes care of get along, so some of these Pokémon just increase its workload.</p>\n"
+      "blurb": "<p>Wild Alomomola are followed at all times by grateful healed Pokémon who wish to give thanks. Not all species Alomomola takes care of get along, so some of these Pokémon just increase its workload.</p>\n"
     }
   ],
   "bagon": [
@@ -72866,7 +72869,7 @@
       "height": "2′",
       "weight": 92.8,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -73007,7 +73010,7 @@
       "height": "3′7″",
       "weight": 243.6,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -73130,7 +73133,7 @@
           "Tailwind"
         ]
       },
-      "blurb": "<p>Shelgon barely moves while transforming, but it is still conscious. Trainers who read or talk to their Shelgon report a much faster evolution into Salamence. Whether this is because Shelgon appreciates the company or wants to fly away from the conversation is up to debate.</p>\n"
+      "blurb": "<p>Trainers who read or talk to their Shelgon report much faster evolution into Salamence. Whether this is because Shelgon appreciates the company or wants to fly away from the conversation is up for debate.</p>\n"
     },
     {
       "name": "Salamence",
@@ -73154,7 +73157,7 @@
       "height": "4′11″",
       "weight": 226.2,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -73309,7 +73312,7 @@
       "height": "5′11″",
       "weight": 248.2,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -74091,7 +74094,7 @@
           "Thunderbolt"
         ]
       },
-      "blurb": "<p>Regice that awaken in non-arctic areas are considered an environmental crisis. They freeze their surroundings, drifting over the land to unseal their siblings. They can even freeze the sea, leaving entire fleets frozen in place for days.</p>\n"
+      "blurb": "<p>Regice that awaken in warmer areas are considered environmental crises. They drift over and freeze the land to unseal their siblings. They can even freeze seawater, locking ships in place for days.</p>\n"
     }
   ],
   "registeel": [
@@ -74523,7 +74526,7 @@
           "Thunder Fang"
         ]
       },
-      "blurb": "<p>Historians found “dragon crystals” for years before Regidrago’s discovery put them into context. These dragon energy materials now sell for horrible amounts on the black market, where rogue archaeologists try to make a “complete” Regidrago.</p>\n"
+      "blurb": "<p>Historians found “dragon crystals” for years before Regidrago’s discovery put them into context. These dragon energy materials now sell on the black market to rogue archaeologists trying to make a “complete” Regidrago.</p>\n"
     }
   ],
   "regigigas": [
@@ -75456,7 +75459,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Groudon swims through magma as if it were water, and digs through solid rock as if it was dust. Volcanoes erupt in its presence, announcing the arrival of a king. Towns where people have supposedly seen Groudon no longer stand.</p>\n"
+      "blurb": "<p>Groudon swims through magma like water and digs through solid rock like dust. Volcanoes erupt in its presence, announcing the arrival of a king. Towns where people have supposedly seen Groudon no longer stand.</p>\n"
     },
     {
       "name": "Primal Groudon",
@@ -78010,7 +78013,7 @@
       "height": "1′",
       "weight": 4.4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -78144,7 +78147,7 @@
       "height": "2′",
       "weight": 34.2,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -78283,7 +78286,7 @@
       "height": "3′11″",
       "weight": 54.9,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -78738,7 +78741,7 @@
       "height": "1′",
       "weight": 4.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -78845,7 +78848,7 @@
       "height": "3′3″",
       "weight": 56.2,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80082,7 +80085,7 @@
       "height": "8″",
       "weight": 7.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80189,7 +80192,7 @@
       "height": "1′8″",
       "weight": 14.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80333,7 +80336,7 @@
       "height": "1′8″",
       "weight": 14.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80476,7 +80479,7 @@
       "height": "1′8″",
       "weight": 14.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80618,7 +80621,7 @@
       "height": "2′11″",
       "weight": 51.4,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80762,7 +80765,7 @@
       "height": "1′",
       "weight": 12.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -80886,7 +80889,7 @@
       "height": "3′11″",
       "weight": 84.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -81035,7 +81038,7 @@
       "weight": 8.6,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -81487,7 +81490,7 @@
       "height": "1′4″",
       "weight": 7.3,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -81624,7 +81627,7 @@
       "height": "1′8″",
       "weight": 20.5,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Plant"
       ],
       "abilities": {
@@ -83723,7 +83726,7 @@
       "height": "1′8″",
       "weight": 4.2,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -84032,7 +84035,7 @@
       "weight": 45.2,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -84174,7 +84177,7 @@
       "weight": 123.5,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -84326,7 +84329,7 @@
       "weight": 209.4,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -84481,7 +84484,7 @@
       "weight": 209.4,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -85210,7 +85213,7 @@
       "height": "2′7″",
       "weight": 26.5,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Crustacean"
       ],
       "abilities": {
@@ -85366,7 +85369,7 @@
       "height": "4′3″",
       "weight": 135.6,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Crustacean"
       ],
       "abilities": {
@@ -89114,7 +89117,7 @@
       "weight": 3.1,
       "eggGroups": [
         "Aquatic",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -89253,7 +89256,7 @@
       "weight": 6.8,
       "eggGroups": [
         "Aquatic",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -93914,7 +93917,7 @@
       "height": "1′",
       "weight": 4.6,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -94050,7 +94053,7 @@
       "height": "2′",
       "weight": 33.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -94191,7 +94194,7 @@
       "height": "3′11″",
       "weight": 63.9,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -95064,7 +95067,7 @@
       "weight": 4.6,
       "eggGroups": [
         "Field",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -95226,7 +95229,7 @@
       "weight": 23.1,
       "eggGroups": [
         "Field",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -95682,7 +95685,7 @@
       "height": "3′7″",
       "weight": 68.3,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -95856,7 +95859,7 @@
       "height": "4′11″",
       "weight": 70.5,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -96970,7 +96973,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Throh mostly practices judo, but its weaving is even more impeccable. Traditional towns leave out dyed vines for Throh to weave into comfortable clothing that takes forever to tear. Supposedly Throh even weaves the belts that Sawk wears.</p>\n"
+      "blurb": "<p>Throh’s weaving is even more impeccable than its judo. Traditional towns leave out dyed vines for Throh to weave into comfortable clothing that takes forever to tear. Supposedly Throh even weaves the belts that Sawk wears.</p>\n"
     }
   ],
   "sawk": [
@@ -97140,7 +97143,7 @@
       "height": "1′",
       "weight": 5.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -97290,7 +97293,7 @@
       "height": "1′8″",
       "weight": 16.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -97446,7 +97449,7 @@
       "height": "4′7″",
       "weight": 45.2,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -97610,7 +97613,7 @@
       "height": "1′4″",
       "weight": 11.7,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -97754,7 +97757,7 @@
       "height": "3′11″",
       "weight": 129,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -97905,7 +97908,7 @@
       "height": "8′2″",
       "weight": 442,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -98066,7 +98069,7 @@
       "weight": 1.3,
       "eggGroups": [
         "Plant",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -98208,7 +98211,7 @@
       "weight": 14.6,
       "eggGroups": [
         "Plant",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -100856,7 +100859,7 @@
       "height": "1′",
       "weight": 32,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Mineral"
       ],
       "abilities": {
@@ -100996,7 +100999,7 @@
       "height": "4′7″",
       "weight": 440.9,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Mineral"
       ],
       "abilities": {
@@ -101147,7 +101150,7 @@
       "weight": 26,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -101318,7 +101321,7 @@
       "weight": 66.1,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -101497,7 +101500,7 @@
       "height": "4′7″",
       "weight": 30.9,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -101728,7 +101731,7 @@
             "Head Smash"
           ],
           "14": [
-            "Psychic Terrain"
+            "Pain Split"
           ],
           "15": [
             "Flash Cannon"
@@ -101760,7 +101763,6 @@
           "Memento",
           "Nasty Plot",
           "Ominous Wind",
-          "Pain Split",
           "Payback",
           "Phantom Force",
           "Poltergeist",
@@ -101890,7 +101892,7 @@
             "Destiny Bond"
           ],
           "15": [
-            "Psychic Terrain"
+            "Pain Split"
           ],
           "16": [
             "Flash Cannon"
@@ -101924,7 +101926,6 @@
           "Memento",
           "Nasty Plot",
           "Ominous Wind",
-          "Pain Split",
           "Payback",
           "Phantom Force",
           "Poltergeist",
@@ -102047,7 +102048,7 @@
             "Head Smash"
           ],
           "14": [
-            "Sandstorm"
+            "Moonlight"
           ],
           "15": [
             "Dragon Rush"
@@ -102090,6 +102091,7 @@
           "Rock Tomb",
           "Round",
           "Safeguard",
+          "Sandstorm",
           "Scary Face",
           "Shadow Claw",
           "Skill Swap",
@@ -102208,7 +102210,7 @@
             "Destiny Bond"
           ],
           "15": [
-            "Sandstorm"
+            "Moonlight"
           ],
           "16": [
             "Dragon Rush"
@@ -102253,6 +102255,7 @@
           "Round",
           "Safeguard",
           "Sand Tomb",
+          "Sandstorm",
           "Scary Face",
           "Skill Swap",
           "Sleep Talk",
@@ -102599,7 +102602,7 @@
       "height": "2′",
       "weight": 20.9,
       "eggGroups": [
-        "Flying",
+        "Winged",
         "Crustacean"
       ],
       "abilities": {
@@ -102746,7 +102749,7 @@
       "height": "4′7″",
       "weight": 70.5,
       "eggGroups": [
-        "Flying",
+        "Winged",
         "Crustacean"
       ],
       "abilities": {
@@ -104984,7 +104987,7 @@
       "weight": 12.1,
       "eggGroups": [
         "Aquatic",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -105121,7 +105124,7 @@
       "weight": 53.4,
       "eggGroups": [
         "Aquatic",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -106158,7 +106161,7 @@
       "height": "1′8″",
       "weight": 13,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -106295,7 +106298,7 @@
       "height": "3′3″",
       "weight": 72.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -106443,7 +106446,7 @@
       "height": "1′4″",
       "weight": 17,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -106581,7 +106584,7 @@
       "height": "2′7″",
       "weight": 55.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -107310,7 +107313,7 @@
       "height": "4″",
       "weight": 1.3,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -107450,7 +107453,7 @@
       "height": "2′7″",
       "weight": 31.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -108672,7 +108675,7 @@
           "Volt Tackle"
         ]
       },
-      "blurb": "<p>Eelektross only leave their caves when prey is scarce, so they’re especially aggressive. They like to chase Flying-Types through the air, toying with them like a Glameow with a Ratatta.</p>\n"
+      "blurb": "<p>Eelektross only leave their caves when prey is scarce, so they’re especially aggressive. They like to chase Flying-Types through the air, toying with them like a Glameow with a Ratatta. (maybe a bit where they swim “upstream” from water into the air to spawn, like real eels?)</p>\n"
     }
   ],
   "elgyem": [
@@ -109467,7 +109470,7 @@
       "weight": 39.7,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -109623,7 +109626,7 @@
       "weight": 79.4,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -109784,7 +109787,7 @@
       "weight": 232.6,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -111032,7 +111035,7 @@
       "height": "5′3″",
       "weight": 306.4,
       "eggGroups": [
-        "Dragon",
+        "Draconic",
         "Monster"
       ],
       "abilities": {
@@ -111994,7 +111997,7 @@
       "height": "1′8″",
       "weight": 23.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -112109,7 +112112,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Popular culture pits Rufflet and Vullaby as enemies, but in the wild they get along splendidly. Rufflet will show skulls it finds to Vullaby, and Vullaby points out strong enemies for Rufflet to throw itself against. Some people consider it an uneven relationship.</p>\n"
+      "blurb": "<p>Popular culture pits Rufflet and Vullaby as enemies, but in the wild they get along splendidly. Rufflet brings skulls it finds to Vullaby, and Vullaby points out strong enemies for Rufflet to throw itself against. Some consider it an uneven relationship.</p>\n"
     },
     {
       "name": "Braviary",
@@ -112133,7 +112136,7 @@
       "height": "4′11″",
       "weight": 90.4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -112256,7 +112259,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Braviary picks up any car that parks too close to its nest and drops it into the ocean. Pokéologists believe it mistakes the car for an evolution of Durant, and don’t blame it for overreacting.</p>\n"
+      "blurb": "<p>Braviary picks up any cars parked too close to its nest and drops them into the ocean. Pokéologists believe it mistake cars for an evolution of Durant, and don’t blame it for overreacting.</p>\n"
     },
     {
       "name": "Hisuian Braviary",
@@ -112280,7 +112283,7 @@
       "height": "5′7″",
       "weight": 97.5,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -112388,7 +112391,7 @@
       "height": "1′8″",
       "weight": 19.8,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -112507,7 +112510,7 @@
           "U-Turn"
         ]
       },
-      "blurb": "<p>Vullaby isn’t a good hunter, so it can’t stray from its nest for long. It doesn’t recognize danger, so it will wander off if it sees anything interesting. When it inevitably becomes lost, it makes a cry similar to Cubone’s to attract its mother.</p>\n"
+      "blurb": "<p>Vullaby isn’t a good hunter, so it can’t stray from its nest for long. It doesn’t recognize danger and wanders off if it sees anything interesting. When it inevitably becomes lost, it makes a cry similar to Cubone’s to attract its mother.</p>\n"
     },
     {
       "name": "Mandibuzz",
@@ -112531,7 +112534,7 @@
       "height": "3′11″",
       "weight": 87.1,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -112813,7 +112816,7 @@
           "Wrap"
         ]
       },
-      "blurb": "<p>Heatmor are so successful at keeping Durants in check that pest control agencies have begun breeding them to handle other infestations. This has led to mixed success; especially in terms of collateral damage.</p>\n"
+      "blurb": "<p>Heatmor are so successful at curtailing Durant that pest control agencies began breeding them to handle other infestations. This has led to mixed success; especially in terms of collateral damage.</p>\n"
     }
   ],
   "durant": [
@@ -112839,7 +112842,7 @@
       "height": "1′",
       "weight": 72.8,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -112951,7 +112954,7 @@
           "Thunder Wave"
         ]
       },
-      "blurb": "<p>Although Durant prefer mountain tunnels, heavy rain can drive them out to find new homes. If they cross a farm during this migration, it is considered already destroyed.</p>\n"
+      "blurb": "<p>Although Durant prefer mountain tunnels, heavy rains can drive them out to seek new homes. If their migration routes cross a farm, consider it already destroyed.</p>\n"
     }
   ],
   "deino": [
@@ -112977,7 +112980,7 @@
       "height": "2′7″",
       "weight": 38.1,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -113137,7 +113140,7 @@
       "height": "4′7″",
       "weight": 110.2,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -113306,7 +113309,7 @@
       "height": "5′11″",
       "weight": 352.7,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -113482,7 +113485,7 @@
       "height": "3′7″",
       "weight": 63.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -113616,7 +113619,7 @@
       "height": "5′3″",
       "weight": 101.4,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -113879,7 +113882,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Cobalion considers itself the leader of the Swords of Justice, and demands respect wherever it roams. Wherever Cobalion goes, it tutors Pokémon to be their strongest form.</p>\n"
+      "blurb": "<p>Cobalion considers itself the leader of the Swords of Justice, and demands respect wherever it roams. Wherever Cobalion goes, it tutors Pokémon to be their strongest.</p>\n"
     }
   ],
   "terrakion": [
@@ -114970,7 +114973,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>The beads on Therian Thundurus discharge randomly, even while it sleeps. Herds of Pikachu would follow its route in the hundreds, until they were found in every region in the world.</p>\n"
+      "blurb": "<p>The beads on Therian Thundurus discharge randomly, even while it sleeps. Herds of hundreds of Pikachu would follow its path, until they spread to every region in the world.</p>\n"
     }
   ],
   "landorus": [
@@ -115260,7 +115263,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>Trainers are constantly on the lookout for Therian Landorus after The Analysis Scene Zine proclaimed it to be the perfect battle partner. Agriculture school students take an oath to protect Landorus from poachers if they ever become farmers.</p>\n"
+      "blurb": "<p>Trainers are constantly on the lookout for Therian Landorus after The Analysis Scene Zine proclaimed it to be the perfect battle partner. Agriculture students take an oath to protect Landorus from poachers when they become farmers.</p>\n"
     }
   ],
   "enamorus": [
@@ -116182,7 +116185,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Recordings of Meloetta’s music are absurdly popular — some people listen to nothing else. Meloetta has the highest bounty on the Criminal Trade System, and programmers strive to make computers imitate its voice. There’s rumors of a composer that wrote for only Meloetta.</p>\n"
+      "blurb": "<p>Recordings of Meloetta’s music are absurdly popular — some people listen to nothing else. Meloetta has the highest bounty on the Criminal Trade System, and programmers strive to make computers imitate its voice. A composer was said to write for only Meloetta.</p>\n"
     },
     {
       "name": "Meloetta (Pirouette)",
@@ -116943,7 +116946,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Only other Pokémon can hurt Chesnaught enough to faint, with no other force coming anywhere close. It has to eat an entire garbage can of chestnuts every day to keep its armor in shape.</p>\n"
+      "blurb": "<p>Only other Pokémon can hurt Chesnaught enough to faint, with no other force coming anywhere close. It has to eat an entire garbage can of fiber every day to keep its armor in shape.</p>\n"
     }
   ],
   "fennekin": [
@@ -118223,7 +118226,7 @@
       "height": "1′",
       "weight": 3.7,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -118349,7 +118352,7 @@
       "height": "2′4″",
       "weight": 35.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -118486,7 +118489,7 @@
       "height": "3′11″",
       "weight": 54,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -118627,7 +118630,7 @@
       "height": "1′",
       "weight": 5.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -118724,7 +118727,7 @@
       "height": "1′",
       "weight": 18.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -118830,7 +118833,7 @@
       "height": "3′11″",
       "weight": 37.5,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -119102,7 +119105,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>The last thing Litleo learns before evolving is how to properly roar. Litleo can be heard trying all day long, only letting out loud meows until it’s strong enough to change. It’s only in their cub form that they can purr.</p>\n"
+      "blurb": "<p>The last thing Litleo learns before evolving is how to properly roar. Litleo can be heard trying all day, only letting out loud meows until it’s strong enough to change. Only their cub form can purr.</p>\n"
     },
     {
       "name": "Pyroar",
@@ -119282,7 +119285,7 @@
       "height": "4″",
       "weight": 0.2,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -119413,7 +119416,7 @@
       "height": "8″",
       "weight": 2,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -119551,7 +119554,7 @@
       "height": "3′7″",
       "weight": 22,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -120435,7 +120438,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Furfrou is the icon of Kalos, especially after Lysandre soured Pyroar’s popularity. In the wild, they use their sharp claws to cut their own fur. The results aren’t very stylish, so they jump at the chance for a groomer to beautify them.<br>Pokéfeature: When Furfrou gets a haircut, its Level 5 Ability and the move False Surrender changes based on its haircut. Haircuts can be given during Long Rests (or by a Stylist any time outside of combat).</p>\n<ul>\n<li>Untrimmed: False Surrender, Tangling Hair</li>\n<li>Heart: Heart Swap, Soul-Heart</li>\n<li>Star: Water Shuriken, Victory Star</li>\n<li>Diamond: Power Gem, Prism Armor</li>\n<li>Pharaoh: Hex, Cursed Body</li>\n<li>Kabuki: Role Play, Dancer</li>\n<li>Matron: Teatime, Friend Guard</li>\n<li>Dandy: After You, Rivalry</li>\n<li>La Reine: Trop Kick, Queenly Majesty</li>\n<li>Debutante: Follow Me, Enthrall<br>(The GM and players are encouraged to collaborate to create more.)</li>\n</ul>\n"
+      "blurb": "<p>Furfrou is the icon of Kalos, especially after Lysandre soured Pyroar’s popularity. In the wild, they cut their own fur with their sharp claws. The results aren’t very stylish, so they jump at the chance for a groomer to beautify them.<br><strong>Pokéfeature:</strong> When Furfrou gets a haircut, its Level 5 Ability and the move False Surrender changes based on its haircut. Haircuts can be given during Long Rests (or by a Stylist any time outside of combat).</p>\n<ul>\n<li>Untrimmed: False Surrender, Tangling Hair</li>\n<li>Heart: Heart Swap, Soul-Heart</li>\n<li>Star: Water Shuriken, Victory Star</li>\n<li>Diamond: Power Gem, Prism Armor</li>\n<li>Pharaoh: Hex, Cursed Body</li>\n<li>Kabuki: Role Play, Dancer</li>\n<li>Matron: Teatime, Friend Guard</li>\n<li>Dandy: After You, Rivalry</li>\n<li>La Reine: Trop Kick, Queenly Majesty</li>\n<li>Debutante: Follow Me, Enthrall</li>\n</ul>\n<p>(The GM and players are encouraged to collaborate to create more.)</p>\n"
     }
   ],
   "espurr": [
@@ -121038,7 +121041,7 @@
           "Wide Guard"
         ]
       },
-      "blurb": "<p>Battlefields slowly clean themselves with Honedge, with spirits inhabiting every weapon until it’s completely empty. There was once a king who attempted to use an army of Honedge, but their reign shortly ended.</p>\n"
+      "blurb": "<p>Battlefields slowly clean themselves with Honedge — spirits inhabit each weapon until all are gone. There was once a king who attempted to use an army of Honedge, but their reign shortly ended.</p>\n"
     },
     {
       "name": "Doublade",
@@ -121179,7 +121182,7 @@
           "Wide Guard"
         ]
       },
-      "blurb": "<p>When Doublade loses a blade, it grows another. The discarded sword loses its ghastly powers, but is still made of the strongest materials. This leads poachers to try capturing only half of Doublade, selling the remaining sword to “historical researchers.”</p>\n"
+      "blurb": "<p>When Doublade loses a blade, it grows another. The discarded sword loses its ghastly powers, but is still finely-made. This leads poachers to try capturing only half of Doublade, selling the remaining sword to “historical researchers.”</p>\n"
     },
     {
       "name": "Aegislash",
@@ -121349,7 +121352,7 @@
       "height": "8″",
       "weight": 1.1,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -121464,7 +121467,7 @@
           "Wish"
         ]
       },
-      "blurb": "<p>Spritzee nests have an extremely strong scent, discouraging predators with heightened senses of smell. If a Trainer walks through one of these nests by accident, they smell like perfume for a week no matter how much they bathe.</p>\n"
+      "blurb": "<p>Spritzee nests have an extremely strong scent, discouraging predators with heightened senses of smell. If a Trainer walks through one of these nests by accident, they smell like perfume for a week.</p>\n"
     },
     {
       "name": "Aromatisse",
@@ -121487,7 +121490,7 @@
       "height": "2′7″",
       "weight": 34.2,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -121637,7 +121640,7 @@
       "height": "1′4″",
       "weight": 7.7,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -121777,7 +121780,7 @@
       "height": "2′7″",
       "weight": 11,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -122581,7 +122584,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Pokéologists found cavities in Barbaracle’s rock that allow its 7 specimens to communicate without alerting anybody else. Trainers should be careful to give affection to each Binacle within Barbaracle, not just the head. If a limb become jealous, it snaps off and leaves.</p>\n"
+      "blurb": "<p>Pokéologists found cavities in Barbaracle’s rock that let its 7 specimens communicate without alerting anybody else. Trainers should be careful to give affection to each Binacle within Barbaracle, not just the head. If a limb become jealous, it snaps off and leaves.</p>\n"
     }
   ],
   "skrelp": [
@@ -122608,7 +122611,7 @@
       "weight": 16.1,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -122743,7 +122746,7 @@
       "weight": 179.7,
       "eggGroups": [
         "Aquatic",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -122862,7 +122865,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>The water that filters through Dragalge has its poisons filtered out into Dragalge’s body. This makes Dragalge even more toxic, but keeps the water around it clean. Until Dragalge attacks you for swimming nearby, of course.</p>\n"
+      "blurb": "<p>Dragalge’s body filters out poisons from the water it breathes. This makes Dragalge even more toxic and keeps the water around it clean — until Dragalge attacks you for swimming nearby.</p>\n"
     }
   ],
   "clauncher": [
@@ -123167,7 +123170,7 @@
       "weight": 13.2,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -123318,7 +123321,7 @@
       "weight": 46.3,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -124095,7 +124098,7 @@
       "height": "2′7″",
       "weight": 47.4,
       "eggGroups": [
-        "Flying",
+        "Winged",
         "Humanoid"
       ],
       "abilities": {
@@ -124272,7 +124275,7 @@
       "weight": 4.9,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -124419,7 +124422,7 @@
       "height": "1′",
       "weight": 12.6,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Mineral"
       ],
       "abilities": {
@@ -124565,7 +124568,7 @@
       "height": "1′",
       "weight": 6.2,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -124707,7 +124710,7 @@
       "height": "2′7″",
       "weight": 38.6,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -124861,7 +124864,7 @@
       "height": "6′7″",
       "weight": 331.8,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -125024,7 +125027,7 @@
       "height": "2′4″",
       "weight": 151,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -125108,7 +125111,8 @@
             "Metal Burst"
           ]
         }
-      }
+      },
+      "blurb": "<p>Observe the way this form of Sliggoo opens its mouth; it’s somewhat disquieting.</p>\n"
     },
     {
       "name": "Hisuian Goodra",
@@ -125132,7 +125136,7 @@
       "height": "5′7″",
       "weight": 736.6,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -125354,7 +125358,7 @@
           "Thunder Wave"
         ]
       },
-      "blurb": "<p>Wild Klefki wander city streets for keys to hoard. They won’t return the keys to anyone but the person who captures it, so thieves capture Klefki at first sight. If you return a Klefki’s key to somebody else, it tends to get mad and refuses to battle for an entire day.</p>\n"
+      "blurb": "<p>Wild Klefki wander city streets for keys to hoard. They won’t return the keys to anyone but the person who captures it, so thieves capture Klefki at first sight. If you return a Klefki’s key to somebody else, it tends to sulk and refuse to battle for an entire day.</p>\n"
     }
   ],
   "phantump": [
@@ -125380,7 +125384,7 @@
       "height": "1′4″",
       "weight": 15.4,
       "eggGroups": [
-        "Grass",
+        "Plant",
         "Amorphous"
       ],
       "abilities": {
@@ -125538,7 +125542,7 @@
       "height": "4′11″",
       "weight": 156.5,
       "eggGroups": [
-        "Grass",
+        "Plant",
         "Amorphous"
       ],
       "abilities": {
@@ -127338,7 +127342,7 @@
       "height": "1′8″",
       "weight": 17.6,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -127483,7 +127487,7 @@
       "height": "4′11″",
       "weight": 187.4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -127761,7 +127765,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>The shards that break off of Xerneas can cure any illness. Consuming one of the shards fills a person with uncontrollable power, and make Pokémon evolve past their limits. If the Pokémon survives, it may become a mythical creature of its own right.</p>\n"
+      "blurb": "<p>Shards that break off Xerneas can cure any illness. Consuming a shard fills a person with uncontrollable power, and makes Pokémon evolve past their limits. If the Pokémon survives, it may become mythical in its own right.</p>\n"
     }
   ],
   "yveltal": [
@@ -128265,6 +128269,7 @@
       },
       "catchDC": 24,
       "evolves": {
+        "by": "Power Construct",
         "from": "Zygarde"
       },
       "moves": {
@@ -129079,7 +129084,7 @@
       "height": "1′",
       "weight": 3.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -129225,7 +129230,7 @@
       "height": "2′4″",
       "weight": 35.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -129377,7 +129382,7 @@
       "height": "5′3″",
       "weight": 80.7,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -129542,7 +129547,7 @@
       "height": "5′3″",
       "weight": 81.6,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -130594,7 +130599,7 @@
       "height": "1′",
       "weight": 2.6,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -130727,7 +130732,7 @@
       "height": "2′",
       "weight": 32.6,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -130864,7 +130869,7 @@
       "height": "3′7″",
       "weight": 57.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -131297,7 +131302,7 @@
       "height": "1′4″",
       "weight": 9.7,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -131426,7 +131431,7 @@
       "height": "1′8″",
       "weight": 23.1,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -131569,7 +131574,7 @@
       "height": "4′11″",
       "weight": 99.2,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -131694,7 +131699,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>Vikavolt has amazing top speed and turns on a dime, but it takes a second to accelerate. When it really needs to power up, it’ll grab a Charjabug and use its Battery to become even more powerful. Despite the weight, this can even make Vikavolt faster!</p>\n"
+      "blurb": "<p>Vikavolt has amazing top speed and turns on a dime, but takes a second to accelerate.</p>\n"
     }
   ],
   "crabrawler": [
@@ -132020,7 +132025,7 @@
       "height": "2′",
       "weight": 7.5,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -132134,7 +132139,7 @@
           "Victory Dance"
         ]
       },
-      "blurb": "<p>The nectars of Ori flowers are fermented into flavorful alcoholic drinks. These drinks are immensely popular in Alola, but growing the flowers on foreign soil only results in Baile petals. Since this is the most complex flavor, exports are rare.</p>\n"
+      "blurb": "<p>The nectars of Ori flowers can ferment into flavorful alcoholic drinks. Such drinks are immensely popular in Alola, but growing the flowers on foreign soil only results in Baile petals. Since that’s the most complex flavor, exports are rare.</p>\n"
     },
     {
       "name": "Oricorio (Pom-Pom)",
@@ -132158,7 +132163,7 @@
       "height": "2′",
       "weight": 7.5,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -132296,7 +132301,7 @@
       "height": "2′",
       "weight": 7.5,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -132434,7 +132439,7 @@
       "height": "2′",
       "weight": 7.5,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -132574,8 +132579,8 @@
       "height": "4″",
       "weight": 0.4,
       "eggGroups": [
-        "Bug",
-        "Fairy"
+        "Insect",
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -132688,7 +132693,7 @@
           "U-Turn"
         ]
       },
-      "blurb": "<p>Riolu treat Cutiefly as a mentor, as Cutiefly is better at controlling aura. Cutiefly don’t pay Riolu any mind, going about their day finding flowers to feed on. They love to feed on Florge’s flower fields, easily dodging its wrath.</p>\n"
+      "blurb": "<p>Riolu seek Cutiefly as a mentor, as Cutiefly is better at controlling aura. Cutiefly pay Riolu no mind, going about their day finding flowers to feed on. They love Florges’s flower fields, easily dodging its wrath.</p>\n"
     },
     {
       "name": "Ribombee",
@@ -132712,8 +132717,8 @@
       "height": "8″",
       "weight": 1.1,
       "eggGroups": [
-        "Bug",
-        "Fairy"
+        "Insect",
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -132837,7 +132842,7 @@
           "U-Turn"
         ]
       },
-      "blurb": "<p>With its proboscis shortened, Ribombee uses its new arms to pick pollen out of flowers. It loves picking things up with its arms, but it tends to fly off carrying objects without thinking.</p>\n"
+      "blurb": "<p>With its shortened proboscis, Ribombee uses its new arms to pick pollen from flowers. It loves picking things up with its arms, but it tends to fly off carrying objects without thinking.</p>\n"
     }
   ],
   "rockruff": [
@@ -133027,7 +133032,7 @@
         "from": "Rockruff"
       },
       "moves": {},
-      "blurb": "<p>Lycanroc is a popular pet all around the world, but their loyalty is hard to earn. If a Trainer is late to feed Lycanroc even once, it pouts for an entire week. They bathe by rolling in pebbles and sand, to avoid being submerged in water.</p>\n"
+      "blurb": "<p>Lycanroc is a popular pet all around the world, but their loyalty is hard to earn. If a Trainer is late feeding Lycanroc even once, it pouts for a week. They bathe by rolling in pebbles and sand, to avoid being submerged in water.</p>\n"
     },
     {
       "name": "Lycanroc (Midnight)",
@@ -133987,7 +133992,7 @@
       "weight": 8.8,
       "eggGroups": [
         "Aquatic",
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -134121,7 +134126,7 @@
       "weight": 180.8,
       "eggGroups": [
         "Aquatic",
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -134263,7 +134268,7 @@
       "height": "1′",
       "weight": 3.3,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -134391,7 +134396,7 @@
       "height": "2′11″",
       "weight": 40.8,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -134538,7 +134543,7 @@
       "height": "8″",
       "weight": 3.3,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -134674,7 +134679,7 @@
       "height": "3′3″",
       "weight": 25.4,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -134823,7 +134828,7 @@
       "weight": 10.6,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -134970,7 +134975,7 @@
       "weight": 48.9,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -135428,7 +135433,7 @@
       "height": "1′",
       "weight": 7.1,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -135567,7 +135572,7 @@
       "height": "2′4″",
       "weight": 18.1,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -135715,7 +135720,7 @@
       "height": "3′11″",
       "weight": 47.2,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -135870,7 +135875,7 @@
       "height": "4″",
       "weight": 0.7,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -136341,7 +136346,7 @@
       "height": "1′8″",
       "weight": 26.5,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Crustacean"
       ],
       "abilities": {
@@ -136462,7 +136467,7 @@
       "height": "6′7″",
       "weight": 238.1,
       "eggGroups": [
-        "Bug",
+        "Insect",
         "Crustacean"
       ],
       "abilities": {
@@ -137789,7 +137794,7 @@
       "weight": 467.4,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -137948,7 +137953,7 @@
       "weight": 7.3,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -137977,20 +137982,21 @@
         "starting": [
           "Nuzzle",
           "Tackle",
-          "Defense Curl"
+          "Defense Curl",
+          "Charge"
         ],
         "levelUp": {
           "2": [
-            "Charge"
-          ],
-          "3": [
             "Rollout"
           ],
-          "4": [
+          "3": [
             "Fell Stinger"
           ],
-          "5": [
+          "4": [
             "Spark"
+          ],
+          "5": [
+            "Parabolic Charge"
           ],
           "6": [
             "Magnet Bomb"
@@ -138288,7 +138294,8 @@
         "starting": [
           "Astonish",
           "Water Gun",
-          "Confusion"
+          "Confusion",
+          "Disable"
         ],
         "levelUp": {
           "2": [
@@ -138298,43 +138305,43 @@
             "Aqua Jet"
           ],
           "4": [
-            "Disable"
-          ],
-          "5": [
             "Psywave"
           ],
-          "6": [
+          "5": [
             "Screech"
           ],
-          "7": [
+          "6": [
             "Crunch"
+          ],
+          "7": [
+            "Psychic Fangs"
           ],
           "8": [
             "Magic Coat"
           ],
           "9": [
-            "Psychic Fangs"
-          ],
-          "10": [
             "Aqua Tail"
           ],
-          "11": [
+          "10": [
             "Dazzling Gleam"
           ],
+          "11": [
+            "Ice Fang"
+          ],
           "12": [
-            "Sucker Punch"
+            "Trick Room"
           ],
           "13": [
             "Iron Tail"
           ],
           "14": [
-            "Spikes"
-          ],
-          "15": [
             "Confuse Ray"
           ],
-          "16": [
+          "15": [
             "Synchronoise"
+          ],
+          "16": [
+            "Prismatic Laser"
           ]
         },
         "tutor": [
@@ -138351,7 +138358,6 @@
           "Giga Impact",
           "Hyper Beam",
           "Ice Beam",
-          "Ice Fang",
           "Light Screen",
           "Liquidation",
           "Magic Room",
@@ -138373,7 +138379,6 @@
           "Swords Dance",
           "Taunt",
           "Telekinesis",
-          "Trick Room",
           "Uproar",
           "Venoshock",
           "Water Pulse",
@@ -138408,7 +138413,7 @@
       "weight": 407.9,
       "eggGroups": [
         "Monster",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -138723,7 +138728,7 @@
       "height": "2′",
       "weight": 65.5,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -138881,7 +138886,7 @@
       "height": "3′11″",
       "weight": 103.6,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -139054,7 +139059,7 @@
       "height": "5′3″",
       "weight": 172.4,
       "eggGroups": [
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -142839,7 +142844,7 @@
           "Thunderbolt"
         ]
       },
-      "blurb": "<p>Tools and silverware should be locked away during Meltan infestations, as they can squeeze through the smallest holes. The hex nut can’t change shape, so it’s often left behind. If you find the nut, put it in a wooden bowl and Meltan will get stuck retrieving it. Make sure not to put too many Meltan in the same bowl.</p>\n"
+      "blurb": "<p>Lock away tools and silverware during Meltan infestations, as they can squeeze through the smallest holes. The hex nut can’t change shape, so it’s often left behind. If you find the nut, put it in a wooden bowl and Meltan will get stuck retrieving it. Make sure not to put too many Meltan in the same bowl.</p>\n"
     },
     {
       "name": "Melmetal",
@@ -143011,7 +143016,7 @@
       "weight": 11,
       "eggGroups": [
         "Field",
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -143172,7 +143177,7 @@
       "weight": 30.9,
       "eggGroups": [
         "Field",
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -143341,7 +143346,7 @@
       "weight": 198.4,
       "eggGroups": [
         "Field",
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -144734,7 +144739,7 @@
       "height": "8″",
       "weight": 4,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -144763,17 +144768,18 @@
         "starting": [
           "Peck",
           "Leer",
-          "Power Trip"
+          "Power Trip",
+          "Hone Claws"
         ],
         "levelUp": {
           "2": [
-            "Hone Claws"
-          ],
-          "3": [
             "Fury Attack"
           ],
-          "4": [
+          "3": [
             "Pluck"
+          ],
+          "4": [
+            "Slash"
           ],
           "5": [
             "Taunt"
@@ -144782,10 +144788,10 @@
             "Agility"
           ],
           "7": [
-            "Reflect"
+            "Drill Peck"
           ],
           "8": [
-            "Drill Peck"
+            "Facade"
           ],
           "9": [
             "Acrobatics"
@@ -144819,7 +144825,6 @@
           "Defog",
           "Dual Wingbeat",
           "Endure",
-          "Facade",
           "Fake Tears",
           "Fly",
           "Focus Energy",
@@ -144828,6 +144833,7 @@
           "Nasty Plot",
           "Payback",
           "Protect",
+          "Reflect",
           "Rest",
           "Reversal",
           "Round",
@@ -144835,7 +144841,6 @@
           "Scary Face",
           "Screech",
           "Sky Attack",
-          "Slash",
           "Sleep Talk",
           "Snore",
           "Spite",
@@ -144869,7 +144874,7 @@
       "height": "2′7″",
       "weight": 35.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -144904,14 +144909,15 @@
         "starting": [
           "Peck",
           "Leer",
-          "Power Trip"
+          "Power Trip",
+          "Hone Claws"
         ],
         "levelUp": {
           "2": [
-            "Hone Claws"
+            "Fury Attack"
           ],
           "3": [
-            "Fury Attack"
+            "Pluck"
           ],
           "4": false,
           "5": [
@@ -144924,10 +144930,10 @@
             "Scary Face"
           ],
           "8": [
-            "Reflect"
+            "Drill Peck"
           ],
           "9": [
-            "Drill Peck"
+            "Facade"
           ],
           "10": [
             "Fling"
@@ -144945,7 +144951,7 @@
             "Revenge"
           ],
           "15": [
-            "Bind"
+            "Tailwind"
           ],
           "16": [
             "Coaching"
@@ -144962,7 +144968,6 @@
           "Defog",
           "Dual Wingbeat",
           "Endure",
-          "Facade",
           "Fake Tears",
           "Focus Energy",
           "Hurricane",
@@ -144970,6 +144975,7 @@
           "Nasty Plot",
           "Payback",
           "Protect",
+          "Reflect",
           "Rest",
           "Reversal",
           "Round",
@@ -144981,7 +144987,6 @@
           "Snore",
           "Spite",
           "Substitute",
-          "Tailwind",
           "Thief",
           "U-Turn",
           "Work Up"
@@ -145011,7 +145016,7 @@
       "height": "7′3″",
       "weight": 165.3,
       "eggGroups": [
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -145046,14 +145051,15 @@
         "starting": [
           "Peck",
           "Leer",
-          "Power Trip"
+          "Power Trip",
+          "Hone Claws"
         ],
         "levelUp": {
           "2": [
-            "Hone Claws"
+            "Fury Attack"
           ],
           "3": [
-            "Fury Attack"
+            "Pluck"
           ],
           "4": false,
           "5": [
@@ -145067,10 +145073,10 @@
           ],
           "8": false,
           "9": [
-            "Reflect"
+            "Drill Peck"
           ],
           "10": [
-            "Drill Peck"
+            "Facade"
           ],
           "11": [
             "Iron Tail"
@@ -145105,7 +145111,6 @@
           "Defog",
           "Dual Wingbeat",
           "Endure",
-          "Facade",
           "Fake Tears",
           "Fleur Cannon",
           "Focus Energy",
@@ -145121,6 +145126,7 @@
           "Nasty Plot",
           "Payback",
           "Protect",
+          "Reflect",
           "Rest",
           "Reversal",
           "Round",
@@ -145163,7 +145169,7 @@
       "height": "1′4″",
       "weight": 17.6,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -145257,7 +145263,7 @@
       "height": "1′4″",
       "weight": 43,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -145404,7 +145410,7 @@
       "height": "1′4″",
       "weight": 89.9,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -145859,7 +145865,7 @@
       "height": "1′4″",
       "weight": 4.9,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -145994,7 +146000,7 @@
       "height": "1′8″",
       "weight": 5.5,
       "eggGroups": [
-        "Grass"
+        "Plant"
       ],
       "abilities": {
         "start": [
@@ -147475,8 +147481,8 @@
       "height": "8″",
       "weight": 1.1,
       "eggGroups": [
-        "Grass",
-        "Dragon"
+        "Plant",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -147572,8 +147578,8 @@
       "height": "1′",
       "weight": 2.2,
       "eggGroups": [
-        "Grass",
-        "Dragon"
+        "Plant",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -147719,8 +147725,8 @@
       "height": "1′4″",
       "weight": 28.7,
       "eggGroups": [
-        "Grass",
-        "Dragon"
+        "Plant",
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -147870,7 +147876,7 @@
       "weight": 16.8,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -148013,7 +148019,7 @@
       "weight": 144.4,
       "eggGroups": [
         "Field",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -148168,7 +148174,7 @@
       "weight": 39.7,
       "eggGroups": [
         "Aquatic",
-        "Flying"
+        "Winged"
       ],
       "abilities": {
         "start": [
@@ -148591,7 +148597,7 @@
             "Innocent Face"
           ],
           [
-            "Poison Touch"
+            "Poison Point"
           ],
           [
             "Klutz"
@@ -148712,7 +148718,7 @@
             "Own Tempo"
           ],
           [
-            "Poison Touch"
+            "Poison Point"
           ],
           [
             "Technician"
@@ -148858,7 +148864,7 @@
       "height": "2′4″",
       "weight": 2.2,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -148991,7 +148997,7 @@
       "height": "9′10″",
       "weight": 264.6,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -149715,7 +149721,7 @@
       "height": "1′4″",
       "weight": 7.5,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -149857,7 +149863,7 @@
       "height": "2′",
       "weight": 10.6,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -150008,7 +150014,7 @@
       "height": "6′11″",
       "weight": 11.2,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -150166,7 +150172,7 @@
       "height": "1′4″",
       "weight": 12.1,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Humanoid"
       ],
       "abilities": {
@@ -150323,7 +150329,7 @@
       "height": "2′7″",
       "weight": 27.6,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Humanoid"
       ],
       "abilities": {
@@ -150485,7 +150491,7 @@
       "height": "4′11″",
       "weight": 134.5,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Humanoid"
       ],
       "abilities": {
@@ -150654,7 +150660,7 @@
       "height": "8″",
       "weight": 0.7,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Amorphous"
       ],
       "abilities": {
@@ -150789,7 +150795,7 @@
       "height": "1′",
       "weight": 1.1,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Amorphous"
       ],
       "abilities": {
@@ -150936,7 +150942,7 @@
       "height": "9′10″",
       "weight": 136.7,
       "eggGroups": [
-        "Fairy",
+        "Fae",
         "Mineral"
       ],
       "abilities": {
@@ -151214,7 +151220,7 @@
       "height": "1′",
       "weight": 8.4,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -151323,7 +151329,7 @@
       "height": "4′3″",
       "weight": 92.6,
       "eggGroups": [
-        "Bug"
+        "Insect"
       ],
       "abilities": {
         "start": [
@@ -151897,7 +151903,7 @@
       "height": "2′11″",
       "weight": 61.7,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -152041,7 +152047,7 @@
       "height": "2′11″",
       "weight": 61.7,
       "eggGroups": [
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -152188,7 +152194,7 @@
       "weight": 6.6,
       "eggGroups": [
         "Field",
-        "Fairy"
+        "Fae"
       ],
       "abilities": {
         "start": [
@@ -153211,7 +153217,7 @@
       "weight": 88.2,
       "eggGroups": [
         "Mineral",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -153362,7 +153368,7 @@
       "weight": 4.4,
       "eggGroups": [
         "Amorphous",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -153482,7 +153488,7 @@
       "weight": 24.3,
       "eggGroups": [
         "Amorphous",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -153639,7 +153645,7 @@
       "weight": 110.2,
       "eggGroups": [
         "Amorphous",
-        "Dragon"
+        "Draconic"
       ],
       "abilities": {
         "start": [
@@ -155208,6 +155214,7 @@
           "Rock Slide",
           "Rock Tomb",
           "Round",
+          "Sandstorm",
           "Seed Bomb",
           "Sleep Talk",
           "Snarl",
@@ -155226,6 +155233,282 @@
         ]
       },
       "blurb": "<p>Zarude forests grow so dense over time that even other Pokémon can’t make their way through. Because of this, Zarude’s environment has only been officially recorded a handful of times. Poachers and Pokéologists alike pay handsomely for information on a Zarude pack’s home.</p>\n"
+    }
+  ],
+  "glastrier": [
+    {
+      "name": "Glastrier",
+      "type1": "Ice",
+      "stats": {
+        "HP": 50,
+        "ATK": 14,
+        "DEF": 12,
+        "SATK": 6,
+        "SDEF": 10,
+        "SPE": 2
+      },
+      "skills": {
+        "Athletics": 9,
+        "Endurance": 7,
+        "Focus": 1,
+        "Stealth": 5,
+        "Acrobatics": -3
+      },
+      "height": "7′3″",
+      "weight": 1763.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Chilling Neigh"
+          ]
+        ],
+        "level5": [
+          [
+            "Prism Armor"
+          ],
+          [
+            "Chill"
+          ],
+          [
+            "Sheer Force"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Tackle",
+          "Tail Whip",
+          "Avalanche",
+          "Double Kick"
+        ],
+        "levelUp": {
+          "2": [
+            "Icy Wind",
+            "Payback"
+          ],
+          "3": [
+            "Stomp"
+          ],
+          "4": [
+            "Torment",
+            "Mist"
+          ],
+          "5": [
+            "Icicle Crash",
+            "Assurance"
+          ],
+          "6": [
+            "Take Down"
+          ],
+          "7": [
+            "Iron Defense",
+            "Taunt"
+          ],
+          "8": [
+            "Liquidation",
+            "Thrash"
+          ],
+          "9": [
+            "Swords Dance"
+          ],
+          "10": [
+            "High Horsepower"
+          ],
+          "11": [
+            "Double-Edge"
+          ],
+          "12": [
+            "Triple Axel"
+          ],
+          "13": [
+            "Lash Out"
+          ],
+          "14": [
+            "Head Smash"
+          ],
+          "15": [
+            "Nightmare"
+          ]
+        },
+        "tutor": [
+          "Blizzard",
+          "Body Press",
+          "Body Slam",
+          "Bulldoze",
+          "Close Combat",
+          "Crunch",
+          "Endure",
+          "Facade",
+          "Giga Impact",
+          "Hail",
+          "Heavy Slam",
+          "Hyper Beam",
+          "Ice Beam",
+          "Icicle Spear",
+          "Mega Kick",
+          "Megahorn",
+          "Mud Shot",
+          "Outrage",
+          "Protect",
+          "Rest",
+          "Round",
+          "Scary Face",
+          "Sharpen",
+          "Sleep Talk",
+          "Smart Strike",
+          "Snarl",
+          "Snore",
+          "Stomping Tantrum",
+          "Substitute",
+          "Superpower",
+          "Throat Chop",
+          "Uproar"
+        ]
+      },
+      "blurb": "<p>Before Calyrex, Glastrier was a force of destruction that took no sides. Ruins of its path still litter Galar, indistinguishable from those burned down by war and greed.</p>\n"
+    }
+  ],
+  "spectrier": [
+    {
+      "name": "Spectrier",
+      "type1": "Ghost",
+      "stats": {
+        "HP": 50,
+        "ATK": 6,
+        "DEF": 5,
+        "SATK": 14,
+        "SDEF": 7,
+        "SPE": 12
+      },
+      "skills": {
+        "Athletics": 1,
+        "Endurance": 0,
+        "Focus": 9,
+        "Stealth": 2,
+        "Acrobatics": 7
+      },
+      "height": "6′7″",
+      "weight": 98.1,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Grim Neigh"
+          ]
+        ],
+        "level5": [
+          [
+            "Shadow Shield"
+          ],
+          [
+            "Chill"
+          ],
+          [
+            "Serene Grace"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Tackle",
+          "Tail Whip",
+          "Hex",
+          "Double Kick"
+        ],
+        "levelUp": {
+          "2": [
+            "Razor Wind",
+            "Giga Drain"
+          ],
+          "3": [
+            "Stomp"
+          ],
+          "4": [
+            "Confuse Ray",
+            "Haze"
+          ],
+          "5": [
+            "Shadow Ball",
+            "Night Daze"
+          ],
+          "6": [
+            "Strength Sap"
+          ],
+          "7": [
+            "Agility",
+            "Disable"
+          ],
+          "8": [
+            "Extrasensory",
+            "Uproar"
+          ],
+          "9": [
+            "Nasty Plot"
+          ],
+          "10": [
+            "High Horsepower"
+          ],
+          "11": [
+            "Double-Edge"
+          ],
+          "12": [
+            "Moongeist Beam"
+          ],
+          "13": [
+            "Doom Desire"
+          ],
+          "14": [
+            "Meteor Beam"
+          ],
+          "15": [
+            "Nightmare"
+          ]
+        },
+        "tutor": [
+          "Assurance",
+          "Body Slam",
+          "Bulldoze",
+          "Calm Mind",
+          "Crunch",
+          "Dark Pulse",
+          "Dream Eater",
+          "Endure",
+          "Facade",
+          "Foul Play",
+          "Future Sight",
+          "Giga Impact",
+          "Hyper Beam",
+          "Lash Out",
+          "Mega Kick",
+          "Mud Shot",
+          "Payback",
+          "Phantom Force",
+          "Protect",
+          "Psycho Cut",
+          "Rest",
+          "Round",
+          "Scary Face",
+          "Sleep Talk",
+          "Snarl",
+          "Snore",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sweet Scent",
+          "Swift",
+          "Taunt",
+          "Will-O-Wisp"
+        ]
+      },
+      "blurb": "<p>Before Calyrex, Spectrier terrorized Galar with its mischief. It loved to rot fruits and vegetables away by stealing life from their roots, turning entire fields wilted as it ran by. When there was no food to ruin, it would chase people within their dreams.</p>\n"
     }
   ],
   "calyrex": [
@@ -155735,282 +156018,6 @@
         ]
       },
       "blurb": "<p>Spectrier’s pride never diminished, and it would go on to challenge Calyrex one hundred times over the king’s reign. When the people’s faith diminished and Calyrex’s strength grew weak, Spectrier was the last to leave.</p>\n"
-    }
-  ],
-  "glastrier": [
-    {
-      "name": "Glastrier",
-      "type1": "Ice",
-      "stats": {
-        "HP": 50,
-        "ATK": 14,
-        "DEF": 12,
-        "SATK": 6,
-        "SDEF": 10,
-        "SPE": 2
-      },
-      "skills": {
-        "Athletics": 9,
-        "Endurance": 7,
-        "Focus": 1,
-        "Stealth": 5,
-        "Acrobatics": -3
-      },
-      "height": "7′3″",
-      "weight": 1763.7,
-      "eggGroups": [
-        "None"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Chilling Neigh"
-          ]
-        ],
-        "level5": [
-          [
-            "Prism Armor"
-          ],
-          [
-            "Chill"
-          ],
-          [
-            "Sheer Force"
-          ]
-        ]
-      },
-      "catchDC": 24,
-      "evolves": {},
-      "moves": {
-        "starting": [
-          "Tackle",
-          "Tail Whip",
-          "Avalanche",
-          "Double Kick"
-        ],
-        "levelUp": {
-          "2": [
-            "Icy Wind",
-            "Payback"
-          ],
-          "3": [
-            "Stomp"
-          ],
-          "4": [
-            "Torment",
-            "Mist"
-          ],
-          "5": [
-            "Icicle Crash",
-            "Assurance"
-          ],
-          "6": [
-            "Take Down"
-          ],
-          "7": [
-            "Iron Defense",
-            "Taunt"
-          ],
-          "8": [
-            "Liquidation",
-            "Thrash"
-          ],
-          "9": [
-            "Swords Dance"
-          ],
-          "10": [
-            "High Horsepower"
-          ],
-          "11": [
-            "Double-Edge"
-          ],
-          "12": [
-            "Triple Axel"
-          ],
-          "13": [
-            "Lash Out"
-          ],
-          "14": [
-            "Head Smash"
-          ],
-          "15": [
-            "Nightmare"
-          ]
-        },
-        "tutor": [
-          "Blizzard",
-          "Body Press",
-          "Body Slam",
-          "Bulldoze",
-          "Close Combat",
-          "Crunch",
-          "Endure",
-          "Facade",
-          "Giga Impact",
-          "Hail",
-          "Heavy Slam",
-          "Hyper Beam",
-          "Ice Beam",
-          "Icicle Spear",
-          "Mega Kick",
-          "Megahorn",
-          "Mud Shot",
-          "Outrage",
-          "Protect",
-          "Rest",
-          "Round",
-          "Scary Face",
-          "Sharpen",
-          "Sleep Talk",
-          "Smart Strike",
-          "Snarl",
-          "Snore",
-          "Stomping Tantrum",
-          "Substitute",
-          "Superpower",
-          "Throat Chop",
-          "Uproar"
-        ]
-      },
-      "blurb": "<p>Before Calyrex, Glastrier was a force of destruction that took no sides. Ruins of its path still litter Galar, indistinguishable from those burned down by war and greed.</p>\n"
-    }
-  ],
-  "spectrier": [
-    {
-      "name": "Spectrier",
-      "type1": "Ghost",
-      "stats": {
-        "HP": 50,
-        "ATK": 6,
-        "DEF": 5,
-        "SATK": 14,
-        "SDEF": 7,
-        "SPE": 12
-      },
-      "skills": {
-        "Athletics": 1,
-        "Endurance": 0,
-        "Focus": 9,
-        "Stealth": 2,
-        "Acrobatics": 7
-      },
-      "height": "6′7″",
-      "weight": 98.1,
-      "eggGroups": [
-        "None"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Grim Neigh"
-          ]
-        ],
-        "level5": [
-          [
-            "Shadow Shield"
-          ],
-          [
-            "Chill"
-          ],
-          [
-            "Serene Grace"
-          ]
-        ]
-      },
-      "catchDC": 24,
-      "evolves": {},
-      "moves": {
-        "starting": [
-          "Tackle",
-          "Tail Whip",
-          "Hex",
-          "Double Kick"
-        ],
-        "levelUp": {
-          "2": [
-            "Razor Wind",
-            "Giga Drain"
-          ],
-          "3": [
-            "Stomp"
-          ],
-          "4": [
-            "Confuse Ray",
-            "Haze"
-          ],
-          "5": [
-            "Shadow Ball",
-            "Night Daze"
-          ],
-          "6": [
-            "Strength Sap"
-          ],
-          "7": [
-            "Agility",
-            "Disable"
-          ],
-          "8": [
-            "Extrasensory",
-            "Uproar"
-          ],
-          "9": [
-            "Nasty Plot"
-          ],
-          "10": [
-            "High Horsepower"
-          ],
-          "11": [
-            "Double-Edge"
-          ],
-          "12": [
-            "Moongeist Beam"
-          ],
-          "13": [
-            "Doom Desire"
-          ],
-          "14": [
-            "Meteor Beam"
-          ],
-          "15": [
-            "Nightmare"
-          ]
-        },
-        "tutor": [
-          "Assurance",
-          "Body Slam",
-          "Bulldoze",
-          "Calm Mind",
-          "Crunch",
-          "Dark Pulse",
-          "Dream Eater",
-          "Endure",
-          "Facade",
-          "Foul Play",
-          "Future Sight",
-          "Giga Impact",
-          "Hyper Beam",
-          "Lash Out",
-          "Mega Kick",
-          "Mud Shot",
-          "Payback",
-          "Phantom Force",
-          "Protect",
-          "Psycho Cut",
-          "Rest",
-          "Round",
-          "Scary Face",
-          "Sleep Talk",
-          "Snarl",
-          "Snore",
-          "Stomping Tantrum",
-          "Substitute",
-          "Sweet Scent",
-          "Swift",
-          "Taunt",
-          "Will-O-Wisp"
-        ]
-      },
-      "blurb": "<p>Before Calyrex, Spectrier terrorized Galar with its mischief. It loved to rot fruits and vegetables away by stealing life from their roots, turning entire fields wilted as it ran by. When there was no food to ruin, it would chase people within their dreams.</p>\n"
     }
   ]
 }
