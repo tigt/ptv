@@ -29,9 +29,12 @@ const path = require('path')
       return sharp(pathIn)
         .resize({
           width: 400,
+          height: 400,
+          fit: 'inside',
           withoutEnlargement: true
         })
         .blur(0.3) // Some original images have crust like whoah
+        .flatten({ background: '#ecebdd' })
         .jpeg({
           mozjpeg: true,
           quality: 85
