@@ -28,7 +28,8 @@ layout: base
   }
 
   .mon_pic {
-    border-top-left-radius: 30%;
+    border-top-left-radius: 30%; /* for whatever doesn’t support clip-path */
+    clip-path: polygon(0 30%, 30% 0, 100% 0, 100% 100%, 0 100%);
     max-width: 100%;
     height: auto;
   }

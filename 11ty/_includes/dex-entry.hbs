@@ -4,10 +4,23 @@
 
   {{#with (lookup @root.[dex-images] (slugify name)) as | image | }}
     {{#if image}}
-      <img alt="" class="mon_pic"
-        src="../img/{{slugify ../name}}.jpg?{{hash}}"
-        width="{{sizes.[0]}}" height="{{sizes.[1]}}"
-        loading="lazy">
+      {{#if secret}}
+        <a class="mon_shh"
+          href="../img/{{slugify ../name}}--secret.jpg?{{hash}}"
+        >
+      {{/if}}
+        <img alt="" class="mon_pic"
+          src="../img/{{slugify ../name}}.jpg?{{hash}}"
+          width="{{sizes.[0]}}" height="{{sizes.[1]}}"
+          loading="lazy">
+      {{#if image.secret}}</a>{{/if}}
+
+      {{#if toggle}}
+        <img alt="" class="mon_pic"
+          src="../img/{{slugify ../name}}--toggle.jpg?{{hash}}"
+          width="{{sizes.[0]}}" height="{{sizes.[1]}}"
+          loading="lazy">
+      {{/if}}
     {{else}}
       {{log name 'not found in dex image data' level='error'}}
     {{/if}}

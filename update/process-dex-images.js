@@ -47,7 +47,25 @@ const path = require('path')
     }))
   }
 
-  const results = Object.fromEntries(await Promise.all(outputPromises))
+  const results = {}
+
+  await Promise.all(outputPromises).then(p => {
+    const sorted = p.sort((a, b) => a[0].localeCompare(b[0]))
+
+    for (const [name, img] of sorted) {
+      const [basename, variant] = name.split('--')
+      if (variant) {
+        if (results[basename]) {
+          results[basename][variant] = img
+        } else {
+          throw Error(`Didn’t find base Pokémon “${basename}” image for variant image “${name}”`)
+        }
+      } else {
+        results[basename] = img
+      }
+    }
+  })
+
   await fs.writeFile(
     `${__dirname}/../11ty/_data/dex-images.json`,
     JSON.stringify(results, null, 2)
