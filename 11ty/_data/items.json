@@ -27,7 +27,7 @@
     "name": "Air Balloon",
     "buy": 4000,
     "sell": 2000,
-    "description": "The holder floats in the air (Immune to Ground, terrain, and entry hazards) until damaged by a Move, which pops the Air Balloon.",
+    "description": "The holder floats in the air (Immune to terrain, grounded entry hazards, and Ground-Type damage) until damaged by a Move, which pops the Air Balloon.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -119,7 +119,7 @@
     "name": "Berry Planter",
     "buy": 5000,
     "sell": 2500,
-    "description": "A miniature hothouse for gardening on the go. Duplicates 1 berry each Long Rest.",
+    "description": "A miniature hothouse for gardening on the go. Each planter duplicates 1 berry per Long Rest.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -167,6 +167,14 @@
     "buy": 1000,
     "sell": 500,
     "description": "Lets you see practically from one end of a route to the other.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Black Augurite",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "A glassy, sharp rock that can be used up to evolve Scyther.\nThe holder is considered to be in a Sandstorm.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -498,7 +506,7 @@
     "name": "Eviolite",
     "buy": 4000,
     "sell": 2000,
-    "description": "Holders that haven't evolved yet get +5 DEF and SDEF. A mysterious lump that repurposes energy normally spent on evolution.",
+    "description": "Holders that haven't evolved yet get +5 DEF and SDEF. A mysterious lump that repurposes energy stored for evolution.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -522,7 +530,7 @@
     "name": "Fire Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Flickers like a burning ember. Can be used up to evolves Vulpix, Growlithe, Pansear, or Eevee.\nThe holder is considered to be in Harsh Sunlight.",
+    "description": "Flickers like a burning ember. Can be used up to evolve Vulpix, Growlithe, Pansear, or Eevee.\nThe holder is considered to be in Harsh Sunlight.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -530,7 +538,7 @@
     "name": "Fishing Rod",
     "buy": 3000,
     "sell": 1500,
-    "description": "Might hook a wild Pokémon. If it does, oppose its Athletics to reel it in.",
+    "description": "Might hook a wild Pokémon. If it does, contest its Athletics to reel it in.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -586,7 +594,7 @@
     "name": "Fossil",
     "buy": 10000,
     "sell": 5000,
-    "description": "A stone imprint of ancient species. Bring it to a scientist for restoration into a Pokémon.",
+    "description": "Stony remnants of an ancient species. Bring to a scientist for restoration into a Pokémon.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -634,7 +642,7 @@
     "name": "Galarica Loop",
     "buy": 6000,
     "sell": 3000,
-    "description": "Can be used up to evolve Galarian Slowpoke to Galarian Slowbro/Slowking (your choice). The holder’s Poison or Psychic Moves cost 1 PP less.",
+    "description": "Can be used up to evolve Galarian Slowpoke to Galarian Slowbro/Galarian Slowking (your choice).\nThe holder’s Poison or Psychic Moves cost 1 PP less.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -642,7 +650,7 @@
     "name": "Gem Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× their buying price to craft Type Gems, Evolutionary Stones, or Type Plates during Rests. Carving out a new hobby.",
+    "description": "Can spend 1.5× their buying price to craft Type Gems, Type Plates, or Evolutionary Stones during Rests. Carving out a new hobby.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -738,7 +746,7 @@
     "name": "Heavy-Duty Boots",
     "buy": 4000,
     "sell": 2000,
-    "description": "The holder is immune to Hazards. Thick soles prevent terrain treachery.",
+    "description": "The holder is immune to Hazards. Thick soles prevent terrestrial treachery.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -792,7 +800,7 @@
     "name": "King's Rock",
     "buy": 5000,
     "sell": 2500,
-    "description": "On 19+, the holder's attacks Flinch the target. A stone radiating a regal aura that can be used up to evolve Slowpoke and Poliwhirl.",
+    "description": "On 19+, the holder's attacks Flinch the target. A stone radiating a regal aura, that can be used up to evolve Slowpoke and Poliwhirl.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1014,7 +1022,7 @@
     "name": "Metal Coat",
     "buy": 2000,
     "sell": 1000,
-    "description": "A canister of metallic film that can be used up to evolve Onix and Scyther. The holder's Steel Moves get +5 damage.",
+    "description": "A canister of metallic film that can be used up to evolve Onix or Scyther. The holder's Steel Moves get +5 damage.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1118,7 +1126,7 @@
     "name": "Oval Stone",
     "buy": 2000,
     "sell": 1000,
-    "description": "An egg-shaped rock that can be used up to evolve Happini.\nThe holder gets +2 DEF and -2 ATK.",
+    "description": "An egg-shaped rock that can be used up to evolve Happini.\nThe holder gets +2 SDEF and -2 ATK.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1127,6 +1135,14 @@
     "buy": 300,
     "sell": 150,
     "description": "Cures Paralysis. A squirtbottle of liniment.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Peat Block",
+    "buy": 3000,
+    "sell": 1500,
+    "description": "A muddy turf cube that can be used up to evolve Ursaring.\nThe holder ignores the effects of terrain.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1258,7 +1274,7 @@
     "name": "Psychic Seed",
     "buy": 2000,
     "sell": 1000,
-    "description": "If the field is Psychic Terrain, the holder eats Psychic Seed to Boost SDEF by +5.",
+    "description": "If the field is Psychic Terrain, is eaten by the holder to Boost SDEF by +5.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1394,15 +1410,7 @@
     "name": "Sachet",
     "buy": 2000,
     "sell": 1000,
-    "description": "A strong-smelling stinkbag that evolves Spritzee.\nIf held, others making contact make a DC 5 Save or become Confused. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Sand Stone",
-    "buy": 3000,
-    "sell": 1500,
-    "description": "A sedimentary rock. The holder is considered to be in a Sandstorm.",
+    "description": "A strong-smelling stinkbag that can be used up to evolve Spritzee.\nIf held, others making contact make a DC 5 Save or become Confused. ",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1442,7 +1450,7 @@
     "name": "Shiny Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Glimmers with a dazzle. Use it up to evolve Roselia, Togetic, Minccino, or Floette.\nThe holder is considered to be on Misty Terrain.",
+    "description": "Glimmers with a dazzle. Can be used up to evolve Roselia, Togetic, Minccino, or Floette.\nThe holder is considered to be on Misty Terrain.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1552,7 +1560,7 @@
     "name": "Sun Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Glows like the midday sky. Evolves Gloom, Sunkern, Cottonee, Petilil, and Helioptile.\nThe holder ignores the effects of weather.",
+    "description": "Glows like the midday sky. Can be used up to evolve Gloom, Sunkern, Cottonee, Petilil, and Helioptile.\nThe holder ignores the effects of weather.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1568,7 +1576,7 @@
     "name": "Sweet Apple",
     "buy": 1000,
     "sell": 500,
-    "description": "Evolves Applin into Appletun. Other Pokémon can consume it outside of battle to Boost +5 Deception.",
+    "description": "Can be used up to evolve Applin into Appletun.\nThe holder can consume it to use Apple Acid.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1576,7 +1584,7 @@
     "name": "Tart Apple",
     "buy": 1000,
     "sell": 500,
-    "description": "Evolves Applin into Flapple. Other Pokémon can consume it outside of battle to Boost +5 Bluster.",
+    "description": "Can be used up to evolve Applin into Flapple.\nThe holder can consume it to use Grav Apple.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1646,7 +1654,7 @@
     "name": "Thunder Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Pulses with crackling sparks. Use it up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, or Charjabug.\nThe holder is considered to be on Electric Terrain.",
+    "description": "Pulses with crackling sparks. Can be used up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, or Charjabug.\nThe holder is considered to be on Electric Terrain.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1693,7 +1701,7 @@
   {
     "name": "Type Plate",
     "sell": 500,
-    "description": "An ancient stone tablet that gives damaging Moves of a Type +5 damage.",
+    "description": "Each Plate has a specific Type. An ancient stone tablet that gives damaging Moves that match its Type +5 damage.",
     "buyIsNumeric": false,
     "sellIsNumeric": true
   },
@@ -1709,7 +1717,7 @@
     "name": "Up-Grade",
     "buy": 2000,
     "sell": 1000,
-    "description": "Minor adjustments to enhance the user experience, evolving Porygon.\nThe holder gets +1 to each Stat.",
+    "description": "A disk of minor adjustments to enhance the user experience that can be used up to evolve Porygon.\nThe holder gets +1 to each Stat.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1725,7 +1733,7 @@
     "name": "Water Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Sparkles like a sunlit stream. Use it up to evolve Poliwhirl, Staryu, Shellder, Eevee, Lombre, or Panpour.\nThe holder is considered to be in Rain.",
+    "description": "Sparkles like a sunlit stream. Can be used up to evolve Poliwhirl, Staryu, Shellder, Eevee, Lombre, or Panpour.\nThe holder is considered to be in Rain.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1749,7 +1757,7 @@
     "name": "Whipped Dream",
     "buy": 2000,
     "sell": 1000,
-    "description": "A cloyingly-sweet treat can be used up to evolve Swirlix.\nIf the holder makes contact with a foe, the foe makes a DC 6 Save or they must target the holder as if Follow Me had been used.",
+    "description": "A cloyingly-sweet treat that can be used up to evolve Swirlix.\nIf the holder makes contact with a foe, the foe makes a DC 6 Save or they must target the holder as if Follow Me had been used.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

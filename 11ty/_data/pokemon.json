@@ -4154,7 +4154,7 @@
           "Venoshock"
         ]
       },
-      "blurb": "<p>Rangers will tell tales around the campfire about the largest thing they’ve seen an Arbok swallow whole. This usually concludes with everyone calling the others liars, and then not sleeping until dawn.<br>Pokéfeature: if the table agrees, <a href=\"https://bulbapedia.bulbagarden.net/wiki/Variant_Pok%C3%A9mon#Arbok\">Arbok’s different patterns</a> can offer more choices for its Level 5 Ability: Regenerator, Pure Power, Immunity to Poison Moves, Speed Boost, Antagonize, etc.</p>\n"
+      "blurb": "<p>Rangers will tell tales around the campfire about the largest thing they’ve seen an Arbok swallow whole. This usually concludes with everyone calling the others liars, and then not sleeping until dawn.<br><strong>Pokéfeature:</strong> if the table agrees, <a href=\"https://bulbapedia.bulbagarden.net/wiki/Variant_Pok%C3%A9mon#Arbok\">Arbok’s different patterns</a> can offer more choices for its Level 5 Ability: Regenerator, Pure Power, Immunity to Poison Moves, Speed Boost, Antagonize, etc.</p>\n"
     }
   ],
   "pichu": [
@@ -4323,7 +4323,7 @@
       "weight": 13.2,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -4482,7 +4482,7 @@
       "weight": 66.1,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -4646,7 +4646,7 @@
       "weight": 46.3,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -6023,7 +6023,7 @@
             "Toxic"
           ],
           "9": [
-            "Secret Sword"
+            "Sacred Sword"
           ],
           "10": [
             "Taunt"
@@ -6207,7 +6207,7 @@
             "Toxic"
           ],
           "10": [
-            "Secret Sword"
+            "Sacred Sword"
           ],
           "11": [
             "Taunt"
@@ -6394,7 +6394,7 @@
             "Toxic"
           ],
           "11": [
-            "Secret Sword"
+            "Sacred Sword"
           ],
           "12": [
             "Taunt"
@@ -6692,7 +6692,7 @@
       "height": "2′",
       "weight": 16.5,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -6878,7 +6878,7 @@
       "height": "4′3″",
       "weight": 88.2,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -7243,7 +7243,7 @@
       },
       "moves": {
         "form": [
-          "Nasty Plot"
+          "Lash Out"
         ],
         "starting": [
           "Tackle",
@@ -7572,7 +7572,7 @@
             "Nasty Plot"
           ],
           "6": [
-            "Fairy Wind"
+            "Icy Wind"
           ],
           "7": [
             "Aurora Veil"
@@ -7634,7 +7634,6 @@
           "Howl",
           "Hyper Beam",
           "Hypnosis",
-          "Icy Wind",
           "Iron Tail",
           "Misty Terrain",
           "Moonblast",
@@ -7822,6 +7821,7 @@
           "Substitute",
           "Sunny Day",
           "Swagger",
+          "Synchronoise",
           "Thunder",
           "Thunder Punch",
           "Thunder Wave",
@@ -7857,7 +7857,7 @@
       "height": "1′8″",
       "weight": 12.1,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -8004,6 +8004,7 @@
           "Substitute",
           "Sunny Day",
           "Swagger",
+          "Synchronoise",
           "Thunder",
           "Thunder Punch",
           "Thunder Wave",
@@ -8039,7 +8040,7 @@
       "height": "3′3″",
       "weight": 26.5,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -8186,6 +8187,7 @@
           "Substitute",
           "Sunny Day",
           "Swagger",
+          "Synchronoise",
           "Thunder",
           "Thunder Punch",
           "Thunder Wave",
@@ -12479,7 +12481,8 @@
             "Head Smash"
           ]
         }
-      }
+      },
+      "blurb": "<p>The horn regrows with their silica hair, so don’t fret when it breaks. Hisuian Growlithe wild pairs usually groom out and help sharpen replacement horns, so Trainers should keep tough brushes and honing stones if they catch only one.</p>\n"
     },
     {
       "name": "Hisuian Arcanine",
@@ -12586,7 +12589,8 @@
             "Head Smash"
           ]
         }
-      }
+      },
+      "blurb": "<p>Modern Arcanine inhabit the grasslands, so it’s rarer for them to be near the volcanic emissions that cause this form</p>\n"
     }
   ],
   "poliwag": [
@@ -17286,6 +17290,7 @@
           "Substitute",
           "Sunny Day",
           "Swift",
+          "Synchronoise",
           "Thunder Wave",
           "Tri Attack",
           "Trick",
@@ -17470,6 +17475,7 @@
           "Substitute",
           "Sunny Day",
           "Swift",
+          "Synchronoise",
           "Thunder Wave",
           "Tri Attack",
           "Trick",
@@ -17653,6 +17659,7 @@
           "Substitute",
           "Sunny Day",
           "Swift",
+          "Synchronoise",
           "Thunder Wave",
           "Tri Attack",
           "Trick",
@@ -20853,7 +20860,7 @@
         ],
         "level5": [
           [
-            "Heavy Metal"
+            "Full Metal Body"
           ],
           [
             "Adaptability"
@@ -21014,7 +21021,7 @@
         ],
         "level5": [
           [
-            "Heavy Metal"
+            "Full Metal Body"
           ],
           [
             "Adaptability"
@@ -22099,7 +22106,8 @@
             "Seed Flare"
           ]
         }
-      }
+      },
+      "blurb": "<p>“thought to be sighted near azaelea town and other apricorn ball practitioners”<br>Hm, maybe about how Poke Balls are taking design inspiration from them, or Hisui not liking Survey Corps’ Poke Balls because they look like the local jerks</p>\n"
     },
     {
       "name": "Hisuian Electrode",
@@ -22216,7 +22224,8 @@
             "Seed Flare"
           ]
         }
-      }
+      },
+      "blurb": "<p>where does the energy come from, anyway. they don’t seem to have chlorophyll unless they’re like the weird red leaf plants</p>\n"
     }
   ],
   "exeggcute": [
@@ -25404,7 +25413,7 @@
       "height": "3′7″",
       "weight": 76.3,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -25584,7 +25593,7 @@
       "height": "4′11″",
       "weight": 103.2,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -28341,6 +28350,55 @@
       "blurb": "<p>Scizor molts once a year, discarding a pile of thick red steel. Scizor’s old shells melt at a lower temperature than other metals and are highly malleable, making them a smith’s dream. Historians believe that legendary swords of the past were made from these shells.</p>\n"
     },
     {
+      "name": "Mega Scizor",
+      "type1": "Bug",
+      "type2": "Steel",
+      "stats": {
+        "HP": 40,
+        "ATK": 14,
+        "DEF": 13,
+        "SATK": 6,
+        "SDEF": 9,
+        "SPE": 7
+      },
+      "skills": {
+        "Athletics": 9,
+        "Endurance": 8,
+        "Focus": 1,
+        "Stealth": 4,
+        "Acrobatics": 2
+      },
+      "height": "6′7″",
+      "weight": 275.6,
+      "eggGroups": [
+        "Insect"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Technician"
+          ]
+        ],
+        "level5": [
+          [
+            "Battle Armor"
+          ],
+          [
+            "Hyper Cutter"
+          ],
+          [
+            "Light Metal"
+          ]
+        ]
+      },
+      "catchDC": null,
+      "evolves": {
+        "by": "Scizorite",
+        "from": "Scizor"
+      },
+      "moves": {}
+    },
+    {
       "name": "Kleavor",
       "type1": "Bug",
       "type2": "Rock",
@@ -28387,7 +28445,7 @@
       },
       "catchDC": 22,
       "evolves": {
-        "by": "Black Augurites",
+        "by": "Black Augurite",
         "from": "Scyther"
       },
       "moves": {
@@ -28445,56 +28503,8 @@
             "Close Combat"
           ]
         }
-      }
-    },
-    {
-      "name": "Mega Scizor",
-      "type1": "Bug",
-      "type2": "Steel",
-      "stats": {
-        "HP": 40,
-        "ATK": 14,
-        "DEF": 13,
-        "SATK": 6,
-        "SDEF": 9,
-        "SPE": 7
       },
-      "skills": {
-        "Athletics": 9,
-        "Endurance": 8,
-        "Focus": 1,
-        "Stealth": 4,
-        "Acrobatics": 2
-      },
-      "height": "6′7″",
-      "weight": 275.6,
-      "eggGroups": [
-        "Insect"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Technician"
-          ]
-        ],
-        "level5": [
-          [
-            "Battle Armor"
-          ],
-          [
-            "Hyper Cutter"
-          ],
-          [
-            "Light Metal"
-          ]
-        ]
-      },
-      "catchDC": null,
-      "evolves": {
-        "by": "Scizorite",
-        "from": "Scizor"
-      },
-      "moves": {}
+      "blurb": "<p>not very common in modern days because Scizor is much more popular</p>\n"
     }
   ],
   "smoochum": [
@@ -37189,7 +37199,8 @@
             "Strange Steam"
           ]
         }
-      }
+      },
+      "blurb": "<p>dormant volcano Typhlosion?</p>\n"
     }
   ],
   "totodile": [
@@ -39434,7 +39445,7 @@
       "weight": 7.1,
       "eggGroups": [
         "Winged",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -39617,7 +39628,7 @@
       "weight": 83.8,
       "eggGroups": [
         "Winged",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -40795,7 +40806,7 @@
       "weight": 18.7,
       "eggGroups": [
         "Aquatic",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -40964,7 +40975,7 @@
       "weight": 62.8,
       "eggGroups": [
         "Aquatic",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -41435,7 +41446,7 @@
       "height": "1′4″",
       "weight": 1.1,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -41581,7 +41592,7 @@
       "height": "2′",
       "weight": 2.2,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -41734,7 +41745,7 @@
       "height": "2′7″",
       "weight": 6.6,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -43136,6 +43147,46 @@
         ]
       },
       "blurb": "<p>Quagsire’s eyes are no better than Wooper’s, as they spend most of their time in murky, muddy water. Wooper’s feathery gills sense vibrations instead, but Quagsire doesn’t even have that much. It’s possible that Quagsire are totally blind, but don’t care.</p>\n"
+    },
+    {
+      "name": "Paldean Wooper",
+      "type1": "Poison",
+      "type2": "Ground",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′4″",
+      "weight": 24.3,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Poison Point"
+          ],
+          [
+            "Water Absorb"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
     }
   ],
   "murkrow": [
@@ -44990,7 +45041,7 @@
       "weight": 17.2,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -45166,7 +45217,7 @@
       "weight": 107.4,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -45592,7 +45643,8 @@
             "Lash Out"
           ]
         }
-      }
+      },
+      "blurb": "<p>it swallowed sludge to transform itself from normal Qwilfish</p>\n"
     },
     {
       "name": "Overqwil",
@@ -45700,7 +45752,8 @@
             "Thousand Arrows"
           ]
         }
-      }
+      },
+      "blurb": "<p>I’m amazed this thing didn’t end up being a splatoon 3 spoiler. Instead it’s just qwilfish stuck in an attacking animation frame? maybe the silver lining of this horrible thing is that it can’t swim very fast so any motorized boat doesn’t care about it</p>\n"
     }
   ],
   "shuckle": [
@@ -45862,7 +45915,7 @@
           "Venoshock"
         ]
       },
-      "blurb": "<p>Shuckle shells are so sturdy that material engineers have their own version of “lead into gold” — how to mold cast-off Shuckle shells into useful shapes? Unfortunately, so far they’ve only managed ugly vases and lawn ornaments.</p>\n"
+      "blurb": "<p>Shuckle shells are so sturdy that material engineers have their own version of “lead into gold” — how to mold cast-off Shuckle shells into useful shapes? Unfortunately, so far they’ve only managed ugly vases and lawn ornaments.<br><strong>Pokéfeature:</strong> Shuckle can turn a held Oran Berry into Berry Juice each Long Rest.</p>\n"
     }
   ],
   "heracross": [
@@ -46523,7 +46576,8 @@
             "Close Combat"
           ]
         }
-      }
+      },
+      "blurb": "<p>this is the worst retyping any regional form has ever done. I cannot link Poison/Fighting to Dark/Ice no matter what, and I’m familiar with the idea that Poison-Types originally were supposed to be the Dark-Type flavor.</p>\n"
     },
     {
       "name": "Sneasler",
@@ -46630,7 +46684,8 @@
             "Close Combat"
           ]
         }
-      }
+      },
+      "blurb": "<p>the limbs are adaptations for deep snow?</p>\n"
     }
   ],
   "teddiursa": [
@@ -47008,7 +47063,7 @@
             "Lunar Power"
           ],
           [
-            "Excavate"
+            "Fluffy"
           ],
           [
             "Unnerve"
@@ -48860,7 +48915,7 @@
             "Metronome"
           ],
           "16": [
-            "Leech Seed"
+            "Tailwind"
           ],
           "17": [
             "Punishment"
@@ -50215,6 +50270,7 @@
           "Spite",
           "Substitute",
           "Sunny Day",
+          "Synchronoise",
           "Terrain Pulse",
           "Thief",
           "Thrash",
@@ -50337,7 +50393,8 @@
             "Megahorn"
           ]
         }
-      }
+      },
+      "blurb": "<p>getting this evolution actually sucks worse than literally any other evolution in PLA</p>\n"
     }
   ],
   "smeargle": [
@@ -54191,7 +54248,7 @@
             "Zen Headbutt"
           ],
           "15": [
-            "Wild Charge"
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -54239,6 +54296,7 @@
           "Tickle",
           "Trick",
           "Whirlpool",
+          "Wild Charge",
           "Work Up"
         ]
       },
@@ -54346,7 +54404,7 @@
             "Zen Headbutt"
           ],
           "16": [
-            "Wild Charge"
+            "Headlong Rush"
           ]
         },
         "tutor": [
@@ -54398,6 +54456,7 @@
           "Tickle",
           "Trick",
           "Whirlpool",
+          "Wild Charge",
           "Work Up"
         ]
       },
@@ -54499,7 +54558,7 @@
             "Iron Head"
           ],
           "15": [
-            "Wild Charge"
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -54656,7 +54715,7 @@
             "Iron Head"
           ],
           "16": [
-            "Wild Charge"
+            "Headlong Rush"
           ]
         },
         "tutor": [
@@ -54711,7 +54770,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>It’s not unusual to see squads of Linoone roaming Galarian streets after dark. These Pokémon take pleasure in destroying public property and are thought of as a menace, but they run away if they see even a small child nearby.</p>\n"
+      "blurb": "<p>It’s not unusual to see Linoone squads roaming Galar streets after dark. These Pokémon take pleasure in destroying public property and are thought of as a menace, but they run away if they see even a small child nearby.</p>\n"
     },
     {
       "name": "Obstagoon",
@@ -58177,7 +58236,7 @@
       "height": "1′4″",
       "weight": 9.9,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -58319,7 +58378,7 @@
       "height": "3′11″",
       "weight": 86.4,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -60514,7 +60573,7 @@
       "weight": 24.3,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -60674,7 +60733,7 @@
       "weight": 71.9,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -61074,7 +61133,7 @@
       "weight": 25.4,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -61249,7 +61308,7 @@
       "weight": 51.8,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -62613,7 +62672,7 @@
       "height": "1′4″",
       "weight": 9.3,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -62686,7 +62745,8 @@
             "Thunder"
           ],
           "14": [
-            "Gear Up"
+            "Gear Up",
+            "Power Swap"
           ],
           "15": [
             "Entrainment"
@@ -62766,7 +62826,7 @@
       "height": "1′4″",
       "weight": 9.3,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -62813,7 +62873,7 @@
           ],
           "6": [
             "Baton Pass",
-            "Howl"
+            "Speed Swap"
           ],
           "7": [
             "Electro Ball"
@@ -62839,7 +62899,8 @@
             "Thunder"
           ],
           "14": [
-            "Magnetic Flux"
+            "Magnetic Flux",
+            "Guard Swap"
           ],
           "15": [
             "Entrainment"
@@ -63371,7 +63432,7 @@
       "height": "1′",
       "weight": 4.4,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -63528,7 +63589,7 @@
       "height": "2′11″",
       "weight": 32,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -64701,7 +64762,7 @@
             "Amnesia"
           ],
           "6": [
-            "Earth Power"
+            "Scorching Sands"
           ],
           "7": [
             "Yawn"
@@ -64766,7 +64827,6 @@
           "Sand Tomb",
           "Sandstorm",
           "Scary Face",
-          "Scorching Sands",
           "Self-Destruct",
           "Sleep Talk",
           "Snore",
@@ -64857,7 +64917,7 @@
             "Amnesia"
           ],
           "6": [
-            "Earth Power"
+            "Scorching Sands"
           ],
           "7": false,
           "8": [
@@ -64897,6 +64957,7 @@
           "Burning Jealousy",
           "Defense Curl",
           "Dig",
+          "Earth Power",
           "Endure",
           "Facade",
           "Fire Blast",
@@ -64925,7 +64986,6 @@
           "Sand Tomb",
           "Sandstorm",
           "Scary Face",
-          "Scorching Sands",
           "Self-Destruct",
           "Sleep Talk",
           "Snore",
@@ -66426,7 +66486,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Cacturne stand completely still in the daytime, photosynthesizing energy to outlast prey during their nighttime stakeouts. They <strong><em>are</em></strong> effective as scarecrows, but for a different, more straightforward reason.</p>\n"
+      "blurb": "<p>Cacturne stand completely still in the daytime, absorbing sunlight to outlast prey during their nighttime stakeouts. They <strong><em>are</em></strong> effective as scarecrows, but for a different, more straightforward reason.</p>\n"
     }
   ],
   "swablu": [
@@ -68101,7 +68161,8 @@
             "Rock Tomb"
           ],
           "4": [
-            "Psybeam"
+            "Psybeam",
+            "Scorching Sands"
           ],
           "5": [
             "Ancient Power",
@@ -68178,7 +68239,6 @@
           "Round",
           "Safeguard",
           "Sand Tomb",
-          "Scorching Sands",
           "Shadow Ball",
           "Signal Beam",
           "Skill Swap",
@@ -68265,7 +68325,8 @@
             "Rock Tomb"
           ],
           "4": [
-            "Psybeam"
+            "Psybeam",
+            "Scorching Sands"
           ],
           "5": [
             "Ancient Power",
@@ -68346,7 +68407,6 @@
           "Round",
           "Safeguard",
           "Sand Tomb",
-          "Scorching Sands",
           "Shadow Ball",
           "Skill Swap",
           "Sleep Talk",
@@ -69241,7 +69301,7 @@
       "height": "1′",
       "weight": 1.8,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Amorphous"
       ],
       "abilities": {
@@ -69369,7 +69429,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>The Hoenn Weather Institute patented how to create Castform, keeping it secret for twenty years. This caused controversy until it was discovered that Castform can live in the wild and breed without issue.</p>\n"
+      "blurb": "<p>The Hoenn Weather Institute patented how to create Castform, keeping it secret for twenty years. This caused controversy until it was discovered that Castform can live and breed in the wild without issue.</p>\n"
     }
   ],
   "kecleon": [
@@ -70140,7 +70200,7 @@
             "Pain Split"
           ],
           "16": [
-            "Scorching Sands"
+            "Hyperspace Hole"
           ]
         },
         "tutor": [
@@ -71074,7 +71134,7 @@
       "height": "2′4″",
       "weight": 37,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Mineral"
       ],
       "abilities": {
@@ -71206,7 +71266,7 @@
       "height": "4′11″",
       "weight": 565.5,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Mineral"
       ],
       "abilities": {
@@ -71362,7 +71422,7 @@
       "height": "6′11″",
       "weight": 772.1,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Mineral"
       ],
       "abilities": {
@@ -71412,7 +71472,7 @@
       "height": "4′3″",
       "weight": 58.6,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Mineral"
       ],
       "abilities": {
@@ -72017,7 +72077,7 @@
         ],
         "level5": [
           [
-            "Sturdy"
+            "Anger Shell"
           ],
           [
             "Filter"
@@ -72987,7 +73047,7 @@
           "Thunder Fang"
         ]
       },
-      "blurb": "<p>Drayden’s Dragon Manual states a Bagon should be hefted above the shoulders and carried about twice daily to simulate the feeling of flying. Bagon weighs nearly a hundred pounds, so Trainers tend to skip this advice.</p>\n"
+      "blurb": "<p>Bagon are such frequent aircraft stowaways that any inexplicable technical problems or pilot troubles are half-jokingly blamed on them. <em>Drayden’s Dragon Manual</em> confirms you can safely jettison them midflight: it’s safe for them, and they like it.</p>\n"
     },
     {
       "name": "Shelgon",
@@ -74852,7 +74912,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>The home region of Latios and Latias has yet to be discovered, nor the reason they fly all over the world. Scholars of the Eon Pair call it the “last great mystery” of Pokémon. This is patently untrue, but its romanticism has captured many imaginations anyway.</p>\n"
+      "blurb": "<p>The home region of Latios and Latias has yet to be discovered, nor why they fly all over the world. Scholars of the Eon Pair call it the “last great mystery” of Pokémon. This is patently untrue, but its romanticism captures many imaginations anyway.</p>\n"
     },
     {
       "name": "Mega Latias",
@@ -75068,7 +75128,7 @@
           "Wonder Room"
         ]
       },
-      "blurb": "<p>It is unclear whether Latias and Latios are the same species. Recent scientific theory posits that Latias and Latios are regional variants of each other that only meet when flying, and that other variants may have yet to be discovered.</p>\n"
+      "blurb": "<p>It is unclear whether Latias and Latios are the same species. Recent theory posits that Latias and Latios are regional variants of each other that only meet when flying, and that other variants may yet be discovered.</p>\n"
     },
     {
       "name": "Mega Latios",
@@ -75254,7 +75314,7 @@
           "Waterfall"
         ]
       },
-      "blurb": "<p>Kyogre swims through the deepest parts of the ocean, the red glow from its rings visible for miles through the darkness. It appears on the surface in storms so mighty that no boat escapes unscathed, sailors reportedly quitting their jobs after a mere glimpse.</p>\n"
+      "blurb": "<p>Kyogre swims in the deepest parts of the ocean, the red glow from its rings visible for miles through the darkness. It surfaces in storms so mighty that no boat escapes unscathed; sailors reportedly quit their jobs after a mere glimpse.</p>\n"
     },
     {
       "name": "Primal Kyogre",
@@ -75372,7 +75432,7 @@
             "Terrain Pulse"
           ],
           "6": [
-            "Grass Knot"
+            "Scorching Sands"
           ],
           "7": [
             "Earthquake",
@@ -75439,7 +75499,6 @@
           "Round",
           "Safeguard",
           "Sandstorm",
-          "Scorching Sands",
           "Shadow Claw",
           "Sleep Talk",
           "Snore",
@@ -75459,7 +75518,7 @@
           "Whirlpool"
         ]
       },
-      "blurb": "<p>Groudon swims through magma like water and digs through solid rock like dust. Volcanoes erupt in its presence, announcing the arrival of a king. Towns where people have supposedly seen Groudon no longer stand.</p>\n"
+      "blurb": "<p>Groudon swims through magma like water and digs through bedrock like dust. Volcanoes erupt in its presence, announcing the arrival of a king. Towns where people supposedly saw Groudon no longer stand.</p>\n"
     },
     {
       "name": "Primal Groudon",
@@ -81038,7 +81097,7 @@
       "weight": 8.6,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -81490,7 +81549,7 @@
       "height": "1′4″",
       "weight": 7.3,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -81627,7 +81686,7 @@
       "height": "1′8″",
       "weight": 20.5,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Plant"
       ],
       "abilities": {
@@ -88071,7 +88130,8 @@
             "Trick Room"
           ]
         }
-      }
+      },
+      "blurb": "<p>BARNACLES, I HATE THE PILL</p>\n"
     }
   ],
   "palkia": [
@@ -88338,7 +88398,8 @@
             "Magic Room"
           ]
         }
-      }
+      },
+      "blurb": "<p>I really don’t know what we could possibly say here. It’s Palkia, but centaured onto a horse body</p>\n"
     }
   ],
   "giratina": [
@@ -89117,7 +89178,7 @@
       "weight": 3.1,
       "eggGroups": [
         "Aquatic",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -89256,7 +89317,7 @@
       "weight": 6.8,
       "eggGroups": [
         "Aquatic",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -91568,7 +91629,8 @@
           "Smart Strike",
           "Snore"
         ]
-      }
+      },
+      "blurb": "<p>I feel like normal Samurott families do NOT get along with this one</p>\n"
     }
   ],
   "patrat": [
@@ -95685,7 +95747,7 @@
       "height": "3′7″",
       "weight": 68.3,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -95859,7 +95921,7 @@
       "height": "4′11″",
       "weight": 70.5,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -96865,7 +96927,7 @@
         ],
         "level5": [
           [
-            "Sheer Force"
+            "Sniper"
           ],
           [
             "Vital Spirit"
@@ -96906,7 +96968,8 @@
             "Seismic Toss"
           ],
           "9": [
-            "Endure"
+            "Endure",
+            "Facade"
           ],
           "10": [
             "Reversal"
@@ -96937,7 +97000,6 @@
           "Coaching",
           "Dig",
           "Earthquake",
-          "Facade",
           "Fling",
           "Focus Blast",
           "Giga Impact",
@@ -97052,7 +97114,8 @@
             "Counter"
           ],
           "9": [
-            "Endure"
+            "Endure",
+            "Guillotine"
           ],
           "10": [
             "Reversal"
@@ -98069,7 +98132,7 @@
       "weight": 1.3,
       "eggGroups": [
         "Plant",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -98211,7 +98274,7 @@
       "weight": 14.6,
       "eggGroups": [
         "Plant",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -98724,7 +98787,8 @@
             "Stomping Tantrum"
           ]
         }
-      }
+      },
+      "blurb": "<p>what happened to the third leg. also apparently this is based on the wild green onion</p>\n"
     }
   ],
   "basculin": [
@@ -98970,7 +99034,8 @@
             "U-Turn"
           ]
         }
-      }
+      },
+      "blurb": "<p>this one has the hooked mouth that only (spawning male) salmon have</p>\n"
     },
     {
       "name": "Basculegion (♂)",
@@ -99079,7 +99144,8 @@
             "Poltergeist"
           ]
         }
-      }
+      },
+      "blurb": "<p>what we learned about salmon and zombie fish w/Salmonids all of a sudden seem a lot more relevant here</p>\n"
     },
     {
       "name": "Basculegion (♀)",
@@ -99188,7 +99254,8 @@
             "Astral Barrage"
           ]
         }
-      }
+      },
+      "blurb": "<p>female salmon sometimes survive salmon runs</p>\n"
     }
   ],
   "sandile": [
@@ -101212,7 +101279,8 @@
             "Crunch"
           ],
           "11": [
-            "Autotomize"
+            "Autotomize",
+            "Hammer Arm"
           ],
           "12": [
             "Head Smash"
@@ -101390,7 +101458,8 @@
             "Crunch"
           ],
           "12": [
-            "Autotomize"
+            "Autotomize",
+            "Hammer Arm"
           ],
           "13": [
             "Head Smash"
@@ -103612,7 +103681,8 @@
             "Blizzard"
           ]
         }
-      }
+      },
+      "blurb": "<p>honestly zorua is kind of a bitch if the fluffy fox died of the cold??? vulpix did just fine</p>\n"
     },
     {
       "name": "Hisuian Zoroark",
@@ -103716,7 +103786,8 @@
             "Blizzard"
           ]
         }
-      }
+      },
+      "blurb": "<p>scarlet/violet may have its own justification for why this is in the modern-day</p>\n"
     }
   ],
   "minccino": [
@@ -111734,7 +111805,7 @@
             "Sharpen"
           ],
           "5": [
-            "Feint Attack"
+            "Lash Out"
           ],
           "6": [
             "Metal Sound"
@@ -111788,7 +111859,6 @@
           "Headbutt",
           "Hone Claws",
           "Hyper Beam",
-          "Lash Out",
           "Low Kick",
           "Low Sweep",
           "Mean Look",
@@ -112365,7 +112435,8 @@
             "Magic Coat"
           ]
         }
-      }
+      },
+      "blurb": "<p>Hisuian Braviary appears to be based on the Steller’s sea-eagle, as evidenced by its larger size, dark plumage with white highlights, and pointed central tail feathers. It is described as visiting the Hisui region from the north in winter, just as the Steller’s sea-eagle migrates to spend the winter in Hokkaido, which the Hisui and Sinnoh regions are based on. Steller’s sea-eagle also has a rare dark morph that resembles Hisuian Braviary’s shiny form. Hisuian Braviary may also be based on the Papuan harpy eagle, as evidenced by its larger size, contrasting dark and white plumage, and distinctive feather crest on his head. </p>\n"
     }
   ],
   "vullaby": [
@@ -115367,7 +115438,8 @@
             "Moonblast"
           ]
         }
-      }
+      },
+      "blurb": "<p>why didn’t the forces of nature tell us about her? because they’re like Zeph; women are gross</p>\n"
     },
     {
       "name": "Enamorus (Therian)",
@@ -115472,7 +115544,8 @@
             "Moonblast"
           ]
         }
-      }
+      },
+      "blurb": "<p>OKAY TO BE FAIR TO ZEPH THIS FORM DOES MAKE A STRONG ARGUMENT THAT WOMEN ARE GROSS</p>\n"
     }
   ],
   "reshiram": [
@@ -117870,7 +117943,7 @@
       "height": "4′11″",
       "weight": 88.2,
       "eggGroups": [
-        "Fish"
+        "Aquatic"
       ],
       "abilities": {
         "start": [
@@ -119285,7 +119358,7 @@
       "height": "4″",
       "weight": 0.2,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -119416,7 +119489,7 @@
       "height": "8″",
       "weight": 2,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -119554,7 +119627,7 @@
       "height": "3′7″",
       "weight": 22,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -121352,7 +121425,7 @@
       "height": "8″",
       "weight": 1.1,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -121490,7 +121563,7 @@
       "height": "2′7″",
       "weight": 34.2,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -121640,7 +121713,7 @@
       "height": "1′4″",
       "weight": 7.7,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -121780,7 +121853,7 @@
       "height": "2′7″",
       "weight": 11,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -123220,7 +123293,7 @@
             "Thunder Wave"
           ],
           "7": [
-            "Growth"
+            "Scorching Sands"
           ],
           "8": [
             "Thunderbolt"
@@ -123235,7 +123308,7 @@
             "Thunder"
           ],
           "12": [
-            "Scorching Sands"
+            "Growth"
           ],
           "13": [
             "Weather Ball"
@@ -123378,7 +123451,7 @@
             "Thunder Wave"
           ],
           "8": [
-            "Morning Sun"
+            "Scorching Sands"
           ],
           "9": [
             "Thunderbolt"
@@ -123393,7 +123466,7 @@
             "Thunder"
           ],
           "13": [
-            "Scorching Sands"
+            "Morning Sun"
           ],
           "14": [
             "Weather Ball"
@@ -123609,7 +123682,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>After a certain film, Tyrunts gained immense popularity as a child’s Pokémon. This is a big problem as Tyrunts are powerful and temperamental, leading to injury and destroyed playrooms. Many parents wish to have Tyrunts put on the “badge-only” list.</p>\n"
+      "blurb": "<p>After a certain film, Tyrunt gained immense popularity as a child’s Pokémon. This is a big problem as Tyrunt are powerful and temperamental, leading to injury and destroyed playrooms. Many parents wish to have Tyrunt put on the “badge-only” list.</p>\n"
     },
     {
       "name": "Tyrantrum",
@@ -123767,7 +123840,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Fossil records show Tyrantrum’s body was once covered in the plush feathers that create its mane. Fossil Restoration sites unofficially compete with each other to revive Tyrantrums with more of the feathers intact.</p>\n"
+      "blurb": "<p>Fossil records show Tyrantrum’s body was once covered in the plush feathers that create its mane. Fossil restorers unofficially compete with each other to revive Tyrantrum with more of the feathers intact.</p>\n"
     }
   ],
   "amaura": [
@@ -124275,7 +124348,7 @@
       "weight": 4.9,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -124422,7 +124495,7 @@
       "height": "1′",
       "weight": 12.6,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Mineral"
       ],
       "abilities": {
@@ -124841,7 +124914,7 @@
           "Weather Ball"
         ]
       },
-      "blurb": "<p>Whatever Sliggoo absorbs becomes a part of its acid’s chemical structure. This can change its color and its danger level. Nearly everything makes Sliggoo more and more poisonous, but water seems to make it completely harmless.</p>\n"
+      "blurb": "<p>Whatever Sliggoo absorbs becomes a part of its acid’s chemical structure. This can change its color and its danger level. Nearly everything makes Sliggoo more poisonous, except pure water seems to make it completely harmless.</p>\n"
     },
     {
       "name": "Goodra",
@@ -125221,7 +125294,8 @@
             "Metal Burst"
           ]
         }
-      }
+      },
+      "blurb": "<p>IT HIDES INSIDE ITS SHELL TO PROTECT FROM PEOPLE LIKE MATT</p>\n"
     }
   ],
   "klefki": [
@@ -125738,7 +125812,8 @@
         "starting": [
           "Astonish",
           "Trick-or-Treat",
-          "Shadow Sneak"
+          "Leafage",
+          "★"
         ],
         "levelUp": {
           "2": [
@@ -125818,6 +125893,7 @@
           "Safeguard",
           "Scary Face",
           "Shadow Ball",
+          "Shell Smash",
           "Skill Swap",
           "Skitter Smack",
           "Sleep Talk",
@@ -125833,448 +125909,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Breeders in rural areas try and grow the biggest Pumpkaboo possible. Nearly every county holds a contest around the Halloween week, with the winner receiving a prestigious ribbon and a truckload of fertilizer.</p>\n"
-    },
-    {
-      "name": "Pumpkaboo (Small)",
-      "type1": "Grass",
-      "type2": "Ghost",
-      "stats": {
-        "HP": 20,
-        "ATK": 6,
-        "DEF": 6,
-        "SATK": 3,
-        "SDEF": 5,
-        "SPE": 5
-      },
-      "skills": {
-        "Athletics": 1,
-        "Endurance": 1,
-        "Focus": -2,
-        "Stealth": 0,
-        "Acrobatics": 0
-      },
-      "height": "1′",
-      "weight": 7.7,
-      "eggGroups": [
-        "Amorphous"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Pickup"
-          ],
-          [
-            "Frisk"
-          ]
-        ],
-        "level5": [
-          [
-            "Entry: Trick-or-Treat"
-          ],
-          [
-            "Illuminate"
-          ],
-          [
-            "Insomnia"
-          ]
-        ]
-      },
-      "catchDC": 12,
-      "evolves": {},
-      "moves": {
-        "starting": [
-          "Astonish",
-          "Trick-or-Treat",
-          "Shadow Sneak"
-        ],
-        "levelUp": {
-          "2": [
-            "Confuse Ray"
-          ],
-          "3": [
-            "Bullet Seed"
-          ],
-          "4": [
-            "Leech Seed"
-          ],
-          "5": [
-            "Flash"
-          ],
-          "6": [
-            "Razor Leaf"
-          ],
-          "7": [
-            "Spotlight"
-          ],
-          "8": [
-            "Seed Bomb"
-          ],
-          "9": [
-            "Poltergeist"
-          ],
-          "10": [
-            "Worry Seed"
-          ],
-          "11": [
-            "Flamethrower"
-          ],
-          "12": [
-            "Trick"
-          ],
-          "13": [
-            "Pain Split"
-          ],
-          "14": [
-            "Fire Blast"
-          ],
-          "15": [
-            "Phantom Force"
-          ]
-        },
-        "tutor": [
-          "Ally Switch",
-          "Attract",
-          "Curse",
-          "Dark Pulse",
-          "Destiny Bond",
-          "Disable",
-          "Endure",
-          "Energy Ball",
-          "Facade",
-          "Flame Charge",
-          "Focus Blast",
-          "Foul Play",
-          "Giga Drain",
-          "Grass Knot",
-          "Grassy Glide",
-          "Gyro Ball",
-          "Hex",
-          "Imprison",
-          "Incinerate",
-          "Light Screen",
-          "Moonblast",
-          "Mystical Fire",
-          "Nasty Plot",
-          "Power Whip",
-          "Protect",
-          "Psychic",
-          "Rest",
-          "Rock Slide",
-          "Rock Smash",
-          "Round",
-          "Safeguard",
-          "Scary Face",
-          "Shadow Ball",
-          "Skill Swap",
-          "Skitter Smack",
-          "Sleep Talk",
-          "Sludge Bomb",
-          "Snore",
-          "Solar Beam",
-          "Spite",
-          "Substitute",
-          "Sunny Day",
-          "Telekinesis",
-          "Thief",
-          "Trick Room",
-          "Will-O-Wisp"
-        ]
-      }
-    },
-    {
-      "name": "Pumpkaboo (Large)",
-      "type1": "Grass",
-      "type2": "Ghost",
-      "stats": {
-        "HP": 25,
-        "ATK": 6,
-        "DEF": 6,
-        "SATK": 3,
-        "SDEF": 5,
-        "SPE": 3
-      },
-      "skills": {
-        "Athletics": 1,
-        "Endurance": 1,
-        "Focus": -2,
-        "Stealth": 0,
-        "Acrobatics": -2
-      },
-      "height": "1′8″",
-      "weight": 16.5,
-      "eggGroups": [
-        "Amorphous"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Pickup"
-          ],
-          [
-            "Frisk"
-          ]
-        ],
-        "level5": [
-          [
-            "Entry: Trick-or-Treat"
-          ],
-          [
-            "Illuminate"
-          ],
-          [
-            "Insomnia"
-          ]
-        ]
-      },
-      "catchDC": 12,
-      "evolves": {},
-      "moves": {
-        "starting": [
-          "Astonish",
-          "Trick-or-Treat",
-          "Shadow Sneak"
-        ],
-        "levelUp": {
-          "2": [
-            "Confuse Ray"
-          ],
-          "3": [
-            "Bullet Seed"
-          ],
-          "4": [
-            "Leech Seed"
-          ],
-          "5": [
-            "Flash"
-          ],
-          "6": [
-            "Razor Leaf"
-          ],
-          "7": [
-            "Spotlight"
-          ],
-          "8": [
-            "Seed Bomb"
-          ],
-          "9": [
-            "Poltergeist"
-          ],
-          "10": [
-            "Worry Seed"
-          ],
-          "11": [
-            "Flamethrower"
-          ],
-          "12": [
-            "Trick"
-          ],
-          "13": [
-            "Pain Split"
-          ],
-          "14": [
-            "Fire Blast"
-          ],
-          "15": [
-            "Phantom Force"
-          ]
-        },
-        "tutor": [
-          "Ally Switch",
-          "Attract",
-          "Curse",
-          "Dark Pulse",
-          "Destiny Bond",
-          "Disable",
-          "Endure",
-          "Energy Ball",
-          "Facade",
-          "Flame Charge",
-          "Focus Blast",
-          "Foul Play",
-          "Giga Drain",
-          "Grass Knot",
-          "Grassy Glide",
-          "Gyro Ball",
-          "Hex",
-          "Imprison",
-          "Incinerate",
-          "Light Screen",
-          "Moonblast",
-          "Mystical Fire",
-          "Nasty Plot",
-          "Power Whip",
-          "Protect",
-          "Psychic",
-          "Rest",
-          "Rock Slide",
-          "Rock Smash",
-          "Round",
-          "Safeguard",
-          "Scary Face",
-          "Shadow Ball",
-          "Skill Swap",
-          "Skitter Smack",
-          "Sleep Talk",
-          "Sludge Bomb",
-          "Snore",
-          "Solar Beam",
-          "Spite",
-          "Substitute",
-          "Sunny Day",
-          "Telekinesis",
-          "Thief",
-          "Trick Room",
-          "Will-O-Wisp"
-        ]
-      }
-    },
-    {
-      "name": "Pumpkaboo (Super)",
-      "type1": "Grass",
-      "type2": "Ghost",
-      "stats": {
-        "HP": 35,
-        "ATK": 6,
-        "DEF": 6,
-        "SATK": 3,
-        "SDEF": 5,
-        "SPE": 2
-      },
-      "skills": {
-        "Athletics": 1,
-        "Endurance": 1,
-        "Focus": -2,
-        "Stealth": 0,
-        "Acrobatics": -3
-      },
-      "height": "2′7″",
-      "weight": 33.1,
-      "eggGroups": [
-        "Amorphous"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Pickup"
-          ],
-          [
-            "Frisk"
-          ]
-        ],
-        "level5": [
-          [
-            "Entry: Trick-or-Treat"
-          ],
-          [
-            "Illuminate"
-          ],
-          [
-            "Insomnia"
-          ]
-        ]
-      },
-      "catchDC": 12,
-      "evolves": {},
-      "moves": {
-        "starting": [
-          "Astonish",
-          "Trick-or-Treat",
-          "Shadow Sneak"
-        ],
-        "levelUp": {
-          "2": [
-            "Confuse Ray"
-          ],
-          "3": [
-            "Bullet Seed"
-          ],
-          "4": [
-            "Leech Seed"
-          ],
-          "5": [
-            "Flash"
-          ],
-          "6": [
-            "Razor Leaf"
-          ],
-          "7": [
-            "Spotlight"
-          ],
-          "8": [
-            "Seed Bomb"
-          ],
-          "9": [
-            "Poltergeist"
-          ],
-          "10": [
-            "Worry Seed"
-          ],
-          "11": [
-            "Flamethrower"
-          ],
-          "12": [
-            "Trick"
-          ],
-          "13": [
-            "Pain Split"
-          ],
-          "14": [
-            "Fire Blast"
-          ],
-          "15": [
-            "Phantom Force"
-          ]
-        },
-        "tutor": [
-          "Ally Switch",
-          "Attract",
-          "Curse",
-          "Dark Pulse",
-          "Destiny Bond",
-          "Disable",
-          "Endure",
-          "Energy Ball",
-          "Facade",
-          "Flame Charge",
-          "Focus Blast",
-          "Foul Play",
-          "Giga Drain",
-          "Grass Knot",
-          "Grassy Glide",
-          "Gyro Ball",
-          "Hex",
-          "Imprison",
-          "Incinerate",
-          "Light Screen",
-          "Moonblast",
-          "Mystical Fire",
-          "Nasty Plot",
-          "Power Whip",
-          "Protect",
-          "Psychic",
-          "Rest",
-          "Rock Slide",
-          "Rock Smash",
-          "Round",
-          "Safeguard",
-          "Scary Face",
-          "Shadow Ball",
-          "Skill Swap",
-          "Skitter Smack",
-          "Sleep Talk",
-          "Sludge Bomb",
-          "Snore",
-          "Solar Beam",
-          "Spite",
-          "Substitute",
-          "Sunny Day",
-          "Telekinesis",
-          "Thief",
-          "Trick Room",
-          "Will-O-Wisp"
-        ]
-      }
+      "blurb": "<p>Breeders in rural areas try and grow the biggest Pumpkaboo possible. Nearly every county holds a contest around the Halloween week, with the winner receiving a prestigious ribbon and a truckload of fertilizer.</p>\n<p><strong>Pokéfeature:</strong> Pumpkaboo’s stats and level 1 Move vary based on its size:</p>\n<table>\n<thead>\n<tr>\n<th>Size</th>\n<th style=\"text-align:right\">Height</th>\n<th style=\"text-align:right\">Weight</th>\n<th style=\"text-align:right\">HP</th>\n<th style=\"text-align:right\">Acrobatics</th>\n<th>Level 1 Move</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Small</td>\n<td style=\"text-align:right\">1’</td>\n<td style=\"text-align:right\">7.7</td>\n<td style=\"text-align:right\">20</td>\n<td style=\"text-align:right\">0</td>\n<td>Quick Attack</td>\n</tr>\n<tr>\n<td>Average</td>\n<td style=\"text-align:right\">1’4”</td>\n<td style=\"text-align:right\">11</td>\n<td style=\"text-align:right\">25</td>\n<td style=\"text-align:right\">-1</td>\n<td>Rollout</td>\n</tr>\n<tr>\n<td>Large</td>\n<td style=\"text-align:right\">1’8”</td>\n<td style=\"text-align:right\">16.5</td>\n<td style=\"text-align:right\">30</td>\n<td style=\"text-align:right\">-2</td>\n<td>Roar</td>\n</tr>\n<tr>\n<td>Super</td>\n<td style=\"text-align:right\">2’7”</td>\n<td style=\"text-align:right\">33.1</td>\n<td style=\"text-align:right\">35</td>\n<td style=\"text-align:right\">-3</td>\n<td>Growth</td>\n</tr>\n</tbody>\n</table>\n"
     },
     {
       "name": "Gourgeist",
@@ -126328,12 +125963,12 @@
       },
       "moves": {
         "form": [
-          "Body Press"
+          "★"
         ],
         "starting": [
           "Astonish",
           "Trick-or-Treat",
-          "Shadow Sneak"
+          "Leafage"
         ],
         "levelUp": {
           "2": false,
@@ -126417,6 +126052,7 @@
           "Rock Smash",
           "Round",
           "Safeguard",
+          "Shell Smash",
           "Skill Swap",
           "Skitter Smack",
           "Sleep Talk",
@@ -126433,481 +126069,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Bratty children like to carve up pumpkins to look like Gourgeist and throw them at neighbors. Real Gourgeist who wander the streets at night take great offense to this mimicry, and wait until the children are alone to take revenge.</p>\n"
-    },
-    {
-      "name": "Gourgeist (Small)",
-      "type1": "Grass",
-      "type2": "Ghost",
-      "stats": {
-        "HP": 35,
-        "ATK": 8,
-        "DEF": 11,
-        "SATK": 5,
-        "SDEF": 7,
-        "SPE": 9
-      },
-      "skills": {
-        "Athletics": 3,
-        "Endurance": 6,
-        "Focus": 0,
-        "Stealth": 2,
-        "Acrobatics": 4
-      },
-      "height": "2′4″",
-      "weight": 20.9,
-      "eggGroups": [
-        "Amorphous"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Pickup"
-          ],
-          [
-            "Frisk"
-          ]
-        ],
-        "level5": [
-          [
-            "Flash Fire"
-          ],
-          [
-            "Illuminate"
-          ],
-          [
-            "Insomnia"
-          ]
-        ]
-      },
-      "catchDC": 18,
-      "evolves": {
-        "by": "Level 6 or Trade",
-        "from": "Pumpkaboo"
-      },
-      "moves": {
-        "form": [
-          "Minimize"
-        ],
-        "starting": [
-          "Astonish",
-          "Trick-or-Treat",
-          "Shadow Sneak"
-        ],
-        "levelUp": {
-          "2": false,
-          "3": [
-            "Confuse Ray"
-          ],
-          "4": [
-            "Bullet Seed"
-          ],
-          "5": [
-            "Leech Seed"
-          ],
-          "6": [
-            "Flash"
-          ],
-          "7": [
-            "Razor Leaf"
-          ],
-          "8": [
-            "Scary Face"
-          ],
-          "9": [
-            "Seed Bomb"
-          ],
-          "10": [
-            "Shadow Ball"
-          ],
-          "11": [
-            "Worry Seed"
-          ],
-          "12": [
-            "Flamethrower"
-          ],
-          "13": [
-            "Trick"
-          ],
-          "14": [
-            "Pain Split"
-          ],
-          "15": [
-            "Explosion"
-          ],
-          "16": [
-            "Phantom Force"
-          ]
-        },
-        "tutor": [
-          "Ally Switch",
-          "Attract",
-          "Brutal Swing",
-          "Curse",
-          "Dark Pulse",
-          "Destiny Bond",
-          "Disable",
-          "Endure",
-          "Energy Ball",
-          "Facade",
-          "Fire Blast",
-          "Flame Charge",
-          "Focus Blast",
-          "Foul Play",
-          "Giga Drain",
-          "Giga Impact",
-          "Grass Knot",
-          "Grassy Glide",
-          "Gyro Ball",
-          "Hex",
-          "Hyper Beam",
-          "Imprison",
-          "Incinerate",
-          "Light Screen",
-          "Moonblast",
-          "Mystical Fire",
-          "Nasty Plot",
-          "Poltergeist",
-          "Power Whip",
-          "Protect",
-          "Psychic",
-          "Rest",
-          "Rock Slide",
-          "Rock Smash",
-          "Round",
-          "Safeguard",
-          "Skill Swap",
-          "Skitter Smack",
-          "Sleep Talk",
-          "Sludge Bomb",
-          "Snore",
-          "Solar Beam",
-          "Spite",
-          "Submission",
-          "Substitute",
-          "Sunny Day",
-          "Telekinesis",
-          "Thief",
-          "Trick Room",
-          "Will-O-Wisp"
-        ]
-      }
-    },
-    {
-      "name": "Gourgeist (Large)",
-      "type1": "Grass",
-      "type2": "Ghost",
-      "stats": {
-        "HP": 45,
-        "ATK": 8,
-        "DEF": 11,
-        "SATK": 5,
-        "SDEF": 7,
-        "SPE": 5
-      },
-      "skills": {
-        "Athletics": 3,
-        "Endurance": 6,
-        "Focus": 0,
-        "Stealth": 2,
-        "Acrobatics": 0
-      },
-      "height": "3′7″",
-      "weight": 30.9,
-      "eggGroups": [
-        "Amorphous"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Pickup"
-          ],
-          [
-            "Frisk"
-          ]
-        ],
-        "level5": [
-          [
-            "Flash Fire"
-          ],
-          [
-            "Illuminate"
-          ],
-          [
-            "Insomnia"
-          ]
-        ]
-      },
-      "catchDC": 18,
-      "evolves": {
-        "by": "Level 6 or Trade",
-        "from": "Pumpkaboo"
-      },
-      "moves": {
-        "form": [
-          "Body Slam"
-        ],
-        "starting": [
-          "Astonish",
-          "Trick-or-Treat",
-          "Shadow Sneak"
-        ],
-        "levelUp": {
-          "2": false,
-          "3": [
-            "Confuse Ray"
-          ],
-          "4": [
-            "Bullet Seed"
-          ],
-          "5": [
-            "Leech Seed"
-          ],
-          "6": [
-            "Flash"
-          ],
-          "7": [
-            "Razor Leaf"
-          ],
-          "8": [
-            "Scary Face"
-          ],
-          "9": [
-            "Seed Bomb"
-          ],
-          "10": [
-            "Shadow Ball"
-          ],
-          "11": [
-            "Worry Seed"
-          ],
-          "12": [
-            "Flamethrower"
-          ],
-          "13": [
-            "Trick"
-          ],
-          "14": [
-            "Pain Split"
-          ],
-          "15": [
-            "Explosion"
-          ],
-          "16": [
-            "Phantom Force"
-          ]
-        },
-        "tutor": [
-          "Ally Switch",
-          "Attract",
-          "Brutal Swing",
-          "Curse",
-          "Dark Pulse",
-          "Destiny Bond",
-          "Disable",
-          "Endure",
-          "Energy Ball",
-          "Facade",
-          "Fire Blast",
-          "Flame Charge",
-          "Focus Blast",
-          "Foul Play",
-          "Giga Drain",
-          "Giga Impact",
-          "Grass Knot",
-          "Grassy Glide",
-          "Gyro Ball",
-          "Hex",
-          "Hyper Beam",
-          "Imprison",
-          "Incinerate",
-          "Light Screen",
-          "Moonblast",
-          "Mystical Fire",
-          "Nasty Plot",
-          "Poltergeist",
-          "Power Whip",
-          "Protect",
-          "Psychic",
-          "Rest",
-          "Rock Slide",
-          "Rock Smash",
-          "Round",
-          "Safeguard",
-          "Skill Swap",
-          "Skitter Smack",
-          "Sleep Talk",
-          "Sludge Bomb",
-          "Snore",
-          "Solar Beam",
-          "Spite",
-          "Submission",
-          "Substitute",
-          "Sunny Day",
-          "Telekinesis",
-          "Thief",
-          "Trick Room",
-          "Will-O-Wisp"
-        ]
-      }
-    },
-    {
-      "name": "Gourgeist (Super)",
-      "type1": "Grass",
-      "type2": "Ghost",
-      "stats": {
-        "HP": 50,
-        "ATK": 8,
-        "DEF": 11,
-        "SATK": 5,
-        "SDEF": 7,
-        "SPE": 3
-      },
-      "skills": {
-        "Athletics": 3,
-        "Endurance": 6,
-        "Focus": 0,
-        "Stealth": 2,
-        "Acrobatics": -2
-      },
-      "height": "5′07″",
-      "weight": 86,
-      "eggGroups": [
-        "Amorphous"
-      ],
-      "abilities": {
-        "start": [
-          [
-            "Pickup"
-          ],
-          [
-            "Frisk"
-          ]
-        ],
-        "level5": [
-          [
-            "Flash Fire"
-          ],
-          [
-            "Illuminate"
-          ],
-          [
-            "Insomnia"
-          ]
-        ]
-      },
-      "catchDC": 18,
-      "evolves": {
-        "by": "Level 6 or Trade",
-        "from": "Pumpkaboo"
-      },
-      "moves": {
-        "form": [
-          "Heavy Slam"
-        ],
-        "starting": [
-          "Astonish",
-          "Trick-or-Treat",
-          "Shadow Sneak"
-        ],
-        "levelUp": {
-          "2": false,
-          "3": [
-            "Confuse Ray"
-          ],
-          "4": [
-            "Bullet Seed"
-          ],
-          "5": [
-            "Leech Seed"
-          ],
-          "6": [
-            "Flash"
-          ],
-          "7": [
-            "Razor Leaf"
-          ],
-          "8": [
-            "Scary Face"
-          ],
-          "9": [
-            "Seed Bomb"
-          ],
-          "10": [
-            "Shadow Ball"
-          ],
-          "11": [
-            "Worry Seed"
-          ],
-          "12": [
-            "Flamethrower"
-          ],
-          "13": [
-            "Trick"
-          ],
-          "14": [
-            "Pain Split"
-          ],
-          "15": [
-            "Explosion"
-          ],
-          "16": [
-            "Phantom Force"
-          ]
-        },
-        "tutor": [
-          "Ally Switch",
-          "Attract",
-          "Brutal Swing",
-          "Curse",
-          "Dark Pulse",
-          "Destiny Bond",
-          "Disable",
-          "Endure",
-          "Energy Ball",
-          "Facade",
-          "Fire Blast",
-          "Flame Charge",
-          "Focus Blast",
-          "Foul Play",
-          "Giga Drain",
-          "Giga Impact",
-          "Grass Knot",
-          "Grassy Glide",
-          "Gyro Ball",
-          "Hex",
-          "Hyper Beam",
-          "Imprison",
-          "Incinerate",
-          "Light Screen",
-          "Moonblast",
-          "Mystical Fire",
-          "Nasty Plot",
-          "Poltergeist",
-          "Power Whip",
-          "Protect",
-          "Psychic",
-          "Rest",
-          "Rock Slide",
-          "Rock Smash",
-          "Round",
-          "Safeguard",
-          "Skill Swap",
-          "Skitter Smack",
-          "Sleep Talk",
-          "Sludge Bomb",
-          "Snore",
-          "Solar Beam",
-          "Spite",
-          "Submission",
-          "Substitute",
-          "Sunny Day",
-          "Telekinesis",
-          "Thief",
-          "Trick Room",
-          "Will-O-Wisp"
-        ]
-      }
+      "blurb": "<p>Bratty children like to carve pumpkins to look like Gourgeist and throw them at neighbors. Real Gourgeist who wander streets at night take great offense to this mimicry, and wait until the children are alone to take revenge.</p>\n<p><strong>Pokéfeature:</strong> Gourgeist’s stats and Move learned upon evolving vary based on its size:</p>\n<table>\n<thead>\n<tr>\n<th>Size</th>\n<th style=\"text-align:right\">Height</th>\n<th style=\"text-align:right\">Weight</th>\n<th style=\"text-align:right\">HP</th>\n<th style=\"text-align:right\">Acrobatics</th>\n<th>Evo. Move</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Small</td>\n<td style=\"text-align:right\">2’4”</td>\n<td style=\"text-align:right\">20.9</td>\n<td style=\"text-align:right\">35</td>\n<td style=\"text-align:right\">4</td>\n<td>Minimize</td>\n</tr>\n<tr>\n<td>Average</td>\n<td style=\"text-align:right\">2’11”</td>\n<td style=\"text-align:right\">27.6</td>\n<td style=\"text-align:right\">40</td>\n<td style=\"text-align:right\">2</td>\n<td>Acrobatics</td>\n</tr>\n<tr>\n<td>Large</td>\n<td style=\"text-align:right\">3’7”</td>\n<td style=\"text-align:right\">30.9</td>\n<td style=\"text-align:right\">45</td>\n<td style=\"text-align:right\">0</td>\n<td>Wood Hammer</td>\n</tr>\n<tr>\n<td>Super</td>\n<td style=\"text-align:right\">5’7”</td>\n<td style=\"text-align:right\">86</td>\n<td style=\"text-align:right\">50</td>\n<td style=\"text-align:right\">-2</td>\n<td>Gyro Ball</td>\n</tr>\n</tbody>\n</table>\n"
     }
   ],
   "bergmite": [
@@ -127052,7 +126214,7 @@
           "Surf"
         ]
       },
-      "blurb": "<p>Bergmite stay so high in the mountains that they mostly battle other Ice-Types. They spend their time making their ice armor thicker and thicker, but if one overdoes it it can’t move. If that happens, Bergmite has to wait and hope that something wants to battle.</p>\n"
+      "blurb": "<p>Bergmite stay so high in the mountains that they mostly battle other Ice-Types. They spend their time making their ice armor thicker and thicker, but if one overdoes it, it can’t move. If that happens, Bergmite has to wait and hope that something wants to battle.</p>\n"
     },
     {
       "name": "Avalugg",
@@ -127203,7 +126365,7 @@
           "Surf"
         ]
       },
-      "blurb": "<p>Avalugg migrates from mountain to mountain, moving on whenever the roots in an area get too scarce. It can smash through any obstacle that could endanger a regular mountaineer, so it’s frequently used as a rescue operative.</p>\n"
+      "blurb": "<p>Avalugg migrate from mountain to mountain, moving on whenever the roots in an area get too scarce. It can smash through any obstacle that could endanger a regular mountaineer, so it’s frequently used as a rescue operative.</p>\n"
     },
     {
       "name": "Hisuian Avalugg",
@@ -127316,7 +126478,8 @@
             "Body Press"
           ]
         }
-      }
+      },
+      "blurb": "<p>youtube.com/watch?v=QacpBRPonzM</p>\n"
     }
   ],
   "noibat": [
@@ -129628,7 +128791,8 @@
             "Laser Focus"
           ]
         }
-      }
+      },
+      "blurb": "<p>bringing the tropical Rowlet family to extremely cold areas seems cruel, so this form is not often seen nowadays</p>\n"
     }
   ],
   "litten": [
@@ -132580,7 +131744,7 @@
       "weight": 0.4,
       "eggGroups": [
         "Insect",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -132718,7 +131882,7 @@
       "weight": 1.1,
       "eggGroups": [
         "Insect",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -137953,7 +137117,7 @@
       "weight": 7.3,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -140768,6 +139932,7 @@
           "Snore",
           "Spite",
           "Substitute",
+          "Synchronoise",
           "Telekinesis",
           "Thunder",
           "Thunder Wave",
@@ -145312,7 +144477,7 @@
             "Iron Defense"
           ],
           "8": [
-            "Amnesia"
+            "Calm Mind"
           ],
           "9": [
             "Stored Power"
@@ -145347,7 +144512,6 @@
           "Bide",
           "Body Press",
           "Bug Buzz",
-          "Calm Mind",
           "Cosmic Power",
           "Endure",
           "Energy Ball",
@@ -149721,7 +148885,7 @@
       "height": "1′4″",
       "weight": 7.5,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -149863,7 +149027,7 @@
       "height": "2′",
       "weight": 10.6,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -150014,7 +149178,7 @@
       "height": "6′11″",
       "weight": 11.2,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -150172,7 +149336,7 @@
       "height": "1′4″",
       "weight": 12.1,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Humanoid"
       ],
       "abilities": {
@@ -150329,7 +149493,7 @@
       "height": "2′7″",
       "weight": 27.6,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Humanoid"
       ],
       "abilities": {
@@ -150491,7 +149655,7 @@
       "height": "4′11″",
       "weight": 134.5,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Humanoid"
       ],
       "abilities": {
@@ -150660,7 +149824,7 @@
       "height": "8″",
       "weight": 0.7,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Amorphous"
       ],
       "abilities": {
@@ -150795,7 +149959,7 @@
       "height": "1′",
       "weight": 1.1,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Amorphous"
       ],
       "abilities": {
@@ -150942,7 +150106,7 @@
       "height": "9′10″",
       "weight": 136.7,
       "eggGroups": [
-        "Fae",
+        "Pixie",
         "Mineral"
       ],
       "abilities": {
@@ -151903,7 +151067,7 @@
       "height": "2′11″",
       "weight": 61.7,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -152047,7 +151211,7 @@
       "height": "2′11″",
       "weight": 61.7,
       "eggGroups": [
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -152194,7 +151358,7 @@
       "weight": 6.6,
       "eggGroups": [
         "Field",
-        "Fae"
+        "Pixie"
       ],
       "abilities": {
         "start": [
@@ -156018,6 +155182,590 @@
         ]
       },
       "blurb": "<p>Spectrier’s pride never diminished, and it would go on to challenge Calyrex one hundred times over the king’s reign. When the people’s faith diminished and Calyrex’s strength grew weak, Spectrier was the last to leave.</p>\n"
+    }
+  ],
+  "sprigatito": [
+    {
+      "name": "Sprigatito",
+      "type1": "Grass",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′4″",
+      "weight": 9,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Overgrow"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": 8,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "fuecoco": [
+    {
+      "name": "Fuecoco",
+      "type1": "Fire",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′4″",
+      "weight": 21.6,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Blaze"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": 8,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "quaxly": [
+    {
+      "name": "Quaxly",
+      "type1": "Water",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′8″",
+      "weight": 13.4,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Torrent"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": 8,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "armarouge": [
+    {
+      "name": "Armarouge",
+      "type1": "Fire",
+      "type2": "Psychic",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "4′11″",
+      "weight": 187.4,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Flash Fire"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "ceruledge": [
+    {
+      "name": "Ceruledge",
+      "type1": "Fire",
+      "type2": "Ghost",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "5′3″",
+      "weight": 136.7,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Flash Fire"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "cetitan": [
+    {
+      "name": "Cetitan",
+      "type1": "Ice",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "14′9″",
+      "weight": 1543.2,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Thick Fat"
+          ],
+          [
+            "Slush Rush"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "fidough": [
+    {
+      "name": "Fidough",
+      "type1": "Fairy",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′",
+      "weight": 24,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Own Tempo"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "grafaiai": [
+    {
+      "name": "Grafaiai",
+      "type1": "Poison",
+      "type2": "Normal",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "2′4″",
+      "weight": 60,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Unburden"
+          ],
+          [
+            "Poison Touch"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "klawf": [
+    {
+      "name": "Klawf",
+      "type1": "Rock",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "4′3″",
+      "weight": 174.2,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Anger Shell"
+          ],
+          [
+            "Shell Armor"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "lechonk": [
+    {
+      "name": "Lechonk",
+      "type1": "Normal",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′8″",
+      "weight": 22.5,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Aroma Veil"
+          ],
+          [
+            "Gluttony"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "pawmi": [
+    {
+      "name": "Pawmi",
+      "type1": "Electric",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′",
+      "weight": 5.5,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Static"
+          ],
+          [
+            "Natural Cure"
+          ]
+        ],
+        "level5": [
+          [
+            "Electric Cheeks"
+          ]
+        ]
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "smoliv": [
+    {
+      "name": "Smoliv",
+      "type1": "Grass",
+      "type2": "Normal",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "1′",
+      "weight": 14.3,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Early Bird"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "cyclizar": [
+    {
+      "name": "Cyclizar",
+      "type1": "Dragon",
+      "type2": "Normal",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "height": "5′3″",
+      "weight": 138.9,
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Shed Skin"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "koraidon": [
+    {
+      "name": "Koraidon",
+      "type1": "Dragon",
+      "type2": "Fighting?",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
+    }
+  ],
+  "miraidon": [
+    {
+      "name": "Miraidon",
+      "type1": "Dragon",
+      "type2": "Electric?",
+      "stats": {
+        "HP": 5,
+        "ATK": null,
+        "DEF": null,
+        "SATK": null,
+        "SDEF": null,
+        "SPE": null
+      },
+      "skills": {
+        "Athletics": null,
+        "Endurance": null,
+        "Focus": null,
+        "Stealth": null,
+        "Acrobatics": null
+      },
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [],
+        "levelUp": {}
+      }
     }
   ]
 }

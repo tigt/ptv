@@ -469,7 +469,7 @@
   },
   {
     "name": "Honey Gather",
-    "bonusStats": "+3 HP, +3 SPE",
+    "bonusStats": "+5 HP, +3 SPE",
     "description": "<p>Produces a Sweet Honey every Long Rest.</p>\n"
   },
   {
@@ -663,6 +663,7 @@
   },
   {
     "name": "Magician",
+    "bonusStats": "+2 SATK",
     "description": "<p>The user’s damaging Moves also steal their targets’ Held Items, if the user can hold them.</p>\n"
   },
   {
@@ -767,7 +768,7 @@
   },
   {
     "name": "No Guard",
-    "description": "<p>The user’s Moves and Moves targeting the user can’t miss.</p>\n"
+    "description": "<p>The user’s Moves can’t miss, and Moves can’t miss hitting the user.</p>\n"
   },
   {
     "name": "Normalize",
@@ -780,7 +781,7 @@
   },
   {
     "name": "Olympic",
-    "description": "<p>The user’s Boosts have no maximum.</p>\n"
+    "description": "<p>The user’s Boosts have no maximum cap.</p>\n"
   },
   {
     "name": "Overcoat",
@@ -854,6 +855,7 @@
   },
   {
     "name": "Poison Touch",
+    "bonusStats": "+2 ATK",
     "description": "<p>The user’s Contact Moves inflict Poison on 15+. If a move already has a chance of Poisoning, increase that chance’s Effect Rate by +6.</p>\n"
   },
   {
@@ -1014,6 +1016,7 @@
   },
   {
     "name": "Sand Force",
+    "bonusStats": "+2 ATK, +2 SATK",
     "description": "<p>The user’s damaging Ground, Rock, and Steel Moves get +5 damage in Sandstorms, and the user ignores Sandstorm damage.</p>\n"
   },
   {
@@ -1099,7 +1102,7 @@
   },
   {
     "name": "Simple",
-    "description": "<p>The user’s Stats are doubly affected by Boosts and Drops.</p>\n"
+    "description": "<p>The user’s Stats are doubly affected by Boosts and Drops. (The cap remains the same.)</p>\n"
   },
   {
     "name": "Skill Link",
@@ -1193,7 +1196,7 @@
   },
   {
     "name": "Steel Toe",
-    "description": "<p>The user’s Moves with “Kick” in the name and Stomp get +5 damage.</p>\n"
+    "description": "<p>The user’s Moves with “Kick” in their name and Stomp get +5 damage.</p>\n"
   },
   {
     "name": "Steelworker",

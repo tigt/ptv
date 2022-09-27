@@ -2711,30 +2711,9 @@
   "gourgeist": {
     "sizes": [
       400,
-      237
-    ],
-    "hash": "GRP1sa0"
-  },
-  "gourgeist-large": {
-    "sizes": [
-      400,
       236
     ],
     "hash": "4FM5RfK"
-  },
-  "gourgeist-small": {
-    "sizes": [
-      400,
-      258
-    ],
-    "hash": "9DkdZNL"
-  },
-  "gourgeist-super": {
-    "sizes": [
-      400,
-      259
-    ],
-    "hash": "4PcCJ4I"
   },
   "granbull": {
     "sizes": [
@@ -5100,21 +5079,7 @@
       400,
       247
     ],
-    "hash": "ruUnTDx"
-  },
-  "passimian copy": {
-    "sizes": [
-      400,
-      245
-    ],
-    "hash": "lsboC0w"
-  },
-  "passiminian": {
-    "sizes": [
-      400,
-      247
-    ],
-    "hash": "fuul3gn"
+    "hash": "efIj2j7"
   },
   "patrat": {
     "sizes": [
@@ -5419,31 +5384,10 @@
   },
   "pumpkaboo": {
     "sizes": [
-      400,
-      263
-    ],
-    "hash": "YLoxb3N"
-  },
-  "pumpkaboo-large": {
-    "sizes": [
       373,
       259
     ],
     "hash": "fUkeSPp"
-  },
-  "pumpkaboo-small": {
-    "sizes": [
-      400,
-      247
-    ],
-    "hash": "r3KLpd8"
-  },
-  "pumpkaboo-super": {
-    "sizes": [
-      400,
-      263
-    ],
-    "hash": "yKqhNtw"
   },
   "pupitar": {
     "sizes": [

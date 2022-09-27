@@ -4,7 +4,8 @@ const fs = require('fs')
 
 marked.setOptions({
   breaks: true,
-  smartypants: true
+  smartypants: true,
+  gfm: true
 })
 
 function markdown (str) {
@@ -89,7 +90,7 @@ fetchedSheets.then(data => {
   for (const name in dexData) {
     const mon = dexData[name]
     const baseForm = getBaseForm(name, dexData)
-    const baseName = baseForm?.name.replace(/^Galarian |^Alolan |^Hisuian |^Mega | \([^)]*?\)$/g, '').toLowerCase()
+    const baseName = baseForm?.name.replace(/^Galarian |^Alolan |^Hisuian |^Paldean |^Mega | \([^)]*?\)$/g, '').toLowerCase()
     families[baseName]?.push(mon) || (families[baseName] = [mon])
   }
   writeJson('pokemon', families)
@@ -132,7 +133,7 @@ fetchedSheets.then(data => {
           Stealth: row.SDEF - 5,
           Acrobatics: row.SPE - 5
         },
-        height: row.Height.replace(/'/g, '′').replace(/"/g, '″'),
+        height: row.Height?.replace(/'/g, '′').replace(/"/g, '″'),
         weight: row.Weight,
         eggGroups: [row['Egg 1'], row['Egg 2']].filter(Boolean),
         abilities: {
