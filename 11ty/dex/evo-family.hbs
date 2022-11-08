@@ -10,10 +10,8 @@ eleventyComputed:
 layout: dex-page
 ---
 
-<main>
-  <h1>{{mons.[0].name}} Family</h1>
+<h1>{{mons.[0].name}} Family</h1>
 
-  {{#each mons}}
-    {{> dex-entry mon=this}}
-  {{/each}}
-</main>
+{{#each mons}}
+  {{> dex-entry mon=this}}
+{{/each}}

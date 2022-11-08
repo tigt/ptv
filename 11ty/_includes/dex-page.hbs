@@ -5,7 +5,7 @@ layout: base
 <style>
   table {
     display: inline-table;
-    border-spacing: 0;
+    border-spacing: 0.25em 0;
     font-variant-numeric: tabular-nums;
   }
   th,
@@ -23,8 +23,34 @@ layout: base
     margin-left: 2ch;
   }
 
+  @media (max-width: 92em) {
+    .mon {
+      margin-left: -0.5em;
+    }
+  }
+
   h2 {
+    background: #b02a32;
+    color: #fff;
     margin-bottom: 0;
+    padding: 0 0 0.25rem 0.5rem;
+    position: relative;
+  }
+  h2::before {
+    content: "";
+    background: inherit;
+    background-image: linear-gradient(135deg, #b02a32 50%, #ecebdd 50%);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    height: 200px;
+    width: 200px;
+    max-width: 100%;
+    max-height: 33vw;
+  }
+  h2 > a {
+    color: inherit;
+    text-decoration-thickness: 1px;
   }
 
   .mon_pic {
@@ -33,24 +59,53 @@ layout: base
     max-width: 100%;
     height: auto;
   }
-
-  .mon_stats,
-  .mon_skills {
-    text-align: right;
+  @media (min-width: 45em) {
+    .mon_pic {
+      float: left;
+      margin: 0 1em 0.5em 0;
+    }
+    .mon::after {
+      content: "";
+      display: block;
+      clear: both; /* hopefully this cuts down on layout costs. Hopefully. */
+    }
+    .mon_moves {
+      clear: both; /* this too, since otherwise the tables participate in the multi-step float flow */
+    }
   }
 
-  .mon_pic,
-  .mon_abilities,
-  .mon_stats,
-  .mon_skills,
-  .mon_info {
-    vertical-align: bottom;
+  .mon_entry {
+    max-width: 55em;
+    margin: 0 0.5em 0.5em;
+  }
+
+  .mon_data {
     display: inline-block;
   }
 
-  .mon_info > dt,
-  .mon_info > dd {
+  .mon_stats {
+    text-align: right;
+  }
+
+  .mon_abilities,
+  .mon_info,
+  .mon_stats {
+    vertical-align: top;
+    display: inline-block;
+    margin: 0.5em;
+  }
+
+  .mon_info > dd,
+  .mon_info > dt {
     display: inline;
+  }
+
+  .mon_info > dd {
+    margin-left: 0;
+  }
+
+  .mon_info > dd::before {
+    content: " ";
   }
 
   .mon_info > dd::after {
@@ -58,18 +113,14 @@ layout: base
     display: block;
   }
 
-  .mon_moves {
-    display: inline-block;
-    vertical-align: top;
-  }
-
   .moves_heading {
-    margin: 0 0 0.5em;
+    margin: 0.5em 0 0.5em 0.5rem;
     flex-basis: 100%;
   }
 
   .moves_table {
     border-spacing: 0.5em 0;
+    margin-bottom: 1em;
   }
 
   .moves_table > tbody {
@@ -84,6 +135,7 @@ layout: base
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
+    margin-bottom: 0.5em;
   }
 
   .tutor-moves {
@@ -96,10 +148,11 @@ layout: base
 
   .tutor-moves_list {
     margin: 0;
-    padding: 0;
-    list-style: inside;
+    padding: 0 0 0 1.5ch;
     columns: 8em;
+    max-width: 40em;
   }
+
   li { /* specifically fixes a problem with CSS multicolumn, but good for printing too */
     break-inside: avoid;
   }

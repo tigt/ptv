@@ -2014,11 +2014,11 @@
   {
     "type": "Normal",
     "kind": "Special",
-    "power": 2,
+    "power": 4,
     "pp": 1,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>Sonic. If Echoed Voice was used last round, it does +5 damage. If it was used 2 rounds ago, it does +10 damage. (If both, it does +15.)</p>\n",
+    "description": "<p>Sonic. Each use by any character in consecutive Rounds adds +5 Power to Echoed Voice (maximum 34).</p>\n",
     "zEffect": "Breakneck Blitz — 28 Power",
     "maxPower": 90,
     "name": "Echoed Voice"
@@ -4732,7 +4732,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>A sinister ray that ignores Abilities that would lower damage or keep it from attacking.</p>\n",
+    "description": "<p>A sinister ray that ignores targets’ Abilities while attacking. </p>\n",
     "zEffect": "Never-Ending Nightmare — 60 Power",
     "maxPower": 130,
     "name": "Moongeist Beam"
@@ -5223,7 +5223,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>If the user’s ATK is higher than their SATK, add their ATK to Photon Geyser’s damage instead of SATK. (It’s still Special). A pillar of light erupts around the target.</p>\n",
+    "description": "<p>Ignores targets’ Abilities while attacking. If the user’s ATK is higher than their SATK, Photon Geyser becomes Physical. A pillar of light erupts beneath the target.</p>\n",
     "zEffect": "Shattered Psyche — 60 Power",
     "maxPower": 130,
     "name": "Photon Geyser"
@@ -7678,7 +7678,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Ignores Abilities that lower damage or keep it from attacking. Tackles with the impact of a meteor.</p>\n",
+    "description": "<p>A meteor-impact tacke that ignores targets’ Abilities while attacking.</p>\n",
     "zEffect": "Corkscrew Crash — 60 Power",
     "maxPower": 130,
     "name": "Sunsteel Strike"

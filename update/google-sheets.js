@@ -118,21 +118,19 @@ fetchedSheets.then(data => {
         name: row.Name,
         type1: row['Type 1'],
         type2: row['Type 2'],
-        stats: {
-          HP: +row['New HP'],
-          ATK: +row.ATK,
-          DEF: +row.DEF,
-          SATK: +row.SATK,
-          SDEF: +row.SDEF,
-          SPE: +row.SPE
-        },
-        skills: {
-          Athletics: row.ATK - 5,
-          Endurance: row.DEF - 5,
-          Focus: row.SATK - 5,
-          Stealth: row.SDEF - 5,
-          Acrobatics: row.SPE - 5
-        },
+        stats: [
+          { HP: +row['New HP']},
+          { ATK: +row.ATK,
+            Athletics: row.ATK - 5},
+          { DEF: +row.DEF,
+            Endurance: row.DEF - 5},
+          { SATK: +row.SATK,
+            Focus: row.SATK - 5},
+          { SDEF: +row.SDEF,
+            Stealth: row.SDEF - 5},
+          { SPE: +row.SPE,
+            Acrobatics: row.SPE - 5}
+        ],
         height: row.Height?.replace(/'/g, '′').replace(/"/g, '″'),
         weight: row.Weight,
         eggGroups: [row['Egg 1'], row['Egg 2']].filter(Boolean),

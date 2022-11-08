@@ -12,61 +12,28 @@
         <img alt="" class="mon_pic"
           src="../img/{{slugify ../name}}.jpg?{{hash}}"
           width="{{sizes.[0]}}" height="{{sizes.[1]}}"
-          loading="lazy">
+          {{#unless @first}}loading="lazy"{{/unless}}>
       {{#if image.secret}}</a>{{/if}}
 
       {{#if toggle}}
         <img alt="" class="mon_pic"
           src="../img/{{slugify ../name}}--toggle.jpg?{{hash}}"
           width="{{sizes.[0]}}" height="{{sizes.[1]}}"
-          loading="lazy">
+          {{#unless @first}}loading="lazy"{{/unless}}>
       {{/if}}
     {{else}}
       {{log name 'not found in dex image data' level='error'}}
     {{/if}}
   {{/with}}
 
-  <dl class="mon_abilities">
-    <dt>Type
-    <dd>{{type1}}{{#if type2}}&thinsp;/&thinsp;{{type2}}{{/if}}
-
-
-    {{#*inline "formatAbilities" }}
-      {{#each abilities~}}
-        <a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>{{#unless @last}}&thinsp;/&thinsp;{{/unless}}
-      {{~/each}}
-    {{/inline}}
-
-    <dt>Starting Abilit{{#if abilities.start.[1]}}ies{{else}}y{{/if}}
-    {{#each abilities.start}}
-      <dd>{{>formatAbilities abilities=this}}
-    {{/each}}
-
-    <dt>Level 5 Abilit{{#if abilities.level5.[1]}}ies{{else}}y{{/if}}
-    {{#each abilities.level5}}
-      <dd>{{>formatAbilities abilities=this}}
-    {{/each}}
-  </dl>
-
-  {{!-- Is this more or less accessible? https://codepen.io/tigt/pen/d461247540d53f36c247bf9c9c2d51b6?editors=1100 --}}
-
-  <table class="mon_stats">
-    {{#each stats}}
-    <tr>
-    <th>{{@key}}
-    <td>{{this}}
-    {{/each}}
-  </table>
-
-  <table class="mon_skills">
-    {{#each skills}}
-    <tr>
-    <th>{{@key}}
-    <td>{{this}}
-    {{/each}}
-  </table>
+  <div class="mon_entry">
+  {{{blurb}}}
+  </div>
 
   <dl class="mon_info">
+    <dt>Type:
+    <dd>{{type1}}{{#if type2}}&thinsp;/&thinsp;{{type2}}{{/if}}
+
     <dt>Height:&nbsp;
     <dd>{{height}}
 
@@ -87,9 +54,32 @@
     {{/if}}
   </dl>
 
-  <div class="mon_entry">
-  {{{blurb}}}
-  </div>
+  <dl class="mon_abilities">
+    {{#*inline "formatAbilities" }}
+      {{#each abilities~}}
+        <a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>{{#unless @last}}&thinsp;/&thinsp;{{/unless}}
+      {{~/each}}
+    {{/inline}}
+
+    <dt>Starting Abilit{{#if abilities.start.[1]}}ies{{else}}y{{/if}}
+    {{#each abilities.start}}
+      <dd>{{>formatAbilities abilities=this}}
+    {{/each}}
+
+    <dt>Level 5 Abilit{{#if abilities.level5.[1]}}ies{{else}}y{{/if}}
+    {{#each abilities.level5}}
+      <dd>{{>formatAbilities abilities=this}}
+    {{/each}}
+  </dl>
+
+  <table class="mon_stats">
+    {{#each stats}}
+    <tr>
+      {{#each this}}
+      <th>{{@key}}<td>{{this}}
+      {{/each}}
+    {{/each}}
+  </table>
 
   {{> moveset moves=moves evolvesFrom=evolves.from}}
 </article>
