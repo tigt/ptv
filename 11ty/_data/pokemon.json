@@ -43,7 +43,9 @@
         ],
         "level5": [
           [
-            "Entry: Leech Seed"
+            {
+              "Entry": "Leech Seed"
+            }
           ],
           [
             "Hydration"
@@ -2682,7 +2684,9 @@
             "Early Bird"
           ],
           [
-            "Entry: Feather Dance"
+            {
+              "Entry": "Feather Dance"
+            }
           ],
           [
             "Big Pecks"
@@ -2827,7 +2831,9 @@
             "Tough Claws"
           ],
           [
-            "Entry: Feather Dance"
+            {
+              "Entry": "Feather Dance"
+            }
           ],
           [
             "Big Pecks"
@@ -2981,7 +2987,9 @@
             "Speed Boost"
           ],
           [
-            "Entry: Feather Dance"
+            {
+              "Entry": "Feather Dance"
+            }
           ],
           [
             "Big Pecks"
@@ -3135,7 +3143,9 @@
             "Speed Boost"
           ],
           [
-            "Entry: Feather Dance"
+            {
+              "Entry": "Feather Dance"
+            }
           ],
           [
             "Big Pecks"
@@ -4192,7 +4202,9 @@
             "Startle"
           ],
           [
-            "Entry: Glare"
+            {
+              "Entry": "Glare"
+            }
           ],
           [
             "Unnerve"
@@ -4354,7 +4366,9 @@
             "Enthrall"
           ],
           [
-            "Entry: Glare"
+            {
+              "Entry": "Glare"
+            }
           ],
           [
             "Unnerve"
@@ -20843,7 +20857,9 @@
         ],
         "level5": [
           [
-            "Entry: Toxic Spikes"
+            {
+              "Entry": "Toxic Spikes"
+            }
           ],
           [
             "Gooey"
@@ -25311,7 +25327,9 @@
         ],
         "level5": [
           [
-            "Entry: Rapid Spin"
+            {
+              "Entry": "Rapid Spin"
+            }
           ],
           [
             "Momentum"
@@ -30448,7 +30466,9 @@
             "Innocent Face"
           ],
           [
-            "Entry: Lovely Kiss"
+            {
+              "Entry": "Lovely Kiss"
+            }
           ],
           [
             "Hydration"
@@ -30632,7 +30652,9 @@
             "Enthrall"
           ],
           [
-            "Entry: Lovely Kiss"
+            {
+              "Entry": "Lovely Kiss"
+            }
           ],
           [
             "Dry Skin"
@@ -36222,7 +36244,9 @@
         ],
         "level5": [
           [
-            "Entry: Double Team"
+            {
+              "Entry": "Double Team"
+            }
           ],
           [
             "Psychic Reservoir"
@@ -42097,7 +42121,9 @@
         ],
         "level5": [
           [
-            "Entry: Safeguard"
+            {
+              "Entry": "Safeguard"
+            }
           ],
           [
             "Healer"
@@ -42290,7 +42316,9 @@
         ],
         "level5": [
           [
-            "Entry: Lucky Chant"
+            {
+              "Entry": "Lucky Chant"
+            }
           ],
           [
             "Healer"
@@ -44232,7 +44260,9 @@
             "Prankster"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Infiltrator"
@@ -44388,7 +44418,9 @@
             "Sun Blanket"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Infiltrator"
@@ -44551,7 +44583,9 @@
             "Cotton Down"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Infiltrator"
@@ -60281,7 +60315,9 @@
         ],
         "level5": [
           [
-            "Entry: Defog"
+            {
+              "Entry": "Defog"
+            }
           ],
           [
             "Prankster"
@@ -63231,7 +63267,9 @@
         ],
         "level5": [
           [
-            "Entry: Substitute"
+            {
+              "Entry": "Substitute"
+            }
           ],
           [
             "Sap Sipper"
@@ -63491,7 +63529,7 @@
           "X-Scissor"
         ]
       },
-      "blurb": "<p>More mysterious than Shedinja’s sudden appearance is the lack of any wild specimens. The most accepted scientific theory is that Shedinja is the trusted bond between a Nincada and its Trainer possessing its discarded husk.<br>Pokéfeature: Shedinja’s Max HP is always 1.</p>\n"
+      "blurb": "<p>More mysterious than Shedinja’s sudden appearance is the lack of any wild specimens. The most accepted scientific theory is that Shedinja is the trusted bond between a Nincada and its Trainer possessing its discarded husk.<br><strong>Pokéfeature:</strong> Shedinja’s Max HP is always 1.</p>\n"
     }
   ],
   "whismur": [
@@ -66394,7 +66432,9 @@
         ],
         "level5": [
           [
-            "Entry: Mind Reader"
+            {
+              "Entry": "Mind Reader"
+            }
           ],
           [
             "Limber"
@@ -66580,7 +66620,9 @@
         ],
         "level5": [
           [
-            "Entry: Mind Reader"
+            {
+              "Entry": "Mind Reader"
+            }
           ],
           [
             "Limber"
@@ -70086,7 +70128,9 @@
             "Dizzying"
           ],
           [
-            "Entry: Teeter Dance"
+            {
+              "Entry": "Teeter Dance"
+            }
           ],
           [
             "Contrary"
@@ -71826,7 +71870,9 @@
         ],
         "level5": [
           [
-            "Entry: Gravity"
+            {
+              "Entry": "Gravity"
+            }
           ],
           [
             "Lunar Power"
@@ -72832,7 +72878,9 @@
         ],
         "level5": [
           [
-            "Entry: Rapid Spin"
+            {
+              "Entry": "Rapid Spin"
+            }
           ],
           [
             "Insomnia"
@@ -80865,7 +80913,9 @@
             "Multiscale"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Dracolize"
@@ -81035,7 +81085,9 @@
             "Multiscale"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Dracolize"
@@ -81099,7 +81151,9 @@
             "Comatose"
           ],
           [
-            "Entry: Wish"
+            {
+              "Entry": "Wish"
+            }
           ]
         ]
       },
@@ -81402,7 +81456,7 @@
           "Zap Cannon"
         ]
       },
-      "blurb": "<p>Inscrutable and nearly unstudiable, Deoxy’s DNA mutates on the fly as dramatically as Ditto’s. Nobody knows why they crash on Earth, or why they seek out other meteors when they land.<br>Pokéfeature: Deoxys can change forme when it comes into contact with meteorites.</p>\n"
+      "blurb": "<p>Inscrutable and nearly unstudiable, Deoxy’s DNA mutates on the fly as dramatically as Ditto’s. Nobody knows why they crash on Earth, or why they seek out other meteors when they land.<br><strong>Pokéfeature:</strong> Deoxys can change forme when it comes into contact with meteorites.</p>\n"
     },
     {
       "name": "Deoxys (Attack)",
@@ -85785,7 +85839,7 @@
           "Uproar"
         ]
       },
-      "blurb": "<p>Burmy constantly reknit their cloak and aren’t picky about the materials they find. This can be dangerous if Burmy picks up hazardous objects or even small Pokémon.<br>Pokéfeature: Burmy can change between Plant (Germinate), Sandy (Excavate) and Trash (Metallize) Cloaks outside of battle if it is in a proper environment.</p>\n"
+      "blurb": "<p>Burmy constantly reknit their cloak and aren’t picky about the materials they find. This can be dangerous if Burmy picks up hazardous objects or even small Pokémon.<br><strong>Pokéfeature:</strong> Burmy can change between Plant (Germinate), Sandy (Excavate) and Trash (Metallize) Cloaks outside of battle if it is in a proper environment.</p>\n"
     },
     {
       "name": "Wormadam (Plant)",
@@ -87838,7 +87892,7 @@
           "Yawn"
         ]
       },
-      "blurb": "<p>Gastrodon’s purple ooze can be made into powerful Repels, but are a terrible skin irritant.<br>Pokéfeature: Blue Gastrodon can choose Ice Body as their Level 5 Ability. Pink Gastrodon can choose Sun Blanket.</p>\n"
+      "blurb": "<p>Gastrodon’s purple ooze can be made into powerful Repels, but are a terrible skin irritant.<br><strong>Pokéfeature:</strong> Blue Gastrodon can choose Ice Body as their Level 5 Ability. Pink Gastrodon can choose Sun Blanket.</p>\n"
     }
   ],
   "drifloon": [
@@ -87887,7 +87941,9 @@
         ],
         "level5": [
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Innards Out"
@@ -92798,7 +92854,9 @@
         ],
         "level5": [
           [
-            "Entry: Eerie Impulse"
+            {
+              "Entry": "Eerie Impulse"
+            }
           ],
           [
             "Motor Drive"
@@ -92907,7 +92965,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Rotom’s electronic possession is harnessed as a CPU for many modern inventions. They don’t mind helping out in exchange for the new form, but Rotom can get bored of the device and leave it empty.<br>Pokéfeature: Rotom can change forms by possessing machines. Rotom’s forms have separate Types, Level-up Moves, and Level 5 Abilities.</p>\n"
+      "blurb": "<p>Rotom’s electronic possession is harnessed as a CPU for many modern inventions. They don’t mind helping out in exchange for the new form, but Rotom can get bored of the device and leave it empty.<br><strong>Pokéfeature:</strong> Rotom can change forms by possessing machines. Rotom’s forms have separate Types, Level-up Moves, and Level 5 Abilities.</p>\n"
     },
     {
       "name": "Rotom (Heat)",
@@ -92951,7 +93009,9 @@
         ],
         "level5": [
           [
-            "Entry: Smokescreen"
+            {
+              "Entry": "Smokescreen"
+            }
           ],
           [
             "Motor Drive"
@@ -93062,7 +93122,9 @@
         ],
         "level5": [
           [
-            "Entry: Water Sport"
+            {
+              "Entry": "Water Sport"
+            }
           ],
           [
             "Motor Drive"
@@ -93173,7 +93235,9 @@
         ],
         "level5": [
           [
-            "Entry: Mist"
+            {
+              "Entry": "Mist"
+            }
           ],
           [
             "Motor Drive"
@@ -93284,7 +93348,9 @@
         ],
         "level5": [
           [
-            "Entry: Defog"
+            {
+              "Entry": "Defog"
+            }
           ],
           [
             "Motor Drive"
@@ -93395,7 +93461,9 @@
         ],
         "level5": [
           [
-            "Entry: Forest’s Curse"
+            {
+              "Entry": "Forest’s Curse"
+            }
           ],
           [
             "Motor Drive"
@@ -95812,7 +95880,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Ruined battlegrounds pray to Shaymin to bring redemption. Some particularly desperate folks spend all day obsessively looking for Shaymin in fields.<br>Pokéfeature: Shaymin can transform into Sky Shaymin when exposed to flowers during the day and transforms back at night. Sky Shaymin has a separate Movepool.</p>\n"
+      "blurb": "<p>Ruined battlegrounds pray to Shaymin to bring redemption. Some particularly desperate folks spend all day obsessively looking for Shaymin in fields.<br><strong>Pokéfeature:</strong> Shaymin can transform into Sky Shaymin when exposed to flowers during the day and transforms back at night. Sky Shaymin has a separate Movepool.</p>\n"
     },
     {
       "name": "Shaymin (Sky)",
@@ -100939,7 +101007,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Unfezant’s mask once was a shorthand for nobility in stage costume, still seen in traditional plays. These days, it’s usually written as a signal of ostentatiousness.<br>Pokéfeature: Male Unfezant can choose Intimidate for their Level 5 Ability. Female Unfezant can choose Gale Wings.</p>\n"
+      "blurb": "<p>Unfezant’s mask once was a shorthand for nobility in stage costume, still seen in traditional plays. These days, it’s usually written as a signal of ostentatiousness.<br><strong>Pokéfeature:</strong> Male Unfezant can choose Intimidate for their Level 5 Ability. Female Unfezant can choose Gale Wings.</p>\n"
     }
   ],
   "blitzle": [
@@ -105803,7 +105871,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Where you find one color of Basculin, you’ll eventually find the other. The stripe is a matter of timing: hatchlings in warm seasons are red and hatchlings in cold seasons are blue. Newborn Basculin don’t recognize their parents, so they join schools of the same color.<br>Pokéfeature: Blue Basculin can choose Reckless or Zealous as their Level 5 Ability. Red Basculin can choose Rock Head or Lifedrinker.</p>\n"
+      "blurb": "<p>Where you find one color of Basculin, you’ll eventually find the other. The stripe is a matter of timing: hatchlings in warm seasons are red and hatchlings in cold seasons are blue. Newborn Basculin don’t recognize their parents, so they join schools of the same color.<br><strong>Pokéfeature:</strong> Blue Basculin can choose Reckless or Zealous as their Level 5 Ability. Red Basculin can choose Rock Head or Lifedrinker.</p>\n"
     },
     {
       "name": "Basculin (White Stripe)",
@@ -109634,7 +109702,9 @@
         ],
         "level5": [
           [
-            "Entry: Wide Guard"
+            {
+              "Entry": "Wide Guard"
+            }
           ],
           [
             "Shell Armor"
@@ -113237,7 +113307,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>If a Deerling is taken from one hemisphere to another, its colors change to match the new environment. Its scent doesn’t change its timing though, so Deerling can recognize when one is from a different region.<br>Pokéfeature: Deerling’s third Level 5 Ability changes with the season: Pixilate in Spring, Normalize in Summer, Germinate in Fall, and Refrigerate in Winter.</p>\n"
+      "blurb": "<p>If a Deerling is taken from one hemisphere to another, its colors change to match the new environment. Its scent doesn’t change its timing though, so Deerling can recognize when one is from a different region.<br><strong>Pokéfeature:</strong> Deerling’s third Level 5 Ability changes with the season: Pixilate in Spring, Normalize in Summer, Germinate in Fall, and Refrigerate in Winter.</p>\n"
     },
     {
       "name": "Sawsbuck",
@@ -113413,7 +113483,7 @@
           "Worry Seed"
         ]
       },
-      "blurb": "<p>Sawsbuck hate having their leaves pruned, but need it in domestic life. Wild Sawsbuck naturally get rid of excess leaves by ramming each other’s antlers when they compete.<br>Pokéfeature: Sawsbuck’s third Level 5 Ability changes with the season: Pixilate in Spring, Normalize in Summer, Germinate in Fall, and Refrigerate in Winter.</p>\n"
+      "blurb": "<p>Sawsbuck hate having their leaves pruned, but need it in domestic life. Wild Sawsbuck naturally get rid of excess leaves by ramming each other’s antlers when they compete.<br><strong>Pokéfeature:</strong> Sawsbuck’s third Level 5 Ability changes with the season: Pixilate in Spring, Normalize in Summer, Germinate in Fall, and Refrigerate in Winter.</p>\n"
     }
   ],
   "emolga": [
@@ -114070,7 +114140,9 @@
         ],
         "level5": [
           [
-            "Entry: Substitute"
+            {
+              "Entry": "Substitute"
+            }
           ],
           [
             "Technician"
@@ -114800,7 +114872,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>It’s dangerous to treasure hunt in Jellicent’s hunting grounds, but lots of divers do so anyway. The treasures in a Jellicent palace can date back hundreds of years, built up by generations of Jellicent.<br>Pokéfeature: Male Jellicent can choose Regal Challenge as their Level 5 Ability. Female Jellicent can choose Queenly Majesty.</p>\n"
+      "blurb": "<p>It’s dangerous to treasure hunt in Jellicent’s hunting grounds, but lots of divers do so anyway. The treasures in a Jellicent palace can date back hundreds of years, built up by generations of Jellicent.<br><strong>Pokéfeature:</strong> Male Jellicent can choose Regal Challenge as their Level 5 Ability. Female Jellicent can choose Queenly Majesty.</p>\n"
     }
   ],
   "joltik": [
@@ -116019,7 +116091,9 @@
         ],
         "level5": [
           [
-            "Entry: Coil"
+            {
+              "Entry": "Coil"
+            }
           ],
           [
             "Lifedrinker"
@@ -120151,7 +120225,9 @@
             "Competitive"
           ],
           [
-            "Entry: Miracle Eye"
+            {
+              "Entry": "Miracle Eye"
+            }
           ],
           [
             "Defiant"
@@ -122399,7 +122475,9 @@
             "Defiant"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Drizzle"
@@ -122557,7 +122635,9 @@
             "Gale Wings"
           ],
           [
-            "Entry: Tailwind"
+            {
+              "Entry": "Tailwind"
+            }
           ],
           [
             "Drizzle"
@@ -127625,7 +127705,7 @@
           "Will-O-Wisp"
         ]
       },
-      "blurb": "<p>Royal Kalos families captured entire Pyroar prides to keep them in gardens. When the monarchies would fall, Pyroar would take over the garden as their own.<br>Pokéfeature: Male Pyroar can choose Regal Challenge as their Level 5 Ability. Female Pyroar can choose Pride.</p>\n"
+      "blurb": "<p>Royal Kalos families captured entire Pyroar prides to keep them in gardens. When the monarchies would fall, Pyroar would take over the garden as their own.<br><strong>Pokéfeature:</strong> Male Pyroar can choose Regal Challenge as their Level 5 Ability. Female Pyroar can choose Pride.</p>\n"
     }
   ],
   "flabébé": [
@@ -134036,7 +134116,9 @@
             "Light Metal"
           ],
           [
-            "Entry: Crafty Shield"
+            {
+              "Entry": "Crafty Shield"
+            }
           ],
           [
             "Magician"
@@ -134184,7 +134266,9 @@
         ],
         "level5": [
           [
-            "Entry: Forest’s Curse"
+            {
+              "Entry": "Forest’s Curse"
+            }
           ],
           [
             "Power Leech"
@@ -134528,7 +134612,9 @@
         ],
         "level5": [
           [
-            "Entry: Trick-or-Treat"
+            {
+              "Entry": "Trick-or-Treat"
+            }
           ],
           [
             "Illuminate"
@@ -142276,7 +142362,9 @@
         ],
         "level5": [
           [
-            "Entry: Mud Sport"
+            {
+              "Entry": "Mud Sport"
+            }
           ],
           [
             "Klutz"
@@ -143975,7 +144063,9 @@
             "Run Away"
           ],
           [
-            "Entry: Sweet Scent"
+            {
+              "Entry": "Sweet Scent"
+            }
           ],
           [
             "Sweet Veil"
@@ -144124,7 +144214,9 @@
             "Sturdy"
           ],
           [
-            "Entry: Sweet Scent"
+            {
+              "Entry": "Sweet Scent"
+            }
           ],
           [
             "Sweet Veil"
@@ -144282,7 +144374,9 @@
             "Steel Toe"
           ],
           [
-            "Entry: Sweet Scent"
+            {
+              "Entry": "Sweet Scent"
+            }
           ],
           [
             "Sweet Veil"
@@ -144447,7 +144541,9 @@
             "Aroma Veil"
           ],
           [
-            "Entry: Floral Healing"
+            {
+              "Entry": "Floral Healing"
+            }
           ],
           [
             "Natural Cure"
@@ -153106,7 +153202,9 @@
         ],
         "level5": [
           [
-            "Entry: Tearful Look"
+            {
+              "Entry": "Tearful Look"
+            }
           ],
           [
             "Mimicry"
@@ -153609,7 +153707,9 @@
         ],
         "level5": [
           [
-            "Entry: Stuff Cheeks"
+            {
+              "Entry": "Stuff Cheeks"
+            }
           ],
           [
             "Beast Boost"
@@ -157428,7 +157528,9 @@
         ],
         "level5": [
           [
-            "Entry: Coil"
+            {
+              "Entry": "Coil"
+            }
           ],
           [
             "Sand Force"
@@ -158304,7 +158406,7 @@
           "Wild Charge"
         ]
       },
-      "blurb": "<p>Ancient images of Toxtricity lay all over Galar. Until recently, archaeologists theorized that Toxtricity was one of the Giganto Beasts that rampaged in the Darkest Day. The discovery of new ancient “zine” documents suggest these images may actually be fan creations.<br>Pokéfeature: Amped Form Toxtricity can choose Moody for its Level 5 feature. Low Key can choose Own Tempo. In levels with Moves separated by “ / “, Amped Form learns the first and Low Key the second. </p>\n"
+      "blurb": "<p>Ancient images of Toxtricity lay all over Galar. Until recently, archaeologists theorized that Toxtricity was one of the Giganto Beasts that rampaged in the Darkest Day. The discovery of new ancient “zine” documents suggest these images may actually be fan creations.<br><strong>Pokéfeature:</strong> Amped Form Toxtricity can choose Moody for its Level 5 feature. Low Key can choose Own Tempo. In levels with Moves separated by “ / “, Amped Form learns the first and Low Key the second. </p>\n"
     }
   ],
   "sizzlipede": [
@@ -159273,7 +159375,9 @@
             "Triage"
           ],
           [
-            "Entry: Haze"
+            {
+              "Entry": "Haze"
+            }
           ],
           [
             "Magic Bounce"
@@ -159425,7 +159529,9 @@
             "Berserk"
           ],
           [
-            "Entry: Haze"
+            {
+              "Entry": "Haze"
+            }
           ],
           [
             "Magic Bounce"
@@ -159586,7 +159692,9 @@
             "Tough Claws"
           ],
           [
-            "Entry: Haze"
+            {
+              "Entry": "Haze"
+            }
           ],
           [
             "Magic Bounce"
@@ -163735,7 +163843,7 @@
           "Thunder Fang"
         ]
       },
-      "blurb": "<p>Zacian battled at the Fairy King’s side for the king’s entire life. When the king died, Zacian walked into the mists to mourn and was not seen again for a hundred years.<br>Pokéfeature: Zacian cannot Dynamax.</p>\n"
+      "blurb": "<p>Zacian battled at the Fairy King’s side for the king’s entire life. When the king died, Zacian walked into the mists to mourn and was not seen again for a hundred years.<br><strong>Pokéfeature:</strong> Zacian cannot Dynamax.</p>\n"
     },
     {
       "name": "Zacian (Crowned Sword)",
@@ -164041,7 +164149,7 @@
           "Work Up"
         ]
       },
-      "blurb": "<p>Zamazenta trained the Fighting Master until the master could beat any opponent. When the Fighting Master finally broke through Zamazenta’s shield, the master left to become a king.<br>Pokéfeature: Zamazenta cannot Dynamax.</p>\n"
+      "blurb": "<p>Zamazenta trained the Fighting Master until the master could beat any opponent. When the Fighting Master finally broke through Zamazenta’s shield, the master left to become a king.<br><strong>Pokéfeature:</strong> Zamazenta cannot Dynamax.</p>\n"
     },
     {
       "name": "Zamazenta (Crowned Shield)",
@@ -164343,7 +164451,7 @@
           "Venom Drench"
         ]
       },
-      "blurb": "<p>Eternatus is the origin of the Dynamax phenomenon unique to Galar. While it cannot Dynamax naturally, it uses the illusory and spacetime-warping powers of Galar particles fluently to appear gigantic before all.<br>Pokéfeature: Eternatus cannot Dynamax.</p>\n"
+      "blurb": "<p>Eternatus is the origin of the Dynamax phenomenon unique to Galar. While it cannot Dynamax naturally, it uses the illusory and spacetime-warping powers of Galar particles fluently to appear gigantic before all.<br><strong>Pokéfeature:</strong> Eternatus cannot Dynamax.</p>\n"
     },
     {
       "name": "Eternatus (Eternamax)",
@@ -164485,7 +164593,7 @@
           "Venom Drench"
         ]
       },
-      "blurb": "<p>The being that caused the Darkest Day, the catastrophic event that shaped Galar’s ancient and modern history alike. It’s hypothesized that Eternatus can freely manipulate Galar particles because they are still part of its form.<br>Pokéfeature: Eternamax Eternatus can use Max Moves.</p>\n"
+      "blurb": "<p>The being that caused the Darkest Day, the catastrophic event that shaped Galar’s ancient and modern history alike. It’s hypothesized that Eternatus can freely manipulate Galar particles because they are still part of its form.<br><strong>Pokéfeature:</strong> Eternamax Eternatus can use Max Moves.</p>\n"
     }
   ],
   "kubfu": [
@@ -164625,7 +164733,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Although Kubfu’s body is more powerful than Tyrogue’s, when the two meet Tyrogue is always the teacher. Kubfu learns from Tyrogue’s tenacity and determination, admiring the small monster as a sensei. Whether these traits sink in is up to the individual.<br>Pokéfeature: Kubfu can learn the Moves Surging Strikes or Wicked Blow from a source determined by the GM.</p>\n"
+      "blurb": "<p>Although Kubfu’s body is more powerful than Tyrogue’s, when the two meet Tyrogue is always the teacher. Kubfu learns from Tyrogue’s tenacity and determination, admiring the small monster as a sensei. Whether these traits sink in is up to the individual.<br><strong>Pokéfeature:</strong> Kubfu can learn the Moves Surging Strikes or Wicked Blow from a source determined by the GM.</p>\n"
     },
     {
       "name": "Urshifu (Single Strike)",
@@ -165015,7 +165123,9 @@
         ],
         "level5": [
           [
-            "Entry: Taunt"
+            {
+              "Entry": "Taunt"
+            }
           ],
           [
             "Grass Pelt"
@@ -165594,7 +165704,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Calyrex’s name was erased from history when a spiteful king wanted to assert their divine right over the land. Only a northern village kept the truth safely hidden. That village’s crops were the most bountiful in the kingdom until the spiteful king razed their fields.<br>Pokéfeature: Calyrex can ride willing Pokemon to create a Rider form. Rider forms have their own movesets.</p>\n"
+      "blurb": "<p>Calyrex’s name was erased from history when a spiteful king wanted to assert their divine right over the land. Only a northern village kept the truth safely hidden. That village’s crops were the most bountiful in the kingdom until the spiteful king razed their fields.<br><strong>Pokéfeature:</strong> Calyrex can ride willing Pokemon to create a Rider form. Rider forms have their own movesets.</p>\n"
     },
     {
       "name": "Calyrex (Ice Rider)",

@@ -57,7 +57,12 @@
   <dl class="mon_abilities">
     {{#*inline "formatAbilities" }}
       {{#each abilities~}}
-        <a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>{{#unless @last}}&thinsp;/&thinsp;{{/unless}}
+        {{#if Entry}}
+          <a href="/ptv/abilities/#entry-move">Entry: {{Entry}}</a>
+        {{else}}
+          <a href="/ptv/abilities/#{{slugify this}}">{{this}}</a>
+        {{/if}}
+        {{#unless @last}}&thinsp;/&thinsp;{{/unless}}
       {{~/each}}
     {{/inline}}
 

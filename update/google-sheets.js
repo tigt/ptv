@@ -158,6 +158,7 @@ fetchedSheets.then(data => {
         .map(str =>
           str.split(/\//g)
             .map(s => s.trim())
+            .map(s => s.startsWith('Entry: ') ? { Entry: s.replace('Entry: ', '') }: s)
         )
     }
   }
