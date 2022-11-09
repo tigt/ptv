@@ -147,7 +147,7 @@ fetchedSheets.then(data => {
           form,
           starting,
           levelUp,
-          tutor: tutorMoves[row.Name]?.filter(move => !naturalMoves.all.includes(move))
+          tutor: tutorMoves[row.Name]?.filter(move => !naturalMoves?.all?.has(move))
         },
         blurb: blurb && markdown(blurb)
       }]
@@ -165,7 +165,7 @@ fetchedSheets.then(data => {
 
 function movesetsMapper (row) {
   const levelUpEntries = Object.entries(row).filter(([name]) => name.startsWith('Level'))
-      .map(([name, val]) => [parseInt(name.replace('Level', '')), val.split(', ')])
+      .map(([name, val]) => [parseInt(name.replace('Level', '')), val.split(', ').map(splitMoveslot)])
   
   // Preserve in-between levels that don’t learn moves
   const lastLevel = levelUpEntries.slice(-1)?.[0]?.[0] // Ditto, for example, has no level-up moves
@@ -181,15 +181,23 @@ function movesetsMapper (row) {
       .map((moves, i) => [i + 2, moves])
   )
 
-  const form = row.Form?.split(', ')
-  const starting = [row.Start1, row.Start2, row.Start3, row.Start4].filter(Boolean)
+  const form = row.Form?.split(', ').map(splitMoveslot)
+  const starting = [row.Start1, row.Start2, row.Start3, row.Start4].filter(Boolean).map(splitMoveslot)
 
   return [row.Mon, {
     form,
     starting,
     levelUp,
-    all: [].concat(form, starting, levelUpEntries.flatMap(([_, val]) => val))
+    all: new Set([].concat(form, starting, levelUpEntries.flatMap(([_, val]) => val?.oneOf || val)))
   }]
+}
+
+function splitMoveslot (str) {
+  if (str.includes('/')) {
+    return { oneOf: str.split('/').map(s => s.trim()) }
+  } else {
+    return str
+  }
 }
 
 function tutorMatrixMapper (row) {

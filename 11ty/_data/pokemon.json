@@ -32184,6 +32184,43 @@
         ]
       },
       "blurb": "<p>Pressing the largest gray stud on Tauros’s forehead will immobilize it… as long as you keep it pressed. Old cowpokes use this trick to stop a rampaging Tauros right in its tracks.</p>\n"
+    },
+    {
+      "name": "Paldean Tauros",
+      "type1": "Fighting",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
     }
   ],
   "magikarp": [
@@ -46029,6 +46066,46 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Clodsire",
+      "type1": "Poison",
+      "type2": "Ground",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Paldean Wooper"
+      },
+      "moves": {}
     }
   ],
   "murkrow": [
@@ -87503,13 +87580,23 @@
             "Memento"
           ],
           "13": [
-            "Grassy Terrain/Misty Terrain"
+            {
+              "oneOf": [
+                "Grassy Terrain",
+                "Misty Terrain"
+              ]
+            }
           ],
           "14": [
             "Sticky Web"
           ],
           "15": [
-            "Scald/Blizzard"
+            {
+              "oneOf": [
+                "Scald",
+                "Blizzard"
+              ]
+            }
           ]
         },
         "tutor": [
@@ -87677,13 +87764,23 @@
             "Memento"
           ],
           "14": [
-            "Grassy Terrain/Misty Terrain"
+            {
+              "oneOf": [
+                "Grassy Terrain",
+                "Misty Terrain"
+              ]
+            }
           ],
           "15": [
             "Sticky Web"
           ],
           "16": [
-            "Scald/Blizzard"
+            {
+              "oneOf": [
+                "Scald",
+                "Blizzard"
+              ]
+            }
           ]
         },
         "tutor": [
@@ -100738,7 +100835,12 @@
       },
       "moves": {
         "form": [
-          "Extreme Speed / Egg Bomb"
+          {
+            "oneOf": [
+              "Extreme Speed",
+              "Egg Bomb"
+            ]
+          }
         ],
         "starting": [
           "Gust",
@@ -100759,7 +100861,12 @@
           ],
           "6": false,
           "7": [
-            "Swagger/Fly"
+            {
+              "oneOf": [
+                "Swagger",
+                "Fly"
+              ]
+            }
           ],
           "8": [
             "Chip Away"
@@ -113077,7 +113184,14 @@
             "Double-Edge"
           ],
           "15": [
-            "Silver Wind/Heat Wave/Ominous Wind/Icy Wind"
+            {
+              "oneOf": [
+                "Silver Wind",
+                "Heat Wave",
+                "Ominous Wind",
+                "Icy Wind"
+              ]
+            }
           ]
         },
         "tutor": [
@@ -113241,7 +113355,14 @@
             "Double-Edge"
           ],
           "16": [
-            "Springtide Storm/Wildvolt Storm/Sandsear Storm/Bleakwind Storm"
+            {
+              "oneOf": [
+                "Springtide Storm",
+                "Wildvolt Storm",
+                "Sandsear Storm",
+                "Bleakwind Storm"
+              ]
+            }
           ]
         },
         "tutor": [
@@ -127426,13 +127547,23 @@
             "Flamethrower"
           ],
           "10": [
-            "Slack Off / Sucker Punch"
+            {
+              "oneOf": [
+                "Slack Off",
+                "Sucker Punch"
+              ]
+            }
           ],
           "11": [
             "Hyper Voice"
           ],
           "12": [
-            "Fire Blast / Fire Lash"
+            {
+              "oneOf": [
+                "Fire Blast",
+                "Fire Lash"
+              ]
+            }
           ],
           "13": [
             "Burn Up"
@@ -158057,7 +158188,12 @@
         ],
         "levelUp": {
           "2": [
-            "Venom Drench / Venoshock"
+            {
+              "oneOf": [
+                "Venom Drench",
+                "Venoshock"
+              ]
+            }
           ],
           "3": [
             "Shock Wave"
@@ -158087,13 +158223,28 @@
             "Boomburst"
           ],
           "12": [
-            "Shift Gear / Magnetic Flux"
+            {
+              "oneOf": [
+                "Shift Gear",
+                "Magnetic Flux"
+              ]
+            }
           ],
           "13": [
-            "Follow Me / Spotlight"
+            {
+              "oneOf": [
+                "Follow Me",
+                "Spotlight"
+              ]
+            }
           ],
           "14": [
-            "Clanging Scales / Mirror Move"
+            {
+              "oneOf": [
+                "Clanging Scales",
+                "Mirror Move"
+              ]
+            }
           ],
           "15": [
             "Synchronoise"
@@ -165870,6 +166021,93 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Floragato",
+      "type1": "Grass",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Overgrow"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Sprigatito"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Meowscarada",
+      "type1": "Grass",
+      "type2": "Dark",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Overgrow"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Floragato"
+      },
+      "moves": {}
     }
   ],
   "fuecoco": [
@@ -165918,6 +166156,93 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Crocalor",
+      "type1": "Fire",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Blaze"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Fuecoco"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Skeledirge",
+      "type1": "Fire",
+      "type2": "Ghost",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Blaze"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Crocalor"
+      },
+      "moves": {}
     }
   ],
   "quaxly": [
@@ -165966,9 +166291,133 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Quaxwell",
+      "type1": "Water",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Torrent"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Quaxly"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Quaquaval",
+      "type1": "Water",
+      "type2": "Fighting",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [
+          [
+            "Torrent"
+          ]
+        ],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Quaxwell"
+      },
+      "moves": {}
     }
   ],
-  "armarouge": [
+  "pot boy": [
+    {
+      "name": "Pot Boy",
+      "type1": "Fire",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
     {
       "name": "Armarouge",
       "type1": "Fire",
@@ -166007,17 +166456,21 @@
             "Flash Fire"
           ]
         ],
-        "level5": []
+        "level5": [
+          [
+            "Battle Armor?"
+          ]
+        ]
       },
       "catchDC": null,
-      "evolves": {},
+      "evolves": {
+        "from": "Pot Boy"
+      },
       "moves": {
         "starting": [],
         "levelUp": {}
       }
-    }
-  ],
-  "ceruledge": [
+    },
     {
       "name": "Ceruledge",
       "type1": "Fire",
@@ -166056,17 +166509,60 @@
             "Flash Fire"
           ]
         ],
-        "level5": []
+        "level5": [
+          [
+            "Honed Edge?"
+          ]
+        ]
       },
       "catchDC": null,
-      "evolves": {},
+      "evolves": {
+        "from": "Pot Boy"
+      },
       "moves": {
         "starting": [],
         "levelUp": {}
       }
     }
   ],
-  "cetitan": [
+  "cetoddle": [
+    {
+      "name": "Cetoddle",
+      "type1": "Ice",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
     {
       "name": "Cetitan",
       "type1": "Ice",
@@ -166110,7 +166606,9 @@
         "level5": []
       },
       "catchDC": null,
-      "evolves": {},
+      "evolves": {
+        "from": "Cetoddle"
+      },
       "moves": {
         "starting": [],
         "levelUp": {}
@@ -166163,9 +166661,86 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Fidough2",
+      "type1": "Fairy",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Fidough"
+      },
+      "moves": {}
     }
   ],
-  "grafaiai": [
+  "shroodle": [
+    {
+      "name": "Shroodle",
+      "type1": "Poison",
+      "type2": "Normal",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
     {
       "name": "Grafaiai",
       "type1": "Poison",
@@ -166210,7 +166785,9 @@
         "level5": []
       },
       "catchDC": null,
-      "evolves": {},
+      "evolves": {
+        "from": "Shroodle"
+      },
       "moves": {
         "starting": [],
         "levelUp": {}
@@ -166317,6 +166894,84 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Oinkologne (♂)",
+      "type1": "Normal",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Lechonk"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Oinkologne (♀)",
+      "type1": "Normal",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Lechonk"
+      },
+      "moves": {}
     }
   ],
   "pawmi": [
@@ -166372,6 +167027,85 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Pawmi2",
+      "type1": "Electric",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Pawmi"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Pawmi3",
+      "type1": "Electric",
+      "type2": "Fighting",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Pawmi2"
+      },
+      "moves": {}
     }
   ],
   "smoliv": [
@@ -166421,6 +167155,86 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Dolliv",
+      "type1": "Grass",
+      "type2": "Normal",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Smoliv"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Smoliv3",
+      "type1": "Grass",
+      "type2": "Normal",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Dolliv"
+      },
+      "moves": {}
     }
   ],
   "wiglett": [
@@ -166467,9 +167281,6 @@
         "level5": [
           [
             "Limber?"
-          ],
-          [
-            "Long Reach?"
           ]
         ]
       },
@@ -166479,9 +167290,85 @@
         "starting": [],
         "levelUp": {}
       }
+    },
+    {
+      "name": "Wugtrio",
+      "type1": "Water",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Wiglett"
+      },
+      "moves": {}
     }
   ],
-  "bellibolt": [
+  "bellibolt0": [
+    {
+      "name": "Bellibolt0",
+      "type1": "Electric",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
     {
       "name": "Bellibolt",
       "type1": "Electric",
@@ -166525,7 +167412,9 @@
         "level5": []
       },
       "catchDC": null,
-      "evolves": {},
+      "evolves": {
+        "from": "Bellibolt0"
+      },
       "moves": {
         "starting": [],
         "levelUp": {}
@@ -166732,6 +167621,320 @@
         "starting": [],
         "levelUp": {}
       }
+    }
+  ],
+  "nacli": [
+    {
+      "name": "Nacli",
+      "type1": "Rock",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
+    {
+      "name": "Nacli2",
+      "type1": "Rock",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Nacli"
+      },
+      "moves": {}
+    },
+    {
+      "name": "Nacli3",
+      "type1": "Rock",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Nacli2"
+      },
+      "moves": {}
+    }
+  ],
+  "nymble": [
+    {
+      "name": "Nymble",
+      "type1": "Bug",
+      "type2": "Dark",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
+    {
+      "name": "Lokix",
+      "type1": "Bug",
+      "type2": "Dark",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Nymble"
+      },
+      "moves": {}
+    }
+  ],
+  "flamigo": [
+    {
+      "name": "Flamigo",
+      "type1": "Flying?",
+      "type2": "Fighting?",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    }
+  ],
+  "tarountula": [
+    {
+      "name": "Tarountula",
+      "type1": "Bug",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {},
+      "moves": {}
+    },
+    {
+      "name": "Tarountula2",
+      "stats": [
+        {
+          "HP": 5
+        },
+        {
+          "ATK": null,
+          "Athletics": null
+        },
+        {
+          "DEF": null,
+          "Endurance": null
+        },
+        {
+          "SATK": null,
+          "Focus": null
+        },
+        {
+          "SDEF": null,
+          "Stealth": null
+        },
+        {
+          "SPE": null,
+          "Acrobatics": null
+        }
+      ],
+      "eggGroups": [],
+      "abilities": {
+        "start": [],
+        "level5": []
+      },
+      "catchDC": null,
+      "evolves": {
+        "from": "Tarountula"
+      },
+      "moves": {}
     }
   ],
   "cyclizar": [

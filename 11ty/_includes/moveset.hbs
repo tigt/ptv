@@ -12,24 +12,39 @@
     <tr>
       <th>Form
       <td>{{#each form}}
-            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-            {{~#unless @last}}, {{/unless}}
+            {{#each oneOf~}}
+              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+              {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
+            {{~else}}
+              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+              {{~#unless @last}}, {{/unless}}
+            {{/each}}
           {{/each}}
     </tr>
     {{/if}}
     <tr>
       <th>1
       <td>{{#each starting}}
-            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-            {{~#unless @last}}, {{/unless}}
+            {{#each oneOf~}}
+              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+              {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
+            {{~else}}
+              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+              {{~#unless @last}}, {{/unless}}
+            {{/each}}
           {{/each}}
     </tr>
     {{#each levelUp}}
     <tr>
       <th>{{@key}}
       <td>{{#each this}}
-            <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-            {{~#unless @last}}, {{/unless}}
+            {{#each oneOf~}}
+              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+              {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
+            {{~else}}
+              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+              {{~#unless @last}}, {{/unless}}
+            {{/each}}
           {{else}}
             —
           {{/each}}
