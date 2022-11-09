@@ -6,10 +6,10 @@
   {{#*inline "formatMoves" }}
     {{#each moves}}
       {{#each oneOf~}}
-        <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+        <a href="/moves/#{{slugify this}}">{{this}}</a>
         {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
       {{~else}}
-        <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+        <a href="/moves/#{{slugify this}}">{{this}}</a>
         {{~#unless @last}}, {{/unless}}
       {{/each}}
     {{/each}}
@@ -46,7 +46,7 @@
 
     <ul class="tutor-moves_list">
     {{#each tutor}}
-      <li><a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+      <li><a href="/moves/#{{slugify this}}">{{this}}</a>
     {{/each}}
     </ul>
   </section>
