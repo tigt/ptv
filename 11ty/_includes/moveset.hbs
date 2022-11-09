@@ -3,6 +3,18 @@
 <section class="mon_moves">
   <h3 class="moves_heading">Moves</h3>
 
+  {{#*inline "formatMoves" }}
+    {{#each moves}}
+      {{#each oneOf~}}
+        <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+        {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
+      {{~else}}
+        <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
+        {{~#unless @last}}, {{/unless}}
+      {{/each}}
+    {{/each}}
+  {{/inline}}
+
   <table class="moves_table">
     <thead>
       <th>Level
@@ -11,43 +23,21 @@
     {{#if form}}
     <tr>
       <th>Form
-      <td>{{#each form}}
-            {{#each oneOf~}}
-              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-              {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
-            {{~else}}
-              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-              {{~#unless @last}}, {{/unless}}
-            {{/each}}
-          {{/each}}
+      <td>{{>formatMoves moves=form}}
     </tr>
     {{/if}}
     <tr>
       <th>1
-      <td>{{#each starting}}
-            {{#each oneOf~}}
-              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-              {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
-            {{~else}}
-              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-              {{~#unless @last}}, {{/unless}}
-            {{/each}}
-          {{/each}}
+      <td>{{>formatMoves moves=starting}}
     </tr>
     {{#each levelUp}}
     <tr>
       <th>{{@key}}
-      <td>{{#each this}}
-            {{#each oneOf~}}
-              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-              {{~#unless @last}}&thinsp;/&thinsp;{{/unless~}}
-            {{~else}}
-              <a href="/ptv/moves/#{{slugify this}}">{{this}}</a>
-              {{~#unless @last}}, {{/unless}}
-            {{/each}}
+      <td>{{#if this}}
+            {{>formatMoves moves=this}}
           {{else}}
             —
-          {{/each}}
+          {{/if}}
     {{/each}}
   </table>
 
