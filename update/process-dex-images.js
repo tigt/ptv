@@ -25,8 +25,8 @@ const path = require('path')
             default: return ''
           }
         })
-
-      return sharp(pathIn)
+      
+      const fullFilePromise = sharp(pathIn)
         .resize({
           width: 400,
           height: 400,
@@ -40,9 +40,23 @@ const path = require('path')
           quality: 85
         })
         .toFile(pathOut)
-        .then(({ width, height }) => [basename, {
-          sizes: [width, height],
-          hash
+
+      const avgColorPromise = sharp(pathIn)
+        .resize({
+          width: 1,
+          height: 1,
+          fit: 'fill'
+        })
+        .removeAlpha()
+        .modulate({ saturation: 1.5 })
+        .raw()
+        .toBuffer()
+
+      return Promise.all([fullFilePromise, avgColorPromise])
+        .then(([fullFile, avgColor]) => [basename, {
+          sizes: [fullFile.width, fullFile.height],
+          hash,
+          avgColor: rgbBufToHexCode(avgColor)
         }])
     }))
   }
@@ -71,3 +85,12 @@ const path = require('path')
     JSON.stringify(results, null, 2)
   )
 })()
+
+function rgbBufToHexCode (buf) {
+  let color = '#'
+  for (const component of buf) {
+    if (component < 16) color += '0';
+    color += component.toString(16)
+  }
+  return color
+}

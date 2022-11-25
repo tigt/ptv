@@ -23,38 +23,44 @@ layout: base
     margin-left: 2ch;
   }
 
-  h2 {
-    background: #b02a32;
-    color: #fff;
+  .mon_header {
     margin-bottom: 0;
-    padding: 0 0 0.25rem 0.5rem;
-    position: relative;
+    padding: 0;
+    line-height: 0;
+    width: fit-content;
   }
-  h2::before {
-    content: "";
-    background: inherit;
-    background-image: linear-gradient(135deg, #b02a32 50%, #ecebdd 50%);
-    position: absolute;
-    top: 100%;
-    left: 0;
-    height: 200px;
-    width: 200px;
-    max-width: 100%;
-    max-height: 33vw;
-  }
-  h2 > a {
-    color: inherit;
+  
+  .mon_header > a {
+    color: #fff;
     text-decoration-thickness: 1px;
+    display: block;
+    line-height: 1.5em;
+    clip-path: polygon(0 0, 100% 0, 100% 0.75em, 0 2.25em);
+    /* set up such that:
+    - all the top-left chicanery is blocked
+    - the longest possible name ("Mega Crabominable") is still legible
+    - proportions I think are stylish
+    - otherwise minimal image blocking
+    */
+    padding: 0 0 0.75em 0.25em;
+    margin-bottom: -1.51em; /* some nasty not-quite-pixel-perfect rounding */
+    background-image: linear-gradient(90deg, #0008, #fff2); /* a11y */
+  }
+
+  @media (max-width: 420px) { /* haha funni weed number */
+    .mon_header > a {
+      clip-path: polygon(0 0, 100% 0, 100% calc(1.9em - 7vw), 0 2.25em); /* eyeballed to keep responsive */
+    }
   }
 
   .mon_pic {
-    border-top-left-radius: 30%; /* for whatever doesn’t support clip-path */
-    clip-path: polygon(0 30%, 30% 0, 100% 0, 100% 100%, 0 100%);
+    width: 400px;
     max-width: 100%;
     height: auto;
   }
+
   @media (min-width: 45em) {
-    .mon_pic {
+    .mon_header {
       float: left;
       clear: both; /* TODO until I make that <details>/<summary> swapper for multi-images, or whatever */
       margin: 0 1em 0.5em 0;

@@ -1,9 +1,9 @@
 {{#with mon}}
 <article class="mon" id="{{slugify name}}">
-  <h2><a href="#{{slugify name}}">{{name}}</a></h2>
-
+  <h2 class="mon_header">
   {{#with (lookup @root.[dex-images] (slugify name)) as | image | }}
     {{#if image}}
+      <a href="#{{slugify ../name}}" style="background-color:{{image.avgColor}}">{{../name}}</a>
       {{#if secret}}
         <a class="mon_shh"
           href="../img/{{slugify ../name}}--secret.jpg?{{hash}}"
@@ -22,9 +22,11 @@
           {{#unless @first}}loading="lazy"{{/unless}}>
       {{/if}}
     {{else}}
+      <a href="#{{slugify ../name}}" style="background-color:#b02a32">{{../name}}</a>
       {{log name 'not found in dex image data' level='error'}}
     {{/if}}
   {{/with}}
+  </h2>
 
   <div class="mon_entry">
   {{{blurb}}}
