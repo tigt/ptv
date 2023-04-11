@@ -99,7 +99,7 @@ fetchedSheets.then(data => {
     if (name === '...?') { return dex['Luvdisc'] }
     
     const mon = dex[name]
-    const prevo = mon.evolves.from
+    const prevo = mon?.evolves.from
     if (prevo) {
       if (prevo === name) {
         throw Error(`${name} listed as evolving from from itself, exiting to avoid infinite recursion`)

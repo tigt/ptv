@@ -89,7 +89,7 @@
     "name": "Battle Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can craft X-Items during Rests by spending 1.5× cost of the item. A good smoothie always helps.",
+    "description": "Can craft X-Items during Rests by spending 1.5× cost of the item. A good pick-me-up always helps.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -578,7 +578,7 @@
     "name": "Focus Band",
     "buy": 4000,
     "sell": 2000,
-    "description": "If a damaging Move would Faint the holder, roll d20. On 19+, they endure with 1 HP instead. A headband for determination.",
+    "description": "If a damaging Move would KO the holder, they roll a DC 19 Save. On success, they endure with 1 HP instead. A headband for determination.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1394,7 +1394,7 @@
     "name": "Rocky Helmet",
     "buy": 4000,
     "sell": 2000,
-    "description": "Whenever an attacker makes contact with the holder, the attacker loses 1 Tick of HP.",
+    "description": "Whenever an attacker makes contact with the holder, the attacker loses 2 Ticks of HP.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1725,7 +1725,7 @@
     "name": "Utility Umbrella",
     "buy": 4000,
     "sell": 2000,
-    "description": "Foes targeting the holder do not get the extra +10 damage from weather.",
+    "description": "Attacks targeting the holder and the holder’s Abilities ignore the presence of Rain or Harsh Sunlight. (Water and Fire damage doesn’t change, Hurricane and Thunder have their regular Accuracy, etc.)",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

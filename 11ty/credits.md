@@ -13,6 +13,8 @@ All of this is thanks to and copyright GAME FREAK and Nintendo.
 
 - [Pengogo][pg] and [Matt Palladium][matt] for Bonus Moves (they had the idea simultaneously)
 
+- [All GitHub code/issue contributors](https://github.com/tigt/ptv/graphs/contributors)
+
 ## Dev Team/<abbr title="Internet Relay Chat">IRC</abbr> playtesters
 
 - [Pengogo][pg]
@@ -27,7 +29,7 @@ All of this is thanks to and copyright GAME FREAK and Nintendo.
 - Justin N.
 - Marshal Z.
 - [Michael B.](https://github.com/Yukiiro-Nite)
-- [Steph M.](https://twitter.com/smmaci)
+- [Steph M.](https://smmaci.dev)
 
 [dobbers]: https://twitter.com/aridobbers
 [pg]: https://twitter.com/Pengogod
