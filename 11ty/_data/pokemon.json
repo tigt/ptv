@@ -2712,7 +2712,7 @@
             "Twister"
           ],
           "5": [
-            "Air Slash"
+            "Air Cutter"
           ],
           "6": [
             "Agility"
@@ -2747,7 +2747,7 @@
         },
         "tutor": [
           "Aerial Ace",
-          "Air Cutter",
+          "Air Slash",
           "Attract",
           "Dual Wingbeat",
           "Endure",
@@ -2866,7 +2866,7 @@
             "Hone Claws"
           ],
           "6": [
-            "Air Slash"
+            "Air Cutter"
           ],
           "7": [
             "Agility"
@@ -2901,7 +2901,7 @@
         },
         "tutor": [
           "Aerial Ace",
-          "Air Cutter",
+          "Air Slash",
           "Attract",
           "Brave Bird",
           "Dual Wingbeat",
@@ -3003,7 +3003,7 @@
       },
       "moves": {
         "form": [
-          "Hurricane"
+          "Air Slash"
         ],
         "starting": [
           "Tackle",
@@ -3059,7 +3059,6 @@
         "tutor": [
           "Aerial Ace",
           "Air Cutter",
-          "Air Slash",
           "Attract",
           "Brave Bird",
           "Dual Wingbeat",
@@ -8715,7 +8714,7 @@
           "Zen Headbutt"
         ]
       },
-      "blurb": "<p>Zubat overwhelm any environment they’re introduced to, as their toxic bloodstream means they have very few predators. This is considered an adaptation from feeding on blood in the Kanto region, where Poison-Types abound.</p>\n"
+      "blurb": "<p>Zubat overwhelm any environment they’re introduced to, as their toxic bloodstream means they have very few predators. This poison is injected when feeding to increase blood flow and dull the prey’s senses.</p>\n"
     },
     {
       "name": "Golbat",
@@ -9578,7 +9577,6 @@
             "Magical Leaf"
           ],
           "3": [
-            "Poison Powder",
             "Stun Spore",
             "Sleep Powder"
           ],
@@ -10069,7 +10067,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Tackle",
+          "Pounce",
           "Disable",
           "Poison Fang",
           "Foresight"
@@ -10080,26 +10078,29 @@
             "Night Shade"
           ],
           "3": [
-            "Confusion"
+            "Confusion",
+            "Infestation"
           ],
           "4": [
             "Poison Powder",
             "Stun Spore"
           ],
           "5": [
-            "Bug Bite"
+            "Skitter Smack"
           ],
           "6": [
-            "Psybeam"
+            "Psybeam",
+            "Signal Beam"
           ],
           "7": [
-            "Infestation"
+            "Rollout"
           ],
           "8": [
             "Sleep Powder"
           ],
           "9": [
-            "Signal Beam"
+            "Leech Life",
+            "Eerie Impulse"
           ],
           "10": [
             "Sludge Wave"
@@ -10108,16 +10109,17 @@
             "Zen Headbutt"
           ],
           "12": [
-            "Leech Life"
+            "Lunge",
+            "Toxic"
           ],
           "13": [
-            "Psychic"
+            "Synchronoise"
           ],
           "14": [
-            "Lunge"
+            "Gunk Shot"
           ],
           "15": [
-            "Synchronoise"
+            "Shadow Ball"
           ]
         },
         "tutor": [
@@ -10126,6 +10128,7 @@
           "Air Cutter",
           "Attract",
           "Baton Pass",
+          "Bug Bite",
           "Bug Buzz",
           "Corrosive Gas",
           "Double Team",
@@ -10137,6 +10140,7 @@
           "Ominous Wind",
           "Poison Sting",
           "Protect",
+          "Psychic",
           "Rage Powder",
           "Razor Wind",
           "Rest",
@@ -10144,7 +10148,6 @@
           "Screech",
           "Secret Power",
           "Skill Swap",
-          "Skitter Smack",
           "Sleep Talk",
           "Sludge Bomb",
           "Snore",
@@ -10154,7 +10157,6 @@
           "Sunny Day",
           "Teleport",
           "Thief",
-          "Toxic",
           "Toxic Spikes",
           "Twister",
           "U-Turn",
@@ -10227,10 +10229,10 @@
       },
       "moves": {
         "form": [
-          "Gust"
+          "Air Slash"
         ],
         "starting": [
-          "Tackle",
+          "Pounce",
           "Disable",
           "Poison Fang",
           "Foresight"
@@ -10241,18 +10243,20 @@
             "Night Shade"
           ],
           "3": [
-            "Confusion"
+            "Confusion",
+            "Infestation"
           ],
           "4": [
             "Poison Powder",
             "Stun Spore"
           ],
           "5": [
-            "Bug Bite"
+            "Silver Wind"
           ],
           "6": false,
           "7": [
-            "Psybeam"
+            "Psybeam",
+            "Signal Beam"
           ],
           "8": [
             "Scale Shot"
@@ -10261,25 +10265,27 @@
             "Sleep Powder"
           ],
           "10": [
-            "Signal Beam"
+            "Bug Buzz",
+            "Quiver Dance"
           ],
           "11": [
             "Sludge Bomb"
           ],
           "12": [
-            "Air Slash"
-          ],
-          "13": [
-            "Bug Buzz"
-          ],
-          "14": [
             "Psychic"
           ],
+          "13": [
+            "Energy Ball",
+            "Toxic"
+          ],
+          "14": [
+            "Synchronoise"
+          ],
           "15": [
-            "Quiver Dance"
+            "Hurricane"
           ],
           "16": [
-            "Synchronoise"
+            "Shadow Ball"
           ]
         },
         "tutor": [
@@ -10288,11 +10294,11 @@
           "Air Cutter",
           "Attract",
           "Baton Pass",
+          "Bug Bite",
           "Corrosive Gas",
           "Double Team",
           "Dual Wingbeat",
           "Endure",
-          "Energy Ball",
           "Facade",
           "Giga Drain",
           "Giga Impact",
@@ -10318,7 +10324,6 @@
           "Sunny Day",
           "Teleport",
           "Thief",
-          "Toxic",
           "Toxic Spikes",
           "Twister",
           "U-Turn",
@@ -12025,7 +12030,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Tail Whip",
           "Water Gun",
           "Water Sport"
@@ -12035,7 +12040,7 @@
             "Confusion"
           ],
           "3": [
-            "Fury Swipes"
+            "Pluck"
           ],
           "4": [
             "Water Pulse"
@@ -12053,16 +12058,18 @@
             "Aqua Tail"
           ],
           "9": [
-            "Psycho Boost"
+            "Flail"
           ],
           "10": [
-            "Psych Up"
+            "Psych Up",
+            "Psycho Boost"
           ],
           "11": [
             "Hydro Pump"
           ],
           "12": [
-            "Amnesia"
+            "Amnesia",
+            "Stored Power"
           ],
           "13": [
             "Trick Room"
@@ -12204,7 +12211,7 @@
           "Aqua Jet"
         ],
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Tail Whip",
           "Water Gun",
           "Water Sport"
@@ -12214,7 +12221,7 @@
             "Confusion"
           ],
           "3": [
-            "Fury Swipes"
+            "Pluck"
           ],
           "4": [
             "Water Pulse"
@@ -12236,13 +12243,15 @@
             "Slash"
           ],
           "11": [
-            "Psych Up"
+            "Psych Up",
+            "Power Gem"
           ],
           "12": [
             "Hydro Pump"
           ],
           "13": [
-            "Amnesia"
+            "Calm Mind",
+            "Focus Blast"
           ],
           "14": [
             "Wonder Room"
@@ -12255,12 +12264,12 @@
           ]
         },
         "tutor": [
+          "Amnesia",
           "Attract",
           "Blizzard",
           "Body Slam",
           "Brick Break",
           "Brine",
-          "Calm Mind",
           "Clear Smog",
           "Confuse Ray",
           "Cross Chop",
@@ -12270,7 +12279,6 @@
           "Endure",
           "Facade",
           "Fling",
-          "Focus Blast",
           "Foresight",
           "Future Sight",
           "Giga Impact",
@@ -12692,7 +12700,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>akuma</p>\n"
     }
   ],
   "growlithe": [
@@ -15068,29 +15077,31 @@
         "starting": [
           "Wrap",
           "Growth",
-          "Vine Whip"
+          "Vine Whip",
+          "Acid"
         ],
         "levelUp": {
           "2": [
-            "Acid"
+            "Poison Powder",
+            "Sweet Scent"
           ],
           "3": [
-            "Ingrain"
+            "Ingrain",
+            "Razor Leaf"
           ],
           "4": [
             "Sleep Powder",
-            "Poison Powder",
             "Stun Spore"
           ],
           "5": [
             "Acid Spray"
           ],
           "6": [
-            "Razor Leaf"
+            "Leaf Blade"
           ],
           "7": [
-            "Sweet Scent",
-            "Charm"
+            "Gastro Acid",
+            "Baby-Doll Eyes"
           ],
           "8": [
             "Leaf Storm"
@@ -15115,6 +15126,9 @@
           ],
           "15": [
             "Belch"
+          ],
+          "16": [
+            "Heal Bell"
           ]
         },
         "tutor": [
@@ -15130,7 +15144,6 @@
           "Grass Knot",
           "Grassy Glide",
           "Grassy Terrain",
-          "Leaf Blade",
           "Magical Leaf",
           "Natural Gift",
           "Protect",
@@ -15225,30 +15238,32 @@
         "starting": [
           "Wrap",
           "Growth",
-          "Vine Whip"
+          "Vine Whip",
+          "Acid"
         ],
         "levelUp": {
           "2": [
-            "Acid"
+            "Poison Powder",
+            "Sweet Scent"
           ],
           "3": [
-            "Ingrain"
+            "Ingrain",
+            "Razor Leaf"
           ],
           "4": false,
           "5": [
             "Sleep Powder",
-            "Poison Powder",
             "Stun Spore"
           ],
           "6": [
             "Acid Spray"
           ],
           "7": [
-            "Razor Leaf"
+            "Leaf Blade"
           ],
           "8": [
-            "Sweet Scent",
-            "Baby-Doll Eyes"
+            "Gastro Acid",
+            "Strength Sap"
           ],
           "9": [
             "Leaf Storm"
@@ -15263,7 +15278,7 @@
             "Psycho Cut"
           ],
           "13": [
-            "Strength Sap"
+            "Sludge Wave"
           ],
           "14": [
             "Leech Life"
@@ -15273,6 +15288,9 @@
           ],
           "16": [
             "Sucker Punch"
+          ],
+          "17": [
+            "Heal Bell"
           ]
         },
         "tutor": [
@@ -15289,7 +15307,6 @@
           "Grass Knot",
           "Grassy Glide",
           "Grassy Terrain",
-          "Leaf Blade",
           "Magical Leaf",
           "Natural Gift",
           "Power Whip",
@@ -15382,20 +15399,22 @@
         "starting": [
           "Wrap",
           "Growth",
-          "Vine Whip"
+          "Vine Whip",
+          "Acid"
         ],
         "levelUp": {
           "2": [
-            "Acid"
+            "Poison Powder",
+            "Sweet Scent"
           ],
           "3": [
-            "Ingrain"
+            "Ingrain",
+            "Razor Leaf"
           ],
           "4": false,
           "5": false,
           "6": [
             "Sleep Powder",
-            "Poison Powder",
             "Stun Spore"
           ],
           "7": [
@@ -15418,7 +15437,7 @@
             "Poison Jab"
           ],
           "13": [
-            "Slam"
+            "Body Slam"
           ],
           "14": [
             "Crunch"
@@ -15431,6 +15450,9 @@
           ],
           "17": [
             "Snap Trap"
+          ],
+          "18": [
+            "Heal Bell"
           ]
         },
         "tutor": [
@@ -15542,11 +15564,12 @@
         "starting": [
           "Acid",
           "Supersonic",
-          "Water Gun"
+          "Water Gun",
+          "Wrap"
         ],
         "levelUp": {
           "2": [
-            "Wrap"
+            "Barrier"
           ],
           "3": [
             "Water Pulse"
@@ -15573,7 +15596,8 @@
             "Surf"
           ],
           "11": [
-            "Toxic Spikes"
+            "Toxic Spikes",
+            "Hypnosis"
           ],
           "12": [
             "Sludge Wave"
@@ -15606,7 +15630,6 @@
           "Giga Drain",
           "Snowscape",
           "Haze",
-          "Hypnosis",
           "Ice Beam",
           "Icy Wind",
           "Knock Off",
@@ -15706,11 +15729,12 @@
         "starting": [
           "Acid",
           "Supersonic",
-          "Water Gun"
+          "Water Gun",
+          "Wrap"
         ],
         "levelUp": {
           "2": [
-            "Wrap"
+            "Barrier"
           ],
           "3": [
             "Water Pulse"
@@ -15729,7 +15753,7 @@
             "Poison Jab"
           ],
           "9": [
-            "Acid Armor"
+            "Recover"
           ],
           "10": [
             "Hex"
@@ -15738,7 +15762,8 @@
             "Surf"
           ],
           "12": [
-            "Synchronoise"
+            "Synchronoise",
+            "Reflect Type"
           ],
           "13": [
             "Sludge Wave"
@@ -15783,7 +15808,6 @@
           "Protect",
           "Rain Dance",
           "Rapid Spin",
-          "Reflect Type",
           "Rest",
           "Round",
           "Safeguard",
@@ -16249,7 +16273,7 @@
             "Double-Edge"
           ],
           "17": [
-            "Land's Wrath"
+            "Headlong Rush"
           ]
         },
         "tutor": [
@@ -19573,7 +19597,7 @@
         ],
         "levelUp": {
           "2": [
-            "Double Slap"
+            "Double Hit"
           ],
           "3": [
             "Acupressure"
@@ -19582,7 +19606,7 @@
             "Pluck"
           ],
           "5": [
-            "Double Hit"
+            "Pursuit"
           ],
           "6": [
             "Agility"
@@ -19742,7 +19766,7 @@
             "Pluck"
           ],
           "5": [
-            "Multi-Attack"
+            "Pursuit"
           ],
           "6": false,
           "7": [
@@ -20919,7 +20943,7 @@
             "Clamp"
           ],
           "4": [
-            "Whirlpool"
+            "Chilling Water"
           ],
           "5": [
             "Supersonic"
@@ -20952,7 +20976,7 @@
             "Aqua Jet"
           ],
           "15": [
-            "Toxic Spikes"
+            "Life Dew"
           ]
         },
         "tutor": [
@@ -20969,7 +20993,6 @@
           "Snowscape",
           "Icicle Spear",
           "Icy Wind",
-          "Life Dew",
           "Light Screen",
           "Liquidation",
           "Mud Shot",
@@ -20991,10 +21014,12 @@
           "Substitute",
           "Surf",
           "Teleport",
+          "Toxic Spikes",
           "Tri Attack",
           "Twineedle",
           "Water Pulse",
-          "Weather Ball"
+          "Weather Ball",
+          "Whirlpool"
         ]
       },
       "blurb": "<p>Shellder uses its tongue for positioning, sensation, fine movements, manipulation, and feeding. New nighttime divers are often surprised to see underwater fields of undulating Shellder tongues.</p>\n"
@@ -21074,10 +21099,10 @@
             "Ice Shard"
           ],
           "4": [
-            "Chilling Water"
+            "Clamp"
           ],
           "5": [
-            "Whirlpool"
+            "Chilling Water"
           ],
           "6": [
             "Spikes"
@@ -21110,7 +21135,7 @@
             "Brine"
           ],
           "16": [
-            "Toxic Spikes"
+            "Spikes"
           ]
         },
         "tutor": [
@@ -21148,10 +21173,12 @@
           "Substitute",
           "Surf",
           "Teleport",
+          "Toxic Spikes",
           "Tri Attack",
           "Twineedle",
           "Water Pulse",
-          "Weather Ball"
+          "Weather Ball",
+          "Whirlpool"
         ]
       },
       "blurb": "<p>Cloyster hold the world record for life found deepest in the ocean. Their ultrastrong shells let them sink to the bottom of marine trenches and prowl around. Deep-sea expeditions have to be on the lookout for them.</p>\n"
@@ -25203,18 +25230,18 @@
         "starting": [
           "Lick",
           "Defense Curl",
-          "Wrap"
+          "Wrap",
+          "Slam"
         ],
         "levelUp": {
           "2": [
             "Supersonic"
           ],
           "3": [
-            "Slam"
+            "Bind"
           ],
           "4": [
-            "Disable",
-            "Bind"
+            "Disable"
           ],
           "5": [
             "Bug Bite"
@@ -25389,18 +25416,18 @@
         "starting": [
           "Lick",
           "Defense Curl",
-          "Wrap"
+          "Wrap",
+          "Slam"
         ],
         "levelUp": {
           "2": [
             "Supersonic"
           ],
           "3": [
-            "Slam"
+            "Bind"
           ],
           "4": [
-            "Disable",
-            "Bind"
+            "Disable"
           ],
           "5": [
             "Bug Bite"
@@ -27227,7 +27254,8 @@
         ],
         "levelUp": {
           "2": [
-            "Growth"
+            "Growth",
+            "Slam"
           ],
           "3": [
             "Mega Drain"
@@ -27401,7 +27429,8 @@
         ],
         "levelUp": {
           "2": [
-            "Growth"
+            "Growth",
+            "Slam"
           ],
           "3": [
             "Mega Drain"
@@ -27425,7 +27454,7 @@
             "Autotomize"
           ],
           "10": [
-            "Slam"
+            "Body Slam"
           ],
           "11": [
             "Ingrain"
@@ -27453,7 +27482,6 @@
           "Aerial Ace",
           "Amnesia",
           "Attract",
-          "Body Slam",
           "Brick Break",
           "Brutal Swing",
           "Bulldoze",
@@ -27816,11 +27844,12 @@
         "starting": [
           "Water Gun",
           "Smokescreen",
-          "Leer"
+          "Leer",
+          "Twister"
         ],
         "levelUp": {
           "2": [
-            "Twister"
+            "Aqua Ring"
           ],
           "3": [
             "Focus Energy"
@@ -27855,7 +27884,7 @@
             "Rain Dance"
           ],
           "13": [
-            "Aqua Ring"
+            "Breaking Swipe"
           ],
           "14": [
             "Aqua Tail"
@@ -27970,11 +27999,12 @@
         "starting": [
           "Water Gun",
           "Smokescreen",
-          "Leer"
+          "Leer",
+          "Twister"
         ],
         "levelUp": {
           "2": [
-            "Twister"
+            "Aqua Ring"
           ],
           "3": [
             "Focus Energy"
@@ -28010,7 +28040,7 @@
             "Rain Dance"
           ],
           "14": [
-            "Aqua Ring"
+            "Breaking Swipe"
           ],
           "15": [
             "Aqua Tail"
@@ -28127,11 +28157,12 @@
         "starting": [
           "Water Gun",
           "Smokescreen",
-          "Leer"
+          "Leer",
+          "Twister"
         ],
         "levelUp": {
           "2": [
-            "Twister"
+            "Aqua Ring"
           ],
           "3": [
             "Focus Energy"
@@ -28168,7 +28199,7 @@
             "Rain Dance"
           ],
           "15": [
-            "Aqua Ring"
+            "Breaking Swipe"
           ],
           "16": [
             "Aqua Tail"
@@ -28183,7 +28214,6 @@
           "Blizzard",
           "Body Slam",
           "Bounce",
-          "Breaking Swipe",
           "Brine",
           "Clear Smog",
           "Disable",
@@ -31962,7 +31992,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>is Kantonian Tauros superior to this form in any way?</p>\n"
     },
     {
       "name": "Paldean Tauros (Blaze Breed)",
@@ -32079,7 +32110,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>bomb fuse tail</p>\n"
     },
     {
       "name": "Paldean Tauros (Aqua Breed)",
@@ -32196,7 +32228,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>propeller tail</p>\n"
     }
   ],
   "magikarp": [
@@ -33793,7 +33826,7 @@
             "Leech Seed"
           ],
           "5": [
-            "Razor Leaf"
+            "Magical Leaf"
           ],
           "6": [
             "Swords Dance"
@@ -33854,7 +33887,6 @@
           "Leaf Storm",
           "Leaf Tornado",
           "Leafage",
-          "Magical Leaf",
           "Mud-Slap",
           "Pay Day",
           "Protect",
@@ -35872,7 +35904,7 @@
       },
       "moves": {
         "form": [
-          "Rest"
+          "Crunch"
         ],
         "starting": [
           "Tackle",
@@ -35937,7 +35969,6 @@
           "Brick Break",
           "Bulldoze",
           "Counter",
-          "Crunch",
           "Curse",
           "Darkest Lariat",
           "Double-Edge",
@@ -36061,9 +36092,9 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Gust",
+          "Air Cutter",
           "Mist",
-          "Powder Snow",
+          "Icy Wind",
           "Reflect"
         ],
         "levelUp": {
@@ -36072,7 +36103,7 @@
           ],
           "3": [
             "Agility",
-            "Me First"
+            "Haze"
           ],
           "4": [
             "Ancient Power"
@@ -36109,7 +36140,7 @@
             "Sheer Cold"
           ],
           "15": [
-            "Tailwind"
+            "Bleakwind Storm"
           ]
         },
         "tutor": [
@@ -36124,10 +36155,8 @@
           "Fly",
           "Frost Breath",
           "Giga Impact",
-          "Haze",
           "Hyper Beam",
           "Icicle Spear",
-          "Icy Wind",
           "Laser Focus",
           "Mirror Coat",
           "Ominous Wind",
@@ -36213,9 +36242,9 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Gust",
+          "Air Cutter",
           "Psycho Shift",
-          "Confusion",
+          "Psybeam",
           "Reflect"
         ],
         "levelUp": {
@@ -36224,7 +36253,7 @@
           ],
           "3": [
             "Agility",
-            "Me First"
+            "Telekinesis"
           ],
           "4": [
             "Ancient Power"
@@ -36233,7 +36262,7 @@
             "Tailwind"
           ],
           "6": [
-            "Twin Beam"
+            "Psycho Cut"
           ],
           "7": [
             "Recover"
@@ -36251,7 +36280,8 @@
             "Dream Eater"
           ],
           "12": [
-            "Mind Reader"
+            "Mind Reader",
+            "Natural Gift"
           ],
           "13": [
             "Future Sight"
@@ -36260,7 +36290,7 @@
             "Hyper Beam"
           ],
           "15": [
-            "Tailwind"
+            "Aurora Beam"
           ]
         },
         "tutor": [
@@ -36285,7 +36315,6 @@
           "Power Swap",
           "Protect",
           "Psychic",
-          "Psycho Cut",
           "Psyshock",
           "Rest",
           "Round",
@@ -36364,24 +36393,24 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Peck",
+          "Pluck",
           "Thunder Wave",
           "Thunder Shock",
           "Light Screen"
         ],
         "levelUp": {
           "2": [
-            "Pluck"
+            "Charge Beam"
           ],
           "3": [
             "Agility",
-            "Double Hit"
+            "Charge"
           ],
           "4": [
             "Ancient Power"
           ],
           "5": [
-            "Charge"
+            "Volt Switch"
           ],
           "6": [
             "Drill Peck"
@@ -36390,10 +36419,10 @@
             "Roost"
           ],
           "8": [
-            "Bolt Beak"
+            "Discharge"
           ],
           "9": [
-            "Thunder Wave"
+            "Magnetic Flux"
           ],
           "10": [
             "Thunder"
@@ -36412,16 +36441,14 @@
             "Hurricane"
           ],
           "15": [
-            "Tailwind"
+            "Wildbolt Storm"
           ]
         },
         "tutor": [
           "Air Cutter",
           "Baton Pass",
           "Brave Bird",
-          "Charge Beam",
           "Defog",
-          "Discharge",
           "Dual Wingbeat",
           "Eerie Impulse",
           "Endure",
@@ -36449,9 +36476,9 @@
           "Substitute",
           "Sunny Day",
           "Swift",
+          "Tailwind",
           "Thunderbolt",
           "U-Turn",
-          "Volt Switch",
           "Volt Tackle",
           "Weather Ball",
           "Wild Charge"
@@ -36515,18 +36542,18 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Peck",
+          "Pluck",
           "Focus Energy",
-          "Rock Smash",
+          "Double Kick",
           "Light Screen"
         ],
         "levelUp": {
           "2": [
-            "Pluck"
+            "Low Kick"
           ],
           "3": [
             "Agility",
-            "Double Hit"
+            "Foresight"
           ],
           "4": [
             "Ancient Power"
@@ -36553,7 +36580,8 @@
             "Swords Dance"
           ],
           "12": [
-            "Detect"
+            "Detect",
+            "Natural Gift"
           ],
           "13": [
             "Close Combat"
@@ -36562,7 +36590,7 @@
             "Reversal"
           ],
           "15": [
-            "Tailwind"
+            "Bolt Strike"
           ]
         },
         "tutor": [
@@ -36583,7 +36611,6 @@
           "Hyper Beam",
           "Hyper Voice",
           "Laser Focus",
-          "Low Kick",
           "Low Sweep",
           "Mega Kick",
           "Payback",
@@ -36602,6 +36629,7 @@
           "Substitute",
           "Superpower",
           "Swift",
+          "Tailwind",
           "Taunt",
           "Throat Chop",
           "U-Turn"
@@ -36667,9 +36695,9 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Gust",
+          "Wing Attack",
           "Leer",
-          "Ember",
+          "Incinerate",
           "Safeguard"
         ],
         "levelUp": {
@@ -36678,13 +36706,13 @@
           ],
           "3": [
             "Agility",
-            "Tri-Attack"
+            "Flash"
           ],
           "4": [
             "Ancient Power"
           ],
           "5": [
-            "Incinerate"
+            "Flame Charge"
           ],
           "6": [
             "Air Slash"
@@ -36715,7 +36743,7 @@
             "Sky Attack"
           ],
           "15": [
-            "Tailwind"
+            "Springtide Storm"
           ]
         },
         "tutor": [
@@ -36726,7 +36754,6 @@
           "Facade",
           "Fire Blast",
           "Flame Burst",
-          "Flame Charge",
           "Flamethrower",
           "Flare Blitz",
           "Fly",
@@ -36750,6 +36777,7 @@
           "Steel Wing",
           "Substitute",
           "Swift",
+          "Tailwind",
           "U-Turn",
           "Weather Ball"
         ]
@@ -36812,7 +36840,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Gust",
+          "Wing Attack",
           "Leer",
           "Payback",
           "Safeguard"
@@ -36823,7 +36851,7 @@
           ],
           "3": [
             "Agility",
-            "Tri-Attack"
+            "Quash"
           ],
           "4": [
             "Ancient Power"
@@ -36850,7 +36878,8 @@
             "Nasty Plot"
           ],
           "12": [
-            "Endure"
+            "Endure",
+            "Natural Gift"
           ],
           "13": [
             "Power Trip"
@@ -36859,7 +36888,7 @@
             "Sky Attack"
           ],
           "15": [
-            "Tailwind"
+            "Burning Jealousy"
           ]
         },
         "tutor": [
@@ -36892,6 +36921,7 @@
           "Substitute",
           "Swagger",
           "Swift",
+          "Tailwind",
           "Taunt",
           "Twister",
           "U-Turn"
@@ -40274,7 +40304,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Covet",
+          "Quick Attack",
           "Foresight",
           "Defense Curl",
           "Detect"
@@ -40284,7 +40314,7 @@
             "Helping Hand"
           ],
           "3": [
-            "Quick Attack"
+            "Slam"
           ],
           "4": [
             "Double Slap"
@@ -40294,7 +40324,7 @@
             "Follow Me"
           ],
           "6": [
-            "Slam"
+            "Acrobatics"
           ],
           "7": [
             "U-Turn"
@@ -40335,6 +40365,7 @@
           "Brutal Swing",
           "Captivate",
           "Charm",
+          "Covet",
           "Dig",
           "Double-Edge",
           "Dynamic Punch",
@@ -40435,7 +40466,7 @@
           "Agility"
         ],
         "starting": [
-          "Covet",
+          "Quick Attack",
           "Foresight",
           "Defense Curl",
           "Detect"
@@ -40446,7 +40477,7 @@
           ],
           "3": false,
           "4": [
-            "Quick Attack"
+            "Slam"
           ],
           "5": [
             "Fury Swipes"
@@ -40456,7 +40487,7 @@
             "Wrap"
           ],
           "7": [
-            "Slam"
+            "Dig"
           ],
           "8": [
             "U-Turn"
@@ -40497,7 +40528,7 @@
           "Brutal Swing",
           "Captivate",
           "Charm",
-          "Dig",
+          "Covet",
           "Double-Edge",
           "Dynamic Punch",
           "Endure",
@@ -42840,14 +42871,15 @@
         "starting": [
           "Tackle",
           "Growl",
-          "Thunder Shock"
+          "Thunder Shock",
+          "Charge"
         ],
         "levelUp": {
           "2": [
             "Thunder Wave"
           ],
           "3": [
-            "Charge"
+            "Headbutt"
           ],
           "4": [
             "Cotton Spore"
@@ -42998,7 +43030,8 @@
         "starting": [
           "Tackle",
           "Growl",
-          "Thunder Shock"
+          "Thunder Shock",
+          "Charge"
         ],
         "levelUp": {
           "2": [
@@ -43006,7 +43039,7 @@
           ],
           "3": false,
           "4": [
-            "Charge"
+            "Headbutt"
           ],
           "5": [
             "Flash"
@@ -43162,7 +43195,8 @@
         "starting": [
           "Tackle",
           "Growl",
-          "Thunder Shock"
+          "Thunder Shock",
+          "Charge"
         ],
         "levelUp": {
           "2": [
@@ -43170,7 +43204,7 @@
           ],
           "3": false,
           "4": [
-            "Charge"
+            "Headbutt"
           ],
           "5": [
             "Dragon Pulse"
@@ -43389,7 +43423,7 @@
         "starting": [
           "Splash",
           "Tail Whip",
-          "Water Gun",
+          "Bubble",
           "Helping Hand"
         ],
         "levelUp": {
@@ -43556,7 +43590,7 @@
         "starting": [
           "Splash",
           "Tail Whip",
-          "Water Gun",
+          "Bubble",
           "Helping Hand"
         ],
         "levelUp": {
@@ -43567,13 +43601,13 @@
             "Defense Curl"
           ],
           "4": [
-            "Aqua Tail"
+            "Slam"
           ],
           "5": [
             "Misty Terrain"
           ],
           "6": [
-            "Slam"
+            "Aqua Tail"
           ],
           "7": [
             "Play Rough"
@@ -43735,7 +43769,7 @@
         "starting": [
           "Splash",
           "Tail Whip",
-          "Water Gun",
+          "Bubble",
           "Helping Hand"
         ],
         "levelUp": {
@@ -43747,13 +43781,13 @@
           ],
           "4": false,
           "5": [
-            "Aqua Tail"
+            "Slam"
           ],
           "6": [
             "Misty Terrain"
           ],
           "7": [
-            "Slam"
+            "Aqua Tail"
           ],
           "8": [
             "Play Rough"
@@ -45899,7 +45933,7 @@
           ],
           "4": false,
           "5": [
-            "Slam"
+            "Life Dew"
           ],
           "6": [
             "Yawn"
@@ -46196,7 +46230,7 @@
           ],
           "4": false,
           "5": [
-            "Slam"
+            "Life Dew"
           ],
           "6": [
             "Yawn"
@@ -46510,7 +46544,7 @@
             "Power Trip"
           ],
           "15": [
-            "Assurance"
+            "Comeuppance"
           ],
           "16": [
             "Sky Attack"
@@ -46518,6 +46552,7 @@
         },
         "tutor": [
           "Air Slash",
+          "Assurance",
           "Attract",
           "Brave Bird",
           "Calm Mind",
@@ -47302,7 +47337,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>closes the mouth as a threat display, as seen on that one TCG art</p>\n"
     }
   ],
   "pineco": [
@@ -49285,8 +49321,7 @@
             "Throat Chop"
           ],
           "8": [
-            "Pin Missile",
-            "Arm Thrust"
+            "Pin Missile"
           ],
           "9": [
             "Circle Throw"
@@ -52996,7 +53031,8 @@
             "Flamethrower"
           ],
           "10": [
-            "Embargo"
+            "Embargo",
+            "Comeuppance"
           ],
           "11": [
             "Nasty Plot"
@@ -53005,7 +53041,7 @@
             "Foul Play"
           ],
           "13": [
-            "Head Smash"
+            "Skull Bash"
           ],
           "14": [
             "Burn Up"
@@ -53167,7 +53203,8 @@
             "Flamethrower"
           ],
           "11": [
-            "Embargo"
+            "Embargo",
+            "Comeuppance"
           ],
           "12": [
             "Nasty Plot"
@@ -55996,7 +56033,7 @@
           ],
           "7": false,
           "8": [
-            "Slam"
+            "Slash"
           ],
           "9": [
             "Acrobatics"
@@ -57573,7 +57610,7 @@
             "Beat Up"
           ],
           "16": [
-            "Helping Hand"
+            "Pursuit"
           ]
         },
         "tutor": [
@@ -65801,7 +65838,7 @@
             "Recover"
           ],
           "17": [
-            "Dynamic Punch"
+            "Axe Kick"
           ],
           "18": [
             "Synchronoise"
@@ -65820,6 +65857,7 @@
           "Coaching",
           "Double-Edge",
           "Drain Punch",
+          "Dynamic Punch",
           "Energy Ball",
           "Expanding Force",
           "Facade",
@@ -68553,7 +68591,8 @@
         "starting": [
           "Tackle",
           "Growl",
-          "Ember"
+          "Ember",
+          "Fire Spin"
         ],
         "levelUp": {
           "2": [
@@ -68611,7 +68650,6 @@
           "Earthquake",
           "Endure",
           "Facade",
-          "Fire Spin",
           "Flare Blitz",
           "Flash Cannon",
           "Growth",
@@ -68718,7 +68756,8 @@
         "starting": [
           "Tackle",
           "Growl",
-          "Ember"
+          "Ember",
+          "Fire Spin"
         ],
         "levelUp": {
           "2": [
@@ -68778,7 +68817,6 @@
           "Endure",
           "Facade",
           "Fire Blast",
-          "Fire Spin",
           "Flamethrower",
           "Flare Blitz",
           "Flash Cannon",
@@ -77848,8 +77886,7 @@
         ],
         "levelUp": {
           "2": [
-            "Bullet Punch",
-            "Pursuit"
+            "Bullet Punch"
           ],
           "3": [
             "Scary Face"
@@ -77862,7 +77899,7 @@
             "Flash Cannon"
           ],
           "7": [
-            "Take Down"
+            "Gyro Ball"
           ],
           "8": [
             "Iron Defense",
@@ -77884,7 +77921,7 @@
             "Hyper Beam"
           ],
           "14": [
-            "Bullet Punch"
+            "Pursuit"
           ],
           "15": [
             "Thunder Wave"
@@ -77910,7 +77947,6 @@
           "Flash",
           "Grass Knot",
           "Gravity",
-          "Gyro Ball",
           "Ice Punch",
           "Icy Wind",
           "Iron Head",
@@ -78015,8 +78051,7 @@
         ],
         "levelUp": {
           "2": [
-            "Bullet Punch",
-            "Pursuit"
+            "Bullet Punch"
           ],
           "3": [
             "Scary Face"
@@ -78029,7 +78064,7 @@
             "Flash Cannon"
           ],
           "7": [
-            "Take Down"
+            "Gyro Ball"
           ],
           "8": [
             "Iron Defense",
@@ -78052,7 +78087,7 @@
             "Hyper Beam"
           ],
           "15": [
-            "Bullet Punch"
+            "Pursuit"
           ],
           "16": [
             "Thunder Wave"
@@ -78078,7 +78113,6 @@
           "Giga Impact",
           "Grass Knot",
           "Gravity",
-          "Gyro Ball",
           "Ice Punch",
           "Icy Wind",
           "Iron Head",
@@ -82739,20 +82773,21 @@
         "starting": [
           "Quick Attack",
           "Growl",
-          "Wing Attack"
+          "Wing Attack",
+          "Round"
         ],
         "levelUp": {
           "2": [
             "Double Team"
           ],
           "3": [
-            "Round"
+            "Uproar"
           ],
           "4": [
             "Whirlwind"
           ],
           "5": [
-            "Drill Peck"
+            "Dual Wingbeat"
           ],
           "6": [
             "Take Down"
@@ -82764,7 +82799,7 @@
             "Agility"
           ],
           "9": [
-            "Superpower"
+            "Feint"
           ],
           "10": [
             "Brave Bird"
@@ -82782,7 +82817,7 @@
             "Assurance"
           ],
           "15": [
-            "Dragon Rush"
+            "Baton Pass"
           ]
         },
         "tutor": [
@@ -82790,7 +82825,6 @@
           "Astonish",
           "Attract",
           "Detect",
-          "Dual Wingbeat",
           "Endure",
           "Facade",
           "Feather Dance",
@@ -82819,7 +82853,6 @@
           "Terrain Pulse",
           "Twister",
           "U-Turn",
-          "Uproar",
           "Work Up"
         ]
       },
@@ -82889,7 +82922,8 @@
         "starting": [
           "Quick Attack",
           "Growl",
-          "Wing Attack"
+          "Wing Attack",
+          "Round"
         ],
         "levelUp": {
           "2": [
@@ -82897,13 +82931,13 @@
           ],
           "3": false,
           "4": [
-            "Round"
+            "Uproar"
           ],
           "5": [
             "Whirlwind"
           ],
           "6": [
-            "Drill Peck"
+            "Dual Wingbeat"
           ],
           "7": [
             "Take Down"
@@ -82933,7 +82967,7 @@
             "Assurance"
           ],
           "16": [
-            "Zen Headbutt"
+            "Tailwind"
           ]
         },
         "tutor": [
@@ -82941,7 +82975,6 @@
           "Astonish",
           "Attract",
           "Detect",
-          "Dual Wingbeat",
           "Endure",
           "Facade",
           "Feather Dance",
@@ -82965,10 +82998,8 @@
           "Substitute",
           "Sunny Day",
           "Swift",
-          "Tailwind",
           "Terrain Pulse",
           "Twister",
-          "Uproar",
           "Work Up"
         ]
       },
@@ -83038,7 +83069,8 @@
         "starting": [
           "Quick Attack",
           "Growl",
-          "Wing Attack"
+          "Wing Attack",
+          "Round"
         ],
         "levelUp": {
           "2": [
@@ -83046,13 +83078,13 @@
           ],
           "3": false,
           "4": [
-            "Round"
+            "Uproar"
           ],
           "5": [
             "Whirlwind"
           ],
           "6": [
-            "Drill Peck"
+            "Dual Wingbeat"
           ],
           "7": false,
           "8": [
@@ -83091,7 +83123,6 @@
           "Astonish",
           "Attract",
           "Detect",
-          "Dual Wingbeat",
           "Endure",
           "Facade",
           "Feather Dance",
@@ -83120,7 +83151,6 @@
           "Terrain Pulse",
           "Twister",
           "U-Turn",
-          "Uproar",
           "Work Up"
         ]
       },
@@ -85995,7 +86025,8 @@
             "Swift"
           ],
           "6": [
-            "Sweet Kiss"
+            "Sweet Kiss",
+            "Hyper Fang"
           ],
           "7": [
             "Electro Ball"
@@ -86013,16 +86044,16 @@
             "Follow Me"
           ],
           "12": [
-            "Hyper Fang"
+            "Thief"
           ],
           "13": [
             "Draco Meteor"
           ],
           "14": [
-            "Last Resort"
+            "Thunder"
           ],
           "15": [
-            "Thunder"
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -88539,7 +88570,7 @@
             "Imprison"
           ],
           "3": [
-            "Gyro Ball"
+            "Mirror Shot"
           ],
           "4": [
             "Hypnosis"
@@ -88557,7 +88588,8 @@
             "Flash"
           ],
           "9": [
-            "Iron Defense"
+            "Iron Defense",
+            "Metal Sound"
           ],
           "10": [
             "Mirror Coat"
@@ -88566,7 +88598,7 @@
             "Future Sight"
           ],
           "12": [
-            "Metal Sound"
+            "Zen Headbutt"
           ],
           "13": [
             "Reflect Type"
@@ -88626,8 +88658,7 @@
           "Trick",
           "Trick Room",
           "Weather Ball",
-          "Wonder Room",
-          "Zen Headbutt"
+          "Wonder Room"
         ]
       },
       "blurb": "<p>Ancient alloys imitated Bronzor’s body to resist earthquakes and withstand high temperatures. The formula has been lost for ages, but the archaeologists rumor of scrolls describing the process.</p>\n"
@@ -88707,7 +88738,7 @@
             "Imprison"
           ],
           "3": [
-            "Gyro Ball"
+            "Mirror Shot"
           ],
           "4": [
             "Hypnosis"
@@ -88726,7 +88757,8 @@
             "Heal Bell"
           ],
           "10": [
-            "Iron Defense"
+            "Iron Defense",
+            "Metal Sound"
           ],
           "11": [
             "Rain Dance",
@@ -88736,7 +88768,7 @@
             "Future Sight"
           ],
           "13": [
-            "Metal Sound"
+            "Zen Headbutt"
           ],
           "14": [
             "Heal Block"
@@ -88763,6 +88795,7 @@
           "Giga Impact",
           "Grass Knot",
           "Guard Swap",
+          "Gyro Ball",
           "Hex",
           "Hyper Beam",
           "Iron Head",
@@ -88796,8 +88829,7 @@
           "Telekinesis",
           "Trick",
           "Trick Room",
-          "Wonder Room",
-          "Zen Headbutt"
+          "Wonder Room"
         ]
       },
       "blurb": "<p>Bronzong gains no benefit from the rain it brings — it seeks cover in rainfall. Ruin Maniacs Monthly theorizes it summons rain to bargain for tribute from other species. If Bronzong cannot find food, it buries itself and sleeps until needed.</p>\n"
@@ -89229,7 +89261,7 @@
             "Draco Meteor"
           ],
           "13": [
-            "Egg Tooth"
+            "Headlong Rush"
           ],
           "14": [
             "Fire Fang"
@@ -96165,14 +96197,14 @@
           "Tackle",
           "Tail Whip",
           "Ember",
-          "Heavy Slam"
+          "Odor Sleuth"
         ],
         "levelUp": {
           "2": [
-            "Odor Sleuth"
+            "Smog"
           ],
           "3": [
-            "Smog",
+            "Stuff Cheeks",
             "Fire Pledge"
           ],
           "4": [
@@ -96236,6 +96268,7 @@
           "Hammer Arm",
           "Heat Crash",
           "Heat Wave",
+          "Heavy Slam",
           "Helping Hand",
           "Iron Head",
           "Iron Tail",
@@ -96341,15 +96374,15 @@
           "Tackle",
           "Tail Whip",
           "Ember",
-          "Heavy Slam"
+          "Odor Sleuth"
         ],
         "levelUp": {
           "2": [
-            "Odor Sleuth"
+            "Smog"
           ],
           "3": false,
           "4": [
-            "Smog",
+            "Stuff Cheeks",
             "Fire Pledge"
           ],
           "5": [
@@ -96411,6 +96444,7 @@
           "Hammer Arm",
           "Heat Crash",
           "Heat Wave",
+          "Heavy Slam",
           "Helping Hand",
           "Iron Head",
           "Iron Tail",
@@ -96518,15 +96552,15 @@
           "Tackle",
           "Tail Whip",
           "Ember",
-          "Heavy Slam"
+          "Odor Sleuth"
         ],
         "levelUp": {
           "2": [
-            "Odor Sleuth"
+            "Smog"
           ],
           "3": false,
           "4": [
-            "Smog",
+            "Stuff Cheeks",
             "Fire Pledge"
           ],
           "5": [
@@ -97330,7 +97364,7 @@
             "Lock-On"
           ],
           "10": [
-            "Slam"
+            "Bullet Seed"
           ],
           "11": [
             "Mean Look"
@@ -97352,7 +97386,6 @@
           "Aqua Tail",
           "Assurance",
           "Attract",
-          "Bullet Seed",
           "Coaching",
           "Confuse Ray",
           "Covet",
@@ -97505,7 +97538,7 @@
             "Lock-On"
           ],
           "11": [
-            "Slam"
+            "Bullet Seed"
           ],
           "12": [
             "Mean Look"
@@ -97527,7 +97560,6 @@
           "Aqua Tail",
           "Assurance",
           "Attract",
-          "Bullet Seed",
           "Coaching",
           "Covet",
           "Cut",
@@ -98441,7 +98473,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Play Nice",
           "Lick",
           "Leer"
@@ -98451,7 +98483,7 @@
             "Razor Leaf"
           ],
           "3": [
-            "Fury Swipes"
+            "Rock Climb"
           ],
           "4": [
             "Leech Seed"
@@ -98479,7 +98511,7 @@
             "Substitute"
           ],
           "12": [
-            "Rock Climb"
+            "Grassy Glide"
           ],
           "13": [
             "Seed Flare"
@@ -98512,7 +98544,6 @@
           "Giga Drain",
           "Grass Pledge",
           "Grass Whistle",
-          "Grassy Glide",
           "Helping Hand",
           "Iron Tail",
           "Leaf Storm",
@@ -98611,7 +98642,7 @@
           "Grass Pledge"
         ],
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Play Nice",
           "Lick",
           "Leer"
@@ -98641,7 +98672,7 @@
             "Fling"
           ],
           "10": [
-            "Natural Gift"
+            "Thief"
           ],
           "11": [
             "Grass Knot"
@@ -98712,7 +98743,6 @@
           "Synthesis",
           "Taunt",
           "Teatime",
-          "Thief",
           "Throat Chop",
           "Tickle",
           "Uproar",
@@ -98779,7 +98809,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Play Nice",
           "Lick",
           "Leer"
@@ -98789,7 +98819,7 @@
             "Incinerate"
           ],
           "3": [
-            "Fury Swipes"
+            "Rock Climb"
           ],
           "4": [
             "Yawn"
@@ -98817,7 +98847,7 @@
             "Substitute"
           ],
           "12": [
-            "Rock Climb"
+            "Burning Jealousy"
           ],
           "13": [
             "Fire Blast"
@@ -98834,7 +98864,6 @@
           "Attract",
           "Belch",
           "Brick Break",
-          "Burning Jealousy",
           "Covet",
           "Crunch",
           "Cut",
@@ -98946,7 +98975,7 @@
           "Fire Pledge"
         ],
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Play Nice",
           "Lick",
           "Leer"
@@ -98976,7 +99005,7 @@
             "Fling"
           ],
           "10": [
-            "Natural Gift"
+            "Thief"
           ],
           "11": [
             "Flamethrower"
@@ -99044,7 +99073,6 @@
           "Swift",
           "Taunt",
           "Teatime",
-          "Thief",
           "Throat Chop",
           "Tickle",
           "Uproar",
@@ -99111,7 +99139,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Play Nice",
           "Lick",
           "Leer"
@@ -99121,7 +99149,7 @@
             "Bubble"
           ],
           "3": [
-            "Fury Swipes"
+            "Rock Climb"
           ],
           "4": [
             "Water Sport"
@@ -99149,7 +99177,7 @@
             "Substitute"
           ],
           "12": [
-            "Rock Climb"
+            "Flip Turn"
           ],
           "13": [
             "Hydro Pump"
@@ -99158,11 +99186,12 @@
             "Gunk Shot"
           ],
           "15": [
-            "Aqua Tail"
+            "Wave Crash"
           ]
         },
         "tutor": [
           "Aqua Ring",
+          "Aqua Tail",
           "Astonish",
           "Attract",
           "Blizzard",
@@ -99177,7 +99206,6 @@
           "Endure",
           "Facade",
           "Flash",
-          "Flip Turn",
           "Focus Blast",
           "Focus Punch",
           "Grass Knot",
@@ -99279,7 +99307,7 @@
           "Water Pledge"
         ],
         "starting": [
-          "Scratch",
+          "Fury Swipes",
           "Play Nice",
           "Lick",
           "Leer"
@@ -99309,7 +99337,7 @@
             "Fling"
           ],
           "10": [
-            "Natural Gift"
+            "Thief"
           ],
           "11": [
             "Brine"
@@ -99327,11 +99355,12 @@
             "Gunk Shot"
           ],
           "16": [
-            "Aqua Tail"
+            "Wave Crash"
           ]
         },
         "tutor": [
           "Aqua Ring",
+          "Aqua Tail",
           "Astonish",
           "Attract",
           "Blizzard",
@@ -99378,7 +99407,6 @@
           "Surf",
           "Swift",
           "Teatime",
-          "Thief",
           "Throat Chop",
           "Tickle",
           "Uproar",
@@ -101354,7 +101382,7 @@
             "Tough Claws"
           ],
           [
-            "Super Luck"
+            "Sniper"
           ],
           [
             "Mold Breaker"
@@ -101502,7 +101530,7 @@
             "Heavy Metal"
           ],
           [
-            "Super Luck"
+            "Sniper"
           ],
           [
             "Mold Breaker"
@@ -101961,7 +101989,7 @@
             "Stealth Rock"
           ],
           "15": [
-            "Growth"
+            "Wide Guard"
           ]
         },
         "tutor": [
@@ -102016,7 +102044,6 @@
           "Taunt",
           "Thunder Punch",
           "Wake-Up Slap",
-          "Wide Guard",
           "Work Up"
         ]
       },
@@ -102096,7 +102123,7 @@
             "Rock Throw"
           ],
           "3": [
-            "Scary Face"
+            "Focus Energy"
           ],
           "4": [
             "Bulk Up"
@@ -102133,7 +102160,7 @@
             "Stealth Rock"
           ],
           "16": [
-            "Metal Sound"
+            "Wide Guard"
           ]
         },
         "tutor": [
@@ -102154,7 +102181,6 @@
           "Fire Punch",
           "Fling",
           "Focus Blast",
-          "Focus Energy",
           "Force Palm",
           "Grass Knot",
           "Helping Hand",
@@ -102176,6 +102202,7 @@
           "Rock Smash",
           "Rock Tomb",
           "Round",
+          "Scary Face",
           "Sleep Talk",
           "Smack Down",
           "Snore",
@@ -102188,7 +102215,6 @@
           "Taunt",
           "Thunder Punch",
           "Wake-Up Slap",
-          "Wide Guard",
           "Work Up"
         ]
       },
@@ -102268,7 +102294,7 @@
             "Rock Throw"
           ],
           "3": [
-            "Wide Guard"
+            "Focus Energy"
           ],
           "4": [
             "Bulk Up"
@@ -102326,7 +102352,6 @@
           "Fire Punch",
           "Fling",
           "Focus Blast",
-          "Focus Energy",
           "Force Palm",
           "Giga Impact",
           "Grass Knot",
@@ -104232,10 +104257,9 @@
             "Poison Powder"
           ],
           "4": [
-            "Growth"
+            "Giga Drain"
           ],
           "5": [
-            "Giga Drain",
             "Silver Wind"
           ],
           "6": [
@@ -104391,11 +104415,10 @@
             "Poison Powder"
           ],
           "5": [
-            "Growth"
+            "Giga Drain"
           ],
           "6": [
-            "Giga Drain",
-            "Gust"
+            "Air Cutter"
           ],
           "7": [
             "Charm"
@@ -104549,8 +104572,7 @@
             "Ingrain"
           ],
           "5": [
-            "Giga Drain",
-            "Confide"
+            "Giga Drain"
           ],
           "6": [
             "Pollen Puff"
@@ -104698,8 +104720,7 @@
             "Quiver Dance"
           ],
           "6": [
-            "Giga Drain",
-            "After You"
+            "Giga Drain"
           ],
           "7": [
             "Pollen Puff"
@@ -104852,8 +104873,7 @@
             "Victory Dance"
           ],
           "6": [
-            "Drain Punch",
-            "Detect"
+            "Drain Punch"
           ],
           "7": [
             "Mega Kick"
@@ -107564,7 +107584,7 @@
             "Revenge"
           ],
           "15": [
-            "Payback"
+            "Gunk Shot"
           ]
         },
         "tutor": [
@@ -107753,7 +107773,7 @@
             "Revenge"
           ],
           "16": [
-            "Payback"
+            "Gunk Shot"
           ]
         },
         "tutor": [
@@ -108080,7 +108100,7 @@
             "Hex"
           ],
           "7": [
-            "Grudge"
+            "Mirror Shot"
           ],
           "8": [
             "Tearful Look"
@@ -110220,8 +110240,7 @@
             "Blizzard"
           ]
         }
-      },
-      "blurb": "<p>scarlet/violet may have its own justification for why this is in the modern-day</p>\n"
+      }
     }
   ],
   "minccino": [
@@ -111133,8 +111152,7 @@
             "Psyshock"
           ],
           "6": [
-            "Light Screen",
-            "Reflect"
+            "Light Screen"
           ],
           "7": [
             "Ally Switch"
@@ -111297,8 +111315,7 @@
             "Psyshock"
           ],
           "7": [
-            "Light Screen",
-            "Reflect"
+            "Light Screen"
           ],
           "8": [
             "Ally Switch"
@@ -111461,8 +111478,7 @@
             "Psyshock"
           ],
           "7": [
-            "Light Screen",
-            "Reflect"
+            "Light Screen"
           ],
           "8": false,
           "9": [
@@ -118845,7 +118861,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p><a href=\"https://www.youtube.com/watch?v=WjLBnBunehI\">https://www.youtube.com/watch?v=WjLBnBunehI</a></p>\n"
     }
   ],
   "bouffalant": [
@@ -119534,7 +119551,7 @@
             "Spit Up"
           ],
           "12": [
-            "Skull Bash"
+            "Defog"
           ],
           "13": [
             "Embargo"
@@ -122396,7 +122413,8 @@
             "Moonblast"
           ]
         }
-      }
+      },
+      "blurb": "<p>why did enamorus never make it to Unova?</p>\n"
     },
     {
       "name": "Enamorus (Therian)",
@@ -122511,7 +122529,8 @@
             "Moonblast"
           ]
         }
-      }
+      },
+      "blurb": "<p>Oh. If the Therian forms are how they travel between regions, maybe this is why.</p>\n"
     }
   ],
   "reshiram": [
@@ -123200,7 +123219,7 @@
             "Wake-Up Slap"
           ],
           "8": [
-            "Teeter Dance"
+            "Victory Dance"
           ],
           "9": [
             "Hyper Voice"
@@ -123369,7 +123388,7 @@
             "Wake-Up Slap"
           ],
           "8": [
-            "Teeter Dance"
+            "Victory Dance"
           ],
           "9": [
             "Hyper Voice"
@@ -125545,7 +125564,7 @@
             "Overheat"
           ],
           "15": [
-            "Air Cutter"
+            "Sky Attack"
           ]
         },
         "tutor": [
@@ -125688,7 +125707,7 @@
             "Overheat"
           ],
           "16": [
-            "Burn Up"
+            "Last Resort"
           ]
         },
         "tutor": [
@@ -125836,7 +125855,7 @@
             "Overheat"
           ],
           "17": [
-            "Last Resort"
+            "Sky Drop"
           ]
         },
         "tutor": [
@@ -126064,7 +126083,7 @@
             "Bide"
           ],
           "7": [
-            "Stun Spore"
+            "Metal Burst"
           ],
           "8": [
             "Skull Bash"
@@ -126073,7 +126092,7 @@
             "Recover"
           ],
           "10": [
-            "Dazzling Gleam"
+            "Body Press"
           ],
           "11": [
             "Magic Powder"
@@ -126088,7 +126107,7 @@
             "Electroweb"
           ],
           "15": [
-            "Body Press"
+            "Dazzling Gleam"
           ],
           "16": [
             "Gunk Shot"
@@ -126650,18 +126669,18 @@
         "starting": [
           "Tackle",
           "Grass Knot",
-          "Fairy Wind"
+          "Fairy Wind",
+          "Lucky Chant"
         ],
         "levelUp": {
           "2": [
-            "Lucky Chant"
-          ],
-          "3": [
-            "Magical Leaf",
             "Razor Leaf"
           ],
-          "4": [
+          "3": [
             "Grassy Terrain"
+          ],
+          "4": [
+            "Magical Leaf"
           ],
           "5": [
             "Heal Pulse"
@@ -126797,19 +126816,19 @@
         "starting": [
           "Tackle",
           "Grass Knot",
-          "Fairy Wind"
+          "Fairy Wind",
+          "Lucky Chant"
         ],
         "levelUp": {
           "2": [
-            "Lucky Chant"
+            "Razor Leaf"
           ],
           "3": [
-            "Magical Leaf",
-            "Razor Leaf"
+            "Grassy Terrain"
           ],
           "4": false,
           "5": [
-            "Grassy Terrain"
+            "Magical Leaf"
           ],
           "6": [
             "Wish"
@@ -126945,20 +126964,20 @@
         "starting": [
           "Tackle",
           "Grass Knot",
-          "Fairy Wind"
+          "Fairy Wind",
+          "Lucky Chant"
         ],
         "levelUp": {
           "2": [
-            "Lucky Chant"
+            "Razor Leaf"
           ],
           "3": [
-            "Magical Leaf",
-            "Razor Leaf"
+            "Grassy Terrain"
           ],
           "4": false,
           "5": false,
           "6": [
-            "Grassy Terrain"
+            "Magical Leaf"
           ],
           "7": [
             "Life Dew"
@@ -127397,7 +127416,8 @@
         "starting": [
           "Tackle",
           "Leer",
-          "Arm Thrust"
+          "Arm Thrust",
+          "Work Up"
         ],
         "levelUp": {
           "2": [
@@ -127407,7 +127427,7 @@
             "Circle Throw"
           ],
           "4": [
-            "Work Up"
+            "Grass Whistle"
           ],
           "5": [
             "Low Sweep"
@@ -127434,7 +127454,7 @@
             "Entrainment"
           ],
           "13": [
-            "Grass Whistle"
+            "Thrash"
           ],
           "14": [
             "Play Rough"
@@ -127582,7 +127602,8 @@
         "starting": [
           "Tackle",
           "Leer",
-          "Arm Thrust"
+          "Arm Thrust",
+          "Work Up"
         ],
         "levelUp": {
           "2": [
@@ -127592,7 +127613,7 @@
             "Circle Throw"
           ],
           "4": [
-            "Work Up"
+            "Grass Whistle"
           ],
           "5": [
             "Low Sweep"
@@ -128258,7 +128279,7 @@
           ],
           "5": false,
           "6": [
-            "Psybeam"
+            "Charge Beam"
           ],
           "7": [
             "Sucker Punch"
@@ -128289,7 +128310,7 @@
             "Dazzling Gleam"
           ],
           "16": [
-            "Stored Power"
+            "Dark Pulse"
           ]
         },
         "tutor": [
@@ -128297,7 +128318,6 @@
           "Attract",
           "Calm Mind",
           "Charm",
-          "Dark Pulse",
           "Dig",
           "Echoed Voice",
           "Endure",
@@ -133846,7 +133866,7 @@
       "moves": {
         "starting": [
           "Rapid Spin",
-          "Harden",
+          "Iron Defense",
           "Powder Snow",
           "Sharpen"
         ],
@@ -133860,11 +133880,11 @@
             "Ice Ball"
           ],
           "4": [
-            "Protect",
-            "Iron Defense"
+            "Protect"
           ],
           "5": [
-            "Avalanche"
+            "Avalanche",
+            "Chilling Water"
           ],
           "6": [
             "Curse",
@@ -133878,7 +133898,6 @@
             "Liquidation"
           ],
           "9": [
-            "Iron Defense",
             "Amnesia"
           ],
           "10": [
@@ -134005,7 +134024,7 @@
         ],
         "starting": [
           "Rapid Spin",
-          "Harden",
+          "Iron Defense",
           "Powder Snow",
           "Sharpen"
         ],
@@ -134019,11 +134038,11 @@
             "Ice Ball"
           ],
           "4": [
-            "Protect",
             "Wide Guard"
           ],
           "5": [
-            "Avalanche"
+            "Avalanche",
+            "Chilling Water"
           ],
           "6": [
             "Curse",
@@ -134038,7 +134057,6 @@
             "Liquidation"
           ],
           "10": [
-            "Iron Defense",
             "Calm Mind"
           ],
           "11": [
@@ -134080,6 +134098,7 @@
           "Iron Head",
           "Mirror Coat",
           "Mist",
+          "Protect",
           "Rain Dance",
           "Rest",
           "Rock Polish",
@@ -134167,7 +134186,7 @@
         ],
         "starting": [
           "Rapid Spin",
-          "Harden",
+          "Iron Defense",
           "Powder Snow",
           "Sharpen"
         ],
@@ -134180,11 +134199,11 @@
             "Ice Shard"
           ],
           "4": [
-            "Protect",
             "Wide Guard"
           ],
           "5": [
-            "Avalanche"
+            "Avalanche",
+            "Bulldoze"
           ],
           "6": [
             "Earth Power"
@@ -134198,7 +134217,6 @@
             "Precipice Blades"
           ],
           "10": [
-            "Iron Defense",
             "Rock Polish"
           ],
           "11": [
@@ -136130,7 +136148,7 @@
         ],
         "level5": [
           [
-            "Sun Blanket"
+            "Bulletproven"
           ],
           [
             "Sniper"
@@ -138255,7 +138273,7 @@
             "Flail"
           ],
           "15": [
-            "Pursuit"
+            "Reversal"
           ]
         },
         "tutor": [
@@ -142531,9 +142549,6 @@
             "After You"
           ],
           "15": [
-            "Nasty Plot"
-          ],
-          "16": [
             "Shed Tail"
           ]
         },
@@ -142697,9 +142712,6 @@
             "Beat Up"
           ],
           "16": [
-            "Nasty Plot"
-          ],
-          "17": [
             "Knock Off"
           ]
         },
@@ -143343,7 +143355,7 @@
             "Leaf Blade"
           ],
           "16": [
-            "Low Kick"
+            "Grass Knot"
           ]
         },
         "tutor": [
@@ -143358,7 +143370,6 @@
           "Facade",
           "Fling",
           "Giga Drain",
-          "Grass Knot",
           "Grass Whistle",
           "Grassy Glide",
           "Helping Hand",
@@ -143504,7 +143515,7 @@
             "Outrage"
           ],
           "17": [
-            "Low Kick"
+            "Grass Knot"
           ]
         },
         "tutor": [
@@ -143521,7 +143532,6 @@
           "Fling",
           "Giga Drain",
           "Giga Impact",
-          "Grass Knot",
           "Grass Whistle",
           "Grassy Glide",
           "Helping Hand",
@@ -143824,7 +143834,7 @@
             "Future Sight"
           ],
           "15": [
-            "Rock Climb"
+            "Jungle Healing"
           ]
         },
         "tutor": [
@@ -144409,7 +144419,7 @@
         ],
         "level5": [
           [
-            "Cursed Body"
+            "Sand Force"
           ],
           [
             "Lifedrinker"
@@ -144451,7 +144461,8 @@
             "Earth Power"
           ],
           "9": [
-            "Iron Defense"
+            "Iron Defense",
+            "Brine"
           ],
           "10": [
             "Shadow Ball"
@@ -144476,7 +144487,6 @@
           "Amnesia",
           "Ancient Power",
           "Attract",
-          "Brine",
           "Bulldoze",
           "Confide",
           "Curse",
@@ -144607,7 +144617,8 @@
             "Earth Power"
           ],
           "10": [
-            "Iron Defense"
+            "Iron Defense",
+            "Brine"
           ],
           "11": [
             "Shadow Ball"
@@ -144632,7 +144643,6 @@
           "Amnesia",
           "Ancient Power",
           "Attract",
-          "Brine",
           "Bulldoze",
           "Confide",
           "Curse",
@@ -151276,10 +151286,10 @@
             "Screech"
           ],
           "5": [
-            "Knock Off"
+            "Slam"
           ],
           "6": [
-            "Slam"
+            "Knock Off"
           ],
           "7": [
             "Sunny Day"
@@ -151294,23 +151304,22 @@
             "Endeavor"
           ],
           "11": [
-            "Solar Beam"
+            "Acrobatics"
           ],
           "12": [
-            "Boomburst"
+            "Solar Beam"
           ],
           "13": [
-            "Synthesis"
+            "Superpower"
           ],
           "14": [
-            "Grassy Glide"
+            "Synthesis"
           ],
           "15": [
-            "Belly Drum"
+            "Grassy Glide"
           ]
         },
         "tutor": [
-          "Acrobatics",
           "Assurance",
           "Attract",
           "Body Press",
@@ -151365,7 +151374,6 @@
           "Strength",
           "Submission",
           "Substitute",
-          "Superpower",
           "Swift",
           "Swords Dance",
           "U-Turn",
@@ -151454,10 +151462,10 @@
             "Round"
           ],
           "6": [
-            "Knock Off"
+            "Slam"
           ],
           "7": [
-            "Slam"
+            "Knock Off"
           ],
           "8": [
             "Fury Cutter"
@@ -151472,23 +151480,22 @@
             "Endeavor"
           ],
           "12": [
-            "Rock Blast"
+            "Acrobatics"
           ],
           "13": [
-            "Boomburst"
+            "Rock Blast"
           ],
           "14": [
-            "Thrash"
+            "Superpower"
           ],
           "15": [
-            "Grassy Glide"
+            "Thrash"
           ],
           "16": [
-            "Belly Drum"
+            "Grassy Glide"
           ]
         },
         "tutor": [
-          "Acrobatics",
           "Assurance",
           "Attract",
           "Body Press",
@@ -151544,7 +151551,6 @@
           "Submission",
           "Substitute",
           "Sunny Day",
-          "Superpower",
           "Swift",
           "Swords Dance",
           "U-Turn",
@@ -151633,11 +151639,11 @@
             "Round"
           ],
           "6": [
-            "Knock Off"
+            "Slam"
           ],
           "7": false,
           "8": [
-            "Slam"
+            "Knock Off"
           ],
           "9": [
             "Belly Drum"
@@ -151652,23 +151658,22 @@
             "Endeavor"
           ],
           "13": [
-            "Grassy Terrain"
+            "Acrobatics"
           ],
           "14": [
             "Boomburst"
           ],
           "15": [
-            "Earthquake"
+            "Superpower"
           ],
           "16": [
-            "Grassy Glide"
+            "Earthquake"
           ],
           "17": [
-            "Belly Drum"
+            "Grassy Glide"
           ]
         },
         "tutor": [
-          "Acrobatics",
           "Assurance",
           "Attract",
           "Body Press",
@@ -151697,6 +151702,7 @@
           "Giga Impact",
           "Grass Knot",
           "Grass Pledge",
+          "Grassy Terrain",
           "Growth",
           "Hammer Arm",
           "High Horsepower",
@@ -151726,7 +151732,6 @@
           "Submission",
           "Substitute",
           "Sunny Day",
-          "Superpower",
           "Swift",
           "Swords Dance",
           "U-Turn",
@@ -152823,7 +152828,7 @@
             "Super Fang"
           ],
           "10": [
-            "Natural Gift"
+            "Payback"
           ],
           "11": [
             "Belch"
@@ -152863,7 +152868,6 @@
           "Iron Tail",
           "Last Resort",
           "Mud Shot",
-          "Payback",
           "Protect",
           "Psychic Fangs",
           "Recycle",
@@ -152980,7 +152984,7 @@
             "Super Fang"
           ],
           "11": [
-            "Natural Gift"
+            "Payback"
           ],
           "12": [
             "Belch"
@@ -153020,7 +153024,6 @@
           "Iron Tail",
           "Last Resort",
           "Mud Shot",
-          "Payback",
           "Protect",
           "Psychic Fangs",
           "Recycle",
@@ -154598,7 +154601,7 @@
             "Magic Bounce"
           ],
           [
-            "Beast Boost"
+            "Battle Armor"
           ],
           [
             "Bulletproof"
@@ -154649,7 +154652,7 @@
             "Last Resort"
           ],
           "13": [
-            "Guard Split"
+            "Power Trick"
           ],
           "14": [
             "Body Press"
@@ -154740,7 +154743,7 @@
             "Fur Coat"
           ],
           [
-            "Beast Boost"
+            "Battle Armor"
           ],
           [
             "Bulletproof"
@@ -154798,7 +154801,7 @@
             "Last Resort"
           ],
           "14": [
-            "Guard Split"
+            "Power Trick"
           ],
           "15": [
             "Court Change"
@@ -156473,7 +156476,7 @@
             "Sand Tomb"
           ],
           "4": [
-            "Headbutt"
+            "Slam"
           ],
           "5": [
             "Coil"
@@ -156488,7 +156491,7 @@
             "Dragon Rush"
           ],
           "9": [
-            "Slam"
+            "Wring Out"
           ],
           "10": [
             "Iron Tail"
@@ -156650,7 +156653,7 @@
             "Drill Run"
           ],
           "10": [
-            "Bounce"
+            "Wring Out"
           ],
           "11": [
             "Iron Tail"
@@ -157712,7 +157715,7 @@
             "Bug Bite"
           ],
           "8": [
-            "Slam"
+            "Guillotine"
           ],
           "9": [
             "Fire Spin"
@@ -158180,7 +158183,7 @@
             "Shadow Ball"
           ],
           "8": [
-            "Scald"
+            "Chilling Water"
           ],
           "9": [
             "Memento"
@@ -158195,13 +158198,13 @@
             "Curse"
           ],
           "13": [
-            "Strange Steam"
+            "Sparkly Swirl"
           ],
           "14": [
             "Sludge Wave"
           ],
           "15": [
-            "Nasty Plot"
+            "Strength Sap"
           ]
         },
         "tutor": [
@@ -158233,7 +158236,6 @@
           "Soak",
           "Stone Edge",
           "Stored Power",
-          "Strength Sap",
           "Substitute",
           "Swift",
           "Telekinesis",
@@ -159465,7 +159467,8 @@
         "starting": [
           "Tackle",
           "Aromatic Mist",
-          "Sweet Kiss"
+          "Sweet Kiss",
+          "Natural Gift"
         ],
         "levelUp": {
           "2": [
@@ -159500,7 +159503,7 @@
             "Entrainment"
           ],
           "12": [
-            "Natural Gift"
+            "Helping Hand"
           ],
           "13": [
             "Milk Drink"
@@ -159525,7 +159528,6 @@
           "Fling",
           "Giga Drain",
           "Gust",
-          "Helping Hand",
           "Imprison",
           "Last Resort",
           "Magic Room",
@@ -159616,7 +159618,8 @@
         "starting": [
           "Tackle",
           "Aromatic Mist",
-          "Sweet Kiss"
+          "Sweet Kiss",
+          "Natural Gift"
         ],
         "levelUp": {
           "2": false,
@@ -161125,7 +161128,7 @@
             "Bite"
           ],
           "5": [
-            "Nuzzle"
+            "Flatter"
           ],
           "6": [
             "Torment"
@@ -161599,7 +161602,7 @@
             "Stomp"
           ],
           "6": [
-            "Slam"
+            "Dual Wingbeat"
           ],
           "7": [
             "Discharge"
@@ -161760,7 +161763,7 @@
             "Freeze Shock"
           ],
           "6": [
-            "Slam"
+            "Dual Wingbeat"
           ],
           "7": [
             "Discharge"
@@ -165389,7 +165392,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>absolutely refuses to learn the “walking the dog” yoyo trick</p>\n"
     },
     {
       "name": "Meowscarada",
@@ -165507,7 +165511,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>hiding the flower stem lets it attack more unexpectedly than Floragato, since opponents could read the string positioning before the bud swung around. Also Paldean brides do NOT toss bouquets at weddings</p>\n"
     }
   ],
   "fuecoco": [
@@ -166800,7 +166805,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>spidops in urban areas hang from bridges and attempt to ensnare anything that passes by; they confusedly attempt to ensnare a lot of vehicles</p>\n"
     }
   ],
   "nymble": [
@@ -167381,7 +167387,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>Pawmot with little electricity left appear deflated as all the volume leaves their fur</p>\n"
     }
   ],
   "tandemaus": [
@@ -167494,7 +167501,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>college debt joke (who is their creditor?)</p>\n"
     },
     {
       "name": "Maushold",
@@ -167618,7 +167626,7 @@
         },
         "tutor": []
       },
-      "blurb": "<p><strong>Pokéfeature:</strong> When Tandemaus evolves, you may choose if it evolves into the Family of Three or Family of Four form of Maushold.</p>\n"
+      "blurb": "<p>we gotta say SOMETHING involve how its evolution happens without fanfare; “Tandemaus’s evolution into Maushold is considered somewhat of a mystery, as the little individuals that form the group seem to appear out of nowhere.”</p>\n<p><strong>Pokéfeature:</strong> When Tandemaus evolves, you may choose if it evolves into the Family of Three or Family of Four form of Maushold.</p>\n"
     }
   ],
   "fidough": [
@@ -167733,7 +167741,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>does the fermentation breath cause any problems? is it a common brewery pet/mascot?</p>\n"
     },
     {
       "name": "Dachsbun",
@@ -167851,7 +167860,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>they live in packs of 13</p>\n"
     }
   ],
   "smoliv": [
@@ -168077,7 +168087,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>how does Dolliv know when its journey is over?</p>\n"
     },
     {
       "name": "Arboliva",
@@ -168193,7 +168204,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>maybe work in my “sacred oil” theory as to why it’s Normal-Type here, since the ghost immunity is the only thing it seems to benefit from</p>\n"
     }
   ],
   "squawkabilly": [
@@ -168287,8 +168299,7 @@
             }
           ],
           "6": [
-            "Taunt",
-            "Swagger"
+            "Taunt"
           ],
           "7": [
             "Whirlwind"
@@ -168440,7 +168451,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>nacli has a complicated relationship with the ocean. and/or: what’s up with that internal glow?</p>\n"
     },
     {
       "name": "Naclstack",
@@ -168558,7 +168570,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what’s up with the quadruped body plan</p>\n"
     },
     {
       "name": "Garganacl",
@@ -168677,7 +168690,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the obvious visual layers of sediment correspond to increased hardness as you go down, since its weight increasingly bears down and compresses each lower layer</p>\n"
     }
   ],
   "charcadet": [
@@ -168787,7 +168801,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>why does it need armor to evolve?</p>\n"
     },
     {
       "name": "Armarouge",
@@ -168903,7 +168918,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the “blessed armor” (JP name) is made from bronzor fragments</p>\n"
     },
     {
       "name": "Ceruledge",
@@ -169019,7 +169035,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the “cursed armor” (JP name) is made from sinistea chips</p>\n"
     }
   ],
   "tadbulb": [
@@ -169252,7 +169269,7 @@
         },
         "tutor": []
       },
-      "blurb": "<p>Emergency mobile powerplants can be stood up quickly by placing several Bellibolt in the bed of a pickup truck and taking them off-road. The Bellibolt are also delighted to serve this way.</p>\n"
+      "blurb": "<p>Emergency mobile powerplants can be quickly stood up by placing several Bellibolt in the bed of a pickup truck and taking them off-road. This also delights the Bellibolt</p>\n"
     }
   ],
   "wattrel": [
@@ -169364,11 +169381,12 @@
             "Tailwind"
           ],
           "15": [
-            "Vacuum Wave"
+            "Bolt Beak"
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>wattrel’s feathers are coated in an oil that cuts down on its drag in the water, and also insulates its own electricity to prevent electric arcing in water</p>\n"
     },
     {
       "name": "Kilowattrel",
@@ -169491,7 +169509,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the oils wattrel previously used to swim through the water have been changed to capacitative oils for stronger electricity</p>\n"
     }
   ],
   "masschiff": [
@@ -169841,7 +169860,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>hint at the Kilroy Was Here joke somehow</p>\n"
     },
     {
       "name": "Grafaiai",
@@ -169959,7 +169979,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what happens if Grafaiai meets Smeargle?</p>\n"
     }
   ],
   "bramblin": [
@@ -170027,7 +170048,7 @@
         "levelUp": {
           "2": [
             "Rapid Spin",
-            "Grasswhistle"
+            "Grass Whistle"
           ],
           "3": [
             "Bullet Seed"
@@ -170076,7 +170097,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>how does rolling over a great distance help it evolve? it’s the only 1000-step evo mon where it’s not explained</p>\n"
     },
     {
       "name": "Brambleghast",
@@ -170149,7 +170171,7 @@
           "2": false,
           "3": [
             "Rapid Spin",
-            "Grasswhistle"
+            "Grass Whistle"
           ],
           "4": [
             "Bullet Seed"
@@ -170171,7 +170193,7 @@
           ],
           "9": [
             "Phantom Force",
-            "Scary Face"
+            "Spite"
           ],
           "10": [
             "Seed Bomb"
@@ -170198,7 +170220,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>brambleghast racing is too hazardous since gust direction changes can cause problems</p>\n"
     }
   ],
   "toedscool": [
@@ -170260,11 +170283,12 @@
         "starting": [
           "Absorb",
           "Supersonic",
-          "Mud-Slap"
+          "Mud-Slap",
+          "Wrap"
         ],
         "levelUp": {
           "2": [
-            "Wrap"
+            "Growth"
           ],
           "3": [
             "Mud Shot"
@@ -170292,7 +170316,8 @@
             "Earth Power"
           ],
           "11": [
-            "Spikes"
+            "Spikes",
+            "Skill Swap"
           ],
           "12": [
             "Giga Drain"
@@ -170374,11 +170399,12 @@
         "starting": [
           "Absorb",
           "Supersonic",
-          "Mud-Slap"
+          "Mud-Slap",
+          "Wrap"
         ],
         "levelUp": {
           "2": [
-            "Wrap"
+            "Growth"
           ],
           "3": [
             "Mud Shot"
@@ -170398,7 +170424,7 @@
             "Seed Bomb"
           ],
           "9": [
-            "Growth"
+            "Moonlight"
           ],
           "10": [
             "Hex"
@@ -170407,7 +170433,8 @@
             "Earth Power"
           ],
           "12": [
-            "Rage Powder"
+            "Rage Powder",
+            "Entrainment"
           ],
           "13": [
             "Giga Drain"
@@ -170423,7 +170450,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what did it get by trading its incredibly fast running as a Toedscool?</p>\n"
     }
   ],
   "klawf": [
@@ -170535,7 +170563,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>Festive wooden ornaments that crack nuts are designed to look like Klawf. When real Klawf are used this way, no trace of nut remains.</p>\n"
     }
   ],
   "capsakid": [
@@ -170650,7 +170679,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>why doesn’t it have arms</p>\n"
     }
   ],
   "undefined": [
@@ -170739,7 +170769,7 @@
             "Grassy Terrain"
           ],
           "6": [
-            "Dragon Breath"
+            "Dragon Rage"
           ],
           "7": [
             "Double Hit"
@@ -170781,7 +170811,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>nobody is sure how it decides which head uses which attacks (IRL and also probably in-game)</p>\n"
     },
     {
       "name": "Arctibax",
@@ -170899,7 +170930,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>why does it briefly have an acrobatic phase before evolving into a kaiju suit?</p>\n"
     },
     {
       "name": "Baxcalibur",
@@ -171118,7 +171150,7 @@
             "Tidy Up"
           ],
           "13": [
-            "Steel Roller"
+            "Gyro Ball"
           ],
           "14": [
             "Camouflage"
@@ -171358,7 +171390,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>great clouds of flittle rolling over the hills when windstorms crop up in flat grasslands</p>\n"
     },
     {
       "name": "Espathra",
@@ -171591,7 +171624,8 @@
         "tutor": [
           "Wood Hammer"
         ]
-      }
+      },
+      "blurb": "<p>This Pokemon forages for iron scraps to forge its hammer, which it will seek to constantly improve. Domesticated Tinkatink hammers often taste of spices infused in the cookware they once were. </p>\n"
     },
     {
       "name": "Tinkatuff",
@@ -171711,7 +171745,8 @@
         "tutor": [
           "Wood Hammer"
         ]
-      }
+      },
+      "blurb": "<p>No longer restricted to foraging, urban gangs of Tinkatuff are notorious for dismantling trucks that park in one space for too long. Gangs that number more than 7 individuals split into rivals.</p>\n"
     },
     {
       "name": "Tinkaton",
@@ -171802,7 +171837,7 @@
           ],
           "8": false,
           "9": [
-            "Hammer Arm"
+            "Sky Uppercut"
           ],
           "10": [
             "Smack Down"
@@ -171832,7 +171867,8 @@
         "tutor": [
           "Wood Hammer"
         ]
-      }
+      },
+      "blurb": "<p>the hammer changes appearance and characteristics depending on what kinds of trash and Steel-Type species are nearby</p>\n"
     }
   ],
   "wiglett": [
@@ -171944,7 +171980,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>also known as Travisbane after it brought Professor Travis to ruin</p>\n"
     },
     {
       "name": "Wugtrio",
@@ -172061,7 +172098,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what’s with the new vibrant coloration?</p>\n"
     }
   ],
   "bombirdier": [
@@ -172176,7 +172214,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>comedy gold during Watmel Berry season</p>\n"
     }
   ],
   "finizen": [
@@ -172243,7 +172282,7 @@
         ],
         "levelUp": {
           "2": [
-            "Astonish"
+            "Echoed Voice"
           ],
           "3": [
             "Focus Energy"
@@ -172279,7 +172318,7 @@
             "FIail"
           ],
           "14": [
-            "Substitute"
+            "Surf"
           ],
           "15": [
             "Baton Pass"
@@ -172358,7 +172397,7 @@
         ],
         "levelUp": {
           "2": [
-            "Astonish"
+            "Echoed Voice"
           ],
           "3": [
             "Focus Energy"
@@ -172398,11 +172437,12 @@
             "Wave Crash"
           ],
           "16": [
-            "First Impression"
+            "Retaliate"
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the nearly-unchanged appearance to Finizen is intentional, to help camouflage itself among them to protect them better when threats arrive</p>\n"
     },
     {
       "name": "Palafin (Hero)",
@@ -172576,7 +172616,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>it’s always gasping because its engine is limited by its natural aspiration. also why the fuck does it float</p>\n"
     },
     {
       "name": "Revavroom",
@@ -172698,7 +172739,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the mouth on top is where a classical hot rod engine’s air intake/carburetor/filter normally goes, hence one of its canon abilities</p>\n"
     }
   ],
   "orthworm": [
@@ -172809,7 +172851,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>can be used to clean up soil that’s contaminated with heavy metals</p>\n"
     }
   ],
   "glimmet": [
@@ -172921,7 +172964,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>is it using nutrients from that bulb, or is it STORING nutrients in it? (I guess real bulbiferous plants do both)</p>\n"
     },
     {
       "name": "Glimmora",
@@ -173038,7 +173082,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>does its spinning do anything for it?</p>\n"
     }
   ],
   "greavard": [
@@ -173267,7 +173312,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>What does the “tombstone” say?</p>\n"
     }
   ],
   "flamigo": [
@@ -173496,7 +173542,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>cetoddle BOUNCE!</p>\n"
     },
     {
       "name": "Cetitan",
@@ -173613,7 +173660,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>cetitan are obviously filter feeders, but what do they filter? snow? but what would they get out of it? there’s no snow krill</p>\n"
     }
   ],
   "veluza": [
@@ -173723,7 +173771,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what eats the spare flesh after it’s been shed?</p>\n"
     }
   ],
   "dondozo": [
@@ -173788,21 +173837,21 @@
           "Tackle",
           "Supersonic",
           "Water Gun",
-          "Assurance"
+          "Water Sport"
         ],
         "levelUp": {
           "2": [
             "Tickle"
           ],
           "3": [
-            "Flail"
+            "Dive"
           ],
           "4": [
             "Rest",
             "Sleep Talk"
           ],
           "5": [
-            "Dive"
+            "Flail"
           ],
           "6": [
             "Noble Roar",
@@ -173837,7 +173886,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>doesn’t compete with the ocean whales since it’s freshwater</p>\n"
     }
   ],
   "tatsugiri": [
@@ -173970,7 +174020,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>obviously we gotta hint at GMs who want to use this to pilot other mons</p>\n"
     }
   ],
   "gimmighoul": [
@@ -174078,7 +174129,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>can a gimmighoul be tempted into a larger or more ornate chest? do they trade up like hermit crabs?</p>\n"
     },
     {
       "name": "Gimmighoul (Roaming)",
@@ -174149,7 +174201,7 @@
             "Eerie Impulse"
           ],
           "4": [
-            "Double Team",
+            "Minimize",
             "Lucky Chant"
           ],
           "5": [
@@ -174180,14 +174232,15 @@
             "Doom Desire"
           ],
           "14": [
-            "Acupressure"
+            "Tail Glow"
           ],
           "15": [
             "Spectral Thief"
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>where do roaming gimmighoul hide their stashes?</p>\n"
     },
     {
       "name": "Gholdengo",
@@ -174301,7 +174354,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>the coins scattered everywhere from battles across the land is how Gholdengo redistributes its wealth to other Gimmighoul, completing its lifecycle</p>\n"
     }
   ],
   "frigibax": [
@@ -174414,7 +174468,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>if they absorb heat, why do they bother living in cold mountains?</p>\n"
     }
   ],
   "ting-lu": [
@@ -174530,7 +174585,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what was the bowl supposed to hold before it cracked?</p>\n"
     }
   ],
   "chien-pao": [
@@ -174765,7 +174821,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what kinds of offerings does it like?</p>\n"
     }
   ],
   "chi-yu": [
@@ -174881,7 +174938,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>it’s literally a green-eyed monster, and represents envy</p>\n"
     }
   ],
   "great tusk": [
@@ -174994,7 +175052,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>worse at rolling than Donphan or Iron Treads</p>\n"
     }
   ],
   "iron treads": [
@@ -175107,7 +175166,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>so configured for rolling that it doesn’t have as much stability as the other two on its feet</p>\n"
     }
   ],
   "slither wing": [
@@ -175221,7 +175281,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>note that it stands up to fight, since that’s not obvoius from canon dex entries</p>\n"
     }
   ],
   "iron moth": [
@@ -175267,7 +175328,7 @@
         ],
         "level5": [
           [
-            "Drought"
+            "Flame Body"
           ],
           [
             "Levitate"
@@ -175334,7 +175395,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>i think the joke with this thing is that its wings are actually satellite-esque solar panels, which would explain the Volcarona connection</p>\n"
     }
   ],
   "brute bonnet": [
@@ -175447,7 +175509,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>so how does THIS one dance</p>\n"
     }
   ],
   "sandy shocks": [
@@ -175520,7 +175583,7 @@
             "Bulldoze"
           ],
           "4": [
-            "Charge Beam"
+            "Electro Ball"
           ],
           "5": [
             "Scorching Sands"
@@ -175561,7 +175624,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p><a href=\"https://www.youtube.com/watch?v=gNSfhSXtvSk\">https://www.youtube.com/watch?v=gNSfhSXtvSk</a></p>\n"
     }
   ],
   "scream tail": [
@@ -175621,7 +175685,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Pound",
+          "Sonic Boom",
           "Sing",
           "Disable",
           "Howl"
@@ -175671,7 +175735,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>PG you got this one, I’m sure</p>\n"
     }
   ],
   "flutter mane": [
@@ -175783,7 +175848,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>has no special reaction to Aerodactyl, upsetting true believers in the ancient paradox theory</p>\n"
     }
   ],
   "roaring moon": [
@@ -175899,7 +175965,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>note that mega evolution’s sources are known to only be 3,000 years old at most</p>\n"
     }
   ],
   "walking wake": [
@@ -176127,7 +176194,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>surprisingly really bad at the ceremonies and formal rules of sumo</p>\n"
     }
   ],
   "iron jugulis": [
@@ -176243,7 +176311,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>to contrast the real Hydreigon’s “the two smaller heads don’t think” bit, maybe Iron Jugulis processes with all 3 head CPUs at once</p>\n"
     }
   ],
   "iron thorns": [
@@ -176289,7 +176358,7 @@
         ],
         "level5": [
           [
-            "Electric Surge"
+            "Sand Stream? Battle Armor? Terraform? Unnerve?"
           ],
           [
             "Analytic"
@@ -176359,7 +176428,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>we gotta justify how it’s part Rock, it looks more metal and plastic than most of the future ‘doxes</p>\n"
     }
   ],
   "iron bundle": [
@@ -176472,7 +176542,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>why does it have the extendo-neck</p>\n"
     }
   ],
   "iron valiant": [
@@ -176592,7 +176663,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>what do Gardevoir and Gallade each think about this thing?</p>\n"
     }
   ],
   "iron leaves": [
@@ -176644,7 +176716,7 @@
             "Dire Horn"
           ],
           [
-            "Grass Pelt? Surge Surfer? Heatproof?"
+            "Grass Pelt? Heatproof?"
           ]
         ]
       },
@@ -176818,7 +176890,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>we GOTTA talk about cool bike stunt competitions on these dudes, I demand it</p>\n"
     }
   ],
   "koraidon": [
@@ -176930,7 +177003,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>no fossil pokemon has ancestral memories of this thing, but that doesn’t mean they don’t know instinctively to respect it</p>\n"
     }
   ],
   "miraidon": [
@@ -177042,7 +177116,8 @@
           ]
         },
         "tutor": []
-      }
+      },
+      "blurb": "<p>under no circumstances should you let Porygon-Z near this thing</p>\n"
     }
   ]
 }

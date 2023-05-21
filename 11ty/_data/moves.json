@@ -1204,7 +1204,7 @@
     "type": "Water",
     "kind": "Physical",
     "power": 1,
-    "pp": 3,
+    "pp": 2,
     "accuracy": 4,
     "range": "Contact",
     "description": "<p>Binds and Traps the target for 3 turns with the user’s shell, dealing 2 Ticks of HP Loss between rounds.</p>\n",
@@ -1370,7 +1370,7 @@
     "kind": "Status",
     "pp": 2,
     "range": "Self",
-    "description": "<p>The user retextures to become the Type of a Move they know of your choice for the rest of the battle.</p>\n",
+    "description": "<p>The user retextures to become the Type of a Move they know of your choice until they leave the battle.</p>\n",
     "zEffect": "Boost all the user's Stats by +5 each.",
     "name": "Conversion"
   },
@@ -1379,9 +1379,9 @@
     "kind": "Status",
     "pp": 3,
     "range": "Self",
-    "description": "<p>An improved retexture function replaces the user’s Type for the rest of the battle with a Type of your choice that resists the Move that last damaged it.</p>\n",
+    "description": "<p>An improved retexture function replaces the user’s Type with a Type of your choice that resists the Move that last damaged it, until the user leaves the battle.</p>\n",
     "zEffect": "Fully restore the user's HP.",
-    "name": "Conversion2"
+    "name": "Conversion 2"
   },
   {
     "type": "Normal",
@@ -5265,7 +5265,7 @@
     "pp": 2,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Critical Hit on 18+. Gashes the target as soon as their guard wavers.</p>\n",
+    "description": "<p>Critical Hit on 18+. Gashes the target merely to test out the user’s sharpness.</p>\n",
     "zEffect": 44,
     "maxPower": 120,
     "name": "Night Slash"

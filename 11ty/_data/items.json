@@ -1686,7 +1686,7 @@
     "name": "Type Gem",
     "buy": 200,
     "sell": 100,
-    "description": "The holder uses up the Gem when using a damaging Move of the Gem’s Type to get +10 damage.",
+    "description": "The holder uses up the Gem when hitting with a damaging Move of the Gem’s Type to get +10 damage.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

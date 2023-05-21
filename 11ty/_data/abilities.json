@@ -70,7 +70,7 @@
     "description": "<p>When Greninja KOs a target, for the rest of the battle it becomes Ash-Greninja and its Water Shuriken’s Power becomes 8 and cannot do less than +6 bonus damage.</p>\n"
   },
   {
-    "description": "<p>The user’s ruinous jade beads give -5 SDEF to characters without Beads of Ruin.</p>\n"
+    "description": "<p>The user’s ruinous jade magatama give -5 SDEF to characters without Beads of Ruin.</p>\n"
   },
   {
     "bonusStats": "+1 SATK",
@@ -1042,7 +1042,7 @@
     "description": "<p>The user’s SPE Boosts by +15 while in Rain.</p>\n"
   },
   {
-    "description": "<p>The user’s ruinous steel sword gives -5 DEF to characters without Sword of Ruin.</p>\n"
+    "description": "<p>The user’s ruinous steel blade gives -5 DEF to characters without Sword of Ruin.</p>\n"
   },
   {
     "description": "<p>When an ally in Zone uses up an item, the user passes a held item to that ally.</p>\n"
