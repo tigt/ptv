@@ -1,1225 +1,1606 @@
 [
   {
+    "name": "Adaptability",
     "description": "<p>Damaging Moves that share a Type with the user get +5 damage.</p>\n"
   },
   {
+    "name": "Adrenaline",
     "description": "<p>When the user’s HP falls below 50% from direct damage, Boost their ATK by +5.</p>\n"
   },
   {
+    "name": "Aerilate",
     "description": "<p>The user’s Normal Moves become Flying-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Aftermath",
     "description": "<p>If the user Faints from a Contact Move, the attacker loses 3 Ticks.</p>\n"
   },
   {
+    "name": "Air Lock",
     "description": "<p>Weather has no effect while the user is in battle.</p>\n"
   },
   {
+    "name": "Allergenic",
     "description": "<p>Poison Powder, Sleep Powder, and Stun Spore all use the same Move slot.</p>\n"
   },
   {
+    "name": "Alphabetic",
     "description": "<p>Unown gets an extra Ability that starts with its letter of your choice. On level-up, Unown can learn any Move that starts with its letter. Unown-? chooses randomly each time. Unown-! chooses from Moves and Abilities that contain spaces or punctuation.</p>\n"
   },
   {
+    "name": "Analytic",
     "description": "<p>The user’s Damaging Moves get +5 damage if all targeted characters already took a turn this round.</p>\n"
   },
   {
+    "name": "Anger Point",
     "description": "<p>If the user suffers a Critical Hit, Boost their ATK by +20.</p>\n"
   },
   {
+    "name": "Anger Shell",
     "description": "<p>When the user’s HP falls below 50% from direct damage, Boost their ATK, SATK, and SPE by +5, and Drop their DEF and SDEF by -5.</p>\n"
   },
   {
+    "name": "Antagonize",
     "description": "<p>The user’s Normal Moves become Dark-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Anticipation",
     "bonusStats": "+4 SDEF",
     "description": "<p>When the user enters battle, they shudder if a foe knows a OHKO Move or a Move super-effective against the user.</p>\n"
   },
   {
+    "name": "Arena Trap",
     "description": "<p>Foes in the user’s Zone that aren’t Immune to Ground are Trapped.</p>\n"
   },
   {
+    "name": "Armor Tail",
     "bonusStats": "+2 DEF",
     "description": "<p>Foes’ Priority Moves fail when targeting the user or Allies in Zone.</p>\n"
   },
   {
+    "name": "Aroma Veil",
     "description": "<p>The user and Allies in Zone can’t be Infatuated, can’t have their Moves disabled, and are unaffected by Taunt, Torment, and Encore.</p>\n"
   },
   {
+    "name": "As One",
     "description": "<p>Calyrex’s Rider form has the Abilities of Calyrex’s default form and the Pokémon it is riding.</p>\n"
   },
   {
+    "name": "Aura Break",
     "description": "<p>The Fairy Aura and Dark Aura Abilities reduce damage instead of increasing it.</p>\n"
   },
   {
+    "name": "Bad Dreams",
     "description": "<p>Between rounds, Sleeping foes lose 2 Ticks.</p>\n"
   },
   {
+    "name": "Ball Fetch",
     "bonusStats": "+5 SPE",
     "description": "<p>The user picks up and restores each failed Poké Ball.</p>\n"
   },
   {
+    "name": "Battery",
     "description": "<p>The user’s Allies in Zone get +5 damage to their Special Moves.</p>\n"
   },
   {
+    "name": "Battle Armor",
     "bonusStats": "+1 ATK, +2 DEF",
     "description": "<p>Hard plating deflects the user’s received Critical Hits into normal hits.</p>\n"
   },
   {
+    "name": "Battle Bond",
     "description": "<p>When Greninja KOs a target, for the rest of the battle it becomes Ash-Greninja and its Water Shuriken’s Power becomes 8 and cannot do less than +6 bonus damage.</p>\n"
   },
   {
+    "name": "Beads of Ruin",
     "description": "<p>The user’s ruinous jade magatama give -5 SDEF to characters without Beads of Ruin.</p>\n"
   },
   {
+    "name": "Beam Cannon",
     "bonusStats": "+1 SATK",
     "description": "<p>The user’s Ranged Moves get +3 to their Effect and Critical Rates.</p>\n"
   },
   {
+    "name": "Beast Boost",
     "description": "<p>When the user KOs a target, Boost their highest Stat by +5.</p>\n"
   },
   {
+    "name": "Berserk",
     "description": "<p>When the user’s HP falls below 50% from direct damage, Boost their SATK by +5.</p>\n"
   },
   {
+    "name": "Big Pecks",
     "bonusStats": "+2 DEF",
     "description": "<p>The user’s DEF can’t be Dropped by others.</p>\n"
   },
   {
+    "name": "Blaze",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>If the user’s HP is 3 Ticks or less, their Fire Moves get +10 damage.</p>\n"
   },
   {
+    "name": "Brimstone",
     "bonusStats": "+2 SATK",
     "description": "<p>When the user Burns a target, they also Poison it.</p>\n"
   },
   {
+    "name": "Bulletproof",
     "bonusStats": "+2 SDEF",
     "description": "<p>The user is Immune to Moves with names containing “ball”, “bomb”, or “cannon”, Acid Spray, Aura Sphere, Barrage, Focus Blast, Octazooka, Pollen Puff, Rock Blast, Rock Wrecker, and Searing Shot.</p>\n"
   },
   {
+    "name": "Bulletproven",
     "bonusStats": "+2 SATK",
     "description": "<p>The user gets +7 damage on Moves with names containing “ball”, “bomb”, or “cannon”, Acid Spray, Aura Sphere, Barrage, Focus Blast, Octazooka, Pollen Puff, Rock Blast, Rock Wrecker, and Searing Shot.</p>\n"
   },
   {
+    "name": "Cheek Pouch",
     "bonusStats": "+5 HP",
     "description": "<p>The user heals an extra 3 Ticks when they eat a Berry.</p>\n"
   },
   {
+    "name": "Chill",
     "description": "<p>When the user enters battle, Drop foes’ SPE by -5.</p>\n"
   },
   {
+    "name": "Chilling Neigh",
     "description": "<p>When the user KOs a target, Boost their ATK by +5.</p>\n"
   },
   {
+    "name": "Chlorophyll",
     "bonusStats": "+2 SPE",
     "description": "<p>In Harsh Sunlight, Boost the user’s SPE by +15.</p>\n"
   },
   {
+    "name": "Clear Body",
     "description": "<p>The user’s purity of body means its Stats can’t be Dropped by others.</p>\n"
   },
   {
+    "name": "Cloud Nine",
     "description": "<p>When the user enters battle, the weather becomes normal.</p>\n"
   },
   {
+    "name": "Color Change",
     "bonusStats": "+4 SDEF",
     "description": "<p>After a Move damages the user, their Type changes to match the Move’s Type. (After Double/Multi-strike Moves finish.)</p>\n"
   },
   {
+    "name": "Color Guard",
     "description": "<p>Minior and allies that share a color with it get a bonus based on its color:</p>\n<ul>\n<li>Red: heal a Tick between rounds</li>\n<li>Orange: +5 ATK, +2 Crit Rate</li>\n<li>Yellow: +5 DEF, +6 Save Bonus</li>\n<li>Green: +5 SDEF, +2 Evasion</li>\n<li>Cyan: heal 1 PP between rounds</li>\n<li>Indigo: +5 SATK, +2 Effect Rate</li>\n<li>Violet: +5 SPE, +4 Accuracy Rate</li>\n<li>Black: Minior and allies without any of the above colors get +1 to all Stats, Crit Rate, Save Bonus, Evasion, Effect Rate, and Accuracy</li>\n</ul>\n"
   },
   {
+    "name": "Comatose",
     "description": "<p>The user is always Asleep, but acts normally. Comatose can’t be removed or changed.</p>\n<ul>\n<li>The user can’t be Poisoned, Burned, or Paralyzed.</li>\n<li>The user can use Sleep Talk and Snore, is affected by Dream Eater and Nightmare, and triggers extra damage from Hex and Wake-Up Slap.</li>\n<li>The user can’t use Rest.</li>\n</ul>\n"
   },
   {
+    "name": "Commander",
     "description": "<p>When the user enters battle, it goes in the mouth of an ally Dondozo if there is one. Commanded Dondozo get +10 each to ATK, DEF, SATK, SDEF, and SPE, but can’t switch out and the Commander can’t act or be targeted until the Dondozo faints. (Works with non-Dondozo species at GM’s discretion.)</p>\n"
   },
   {
+    "name": "Competitive",
     "description": "<p>When a foe Drops any of the user’s Stats, Boost the user’s SATK by +10.</p>\n"
   },
   {
+    "name": "Compound Eyes",
     "description": "<p>The user’s Moves lower their Accuracy Check by 6.</p>\n"
   },
   {
+    "name": "Contaminate",
     "description": "<p>The user’s Normal Moves become Poison-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Contrary",
     "description": "<p>The user’s Drops become Boosts, and vice-versa.</p>\n"
   },
   {
+    "name": "Corrosion",
     "description": "<p>The user can Poison targets regardless of their Type or Ability. (Steel still takes 0 damage from Poison Moves.)</p>\n"
   },
   {
+    "name": "Costar",
     "description": "<p>When the user enters battle, they choose an ally to copy Boosts, Drops, and Focus Energy from.</p>\n"
   },
   {
+    "name": "Cotton Down",
     "bonusStats": "+1 DEF, +1 SDEF",
     "description": "<p>When the user is damaged by a Move, Drop other in-Zone characters’ SPE by -5.</p>\n"
   },
   {
+    "name": "Cud Chew",
     "description": "<p>If the user eats a Berry, they regurgitate that Berry at the end of their next turn and eat it once more.</p>\n"
   },
   {
+    "name": "Curious Medicine",
     "description": "<p>When the user enters battle, all allies reset their Boosts/Drops to +0.</p>\n"
   },
   {
+    "name": "Cursed Body",
     "description": "<p>Attackers that hit the user with a Move must make a DC8 Save using that attack roll or have their Move disabled.</p>\n"
   },
   {
+    "name": "Cute Charm",
     "description": "<p>Attackers that hit the user with a Contact Move must make a DC8 Save using that attack roll or become Infatuated with the user (if compatible).</p>\n"
   },
   {
+    "name": "Damp",
     "bonusStats": "+3 DEF",
     "description": "<p>While the user is on the field, the Aftermath Ability and Moves Self-Destruct, Explosion, Misty Explosion, and Mind Blown fail.</p>\n"
   },
   {
+    "name": "Dancer",
     "description": "<p>If another character uses a Move with “Dance” in the name or Aqua Step, immediately use that Move for 0 PP without spending the user’s turn. This can’t go infinite.</p>\n"
   },
   {
+    "name": "Dark Aura",
     "description": "<p>While the user is on the field, all damaging Dark Moves get +5 damage.</p>\n"
   },
   {
+    "name": "Dauntless Shield",
     "description": "<p>When the user enters battle, Boost their DEF by +5.</p>\n"
   },
   {
+    "name": "Dazzling",
     "bonusStats": "+2 SDEF",
     "description": "<p>Foes’ Priority Moves fail when targeting the user or Allies in Zone.</p>\n"
   },
   {
+    "name": "Deadly Poison",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>If the user Poisons a target, they Badly Poison it instead.</p>\n"
   },
   {
+    "name": "Defeatist",
     "description": "<p>When the user has less than 50% HP, Drop its ATK and SATK by -10.</p>\n"
   },
   {
+    "name": "Defiant",
     "description": "<p>When a foe Drops any of the user’s Stats, Boost the user’s ATK by +10.</p>\n"
   },
   {
+    "name": "Delivery Bird",
     "bonusStats": "+2 HP",
     "description": "<p>The user can hold 2 items at once. If something affects their held item, you choose which one.</p>\n"
   },
   {
+    "name": "Delta Stream",
     "description": "<p>The weather becomes Strong Wind while the user is on the field. Only Primordial Sea and Desolate Land can override Delta Stream. (Electric, Ice and Rock Moves get -1 Effectiveness.)</p>\n"
   },
   {
+    "name": "Desolate Land",
     "description": "<p>The weather becomes Extremely Harsh Sunlight while the user is on the field. Only Primordial Sea and Delta Stream can override Extremely Harsh Sunlight. (Damaging Fire Moves get +10 damage, and Water Moves automatically fail.)</p>\n"
   },
   {
+    "name": "Dire Horn",
     "description": "<p>Moves with “Horn” or “Head” in their name, Skull Bash, Fury Attack, Smart Strike, Psyblade, Sacred Sword, and Secret Sword get +7 damage.</p>\n"
   },
   {
+    "name": "Discipline",
     "bonusStats": "+1 DEF, +1 SDEF, +1 SPE",
     "description": "<p>The first time per battle the user becomes Confused, Infatuated, or Flinched, cure it.</p>\n"
   },
   {
+    "name": "Disguise",
     "description": "<p>The user’s disguise prevents damage from the first Move that damages the user, then breaks and loses a Tick. (Move effects still occur, and Multi-strike Moves still deal damage.) Repair the disguise between battles.</p>\n"
   },
   {
+    "name": "Dizzying",
     "description": "<p>Attackers that hit the user with a Move must make a DC8 Save using that attack roll or become Confused.</p>\n"
   },
   {
+    "name": "Download",
     "description": "<p>When the user enters battle, a random foe reveals if its DEF or SDEF is lower. If DEF, Boost the user’s ATK by +5. If SDEF, Boost the user’s SATK by +5.</p>\n"
   },
   {
+    "name": "Dracolize",
     "description": "<p>The user’s Normal Moves become Dragon-Type and gain +5 damage.</p>\n"
   },
   {
+    "name": "Dragon's Maw",
     "description": "<p>The user’s damaging Dragon Moves get +5 damage. </p>\n"
   },
   {
+    "name": "Drizzle",
     "description": "<p>When the user enters battle, the weather becomes Rainy for 5 rounds. (Damaging Water Moves get +10 damage, and Fire Moves have their Power reduced by -10.)</p>\n"
   },
   {
+    "name": "Drought",
     "description": "<p>The weather becomes Harsh Sunlight for 5 rounds. (Damaging Fire Moves get +10 damage, and Water Moves have their Power reduced by -10.)</p>\n"
   },
   {
+    "name": "Dry Skin",
     "description": "<p>The user is Immune to Water. If hit with a Water Move, ignore its effects and heal 3 Ticks. Damaging Fire Moves get +5 damage against the user.<br>The user loses 2 Ticks when they end a turn in Harsh Sunlight, and heals 2 Ticks when they end a turn in Rain.</p>\n"
   },
   {
+    "name": "Early Bird",
     "bonusStats": "+2 SPE",
     "description": "<p>The user has a +6 Bonus to Sleep Save Checks.</p>\n"
   },
   {
+    "name": "Earth Eater",
     "description": "<p>The user is Immune to Ground. When hit with a Ground Move, ignore its effect and Heal the user by 3 Ticks.</p>\n"
   },
   {
+    "name": "Effect Spore",
     "description": "<p>Attackers that hit the user with a Contact Move must make a DC8 Save using that attack roll or roll another d20:</p>\n<ul>\n<li>1-6: Poison the attacker.</li>\n<li>7-13: Paralyze the attacker.</li>\n<li>14+: the attacker falls Asleep.</li>\n</ul>\n"
   },
   {
+    "name": "Electric Cheeks",
     "description": "<p>On the turn the user enters battle, their Electric Moves get Priority.</p>\n"
   },
   {
+    "name": "Electric Surge",
     "description": "<p>When the user enters battle, create Electric Terrain for 5 rounds. (Characters standing on Electric Terrain are immune to Sleep and damaging Electric Moves get +5 damage.)</p>\n"
   },
   {
+    "name": "Electromorphosis",
     "description": "<p>The user becomes Charged when hit by a Physical or Special Move. (The user’s next Electric Move gets +1 Effectiveness, then they lose Charged.)</p>\n"
   },
   {
+    "name": "Emergency Exit",
     "bonusStats": "+3 SDEF",
     "description": "<p>The user switches out/flees when another character’s Move drops its HP past 50%, even if Trapped. The user does not switch out if it heals its HP back over 50% immediately.</p>\n"
   },
   {
+    "name": "Enthrall",
     "description": "<p>When the user enters battle, Drop all foes’ SDEF by -5.</p>\n"
   },
   {
+    "name": "Entry: Move",
     "description": "<p>When the user enters battle, they automatically use the specified Move for 0 PP.</p>\n"
   },
   {
+    "name": "Eternal Palette",
     "description": "<p>The user knows a Move without using up a slot, based on its flower’s color:</p>\n<ul>\n<li>Red: Roar of Time</li>\n<li>Orange: Blast Burn</li>\n<li>Yellow: Zap Cannon</li>\n<li>Blue: Hydro Cannon</li>\n<li>White: Steel Beam</li>\n<li>Pink (Eternal Flower): Light of Ruin</li>\n</ul>\n"
   },
   {
+    "name": "Excavate",
     "description": "<p>The user’s Normal Moves become Ground-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Fairy Aura",
     "description": "<p>While the user is on the field, all damaging Fairy Moves get +5 damage.</p>\n"
   },
   {
+    "name": "Filter",
     "bonusStats": "+1 DEF, +1 SDEF",
     "description": "<p>The user subtracts their Level from damage from incoming Super-Effective Moves.</p>\n"
   },
   {
+    "name": "Flame Body",
     "bonusStats": "+1 DEF",
     "description": "<p>Attackers that hit the user with a Contact Move must make a DC8 Save using that attack roll or get Burned.</p>\n"
   },
   {
+    "name": "Flare Boost",
     "description": "<p>While the user is Burned, Boost their SATK by +10.</p>\n"
   },
   {
+    "name": "Flash Fire",
     "bonusStats": "+1 SPE",
     "description": "<p>The user is Immune to Fire. If hit with a Fire Move, ignore its effects and the user’s damaging Fire Moves get +5 damage for the rest of the battle. This effect does not stack.</p>\n"
   },
   {
+    "name": "Flavorite",
     "description": "<p>Alcremie gets the effect of the Sweet it evolved with, and certain Types can’t flee or switch out from it according to flavor:</p>\n<ul>\n<li>Vanilla (“sweet”): Fairy and Normal</li>\n<li>Ruby (“tart”): Flying and Psychic</li>\n<li>Matcha (“aromatic”): Dragon and Grass</li>\n<li>Mint (“refreshing”): Water and Ice</li>\n<li>Lemon (“sour”): Fighting and Electric</li>\n<li>Salted (“salty”): Fire and Rock</li>\n<li>Ruby Swirl (“mixed”): Bug and Ghost</li>\n<li>Caramel Swirl (“bitter”): Dark and Poison</li>\n<li>Rainbow Swirl (“complex”): Steel and Ground</li>\n</ul>\n"
   },
   {
+    "name": "Flower Gift",
     "description": "<p>In Harsh Sunlight, the user Boosts its and all allies’ ATK and SDEF by +5 each. Cherrim becomes its Sunshine Form.</p>\n"
   },
   {
+    "name": "Flower Veil",
     "bonusStats": "+2 SDEF",
     "description": "<p>Allied Grass-Types in Zone (including the user) can’t have their Stats Dropped by others, and are immune to being Burned, Frozen, Paralyzed, Poisoned or Asleep.</p>\n"
   },
   {
+    "name": "Fluffy",
     "description": "<p>Contact Moves get -1 Effectiveness against the user, but Fire Moves get +1 Effectiveness.</p>\n"
   },
   {
+    "name": "Forecast",
     "description": "<p>Castform’s Forme and Type match the Weather:</p>\n<ul>\n<li>Harsh sunlight: Fire-Type Sunny Form</li>\n<li>Rain: Water-Type Rainy Form</li>\n<li>Snowstorm: Ice-Type Snowy Form</li>\n<li>Sandstorm: Rock-Type Gritty Form</li>\n<li>Other: Normal-Type Normal Form (or homebrew Formes at GM discretion)</li>\n</ul>\n"
   },
   {
+    "name": "Forewarn",
     "bonusStats": "+2 SDEF",
     "description": "<p>When the user enters battle, reveal the Move with the most Power between their foes. If there’s a tie, reveal all the tied Moves.</p>\n"
   },
   {
+    "name": "Friend Guard",
     "description": "<p>The user’s Allies in Zone add their Level to their DEF and SDEF. Friend Guard does not stack.</p>\n"
   },
   {
+    "name": "Frisk",
     "bonusStats": "+4 SATK",
     "description": "<p>When the user enters battle, they reveal all foes’ Held Items with their unobstructed vision.</p>\n"
   },
   {
+    "name": "Full Metal Body",
     "description": "<p>Others can’t Drop the user’s Stats. Full Metal Body ignores Mold Breaker.</p>\n"
   },
   {
+    "name": "Fur Coat",
     "description": "<p>The user gets an Endurance bonus equal to their Level.</p>\n"
   },
   {
+    "name": "Gale Wings",
     "bonusStats": "+1 SPE",
     "description": "<p>The user’s Flying Moves get Priority while the user has full HP.</p>\n"
   },
   {
+    "name": "Galvanize",
     "description": "<p>The user’s Normal Moves become Electric-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Germinate",
     "description": "<p>The user’s Normal Moves become Grass-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Gluttony",
     "bonusStats": "+3 HP",
     "description": "<p>The user eats Berries that trigger at below 3 Ticks at below 5 Ticks instead.</p>\n"
   },
   {
+    "name": "Good as Gold",
     "description": "<p>A body of solid gold makes other characters’ Status Moves fail if they target the user.</p>\n"
   },
   {
+    "name": "Gooey",
     "bonusStats": "+2 DEF",
     "description": "<p>When the user is hit by a Contact Move, Drop the attacker’s SPE by -5.</p>\n"
   },
   {
+    "name": "Gorilla Tactics",
     "description": "<p>The user gets +5 ATK, but must repeat the first Move they use until they leave battle.</p>\n"
   },
   {
+    "name": "Grass Pelt",
     "bonusStats": "+2 DEF",
     "description": "<p>While standing on Grassy Terrain, the user’s DEF gets +10.</p>\n"
   },
   {
+    "name": "Grassy Surge",
     "description": "<p>When the user enters battle, create Grassy Terrain for 5 rounds. (Characters standing on it heal 1 Tick between Rounds, Grass Moves get +5 damage, and Bulldoze, Earthquake and Magnitude get -1 Effectiveness.)</p>\n"
   },
   {
+    "name": "Grim Neigh",
     "description": "<p>When the user KOs a target, Boost their SATK by +5.</p>\n"
   },
   {
+    "name": "Guard Dog",
     "description": "<p>Other characters’ Moves and items can’t force the user to switch out, and the user Boosts their ATK by +5 instead of suffering the usual Stat Drops from Intimidate, Unintimidate, Startle, Enthrall, and Chill. </p>\n"
   },
   {
+    "name": "Gulf Stream",
     "bonusStats": "+2 SPE",
     "description": "<p>When the user enters battle, the weather becomes Strong Winds. (Electric, Ice, and Rock Moves get -1 Effectiveness.)</p>\n"
   },
   {
+    "name": "Gulp Missile",
     "description": "<p>After using Surf or Dive, Cramorant holds Arrokuda in its mouth, or Pikachu if its HP is below 5 Ticks. Attackers damaging Cramorant make it spit out the Pokémon (even if KO’d): the attacker loses 3 Ticks, and Arrokuda Drops DEF by -5 / Pikachu inflicts Paralysis.</p>\n"
   },
   {
+    "name": "Guts",
     "description": "<p>While Burned, Poisoned, Paralyzed, Frozen, or Asleep, Boost the user’s ATK by +10. The user doesn’t lose ATK from Burns.</p>\n"
   },
   {
+    "name": "Hadron Engine",
     "description": "<p>When the user enters battle, create Electric Terrain for 5 rounds. The futuristic engine within the user Boosts their SATK by +5 during Electric Terrain.</p>\n"
   },
   {
+    "name": "Harvest",
     "description": "<p>When the user eats a Berry, roll d20. On 11+, get the Berry’s effect without consuming it. This roll autosucceeds in Harsh Sunlight.</p>\n"
   },
   {
+    "name": "Hate Eater",
     "description": "<p>The user is Immune to Dark. When hit with an Dark Move, ignore its effects and they Heal 3 Ticks.</p>\n"
   },
   {
+    "name": "Healer",
     "description": "<p>Between rounds, before damage from Status Problems, roll d20 for each Ally in Zone with a Status Problem the user has. On 14+, cure that ally’s Status Problems.</p>\n"
   },
   {
+    "name": "Heat Sink",
     "description": "<p>The user is Immune to Fire. When the user is hit by a Fire Move, Boost their SATK by +5. Fire Moves redirect to the user and can’t miss.</p>\n"
   },
   {
+    "name": "Heatproof",
     "description": "<p>Fire Moves get -1 Effectiveness against the user and Burn inflicts half its usual damage.</p>\n"
   },
   {
+    "name": "Heavy Metal",
     "bonusStats": "+4 DEF",
     "description": "<p>Double the user’s Weight.</p>\n"
   },
   {
+    "name": "Honey Gather",
     "bonusStats": "+5 HP, +3 SPE",
     "description": "<p>Produces a Sweet Honey every Long Rest.</p>\n"
   },
   {
+    "name": "Hot Streak",
     "description": "<p>When the user KOs a target, Boost their SATK by +5.</p>\n"
   },
   {
+    "name": "Huge Power",
     "description": "<p>The user gets an Athletics bonus equal to their Level.</p>\n"
   },
   {
+    "name": "Hunger Switch",
     "bonusStats": "+3 DEF, +3 SDEF/+3 ATK, +3 SATK",
     "description": "<p>The user swaps between Full-Belly Form and Hangry Form (and this Ability’s Bonus Stats) between rounds.</p>\n"
   },
   {
+    "name": "Hustle",
     "description": "<p>The user’s enthusiasm makes their Physical Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n"
   },
   {
+    "name": "Hydration",
     "description": "<p>In Rain, cure all of the user’s Status Problems between rounds.</p>\n"
   },
   {
+    "name": "Hyper Cutter",
     "bonusStats": "+1 ATK",
     "description": "<p>The user’s powerful pincers mean its ATK can’t be Dropped by others.</p>\n"
   },
   {
+    "name": "Ice Body",
     "description": "<p>The user heals 1 Tick between rounds in a snowstorm.</p>\n"
   },
   {
+    "name": "Ice Face",
     "description": "<p>The user’s icy helmet protects against 1 Physical Attack, breaking into Noice Face. Creating or switching into a snowstorm immediately restores Ice Face.</p>\n"
   },
   {
+    "name": "Ice Scales",
     "description": "<p>Special Moves get -1 Effectiveness against the user.</p>\n"
   },
   {
-    "bonusStats": "+5 SATK",
-    "description": "<p>The user emits enough light to comfortably see up to 100 feet in total darkness.</p>\n"
+    "name": "Illuminate",
+    "bonusStats": "+4 SATK",
+    "description": "<p>Others can’t Drop the user’s Accuracy Rate, and the user ignores targets’ Evasion.</p>\n"
   },
   {
+    "name": "Illusion",
     "description": "<p>When the user enters battle, they resemble a Pokémon in their party. Damaging Moves destroy the illusion.</p>\n"
   },
   {
+    "name": "Immolate",
     "description": "<p>The user’s Normal Moves become Fire-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Immunity",
     "bonusStats": "+1 to Saves",
     "description": "<p>If the user becomes Poisoned, cure them.</p>\n"
   },
   {
+    "name": "Imposter",
     "description": "<p>When the user enters battle, they automatically use Transform for 0 PP.</p>\n"
   },
   {
+    "name": "Impulsive",
     "description": "<p>When a foe Drops any of the user’s Stats, Boost the user’s SPE by +10.</p>\n"
   },
   {
+    "name": "Infiltrator",
     "bonusStats": "+1 SDEF, +1 SPE",
     "description": "<p>The user’s Moves ignore Reflect, Light Screen, Aurora Veil, Safeguard, Substitutes, and Mist.</p>\n"
   },
   {
+    "name": "Innards Out",
     "description": "<p>When a damaging Move KOs the user, the attacker loses HP equal to what the user had left.</p>\n"
   },
   {
+    "name": "Inner Focus",
     "bonusStats": "+1 ATK, +1 SATK, +2 SDEF",
     "description": "<p>The user can’t Flinch and ignores Intimidate, Unintimidate, Startle, Enthrall, and Chill.</p>\n"
   },
   {
+    "name": "Innocent Face",
     "description": "<p>If the user’s Move last round failed, missed, was stopped by a Status Problem, or had no effect on its target(s), foes can’t target them this round.</p>\n"
   },
   {
+    "name": "Insectivize",
     "description": "<p>The user’s Normal Moves become Bug-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Insomnia",
     "description": "<p>If the user falls Asleep, cure them. The user can’t use Rest.</p>\n"
   },
   {
+    "name": "Intimidate",
     "description": "<p>When the user enters battle, Drop all foes’ ATK by -5.</p>\n"
   },
   {
+    "name": "Intrepid Sword",
     "description": "<p>When the user enters battle, Boost their ATK by +5.</p>\n"
   },
   {
+    "name": "Iron Barbs",
     "bonusStats": "+2 ATK",
     "description": "<p>Attackers that hit the user with Contact Moves lose 2 Ticks.</p>\n"
   },
   {
+    "name": "Iron Fist",
     "bonusStats": "+1 ATK",
     "description": "<p>The user’s Moves with “Punch”, “Fist”, or “Hammer” in their name, Double Iron Bash, Meteor Mash, Sky Uppercut, Surging Strikes, and Wicked Blow get +7 damage.</p>\n"
   },
   {
+    "name": "Justified",
     "description": "<p>If the user is hit by a Dark Move, their heart of justice Boosts their ATK by +5.</p>\n"
   },
   {
-    "bonusStats": "+1 ATK, +1 SATK",
+    "name": "Keen Eye",
+    "bonusStats": "+2 ATK, +2 SPE",
     "description": "<p>Others can’t Drop the user’s Accuracy Rate, and the user ignores targets’ Evasion.</p>\n"
   },
   {
+    "name": "Klutz",
     "bonusStats": "+2 ATK, +3 SPE",
     "description": "<p>The user ignores items it holds, as if it wasn’t holding them.</p>\n"
   },
   {
+    "name": "Leaf Guard",
     "bonusStats": "+1 DEF, +2 SDEF",
     "description": "<p>In Harsh Sunlight, the user is immune to persistent Status Problems and can’t use Rest.</p>\n"
   },
   {
+    "name": "Leaf Tailor",
     "description": "<p>The user makes its clothing from leaves. Each Long Rest, pick 2 Types to get -1 Effectiveness against the user until the next Long Rest.</p>\n"
   },
   {
+    "name": "Levitate",
     "description": "<p>The user is Immune to Ground damage, Terrain, Arena Trap, Spikes, Toxic Spikes, Sticky Web, and Rototiller.</p>\n"
   },
   {
+    "name": "Libero",
     "bonusStats": "+1 SPE",
     "description": "<p>Before the user uses a Move, their Type becomes the Move’s Type (no secondary Type.)</p>\n"
   },
   {
+    "name": "Lifedrinker",
     "description": "<p>The user heals 1 Tick whenever it hits with a Contact Move.</p>\n"
   },
   {
+    "name": "Light Metal",
     "bonusStats": "+4 SPE",
     "description": "<p>Halve the user’s weight.</p>\n"
   },
   {
+    "name": "Lightning Rod",
     "description": "<p>The user is Immune to Electric. If the user is hit by an Electric Move, ignore its effects and Boost their SATK by +5. Electric Moves redirect to the user and can’t miss. </p>\n"
   },
   {
+    "name": "Limber",
     "bonusStats": "+2 SPE",
     "description": "<p>If the user becomes Paralyzed, cure them.</p>\n"
   },
   {
+    "name": "Lingering Aroma",
     "bonusStats": "+2 SDEF",
     "description": "<p>Attackers that hit the user with Contact Moves have their Ability changed to Lingering Aroma until they leave battle.</p>\n"
   },
   {
+    "name": "Liquid Ooze",
     "bonusStats": "+3 DEF",
     "description": "<p>If the user is Drained, the attacker instead loses the amount they would have healed.</p>\n"
   },
   {
+    "name": "Liquid Voice",
     "bonusStats": "+2 SATK",
     "description": "<p>The user’s Sonic Moves become Water-Type. (This can grant STAB.)</p>\n"
   },
   {
+    "name": "Long Reach",
     "bonusStats": "+1 ATK, +2 SPE",
     "description": "<p>The user’s Contact Moves become Ranged.</p>\n"
   },
   {
+    "name": "Loose Cannon",
     "description": "<p>The user’s Special Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n"
   },
   {
+    "name": "Lunar Power",
     "bonusStats": "+2 SDEF",
     "description": "<p>While the user is exposed to moonlight, Boost their SDEF by +10 and they heal 1 Tick between rounds.</p>\n"
   },
   {
+    "name": "Magic Bounce",
     "description": "<p>The user redirects Status Moves and Moves that create Hazards back to the attacker. </p>\n"
   },
   {
+    "name": "Magic Guard",
     "description": "<p>The user is immune to damage from Status Problems, hazards, weather, recoil, or Held Items. The user doesn’t lose HP from using Mind Blown or Steel Beam.</p>\n"
   },
   {
+    "name": "Magician",
     "bonusStats": "+2 SATK",
     "description": "<p>The user’s damaging Moves also steal their targets’ Held Items, if the user can hold them.</p>\n"
   },
   {
+    "name": "Magma Armor",
     "bonusStats": "+2 DEF, +2 SDEF",
     "description": "<p>If the user becomes Frozen, cure them.</p>\n"
   },
   {
+    "name": "Magnet Pull",
     "description": "<p>Steel-Type Pokémon can’t flee or switch out from the user.</p>\n"
   },
   {
+    "name": "Marvel Scale",
     "description": "<p>While Asleep, Paralyzed, Burned, Frozen or Poisoned, Boost the user’s DEF by +10.</p>\n"
   },
   {
+    "name": "Max Aura",
     "description": "<p>The user’s damaging Fighting Moves get +10 damage when at 3 Ticks or less of HP.</p>\n"
   },
   {
+    "name": "Mega Launcher",
     "bonusStats": "+1 SATK",
     "description": "<p>The user’s Moves with “Pulse” or “Aura Sphere” in their names get +7 damage.</p>\n"
   },
   {
+    "name": "Merciless",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>The user’s Moves are Critical Hits on Poisoned targets.</p>\n"
   },
   {
+    "name": "Metallize",
     "description": "<p>The user’s Normal Moves become Steel-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Migraine",
     "description": "<p>While the user’s HP is 5 Ticks or less, double the Power of their Psychic Moves.</p>\n"
   },
   {
+    "name": "Mimicry",
     "description": "<p>In Electric, Grassy, Misty, or Psychic Terrain, change the user’s Type to match the Terrain.</p>\n"
   },
   {
+    "name": "Minus",
     "bonusStats": "+2 SDEF",
     "description": "<p>Boost the user’s SATK by +10 for each ally with Plus or Minus in Zone.</p>\n"
   },
   {
+    "name": "Mirror Armor",
     "description": "<p>Stat Drops inflicted on the user (not caused by Status Problems) are instead reflected to their source.</p>\n"
   },
   {
+    "name": "Misty Surge",
     "description": "<p>When the user enters battle, create Misty Terrain for 5 rounds. (Characters standing on Misty Terrain are immune to Poison, Burn, Sleep, Paralysis, Freeze, and Confusion; and received Dragon-Type damage gets -1 Effectiveness.)</p>\n"
   },
   {
+    "name": "Mold Breaker",
     "description": "<p>The user’s Moves ignores others’ Abilities during the user’s turn.</p>\n"
   },
   {
+    "name": "Momentum",
     "description": "<p>Each consecutive turn the user hits with a damaging Move, that move gets +5 damage each future use until it misses, fails, or another Move is used. Max +20.</p>\n"
   },
   {
+    "name": "Moody",
     "description": "<p>Between Rounds, roll d20 to pick a Stat to Boost by +10, then again for a Stat to Drop by -5.<br>≥4: ATK<br>5–8: DEF<br>9–12: SATK<br>13–16: SDEF<br>17+: SPE</p>\n"
   },
   {
+    "name": "Motor Drive",
     "description": "<p>The user is Immune to Electric. If an Electric Move hits the user, ignore its effects and Boost their SPE by +5.</p>\n"
   },
   {
+    "name": "Moxie",
     "description": "<p>When the user KOs a target, Boost their ATK by +5.</p>\n"
   },
   {
+    "name": "Multiple",
     "description": "<p>The user’s Multi-Strike, Double Strike, and multi-target Moves cost 2 less PP.</p>\n"
   },
   {
+    "name": "Multiscale",
     "description": "<p>If the user is damaged by a Move at full HP, that Move gets -1 Effectiveness.</p>\n"
   },
   {
+    "name": "Multitype",
     "description": "<p>The user’s Type matches any Plates/Z-Crystals it holds. (Can’t be nullified or replaced.)</p>\n"
   },
   {
+    "name": "Mummy",
     "bonusStats": "+2",
     "description": "<p>Attackers that hit the user with Contact Moves have their Ability changed to Mummy until they leave battle.</p>\n"
   },
   {
+    "name": "Mycelium Might",
     "bonusStats": "+2 ATK, +2 SATK",
     "description": "<p>The user’s Status Moves Always Go Last, but ignores others’ Abilities during the user’s turn.</p>\n"
   },
   {
+    "name": "Natural Cure",
     "description": "<p>Cure all of the user’s Status Problems when it leaves battle.</p>\n"
   },
   {
+    "name": "Neuroforce",
     "description": "<p>The user’s damaging Super-Effective moves get +5 damage.</p>\n"
   },
   {
+    "name": "Neutralizing Gas",
     "description": "<p>All characters ignore Abilities of other characters in Zone. When this Ability no longer applies, activate any Abilities that would have taken effect when their user entered battle, but were ignored.</p>\n"
   },
   {
+    "name": "No Guard",
     "description": "<p>The user’s Moves can’t miss, and Moves can’t miss hitting the user.</p>\n"
   },
   {
+    "name": "Normalize",
     "description": "<p>The user’s non-Normal Moves become Normal-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Oblivious",
     "bonusStats": "+1 SDEF",
     "description": "<p>If the user becomes Infatuated, cure them. The user is immune to the Moves Captivate and Taunt, and the Abilities Intimidate, Unintimidate, Startle, Enthrall, and Chill.</p>\n"
   },
   {
+    "name": "Olympic",
     "description": "<p>The user’s Boosts have no maximum cap.</p>\n"
   },
   {
+    "name": "Opportunist",
     "description": "<p>If an opponent Boosts their Stats, the user seizes the opportunity to copy those Boosts.</p>\n"
   },
   {
+    "name": "Orichalcum Pulse",
     "description": "<p>The weather becomes Harsh Sunlight for 5 rounds. The ancient pulse thrumming through the user Boosts their ATK by +5 during harsh sunlight.</p>\n"
   },
   {
+    "name": "Overcoat",
     "description": "<p>The user is immune to damage from Sandstorm, Moves with “Powder” or “Spore” in their name, and the Effect Spore Ability.</p>\n"
   },
   {
+    "name": "Overgrow",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>If the user’s HP is 3 Ticks or less, their Grass Moves get +10 damage.</p>\n"
   },
   {
+    "name": "Own Tempo",
     "bonusStats": "+1 SDEF, +1 SPE",
     "description": "<p>If the user becomes Confused, cure them. The user ignores Intimidate, Unintimidate, Startle, Enthrall, and Chill.</p>\n"
   },
   {
+    "name": "Paralyze Touch",
     "description": "<p>The user’s Contact Moves inflict Paralysis on 15+. If a move already has a chance of Paralyzing, increase that chance’s Effect Rate by +6.</p>\n"
   },
   {
+    "name": "Paranoia",
     "description": "<p>While Burned, Poisoned, Paralyzed, Frozen, or Asleep, Boost the user’s SDEF by +10.</p>\n"
   },
   {
+    "name": "Parental Bond",
     "description": "<p>The user’s single-target Moves hit twice, but the second hit gets -2 Effectiveness.</p>\n"
   },
   {
+    "name": "Pastel Veil",
     "description": "<p>Cure in-Zone allies of Poison when the user enters battle. The user and Allies in Zone can’t be Poisoned.</p>\n"
   },
   {
+    "name": "Patterned",
     "description": "<p>The user’s wing pattern matches a terrain agreed on by the player and GM. Attackers that hit the user with a Contact Move must make a DC8 Save using that attack roll or are inflicted with the Secret Power secondary effect of the pattern’s terrain.</p>\n<p>Each Rest, the user may learn the Move that Nature Power calls on the pattern’s terrain.</p>\n"
   },
   {
+    "name": "Perish Body",
     "description": "<p>Attackers that hit the user with Contact Moves cause both them and the user to suffer the effect of Perish Song.</p>\n"
   },
   {
+    "name": "Petrificate",
     "description": "<p>The user’s Normal Moves become Rock-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Pickpocket",
     "bonusStats": "+3 SPE",
     "description": "<p>After the user is hit by a Contact Move, it steals a Held Item from the attacker if it can hold it.</p>\n"
   },
   {
+    "name": "Pickup",
     "bonusStats": "+2 SDEF",
     "description": "<p>If another character consumes or drops an item (including via Fling or Natural Gift) and the user can hold that item, the user restores the item and picks it up. If multiple characters have Pickup, the highest SPE gets the item.</p>\n<p>Once per day, <a href=\"https://ptv.ti.gt/abilities/pickup/\">roll d20 and see what you find</a>.</p>\n"
   },
   {
+    "name": "Pixilate",
     "description": "<p>The user’s Normal Moves becomes Fairy-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Plus",
     "bonusStats": "+2 SATK",
     "description": "<p>Boost the user’s SATK by +10 for each ally with Plus or Minus in Zone.</p>\n"
   },
   {
+    "name": "Poison Heal",
     "bonusStats": "+5 HP",
     "description": "<p>The user Heals 2 Ticks between rounds when Poisoned instead of losing HP.</p>\n"
   },
   {
+    "name": "Poison Point",
     "bonusStats": "+2 DEF",
     "description": "<p>Attackers that hit the user with a Contact Move must make a DC8 Save using that attack roll or get Poisoned.</p>\n"
   },
   {
+    "name": "Poison Touch",
     "bonusStats": "+2 ATK",
     "description": "<p>The user’s Contact Moves inflict Poison on 15+. If a move already has a chance of Poisoning, increase that chance’s Effect Rate by +6.</p>\n"
   },
   {
+    "name": "Polar Vortex",
     "description": "<p>The user is Immune to Ice. When the user is hit by a Ice Move, ignore its effects and Boost their SATK by +5. Ice Moves redirect to the user and can’t miss.</p>\n"
   },
   {
+    "name": "Poltergeize",
     "description": "<p>The user’s Normal Moves become Ghost-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Power Construct",
     "description": "<p>If Zygarde’s HP falls below 50% during an encounter, it changes into Complete Form until the end of the encounter.</p>\n"
   },
   {
+    "name": "Power Leech",
     "description": "<p>The user’s Draining Moves get +7 damage.</p>\n"
   },
   {
+    "name": "Power of Alchemy",
     "description": "<p>When an ally Faints, the user copies and activates that ally’s Starting Ability, except for Wonder Guard, Stance Change, Zen Mode, Multitype, RKS System, Imposter or Flower Gift.</p>\n"
   },
   {
+    "name": "Power Spot",
     "description": "<p>The user’s Allies in Zone get +5 damage for their damaging Moves.</p>\n"
   },
   {
+    "name": "Prankster",
     "description": "<p>The user’s Status Moves get Priority, but Dark-Types are now immune to them. Prankster doesn’t change Delayed Moves.</p>\n"
   },
   {
+    "name": "Prelude",
     "description": "<p>The user’s Sonic Moves get Priority.</p>\n"
   },
   {
+    "name": "Pressure",
     "description": "<p>Foes’ Moves that target the user have their PP cost go up by +1.</p>\n"
   },
   {
+    "name": "Pride",
     "description": "<p>While Burned, Poisoned, Paralyzed, Frozen, or Asleep, Boost the user’s SATK by +10.</p>\n"
   },
   {
+    "name": "Primordial Sea",
     "description": "<p>The weather becomes Heavy Rain while the user is on the field. Only Desolate Land and Delta Stream can override Heavy Rain. (Damaging Water Moves get +10 damage, and Fire Moves automatically fail.)</p>\n"
   },
   {
+    "name": "Prism Armor",
     "bonusStats": "+2 SDEF",
     "description": "<p>The user subtracts their Level from damage from incoming Super-Effective Moves.</p>\n"
   },
   {
+    "name": "Propeller Tail",
     "bonusStats": "+2 ATK, +2 SPE",
     "description": "<p>The user’s Moves cannot be redirected from their chosen target. (Including Ally Switch.)</p>\n"
   },
   {
+    "name": "Protean",
     "bonusStats": "+1 SATK",
     "description": "<p>Before the user uses a Move, change their Type to the Move’s Type (no secondary Type.)</p>\n"
   },
   {
+    "name": "Protosynthesis",
     "description": "<p>Boosts the user’s currently-highest Stat by +5 during Harsh Sunlight or if the user holds Booster Energy. (The Booster Energy isn’t used up if the sunlight is harsh.)</p>\n"
   },
   {
+    "name": "Psychic Reservoir",
     "description": "<p>The user is Immune to Psychic. When the user is hit by an Psychic Move, ignore its effects and Boost their SATK by +5. Psychic Moves redirect to the user and can’t miss.</p>\n"
   },
   {
+    "name": "Psychic Surge",
     "description": "<p>When the user enters battle, create Psychic Terrain for 5 turns. (Characters standing on Psychic Terrain are immune to Priority and damaging Psychic Moves get +5 damage.)</p>\n"
   },
   {
+    "name": "Pugilize",
     "description": "<p>The user’s Normal Moves become Fighting-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Punk Rock",
     "description": "<p>The user’s Sonic Moves get +5 damage and Sonic Moves get -1 Effectiveness against the user.</p>\n"
   },
   {
+    "name": "Pure Power",
     "description": "<p>The user gets an Intensity bonus equal to their Level.</p>\n"
   },
   {
+    "name": "Purifying Salt",
     "description": "<p>Ghost Moves get -1 Effectiveness against the user, and they are immune to persistent Status Problems.</p>\n"
   },
   {
+    "name": "Quark Drive",
     "description": "<p>Boosts the user’s currently-highest Stat by +5 during Electric Terrain or if the user holds Booster Energy. (The Booster Energy isn’t used up if the terrain is electric.)</p>\n"
   },
   {
+    "name": "Queenly Majesty",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>Foes’ Priority Moves fail when targeting the user or Allies in Zone.</p>\n"
   },
   {
+    "name": "Quick Draw",
     "description": "<p>On attack rolls of 15+, the user goes first. Moves with higher Priority still go first.</p>\n"
   },
   {
+    "name": "Quick Feet",
     "description": "<p>While Poisoned, Burned, Paralyzed, Frozen, or Asleep, Boost the user’s SPE by +10. The user does not lose SPE from Paralysis.</p>\n"
   },
   {
+    "name": "Rain Dish",
     "description": "<p>In Rain, the user heals 1 Tick between rounds.</p>\n"
   },
   {
+    "name": "Rattled",
     "bonusStats": "+1 SDEF, +3 SPE",
     "description": "<p>If the user is Intimidated, Startled, or hit by a Bug, Dark, or Ghost Move: Boost their SPE by +5.</p>\n"
   },
   {
+    "name": "Receiver",
     "description": "<p>When an ally faints in battle, the user copies and activates that ally’s Starting Ability, except for Wonder Guard, Stance Change, Zen Mode, Multitype, RKS System, Imposter, or Flower Gift.</p>\n"
   },
   {
+    "name": "Reckless",
     "description": "<p>Jump Kick, High Jump Kick, Axe Kick, and Recoil Moves get +7 damage.</p>\n"
   },
   {
+    "name": "Refrigerate",
     "description": "<p>The user’s Normal Moves become Ice-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Regal Challenge",
     "description": "<p>When the user enters battle, all foes vote to Defy or Defer. Defy: Boost the user’s ATK and SATK by +5. Defer: Drop all foes’ ATK and SATK by -5.</p>\n"
   },
   {
+    "name": "Regenerator",
     "description": "<p>The user heals 3 Ticks when it returns to its Poké Ball.</p>\n"
   },
   {
+    "name": "Retribution",
     "description": "<p>When a foe KOs an ally, Boost the user’s ATK by +5.</p>\n"
   },
   {
+    "name": "Ripen",
     "description": "<p>Double the effects of Berries the user consumes.</p>\n"
   },
   {
+    "name": "Rivalry",
     "description": "<p>The user’s damaging Moves that target others of the same gender get +5 damage.</p>\n"
   },
   {
+    "name": "RKS System",
     "description": "<p>The user’s Type matches the Type Memories it holds.</p>\n"
   },
   {
+    "name": "Rock Head",
     "bonusStats": "+2 DEF",
     "description": "<p>The user ignores recoil damage.</p>\n"
   },
   {
+    "name": "Rocky Payload",
     "description": "<p>The user gets STAB for Rock Moves and can benefit from Rock Expert features.</p>\n"
   },
   {
+    "name": "Rough Skin",
     "bonusStats": "+2 DEF",
     "description": "<p>Attackers that hit the user with Contact Moves lose 2 Ticks.</p>\n"
   },
   {
+    "name": "Rowdy",
     "description": "<p>The user’s Allies in Zone get +5 damage for their Physical Moves.</p>\n"
   },
   {
+    "name": "Run Away",
     "bonusStats": "+4 SPE",
     "description": "<p>The user can’t be Trapped and their escape attempts cannot be contested.</p>\n"
   },
   {
+    "name": "Sand Force",
     "bonusStats": "+2 ATK, +2 SATK",
     "description": "<p>The user’s damaging Ground, Rock, and Steel Moves get +5 damage in Sandstorms, and the user ignores Sandstorm damage.</p>\n"
   },
   {
+    "name": "Sand Rush",
     "bonusStats": "+2 SPE",
     "description": "<p>The user’s SPE Boosts by +15 while in Sandstorms, and the user takes no damage from Sandstorms.</p>\n"
   },
   {
+    "name": "Sand Spit",
     "description": "<p>When the user is hit by a Physical or Special Move, change the weather to Sandstorm for 5 rounds.</p>\n"
   },
   {
+    "name": "Sand Stream",
     "description": "<p>When the user enters battle, change the Weather to Sandstorm for 5 rounds.</p>\n"
   },
   {
+    "name": "Sand Veil",
     "bonusStats": "+2 SDEF",
     "description": "<p>The user gets +4 Evasion in a Sandstorm, and the user ignores Sandstorm damage.</p>\n"
   },
   {
+    "name": "Sap Sipper",
     "description": "<p>The user is Immune to Grass. If a Grass Move hits the user, ignore its effects and Boost their ATK by +5.</p>\n"
   },
   {
+    "name": "Saturate",
     "description": "<p>The user’s Normal Moves become Water-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Schooling",
     "description": "<p>At level 4 or higher, Wishiwashi changes to School Form while its HP is above 3 Ticks.</p>\n"
   },
   {
+    "name": "Scrappy",
     "bonusStats": "+2 ATK",
     "description": "<p>Ghost-Types are not Immune to the user’s Normal or Fighting Moves, and the user ignores Intimidate, Unintimidate, Startle, Enthrall, and Chill.</p>\n"
   },
   {
+    "name": "Screen Cleaner",
     "description": "<p>Remove the effects of Reflect, Light Screen, and Aurora Veil when the user enters battle.</p>\n"
   },
   {
+    "name": "Screen Saver",
     "description": "<p>Light Screen, Reflect, and Aurora Veil all use the same Move Slot.</p>\n"
   },
   {
+    "name": "Seed Sower",
     "description": "<p>When the user is hit by a Physical or Special Move, change the terrain to Grassy for 5 rounds.</p>\n"
   },
   {
+    "name": "Serene Grace",
     "description": "<p>Double the Effect Rate of the user’s Moves.</p>\n"
   },
   {
+    "name": "Shadow Shield",
     "description": "<p>If a Move damages the user at full HP, it gets -1 Effectiveness. This ability is unaffected by Mold Breaker.</p>\n"
   },
   {
+    "name": "Shadow Tag",
     "description": "<p>Foes in the user’s Zone are Trapped unless they also have Shadow Tag.</p>\n"
   },
   {
+    "name": "Sharpness",
     "description": "<p>Moves with with “Sword”, “Razor”, “Blade”, “Slash”, or “Cutter” in the name, Aerial Ace, Cut, Dual Chop, X-Scissor, Cross Poison, Stone Axe, Ceaseless Edge, Population Bomb, and Kowtow Cleave get +7 damage.</p>\n"
   },
   {
+    "name": "Shed Skin",
     "bonusStats": "+2 DEF, +2 SDEF",
     "description": "<p>Between rounds, before taking damage from Status Problems, make a DC14 Save to cure the user of a Status Problem of your choice.</p>\n"
   },
   {
+    "name": "Sheer Force",
     "description": "<p>Damaging Moves with effects get +5 damage, but their effects never happen.</p>\n"
   },
   {
+    "name": "Shell Armor",
     "bonusStats": "+1 DEF, +2 SDEF",
     "description": "<p>A protective shell deflects the user’s received Critical Hits into normal hits.</p>\n"
   },
   {
+    "name": "Shield Dust",
     "description": "<p>The user is immune to the additional effects of damaging Moves.</p>\n"
   },
   {
+    "name": "Shields Down",
     "description": "<p>When Minior is above 50% HP, it is in Meteor Form and can’t have Status Problems. Otherwise, Minior becomes Core Form.</p>\n"
   },
   {
+    "name": "Simple",
     "description": "<p>The user’s Stats are doubly affected by Boosts and Drops. (The cap remains the same.)</p>\n"
   },
   {
+    "name": "Skill Link",
     "description": "<p>Triple Axel, Triple Kick, Double Strike and Multi-Strike Moves always gain maximum bonus damage.</p>\n"
   },
   {
+    "name": "Slow Start",
     "bonusStats": "+4 DEF, +4 SDEF",
     "description": "<p>For 3 rounds after entering battle, halve the user’s ATK and SPE.</p>\n"
   },
   {
+    "name": "Slush Rush",
     "bonusStats": "+2 SPE",
     "description": "<p>The user’s SPE Boosts by +15 while in a snowstorm.</p>\n"
   },
   {
+    "name": "Sniper",
     "description": "<p>When the user inflicts a Critical Hit, the bonus damage is +30 instead of +20.</p>\n"
   },
   {
+    "name": "Snow Cloak",
     "description": "<p>The user gets +4 Evasion in a snowstorm.</p>\n"
   },
   {
+    "name": "Snow Warning",
     "description": "<p>When the user enters battle, the weather becomes a snowstorm for 5 rounds.</p>\n"
   },
   {
+    "name": "Solar Power",
     "bonusStats": "+2 SATK",
     "description": "<p>In Harsh Sunlight, Boost the user’s SATK by +10 and lose 1 Tick between rounds.</p>\n"
   },
   {
+    "name": "Solid Rock",
     "bonusStats": "+2 DEF",
     "description": "<p>The user subtracts their Level from damage from incoming Super-Effective Moves.</p>\n"
   },
   {
+    "name": "Soul-Heart",
     "description": "<p>When a Pokémon on the field faints, Boost the user’s SATK by +5.</p>\n"
   },
   {
+    "name": "Soundproof",
     "description": "<p>The user is Immune to Sonic Moves.</p>\n"
   },
   {
+    "name": "Space Shifter",
     "description": "<p>When an X-Item is used on Deoxys, change its form:</p>\n<ul>\n<li>X-Attack/X-Sp. Attack: Attack Form</li>\n<li>X-Defense/X-Sp. Defense: Defense Form</li>\n<li>X-Speed: Speed Form</li>\n<li>Guard Spec.: Regular Form</li>\n</ul>\n"
   },
   {
+    "name": "Speed Boost",
     "description": "<p>Boost the user’s SPE by +5 between rounds.</p>\n"
   },
   {
+    "name": "Stakeout",
     "description": "<p>The user’s Moves that target foes that switched in this round get +1 Effectiveness. (Includes switch-ins replacing KOs.) </p>\n"
   },
   {
+    "name": "Stall",
     "bonusStats": "+4 DEF, +4 SDEF",
     "description": "<p>The user’s turn happens after other characters without Stall.</p>\n"
   },
   {
+    "name": "Stalwart",
     "bonusStats": "+2 DEF, +2 SDEF",
     "description": "<p>The user’s Moves cannot be redirected from their chosen target. (Including Ally Switch.)</p>\n"
   },
   {
+    "name": "Stamina",
     "description": "<p>When a Move damages the user, Boost its DEF by +5.</p>\n"
   },
   {
+    "name": "Stance Change",
     "description": "<p>Before the user uses a damaging Move, swap their ATK⇄DEF and SATK⇄SDEF until they use King’s Shield or leave battle.</p>\n"
   },
   {
+    "name": "Startle",
     "description": "<p>When the user enters battle, Drop all foes’ SATK by -5.</p>\n"
   },
   {
+    "name": "Static",
     "description": "<p>Attackers that hit the user with a Contact Move must make a DC8 Save using that attack roll or get Paralyzed.</p>\n"
   },
   {
+    "name": "Steadfast",
     "bonusStats": "+2 DEF, +2 SDEF",
     "description": "<p>When the user Flinches, Boost their SPE by +5.</p>\n"
   },
   {
+    "name": "Steam Engine",
     "description": "<p>When the user is hit by a Water or Fire Move, Boost their SPE by +20.</p>\n"
   },
   {
+    "name": "Steel Toe",
     "description": "<p>The user’s Moves with “Kick” or “Stomp” in their name and Triple Axel get +7 damage.</p>\n"
   },
   {
+    "name": "Steelworker",
     "description": "<p>The user gets STAB for Steel Moves and can benefit from Steel Expert features.</p>\n"
   },
   {
+    "name": "Steely Spirit",
     "description": "<p>The user and Allies in Zone get +5 damage on damaging Steel Moves.</p>\n"
   },
   {
+    "name": "Stench",
     "description": "<p>The user Flinches targets on 19+. If a Move already has a chance to Flinch, increase that Effect Rate by +2.</p>\n"
   },
   {
+    "name": "Sticky Hold",
     "bonusStats": "+2 DEF, +2 SDEF",
     "description": "<p>The user’s held items can’t be stolen, switched, destroyed, or dropped.</p>\n"
   },
   {
+    "name": "Storm Drain",
     "description": "<p>The user is Immune to Water. When the user is hit by a Water Move, ignore its effects and Boost their SATK by +5. Water Moves redirect to the user and can’t miss.</p>\n"
   },
   {
+    "name": "Strategist",
     "description": "<p>The user’s Status Moves cost 2 less PP.</p>\n"
   },
   {
+    "name": "Strong Jaw",
     "bonusStats": "+2 ATK",
     "description": "<p>Moves with “Fang” or “Bite” in their name, Crunch, Egg Tooth, Fishious Rend, and Jaw Lock get +7 damage.</p>\n"
   },
   {
+    "name": "Sturdy",
     "bonusStats": "+2 DEF",
     "description": "<p>The user is immune to OHKO Moves. If damage would KO the user from full HP, instead set their HP to 1.</p>\n"
   },
   {
+    "name": "Suction Cups",
     "bonusStats": "+3 DEF",
     "description": "<p>The user can’t be forced to flee or switch out.</p>\n"
   },
   {
+    "name": "Sun Blanket",
     "description": "<p>In Harsh Sunlight, Fire has -1 Effectiveness against the user, they get +5 DEF +5 SDEF, and they heal a Tick between rounds.</p>\n"
   },
   {
+    "name": "Super Luck",
     "description": "<p>The user’s Moves are Critical Hits on 18+. If a Move already has a Crit Rate, add +2 to it.</p>\n"
   },
   {
+    "name": "Supreme Overlord",
     "description": "<p>When the user enters battle, Boost their ATK and SATK each by +3 for every ally that Fainted this battle.</p>\n"
   },
   {
+    "name": "Surge Surfer",
     "bonusStats": "+2 SPE",
     "description": "<p>The user’s SPE Boosts by +15 while in Electric Terrain (even with Levitate).</p>\n"
   },
   {
+    "name": "Swarm",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>The user’s damaging Bug Moves get +10 damage when at 3 Ticks or less of HP.</p>\n"
   },
   {
+    "name": "Sweet Veil",
     "description": "<p>The user and Allies in Zone are immune to Sleep.</p>\n"
   },
   {
+    "name": "Swift Swim",
     "bonusStats": "+2 SPE",
     "description": "<p>The user’s SPE Boosts by +15 while in Rain.</p>\n"
   },
   {
+    "name": "Sword of Ruin",
     "description": "<p>The user’s ruinous steel blade gives -5 DEF to characters without Sword of Ruin.</p>\n"
   },
   {
+    "name": "Symbiosis",
     "description": "<p>When an ally in Zone uses up an item, the user passes a held item to that ally.</p>\n"
   },
   {
+    "name": "Synchronize",
     "description": "<p>Attackers that Burn, Paralyze, or Poison the user are inflicted with the same Status Problem.</p>\n"
   },
   {
+    "name": "Tablets of Ruin",
     "description": "<p>The user’s ruinous wooden tablets give -5 ATK to characters without Tablets of Ruin.</p>\n"
   },
   {
+    "name": "Tail Bond",
     "description": "<p>The user’s single-target Moves hit twice, but the second hit gets -2 Effectiveness.</p>\n"
   },
   {
+    "name": "Tangled Feet",
     "description": "<p>While the user is Confused, Moves targeting the user double their Accuracy Check.</p>\n"
   },
   {
+    "name": "Tangling Hair",
     "bonusStats": "+2 SDEF",
     "description": "<p>When the user is hit by a Contact Move, Drop the attacker’s SPE by -5.</p>\n"
   },
   {
+    "name": "Teamwork",
     "description": "<p>If the user and any allies try to use the same Move in the same Round, then the user and all allies performing that Move get Advantage on their Attack Roll.</p>\n"
   },
   {
+    "name": "Technician",
     "description": "<p>The user’s Moves with Multi-Strike, Double Strike, or Power of 6 or less get +6 damage.</p>\n"
   },
   {
+    "name": "Telepathy",
     "description": "<p>The user is immune to allies’ damaging Moves.</p>\n"
   },
   {
+    "name": "Televize",
     "description": "<p>The user’s Normal Moves become Psychic-Type and get +5 damage.</p>\n"
   },
   {
+    "name": "Tenacious",
     "bonusStats": "+2 DEF",
     "description": "<p>If a damaging Move would KO the user, they roll a DC 19 Save. On success, they endure with 1 HP instead.</p>\n"
   },
   {
+    "name": "Teravolt",
     "bonusStats": "+2 ATK",
     "description": "<p>The user’s Moves ignore others’ Abilities during the user’s turn.</p>\n"
   },
   {
+    "name": "Terraform",
     "description": "<p>Terrain has no effect while the user is in battle.</p>\n"
   },
   {
+    "name": "Thermal Exchange",
     "description": "<p>The user can’t be Burned, and when the user is hit by a Fire Move, Boost their ATK by +5.</p>\n"
   },
   {
+    "name": "Thick Fat",
     "description": "<p>Fire and Ice get -1 Effectiveness against the user.</p>\n"
   },
   {
+    "name": "Thrown Bone",
     "description": "<p>The user’s Moves with “Bone” in their name ignore Type Immunities.</p>\n"
   },
   {
+    "name": "Tinted Lens",
     "description": "<p>The user’s Resisted Moves get +1 Effectiveness.</p>\n"
   },
   {
+    "name": "Torrent",
     "bonusStats": "+1 ATK, +1 SATK",
     "description": "<p>The user’s damaging Water Moves get +10 damage when at 3 Ticks or less of HP.</p>\n"
   },
   {
+    "name": "Tough Claws",
     "description": "<p>Contact Moves gain +5 damage.</p>\n"
   },
   {
+    "name": "Toxic Boost",
     "description": "<p>When the user is Poisoned, Boost their ATK by +20. (This persists after curing the Poison.)</p>\n"
   },
   {
+    "name": "Toxic Debris",
     "description": "<p>When the user is hit by a Physical Move, scatter a layer of poison spikes at the feet of the opposing team.</p>\n"
   },
   {
+    "name": "Trace",
     "description": "<p>When the user enters battle, it copies a random foe’s Ability of your choice.</p>\n"
   },
   {
+    "name": "Transistor",
     "description": "<p>The user’s damaging Electric Moves get +5 damage.</p>\n"
   },
   {
+    "name": "Triage",
     "description": "<p>The user’s Moves that heal HP get Priority, including Draining Moves.</p>\n"
   },
   {
+    "name": "Truant",
     "description": "<p>The user can only use a Move every other turn (starting with the first.) Worry Seed, Simple Beam, and Entrainment can’t replace Truant.</p>\n"
   },
   {
+    "name": "Turboblaze",
     "bonusStats": "+2 SATK",
     "description": "<p>The user’s Moves ignore others’ Abilities during the user’s turn.</p>\n"
   },
   {
+    "name": "Unaware",
     "description": "<p>When the user attacks or is attacked, ignore all Boosts and Drops.</p>\n"
   },
   {
+    "name": "Unburden",
     "description": "<p>If the user consumes, drops or otherwise loses a Held Item, Boost their SPE by +10.</p>\n"
   },
   {
+    "name": "Unintimidate",
     "description": "<p>When the user enters battle, their nonthreatening appearance Drops all foes’ DEF by -5.</p>\n"
   },
   {
+    "name": "Unnerve",
     "bonusStats": "+2 SATK",
     "description": "<p>Foes in Zone can’t eat Berries.</p>\n"
   },
   {
+    "name": "Unseen Fist",
     "description": "<p>The user’s Contact Moves bypass Protection.</p>\n"
   },
   {
+    "name": "Vessel of Ruin",
     "description": "<p>The user’s ruinous iron vessel gives -5 SATK to characters without Vessel of Ruin.</p>\n"
   },
   {
+    "name": "Victory Star",
     "description": "<p>The user and their allies lower their Moves’ Accuracy Checks by 2.</p>\n"
   },
   {
+    "name": "Vital Spirit",
     "bonusStats": "+1 HP, +1 SPE",
     "description": "<p>If the user falls Asleep, cure them. The user can’t use Rest.</p>\n"
   },
   {
+    "name": "Volt Absorb",
     "description": "<p>The user is Immune to Electric. When hit with an Electric Move, ignore its effects and they Heal 3 Ticks.</p>\n"
   },
   {
+    "name": "Wandering Spirit",
     "description": "<p>When the user is hit with a Contact Move, swap Abilities with the attacker.</p>\n"
   },
   {
+    "name": "Water Absorb",
     "description": "<p>The user is Immune to Water. When hit with a Water Move, ignore its effect and Heal the user by 3 Ticks.</p>\n"
   },
   {
+    "name": "Water Bubble",
     "description": "<p>Fire gets -1 Effectiveness against the user, they can’t be Burned, and their damaging Water Moves get +5 damage.</p>\n"
   },
   {
+    "name": "Water Compaction",
     "description": "<p>When the user is hit by a Water Move, Boost their DEF by +10.</p>\n"
   },
   {
+    "name": "Water Veil",
     "bonusStats": "+1 SDEF",
     "description": "<p>If the user becomes Burned, cure them.</p>\n"
   },
   {
+    "name": "Weak Armor",
     "description": "<p>When the user is hit by a Physical Move, Drop the user’s DEF by -5 and Boost SPE by +10.</p>\n"
   },
   {
+    "name": "Weathermon",
     "description": "<p>Snowscape, Rain Dance, Sandstorm, Sunny Day, and Weather Ball all use the same Move Slot. </p>\n"
   },
   {
+    "name": "Well-Baked Body",
     "description": "<p>The user is Immune to Fire. If a Fire Move hits the user, ignore its effects and Boost their DEF by +5.</p>\n"
   },
   {
+    "name": "White Smoke",
     "description": "<p>The user’s Stats can’t be Dropped by others.</p>\n"
   },
   {
+    "name": "Wiggly",
     "description": "<p>Other characters’ Physical and Special Moves target the user as if they had an Accuracy of -10. (Other targets of the Move are unaffected.)</p>\n"
   },
   {
+    "name": "Willpower",
     "description": "<p>The user gets +5 Max PP.</p>\n"
   },
   {
+    "name": "Wimp Out",
     "bonusStats": "+3 SPE",
     "description": "<p>The user switches out/flees when another character’s Move drops their HP past 50%, even if Trapped.</p>\n"
   },
   {
+    "name": "Wind Power",
     "description": "<p>The user becomes Charged when Tailwind or a Mysterious Air Current affects them, or when hit by a wind Move. (The user’s next Electric Move gets +1 Effectiveness, then they lose Charged. Wind Moves: have “Wind”, “Storm”, or “Blizzard” in the name, Gust, Twister, Leaf Tornado, Heat Wave, Air Cutter, and Hurricane.)</p>\n"
   },
   {
+    "name": "Wind Rider",
     "description": "<p>Boost the user’s ATK by +5 when Tailwind or a Mysterious Air Current affects them, or when hit by a wind Move instead of being affected by it. (Wind Moves: have “Wind”, “Storm”, or “Blizzard” in the name, Gust, Twister, Leaf Tornado, Heat Wave, Air Cutter, and Hurricane.)</p>\n"
   },
   {
+    "name": "Wonder Guard",
     "description": "<p>The user can’t be damaged by non-Super-Effective Moves, unless the user has no Weakness.</p>\n"
   },
   {
+    "name": "Wonder Skin",
     "description": "<p>Other characters’ Status Moves target the user as if they had an Accuracy of -10. (Other targets of the Move are unaffected.)</p>\n"
   },
   {
+    "name": "X-Ray Vision",
     "bonusStats": "+2 Crit Rate",
     "description": "<p>The user’s vision pierces surfaces. Ignore their targets’ Evasion.</p>\n"
   },
   {
+    "name": "Yardworker",
     "description": "<p>The user gets STAB for Grass Moves and can benefit from Grass Expert features.</p>\n"
   },
   {
+    "name": "Zealous",
     "description": "<p>The user’s damaging Moves get +5 damage, but also 1 Tick of recoil.</p>\n"
   },
   {
+    "name": "Zen Mode",
     "description": "<p>If Darmanitan’s HP is under 50% between rounds, it changes into Zen forme. Otherwise, it returns to its regular forme. Zen forme has its own Move Slots and ignores the user’s other Abilities while active.</p>\n"
   },
   {
+    "name": "Zero to Hero",
     "description": "<p>The user transforms into Hero Form when it switches out.</p>\n"
+  },
+  {
+    "name": "Hospitality"
+  },
+  {
+    "name": "Supersweet Syrup"
+  },
+  {
+    "name": "Toxic Chain"
   }
 ]

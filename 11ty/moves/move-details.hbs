@@ -1,0 +1,58 @@
+---
+pagination:
+  data: moves
+  size: 1
+  alias: move
+  resolve: values
+permalink: "moves/{{slugify move.name}}/"
+eleventyComputed:
+  title: "{{move.name}} (Move)"
+layout: base
+---
+
+<style>
+  article {
+    max-width: 20em;
+    margin: 0.5em;
+    padding: 0 0.5em;
+    vertical-align: top;
+  }
+
+  dt {
+    float: left;
+    font-weight: bolder;
+  }
+
+  dt:after {
+    content: ": ";
+    white-space: pre;
+  }
+</style>
+
+<article>
+  <h1>{{name}}</h1>
+  <dl>
+    <dt>Type<dd>{{type}}
+    <dt>Category<dd>{{kind}}
+    <dt>PP Cost<dd>{{pp}}
+    {{#if power}}
+    <dt>Power<dd>{{power}}
+    {{/if}}
+    {{#if accuracy}}
+    <dt>Accuracy<dd>{{accuracy}}
+    {{/if}}
+    <dt>Range<dd>{{range}}
+  </dl>
+  
+  {{{description}}}
+  
+  {{#if zEffect}}
+    <p><b>Z-Effect:</b> {{zEffect}}</p>
+  {{/if}}
+
+  {{!-- TODO: list each mon that learns it --}}
+  {{!-- TODO: MAX Power --}}
+  {{!-- TODO: bulbapedia link?
+    Note that it needs the underscores, unlike Wikipedia: <p><a href="https://bulbapedia.bulbagarden.net/wiki/{{name}}_(move)">This Move’s videogame equivalent on Bulbapedia</a></p>
+  --}}
+</article>

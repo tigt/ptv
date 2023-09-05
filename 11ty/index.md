@@ -16,12 +16,9 @@ layout: base
 
 {{> dottler width=300 }}
 
-<details><summary>
-
 ## How does PTV differ from the canon videogames?
 
 Well, for starters, it’s [a tabletop role-playing game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game). Other than that…
-</summary>
 
 - Additive instead of multiplicative math, so the numbers don’t match exactly but we try to make them feel about the same.
 - Each Pokémon can have a Bonus Move: a 5th move slot filled by their Trainer’s Class(es).
@@ -42,20 +39,13 @@ Well, for starters, it’s [a tabletop role-playing game](https://en.wikipedia.o
 
 Those are the major differences; there’s also [a section on detailed changes from the core series](https://docs.google.com/document/d/1W5cz8RSWn5QJ6R4tPL4McoLaljGvwz-SANPh9OvS7Dg/edit#heading=h.6urujvt7x6uh).
 
-</details>
-
-<details><summary>
-
-## How does PTV differ from [Pokémon Odyssey](https://pokemontabletop.com)?
+## How does PTV differ from [Pokémon Odyssey](https://pokemontabletop.com) (formerly Pokémon Tabletop United)?
 
 PO focuses on tabletop gameplay, with mechanics inspired by but not working like the Pokémon video games. If you want any of the following, you may prefer PO…
-</summary>
 
 - Lots of crunchy grid combat, like D&D 4<sup>th</sup> edition
 - Mostly new Moves and Abilities instead of conversions from the videogames
 - Abstractions of travel/items/money/other mechanics that aren’t part of battles
-
-</details>
 
 <details>
 <summary>Dev stuff</summary>

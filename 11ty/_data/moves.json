@@ -696,7 +696,7 @@
     "pp": 3,
     "accuracy": 4,
     "range": "Foes in Zone - Ranged",
-    "description": "<p>On 15+, Drops SPE by -5. Summons a bonechilling squall that makes body and spirit tremble.</p>\n",
+    "description": "<p>On 15+, Drops SPE by -5. If Rainy, can’t miss. Summons a bonechilling squall that makes body and spirit tremble.</p>\n",
     "zEffect": 60,
     "name": "Bleakwind Storm"
   },
@@ -1088,7 +1088,7 @@
     "pp": 2,
     "accuracy": 2,
     "range": "Contact",
-    "description": "<p>Critical Hit on 18+. A seamitar technique like a thousandfold waves. Shell splinters leave a Stealth Rock hazard.</p>\n",
+    "description": "<p>A seamitar technique like a thousandfold waves. Shell splinters leave a Spikes hazard.</p>\n",
     "zEffect": 44,
     "name": "Ceaseless Edge"
   },
@@ -5774,7 +5774,7 @@
     "pp": 3,
     "accuracy": "Can’t miss",
     "range": "Ranged",
-    "description": "<p>Priority. Dusts the target with combustible scales. If the target uses a Fire Move this round, the scales explode, the target loses 3 Ticks, and the Fire Move does nothing. (It still spends PP.) Grass-Types are immune to Powder.</p>\n",
+    "description": "<p>Priority. Dusts the target with combustible dust. If the target uses a Fire Move this round, the scales explode, the target loses 3 Ticks, and the Fire Move does nothing. (It still spends PP.) Grass-Types are immune to Powder.</p>\n",
     "zEffect": "Boost the user's SDEF by +10.",
     "name": "Powder"
   },
@@ -6676,7 +6676,7 @@
     "pp": 3,
     "accuracy": 4,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>Burns on 15+. Summons a sirocco of fierce wind and blistering-hot sand.</p>\n",
+    "description": "<p>Burns on 15+. If Rainy, can’t miss. Summons a sirocco of fierce wind and blistering-hot sand.</p>\n",
     "zEffect": 60,
     "name": "Sandsear Storm"
   },
@@ -7975,7 +7975,7 @@
     "pp": 2,
     "accuracy": 2,
     "range": "Contact",
-    "description": "<p>Critical Hit on 18+. Swings axes that splinter into a Stealth Rock hazard.</p>\n",
+    "description": "<p>Swings axes that splinter into a Stealth Rock hazard.</p>\n",
     "zEffect": 44,
     "name": "Stone Axe"
   },
@@ -9233,7 +9233,7 @@
     "pp": 3,
     "accuracy": 4,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>Paralyzes on 15+. Summons a thundering supercell of lightning and wind.</p>\n",
+    "description": "<p>Paralyzes on 15+. If Rainy, can’t miss. Summons a thundering supercell of lightning and wind.</p>\n",
     "zEffect": 60,
     "name": "Wildbolt Storm"
   },
@@ -9348,7 +9348,7 @@
     "pp": 2,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>A savage swipe that could end a mantis marriage.</p>\n",
+    "description": "<p>Savage swipes that could end a mantis marriage.</p>\n",
     "zEffect": 52,
     "maxPower": 130,
     "name": "X-Scissor"
@@ -9409,5 +9409,31 @@
     "description": "<p>Priority. Always a Critical Hit. A jolt so shockingly prickly it’s indescribable.</p>\n",
     "zEffect": 28,
     "name": "Zippy Zap"
+  },
+  {
+    "type": "Steel",
+    "kind": "Special",
+    "accuracy": "Can't miss",
+    "name": "Tachyon Cutter"
+  },
+  {
+    "type": "Fighting",
+    "kind": "Physical",
+    "name": "Upper Hand"
+  },
+  {
+    "type": "Psychic",
+    "kind": "Special",
+    "name": "Psychic Noise"
+  },
+  {
+    "type": "Grass",
+    "kind": "Special",
+    "name": "Syrup Bomb"
+  },
+  {
+    "type": "Electric",
+    "kind": "Special",
+    "name": "Thunderclap"
   }
 ]

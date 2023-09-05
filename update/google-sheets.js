@@ -16,13 +16,11 @@ const FILEBASE = './11ty/_data'
 
 function writeJson (name, data) {
   const filename =  `${FILEBASE}/${name}.json`
-  fs.writeFile(filename, JSON.stringify(data, null, 2),
-    err => {
-      if (err) { throw err } else {
-        console.info(name, 'data written to', filename)
-      }
+  fs.writeFile(filename, JSON.stringify(data, null, 2), err => {
+    if (err) { throw err } else {
+      console.info(name, 'data written to', filename)
     }
-  )
+  })
 }
 
 const params = new URLSearchParams({
@@ -75,11 +73,14 @@ fetchedSheets.then(data => {
     name: row.Move
   })))
 
-  writeJson('abilities', data['Abilities'].map(row => ({
-    name: row.Name,
-    bonusStats: row['Bonus Stats'],
-    description: row.Description && markdown(row.Description)
-  })))
+  writeJson('abilities', data['Abilities'].map(function (row) {
+    console.log(row);
+    return {
+      name: row.Ability,
+      bonusStats: row['Bonus Stats'],
+      description: row.Description && markdown(row.Description)
+    };
+  }))
 
   const movesets = Object.fromEntries(data['Movesets'].map(movesetsMapper))
   const tutorMoves = Object.fromEntries(data["'Tutor Matrix'"].map(tutorMatrixMapper))
@@ -116,20 +117,14 @@ fetchedSheets.then(data => {
   
     return [row.Name, {
         name: row.Name,
-        type1: row['Type 1'],
-        type2: row['Type 2'],
+        type1: row['Type 1'], type2: row['Type 2'],
         stats: [
           { HP: +row['New HP']},
-          { ATK: +row.ATK,
-            Athletics: row.ATK - 5},
-          { DEF: +row.DEF,
-            Endurance: row.DEF - 5},
-          { SATK: +row.SATK,
-            Focus: row.SATK - 5},
-          { SDEF: +row.SDEF,
-            Stealth: row.SDEF - 5},
-          { SPE: +row.SPE,
-            Acrobatics: row.SPE - 5}
+          { ATK: +row.ATK, Athletics: row.ATK - 5},
+          { DEF: +row.DEF, Endurance: row.DEF - 5},
+          { SATK: +row.SATK, Focus: row.SATK - 5},
+          { SDEF: +row.SDEF, Stealth: row.SDEF - 5},
+          { SPE: +row.SPE, Acrobatics: row.SPE - 5}
         ],
         height: row.Height?.replace(/'/g, '′').replace(/"/g, '″'),
         weight: row.Weight,
@@ -139,10 +134,7 @@ fetchedSheets.then(data => {
           level5: parseAbilities(row['Ability 3'], row['Ability 4'], row['Ability 5'])
         },
         catchDC: +row['◓ DC'],
-        evolves: {
-          by: row['Evolves By'],
-          from: row['Evolves From']
-        },
+        evolves: { by: row['Evolves By'], from: row['Evolves From'] },
         moves: {
           form,
           starting,
@@ -167,6 +159,8 @@ fetchedSheets.then(data => {
 function movesetsMapper (row) {
   const levelUpEntries = Object.entries(row).filter(([name]) => name.startsWith('Level'))
       .map(([name, val]) => [parseInt(name.replace('Level', '')), val.split(', ').map(splitMoveslot)])
+  // TODO: check for dupes in the natural moves (form, start, level-up)
+  // TODO: omit any tutor moves already in the natural moves
   
   // Preserve in-between levels that don’t learn moves
   const lastLevel = levelUpEntries.slice(-1)?.[0]?.[0] // Ditto, for example, has no level-up moves

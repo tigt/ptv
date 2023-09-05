@@ -2699,11 +2699,12 @@
         "starting": [
           "Tackle",
           "Sand Attack",
-          "Gust"
+          "Gust",
+          "Quick Attack"
         ],
         "levelUp": {
           "2": [
-            "Quick Attack"
+            "Aerial Ace"
           ],
           "3": [
             "Whirlwind"
@@ -2746,7 +2747,6 @@
           ]
         },
         "tutor": [
-          "Aerial Ace",
           "Air Slash",
           "Attract",
           "Dual Wingbeat",
@@ -2852,11 +2852,12 @@
         "starting": [
           "Tackle",
           "Sand Attack",
-          "Gust"
+          "Gust",
+          "Quick Attack"
         ],
         "levelUp": {
           "2": [
-            "Quick Attack"
+            "Aerial Ace"
           ],
           "3": [
             "Whirlwind"
@@ -2884,7 +2885,7 @@
             "Tailwind"
           ],
           "12": [
-            "Crush Claw"
+            "Sky Drop"
           ],
           "13": [
             "Defog"
@@ -2900,7 +2901,6 @@
           ]
         },
         "tutor": [
-          "Aerial Ace",
           "Air Slash",
           "Attract",
           "Brave Bird",
@@ -3008,11 +3008,12 @@
         "starting": [
           "Tackle",
           "Sand Attack",
-          "Gust"
+          "Gust",
+          "Quick Attack"
         ],
         "levelUp": {
           "2": [
-            "Quick Attack"
+            "Aerial Ace"
           ],
           "3": [
             "Whirlwind"
@@ -3057,7 +3058,6 @@
           ]
         },
         "tutor": [
-          "Aerial Ace",
           "Air Cutter",
           "Attract",
           "Brave Bird",
@@ -12052,7 +12052,8 @@
             "Zen Headbutt"
           ],
           "7": [
-            "Screech"
+            "Screech",
+            "Hidden Power"
           ],
           "8": [
             "Aqua Tail"
@@ -12234,7 +12235,8 @@
           ],
           "7": false,
           "8": [
-            "Screech"
+            "Screech",
+            "Hidden Power"
           ],
           "9": [
             "Flip Turn"
@@ -15878,7 +15880,7 @@
         ],
         "level5": [
           [
-            "Levitate"
+            "Bulletproven"
           ],
           [
             "Aftermath"
@@ -16373,7 +16375,7 @@
         ],
         "level5": [
           [
-            "Levitate"
+            "Static"
           ],
           [
             "Aftermath"
@@ -16541,7 +16543,7 @@
         ],
         "level5": [
           [
-            "Static"
+            "Iron Fist"
           ],
           [
             "Aftermath"
@@ -21251,7 +21253,7 @@
             "Mean Look"
           ],
           "3": [
-            "Payback"
+            "Smog"
           ],
           "4": [
             "Curse"
@@ -21314,6 +21316,7 @@
           "Metronome",
           "Nasty Plot",
           "Nightmare",
+          "Payback",
           "Perish Song",
           "Phantom Force",
           "Poison Jab",
@@ -21334,7 +21337,6 @@
           "Sleep Talk",
           "Sludge Bomb",
           "Sludge Wave",
-          "Smog",
           "Snore",
           "Substitute",
           "Sunny Day",
@@ -21426,7 +21428,7 @@
             "Mean Look"
           ],
           "3": [
-            "Payback"
+            "Smog"
           ],
           "4": [
             "Curse"
@@ -21493,6 +21495,7 @@
           "Mega Punch",
           "Metronome",
           "Nightmare",
+          "Payback",
           "Perish Song",
           "Phantom Force",
           "Poison Jab",
@@ -21512,7 +21515,6 @@
           "Sleep Talk",
           "Sludge Bomb",
           "Sludge Wave",
-          "Smog",
           "Snore",
           "Submission",
           "Substitute",
@@ -21606,7 +21608,7 @@
             "Mean Look"
           ],
           "3": [
-            "Payback"
+            "Smog"
           ],
           "4": [
             "Curse"
@@ -21679,6 +21681,7 @@
           "Mega Punch",
           "Metronome",
           "Nasty Plot",
+          "Payback",
           "Perish Song",
           "Phantom Force",
           "Poison Jab",
@@ -21698,7 +21701,6 @@
           "Sleep Talk",
           "Sludge Bomb",
           "Sludge Wave",
-          "Smog",
           "Snore",
           "Submission",
           "Substitute",
@@ -24930,7 +24932,7 @@
             "Rage Fist"
           ],
           "15": [
-            "Sucker Punch"
+            "Jet Punch"
           ],
           "16": [
             "Plasma Fists"
@@ -24990,8 +24992,7 @@
           "Thief",
           "Uproar",
           "Vacuum Wave",
-          "Work Up",
-          "Jet Punch"
+          "Work Up"
         ]
       },
       "blurb": "<p>A strange symbiosis happens between Hitmonchan and Ghost-Types. They enjoy teasing its inability to hit them, and it appreciates the shadowboxing practice. Hitmonchan are only employed for demolition jobs, since their gloves prevent them from handling objects.</p>\n"
@@ -25238,19 +25239,19 @@
             "Supersonic"
           ],
           "3": [
-            "Bind"
+            "Pluck"
           ],
           "4": [
             "Disable"
           ],
           "5": [
-            "Bug Bite"
+            "Chip Away"
           ],
           "6": [
             "Rollout"
           ],
           "7": [
-            "Chip Away"
+            "Smelling Salts"
           ],
           "8": [
             "Screech"
@@ -25275,9 +25276,6 @@
           ],
           "15": [
             "Body Slam"
-          ],
-          "16": [
-            "Smelling Salts"
           ]
         },
         "tutor": [
@@ -25424,20 +25422,20 @@
             "Supersonic"
           ],
           "3": [
-            "Bind"
+            "Pluck"
           ],
           "4": [
             "Disable"
           ],
           "5": [
-            "Bug Bite"
+            "Chip Away"
           ],
           "6": false,
           "7": [
             "Rollout"
           ],
           "8": [
-            "Chip Away"
+            "Gyro Ball"
           ],
           "9": [
             "Screech"
@@ -25462,9 +25460,6 @@
           ],
           "16": [
             "Body Press"
-          ],
-          "17": [
-            "Gyro Ball"
           ]
         },
         "tutor": [
@@ -26850,7 +26845,7 @@
         ],
         "level5": [
           [
-            "Triage"
+            "Hospitality"
           ],
           [
             "Run Away"
@@ -28298,7 +28293,7 @@
         ],
         "level5": [
           [
-            "Queenly Majesty"
+            "Good As Gold"
           ],
           [
             "Dire Horn"
@@ -28359,6 +28354,9 @@
           ],
           "15": [
             "Skull Bash"
+          ],
+          "16": [
+            "Headlong Rush"
           ]
         },
         "tutor": [
@@ -28513,6 +28511,9 @@
           ],
           "16": [
             "Skull Bash"
+          ],
+          "17": [
+            "Headlong Rush"
           ]
         },
         "tutor": [
@@ -37488,7 +37489,7 @@
             "Berserk"
           ],
           [
-            "Vital Spirit"
+            "Neuroforce"
           ],
           [
             "Unnerve"
@@ -37688,7 +37689,7 @@
             "Berserk"
           ],
           [
-            "Vital Spirit"
+            "Neuroforce"
           ],
           [
             "Unnerve"
@@ -37746,7 +37747,7 @@
             "Berserk"
           ],
           [
-            "Vital Spirit"
+            "Neuroforce"
           ],
           [
             "Unnerve"
@@ -61456,7 +61457,7 @@
         ],
         "level5": [
           [
-            "Sweet Veil"
+            "Supersweet Syrup"
           ],
           [
             "Shield Dust"
@@ -63844,8 +63845,7 @@
             "Rising Voltage"
           ],
           "9": [
-            "Sandstorm",
-            "Magnet Rise"
+            "Sandstorm"
           ],
           "10": [
             "Pain Split"
@@ -63886,6 +63886,7 @@
           "Ice Punch",
           "Iron Defense",
           "Iron Head",
+          "Magnet Rise",
           "Magnetic Flux",
           "Magnitude",
           "Meteor Beam",
@@ -63999,7 +64000,7 @@
             "Power Gem"
           ],
           "7": [
-            "Tickle"
+            "Magnet Rise"
           ],
           "8": [
             "Flash Cannon"
@@ -64008,8 +64009,7 @@
             "Rising Voltage"
           ],
           "10": [
-            "Sandstorm",
-            "Magnet Rise"
+            "Sandstorm"
           ],
           "11": [
             "Defend Order"
@@ -64151,7 +64151,7 @@
           ],
           "3": [
             "Sing",
-            "Rest"
+            "Refresh"
           ],
           "4": [
             "Disarming Voice"
@@ -64161,13 +64161,15 @@
             "Charm"
           ],
           "6": [
-            "Slash"
+            "Facade",
+            "Heal Bell"
           ],
           "7": [
             "Copycat",
-            "Captivate"
+            "Tickle"
           ],
           "8": [
+            "Covet",
             "Thunder Wave"
           ],
           "9": [
@@ -64177,7 +64179,6 @@
             "Double-Edge"
           ],
           "11": [
-            "Refresh",
             "Synchronoise"
           ],
           "12": [
@@ -64190,7 +64191,7 @@
             "U-Turn"
           ],
           "15": [
-            "Metronome"
+            "Encore"
           ]
         },
         "tutor": [
@@ -64199,12 +64200,11 @@
           "Blizzard",
           "Body Slam",
           "Calm Mind",
+          "Captivate",
           "Cosmic Power",
-          "Covet",
           "Dig",
           "Draining Kiss",
           "Endure",
-          "Facade",
           "Fake Tears",
           "Grass Knot",
           "Helping Hand",
@@ -64222,6 +64222,7 @@
           "Protect",
           "Rain Dance",
           "Rapid Spin",
+          "Rest",
           "Retaliate",
           "Rollout",
           "Round",
@@ -64241,7 +64242,6 @@
           "Terrain Pulse",
           "Thunder",
           "Thunderbolt",
-          "Tickle",
           "Uproar",
           "Wild Charge",
           "Wish",
@@ -64338,13 +64338,15 @@
             "Attract"
           ],
           "7": [
-            "Slash"
+            "Facade",
+            "Heal Bell"
           ],
           "8": [
             "Copycat",
             "Captivate"
           ],
           "9": [
+            "Covet",
             "Thunder Wave"
           ],
           "10": [
@@ -64354,11 +64356,10 @@
             "Double-Edge"
           ],
           "12": [
-            "Refresh",
             "Synchronoise"
           ],
           "13": [
-            "Teeter Dance"
+            "Moonlight"
           ],
           "14": [
             "Play Rough"
@@ -64367,7 +64368,7 @@
             "Sucker Punch"
           ],
           "16": [
-            "Metronome"
+            "Me First"
           ]
         },
         "tutor": [
@@ -64377,11 +64378,9 @@
           "Calm Mind",
           "Charm",
           "Cosmic Power",
-          "Covet",
           "Dig",
           "Draining Kiss",
           "Endure",
-          "Facade",
           "Fake Tears",
           "Giga Impact",
           "Grass Knot",
@@ -64492,26 +64491,28 @@
         "starting": [
           "Scratch",
           "Leer",
-          "Astonish",
-          "Confuse Ray"
+          "Confuse Ray",
+          "Astonish"
         ],
         "levelUp": {
           "2": [
             "Fake Out"
           ],
           "3": [
-            "Shadow Sneak"
+            "Detect",
+            "Shadow Sneak",
+            "Flash"
           ],
           "4": [
-            "Disable",
-            "Detect"
+            "Fury Swipes",
+            "Disable"
           ],
           "5": [
             "Night Shade"
           ],
           "6": [
-            "Fury Swipes",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Cosmic Power"
           ],
           "7": [
             "Knock Off"
@@ -64527,8 +64528,7 @@
             "Shadow Ball"
           ],
           "11": [
-            "Skill Swap",
-            "Flash"
+            "Skill Swap"
           ],
           "12": [
             "Zen Headbutt"
@@ -64541,9 +64541,6 @@
           ],
           "15": [
             "Pursuit"
-          ],
-          "16": [
-            "Cosmic Power"
           ]
         },
         "tutor": [
@@ -64755,12 +64752,14 @@
             "Swallow"
           ],
           "4": [
+            "Payback",
             "Baton Pass"
           ],
           "5": [
             "Sucker Punch"
           ],
           "6": [
+            "Iron Tail",
             "Iron Defense"
           ],
           "7": [
@@ -64773,10 +64772,10 @@
             "Iron Head"
           ],
           "10": [
-            "Fake Tears"
+            "Play Rough"
           ],
           "11": [
-            "Play Rough"
+            "Fake Tears"
           ],
           "12": [
             "Facade"
@@ -64788,9 +64787,6 @@
             "Horn Leech"
           ],
           "15": [
-            "Payback"
-          ],
-          "16": [
             "False Surrender"
           ]
         },
@@ -77209,7 +77205,7 @@
         ],
         "level5": [
           [
-            "Serene Grace"
+            "Hospitality"
           ],
           [
             "Hydration"
@@ -104380,7 +104376,7 @@
         ],
         "level5": [
           [
-            "Aerilate"
+            "Gulf Stream"
           ],
           [
             "Cotton Down"
@@ -118134,6 +118130,7 @@
           "Sludge Bomb",
           "Snarl",
           "Snore",
+          "Solar Blade",
           "Stealth Rock",
           "Stomping Tantrum",
           "Strength",
@@ -138545,7 +138542,8 @@
             "Thunder Fang"
           ],
           "5": [
-            "Bite"
+            "Bite",
+            "Poison Fang"
           ],
           "6": [
             "Sticky Web"
@@ -138566,7 +138564,7 @@
             "Swords Dance"
           ],
           "12": [
-            "Rock Climb"
+            "Brick Break"
           ],
           "13": [
             "Lunge"
@@ -138692,7 +138690,8 @@
             "Thunder Fang"
           ],
           "6": [
-            "Bite"
+            "Bite",
+            "Charge Beam"
           ],
           "7": [
             "Helping Hand"
@@ -138707,13 +138706,13 @@
             "Magnet Bomb"
           ],
           "11": [
-            "Buzzy Buzz"
+            "Leech Life"
           ],
           "12": [
-            "Iron Defense"
+            "Shift Gear"
           ],
           "13": [
-            "Flash"
+            "Wild Charge"
           ],
           "14": [
             "Electro Drift"
@@ -138722,7 +138721,7 @@
             "Double-Edge"
           ],
           "16": [
-            "Shift Gear"
+            "Gyro Ball"
           ]
         },
         "tutor": [
@@ -138730,7 +138729,6 @@
           "Air Slash",
           "Attract",
           "Bug Buzz",
-          "Charge Beam",
           "Discharge",
           "Eerie Impulse",
           "Electro Ball",
@@ -138741,7 +138739,7 @@
           "Flash Cannon",
           "Gear Up",
           "Harden",
-          "Leech Life",
+          "Iron Defense",
           "Light Screen",
           "Magnet Rise",
           "Mud Shot",
@@ -138762,8 +138760,7 @@
           "Thunder Wave",
           "Thunderbolt",
           "Volt Switch",
-          "Volt Tackle",
-          "Wild Charge"
+          "Volt Tackle"
         ]
       },
       "blurb": "<p>Although found alone, Charjabug are social Pokémon. They use sound waves to communicate with each other when they need help or find a tree full of sap. If a Charjabug doesn’t inform the others when it finds a delicious tree, they don’t appear when it calls for help later.</p>\n"
@@ -138848,7 +138845,8 @@
             "Thunder Fang"
           ],
           "7": [
-            "Bite"
+            "Bite",
+            "Air Cutter"
           ],
           "8": [
             "Lock-On"
@@ -138872,7 +138870,7 @@
             "Fly"
           ],
           "15": [
-            "Wild Charge"
+            "Flash Cannon"
           ],
           "16": [
             "Double-Edge"
@@ -138895,7 +138893,6 @@
           "Endure",
           "Energy Ball",
           "Facade",
-          "Flash Cannon",
           "Gear Up",
           "Giga Impact",
           "Harden",
@@ -138923,6 +138920,7 @@
           "Thunder Wave",
           "Volt Switch",
           "Volt Tackle",
+          "Wild Charge",
           "X-Scissor"
         ]
       },
@@ -139194,7 +139192,7 @@
             "Mach Punch"
           ],
           "16": [
-            "Darkest Lariat"
+            "Ice Spinner"
           ]
         },
         "tutor": [
@@ -139892,7 +139890,7 @@
             "Anticipation"
           ],
           [
-            "Natural Cure"
+            "Solar Power"
           ],
           [
             "Sweet Veil"
@@ -139925,10 +139923,11 @@
             "Aura Sphere"
           ],
           "7": [
-            "Ally Switch"
+            "Morning Sun"
           ],
           "8": [
-            "Sticky Web"
+            "Sticky Web",
+            "Solar Beam"
           ],
           "9": [
             "Dazzling Gleam"
@@ -139954,12 +139953,14 @@
         },
         "tutor": [
           "Acrobatics",
+          "Ally Switch",
           "Aromatic Mist",
           "Attract",
           "Baton Pass",
           "Calm Mind",
           "Charm",
           "Dual Wingbeat",
+          "Electro Ball",
           "Endure",
           "Facade",
           "Fake Tears",
@@ -139980,13 +139981,13 @@
           "Skill Swap",
           "Sleep Talk",
           "Snore",
-          "Solar Beam",
           "Substitute",
           "Sunny Day",
           "Swift",
           "Thief",
           "Trick",
-          "U-Turn"
+          "U-Turn",
+          "Weather Ball"
         ]
       },
       "blurb": "<p>Riolu seek Cutiefly as a mentor, as Cutiefly is better at controlling aura. Cutiefly pay Riolu no mind, going about their day finding flowers to feed on. They love Florges’s flower fields, easily dodging its wrath.</p>\n"
@@ -140037,10 +140038,10 @@
         ],
         "level5": [
           [
-            "Healer"
+            "Bulletproven"
           ],
           [
-            "Natural Cure"
+            "Solar Power"
           ],
           [
             "Sweet Veil"
@@ -140080,10 +140081,11 @@
             "Vacuum Wave"
           ],
           "8": [
-            "Switcheroo"
+            "Morning Sun"
           ],
           "9": [
-            "Sticky Web"
+            "Sticky Web",
+            "Solar Beam"
           ],
           "10": [
             "Dazzling Gleam"
@@ -140116,6 +140118,7 @@
           "Calm Mind",
           "Charm",
           "Dual Wingbeat",
+          "Electro Ball",
           "Endure",
           "Facade",
           "Fake Tears",
@@ -140139,13 +140142,13 @@
           "Skill Swap",
           "Sleep Talk",
           "Snore",
-          "Solar Beam",
           "Substitute",
           "Sunny Day",
           "Swift",
           "Thief",
           "Trick",
-          "U-Turn"
+          "U-Turn",
+          "Weather Ball"
         ]
       },
       "blurb": "<p>With its shortened proboscis, Ribombee uses its new arms to pick pollen from flowers. It loves picking things up with its arms, but it tends to fly off carrying objects without thinking.</p>\n"
@@ -140411,7 +140414,7 @@
             "Pursuit"
           ],
           "16": [
-            "Superpower"
+            "Close Combat"
           ]
         }
       },
@@ -156067,7 +156070,8 @@
           ],
           "13": [
             "Grav Apple",
-            "Apple Acid"
+            "Apple Acid",
+            "Syrup Bomb"
           ],
           "14": [
             "Natural Gift"
@@ -160790,7 +160794,7 @@
             "Teamwork"
           ],
           [
-            "Symbiosis"
+            "Hospitality"
           ],
           [
             "Psychic Surge"
@@ -160946,7 +160950,7 @@
             "Friend Guard"
           ],
           [
-            "Symbiosis"
+            "Hospitality"
           ],
           [
             "Psychic Surge"
@@ -176015,10 +176019,10 @@
             "Water Absorb"
           ],
           [
-            "Sheer Force?"
+            "Sheer Force"
           ],
           [
-            "Swift Swim?"
+            "Hydration"
           ]
         ]
       },
@@ -176358,7 +176362,7 @@
         ],
         "level5": [
           [
-            "Sand Stream? Battle Armor? Terraform? Unnerve?"
+            "Battle Armor"
           ],
           [
             "Analytic"
@@ -176716,7 +176720,7 @@
             "Dire Horn"
           ],
           [
-            "Grass Pelt? Heatproof?"
+            "Neuroforce"
           ]
         ]
       },

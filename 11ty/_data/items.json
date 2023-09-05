@@ -46,7 +46,7 @@
     "sellIsNumeric": false
   },
   {
-    "name": "Assault Sleeves",
+    "name": "Assault Bracers",
     "buy": 1000,
     "sell": 500,
     "description": "Anti-ballistic armor that Boosts the holder's DEF by +10, but they can’t use Status Moves.",
@@ -78,7 +78,7 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Baton",
+    "name": "Pass Baton",
     "buy": 4000,
     "sell": 2000,
     "description": "Used up if the holder switches out, transferring effects as if the holder used Baton Pass.",
@@ -655,7 +655,7 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Go-Goggles",
+    "name": "Safety Goggles",
     "buy": 4000,
     "sell": 2000,
     "description": "Dustproof eyewear that gives the holder Immunity to Weather damage and Moves with names containing “Powder” or “Spore”.",
@@ -1600,21 +1600,21 @@
     "name": "Technical Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× their buying price to craft Technical Machines and Technical Records during Rests, if a Pokémon the Trainer owns knows the Move. Share our knowledge through technology.",
+    "description": "Can spend 1.5× their buying price to craft Technical Machines and Technical Records during Rests, if a Pokémon the Trainer owns knows the Move. Share knowledge through technology.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
   {
     "name": "Technical Machine",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Cost $4 × (500 + (500×PP Cost)) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Costs $4 × (500 + (500×PP Cost)) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
   {
     "name": "Technical Record",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Destroyed upon use. Cost $500 + (500×PP Cost) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Destroyed upon use. Costs $500 + (500×PP Cost) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
