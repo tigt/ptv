@@ -263,7 +263,7 @@
   },
   {
     "name": "Delta Stream",
-    "description": "<p>The weather becomes Strong Wind while the user is on the field. Only Primordial Sea and Desolate Land can override Delta Stream. (Electric, Ice and Rock Moves get -1 Effectiveness.)</p>\n"
+    "description": "<p>The weather becomes Strong Wind while the user is on the field. Only Primordial Sea and Desolate Land can override Delta Stream. (Electric, Ice, and Rock Moves get -1 Effectiveness.)</p>\n"
   },
   {
     "name": "Desolate Land",
@@ -902,7 +902,7 @@
   },
   {
     "name": "Pixilate",
-    "description": "<p>The user’s Normal Moves becomes Fairy-Type and get +5 damage.</p>\n"
+    "description": "<p>The user’s Normal Moves become Fairy-Type and get +5 damage.</p>\n"
   },
   {
     "name": "Plus",
@@ -1043,7 +1043,7 @@
   },
   {
     "name": "Reckless",
-    "description": "<p>Jump Kick, High Jump Kick, Axe Kick, and Recoil Moves get +7 damage.</p>\n"
+    "description": "<p>Jump Kick, High Jump Kick, Axe Kick, Supercell Slam, and Recoil Moves get +7 damage.</p>\n"
   },
   {
     "name": "Refrigerate",
@@ -1162,7 +1162,7 @@
   },
   {
     "name": "Sharpness",
-    "description": "<p>Moves with with “Sword”, “Razor”, “Blade”, “Slash”, or “Cutter” in the name, Aerial Ace, Cut, Dual Chop, X-Scissor, Cross Poison, Stone Axe, Ceaseless Edge, Population Bomb, and Kowtow Cleave get +7 damage.</p>\n"
+    "description": "<p>Moves with with “sword”, “razor”, “blade”, “slash”, “cutter”, or “cleave” in the name, Aerial Ace, Cut, Dual Chop, X-Scissor, Cross Poison, Stone Axe, Ceaseless Edge, and Population Bomb get +7 damage.</p>\n"
   },
   {
     "name": "Shed Skin",
@@ -1574,9 +1574,13 @@
     "description": "<p>Other characters’ Status Moves target the user as if they had an Accuracy of -10. (Other targets of the Move are unaffected.)</p>\n"
   },
   {
+    "name": "Worker Bug",
+    "description": "<p>The user gets STAB for Bug Moves and can benefit from Bug Expert features.</p>\n"
+  },
+  {
     "name": "X-Ray Vision",
     "bonusStats": "+2 Crit Rate",
-    "description": "<p>The user’s vision pierces surfaces. Ignore their targets’ Evasion.</p>\n"
+    "description": "<p>The user’s sight pierces surfaces. Ignore their targets’ Evasion.</p>\n"
   },
   {
     "name": "Yardworker",
@@ -1592,15 +1596,42 @@
   },
   {
     "name": "Zero to Hero",
-    "description": "<p>The user transforms into Hero Form when it switches out.</p>\n"
+    "description": "<p>The user transforms into Hero Form for the rest of the battle once it switches out.</p>\n"
   },
   {
-    "name": "Hospitality"
+    "name": "Hospitality",
+    "description": "<p>”When the user enters battle, it showers its allies in Zone with hospitality to heal 25% of their HP each.”</p>\n"
   },
   {
-    "name": "Supersweet Syrup"
+    "name": "Supersweet Syrup",
+    "description": "<p>The first time the user enters battle, a sickly-sweet scent Drops all in-Zone foes’ Evasion by -1.</p>\n"
   },
   {
-    "name": "Toxic Chain"
+    "name": "Toxic Chain",
+    "description": "<p>“The user’s toxic chain may (30%) badly poison any target the user hits with a Move.”</p>\n"
+  },
+  {
+    "name": "Mind's Eye",
+    "description": "<p>“The user ignores changes to foes’ Evasion, its Accuracy can’t be dropped, and it can hit Ghost-Types with Normal- and Fighting-Type moves.”</p>\n"
+  },
+  {
+    "name": "Embody Aspect",
+    "description": "<p>“The user’s heart fills with memories, causing the Teal/Wellspring/Hearthflame/Cornerstone Mask to shine and Boosting its [SPE/SDEF/ATK/DEF].”</p>\n"
+  },
+  {
+    "name": "Poison Puppeteer",
+    "description": "<p>“Targets Poisoned by the user’s Moves will also become Confused.”</p>\n"
+  },
+  {
+    "name": "Tera Shift",
+    "description": "<p>“When the user enters battle, it absorbs energy around itself to transform into its Terastal Form.”</p>\n"
+  },
+  {
+    "name": "Tera Shell",
+    "description": "<p>“The user’s shell holds the powers of each type. All Moves that damage the user when its HP is full will not be very effective.”</p>\n"
+  },
+  {
+    "name": "Teraform Zero",
+    "description": "<p>“When the user changes into its Stellar Form, its hidden powers eliminate all effects of weather and terrain, reducing them to zero.”</p>\n"
   }
 ]

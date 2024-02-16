@@ -833,7 +833,7 @@
             "Inferno"
           ],
           "12": [
-            "Burning Jealousy"
+            "Temper Flare"
           ],
           "13": [
             "Dragon Claw"
@@ -8314,7 +8314,18 @@
             "Boomburst"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>While their evolved forms know the effect of their voices, Igglybuff show off their singing at inopportune times. Igglybuff appearances are severe workplace hazards.</p>\n"
     },
@@ -8433,7 +8444,18 @@
             "Hex"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>To interrupt a Jigglypuff’s rest is to invite danger. While sleeping, a Jigglypuff inflates to three times its regular size with its snores. Some especially pugnacious individuals weaponize Rest into a homerun blow.</p>\n"
     },
@@ -8553,7 +8575,17 @@
             "Expanding Force"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Wigglytuff have perfect pitch, both in voice and hearing. Lesser vocalists interrupting their performances disturbs them greatly, but they will also start bands with other musical Pokémon.</p>\n"
     }
@@ -12404,7 +12436,8 @@
             "Frustration"
           ],
           "5": [
-            "Seismic Toss"
+            "Seismic Toss",
+            "Temper Flare"
           ],
           "6": [
             "Swagger",
@@ -12445,7 +12478,18 @@
             "Grudge"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>They are highly social despite their hair-trigger temper, but a colony of Mankey is a veritable powder keg. Mankey migrations are tied to the appearance of rainbows, drifting balloons, or other phenomena they all decide to chase and beat up. </p>\n"
     },
@@ -12530,7 +12574,8 @@
             "Frustration"
           ],
           "5": [
-            "Seismic Toss"
+            "Seismic Toss",
+            "Temper Flare"
           ],
           "6": false,
           "7": [
@@ -12572,7 +12617,18 @@
             "Grudge"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Primeape has lost the prehensile digits it had as a Mankey, reserving its limbs only for violence. Their full-body coat of dense hair developed to prevent injury from infighting. Silph Co. cites Primeape as the reason Poké Balls were invented.</p>\n"
     },
@@ -12658,7 +12714,8 @@
             "Frustration"
           ],
           "5": [
-            "Seismic Toss"
+            "Seismic Toss",
+            "Temper Flare"
           ],
           "6": false,
           "7": [
@@ -12701,7 +12758,18 @@
             "Grudge"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>akuma</p>\n"
     }
@@ -15917,7 +15985,7 @@
             "Self-Destruct"
           ],
           "7": [
-            "Force Palm"
+            "Hard Press"
           ],
           "8": [
             "Stealth Rock"
@@ -18536,7 +18604,7 @@
         ],
         "level5": [
           [
-            "Power of Alchemy"
+            "Poison Puppeteer"
           ],
           [
             "Unaware"
@@ -18796,7 +18864,19 @@
             "Psyshock"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Magnemite’s apparent levitation is a source of frustration for many Trainers, as Ground-Type attacks are their bane. Research shows their magnetic levitation functions like legs, repulsing the ground for support instead of hanging in the air.</p>\n"
     },
@@ -18916,7 +18996,19 @@
             "Explosion"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>The rotation of their components is how they build a charge. Magneton recognize humans by their biomagnetism, so they can be momentarily confused when their Trainer shuffles across a carpet on a dry day.</p>\n"
     },
@@ -19037,7 +19129,19 @@
             "Signal Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>On certain nights Magnezone suddenly crowd the sky, flooding the ground beneath with spotlights. They scan forests for something only they’re aware of. They scatter just as quickly.</p>\n"
     }
@@ -19793,7 +19897,7 @@
             "Drill Peck"
           ],
           "14": [
-            "Triple Axel"
+            "Fickle Beam"
           ],
           "15": [
             "Thrash"
@@ -21831,7 +21935,7 @@
             "Solid Rock"
           ],
           [
-            "Earth Eater"
+            "Looming"
           ],
           [
             "Weak Armor"
@@ -21992,7 +22096,7 @@
             "Full Metal Body"
           ],
           [
-            "Earth Eater"
+            "Looming"
           ],
           [
             "Sheer Force"
@@ -22162,7 +22266,7 @@
             "Full Metal Body"
           ],
           [
-            "Earth Eater"
+            "Looming"
           ],
           [
             "Sheer Force"
@@ -23812,7 +23916,7 @@
         ],
         "level5": [
           [
-            "Tail Bond"
+            "Looming"
           ],
           [
             "Multiple"
@@ -28323,7 +28427,8 @@
             "Agility"
           ],
           "5": [
-            "Aqua Ring"
+            "Aqua Ring",
+            "Drill Peck"
           ],
           "6": [
             "Flail"
@@ -28356,7 +28461,7 @@
             "Skull Bash"
           ],
           "16": [
-            "Headlong Rush"
+            "Head Smash"
           ]
         },
         "tutor": [
@@ -28479,7 +28584,8 @@
             "Agility"
           ],
           "5": [
-            "Aqua Ring"
+            "Aqua Ring",
+            "Drill Peck"
           ],
           "6": false,
           "7": [
@@ -28513,7 +28619,7 @@
             "Skull Bash"
           ],
           "17": [
-            "Headlong Rush"
+            "Close Combat"
           ]
         },
         "tutor": [
@@ -30441,7 +30547,7 @@
             "Snowscape"
           ],
           "15": [
-            "Synchronoise"
+            "Psychic Noise"
           ],
           "16": [
             "Hex"
@@ -31875,7 +31981,17 @@
             "Headlong Rush"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Pressing the largest gray stud on Tauros’s forehead will immobilize it… as long as you keep it pressed. Old cowpokes use this trick to stop a rampaging Tauros right in its tracks.</p>\n"
     },
@@ -31992,7 +32108,17 @@
             "Last Resort"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>is Kantonian Tauros superior to this form in any way?</p>\n"
     },
@@ -32110,7 +32236,17 @@
             "Last Resort"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>bomb fuse tail</p>\n"
     },
@@ -32228,7 +32364,17 @@
             "Last Resort"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>propeller tail</p>\n"
     }
@@ -39149,7 +39295,7 @@
             "Rollout"
           ],
           "4": [
-            "Stoke"
+            "Burning Bulwark"
           ],
           "5": [
             "Flame Charge"
@@ -39316,7 +39462,7 @@
             "Rollout"
           ],
           "5": [
-            "Stoke"
+            "Burning Bulwark"
           ],
           "6": [
             "Flame Charge"
@@ -39482,7 +39628,7 @@
             "Rollout"
           ],
           "5": [
-            "Stoke"
+            "Burning Bulwark"
           ],
           "6": false,
           "7": [
@@ -39660,7 +39806,7 @@
             "Rollout"
           ],
           "5": [
-            "Stoke"
+            "Burning Bulwark"
           ],
           "6": false,
           "7": [
@@ -44771,7 +44917,8 @@
             "Double Hit"
           ],
           "7": [
-            "Screech"
+            "Screech",
+            "Upper Hand"
           ],
           "8": [
             "Metronome"
@@ -44951,7 +45098,8 @@
           ],
           "7": false,
           "8": [
-            "Screech"
+            "Screech",
+            "Upper Hand"
           ],
           "9": [
             "Wake-Up Slap"
@@ -46147,7 +46295,18 @@
             "Iron Tail"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger"
+        ]
       }
     },
     {
@@ -46267,8 +46426,20 @@
             "Final Gambit"
           ]
         },
-        "tutor": []
-      }
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger"
+        ]
+      },
+      "blurb": "<p>often seen ferrying things that aren’t just wooper, famously being as friendly to all as real-world capybaras</p>\n"
     }
   ],
   "murkrow": [
@@ -46716,7 +46887,19 @@
             "Inferno"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>After dark, amusement parks let Trainers catch the Misdreavus that infest roller coasters and other thrill rides. Haunted houses have strict rules against catching them on premise.</p>\n"
     },
@@ -46833,7 +47016,19 @@
             "Skill Swap"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Mismagius still loves to cause fear, but now prefers the kind caused by actual danger. They tend to settle in old houses, where ‘accidents’ become more and more frequent.</p>\n"
     }
@@ -47214,7 +47409,19 @@
             "Trick Room"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>If the back end catches a glimpse of the front, it usually wastes several minutes trying to catch and bite it. It’s best not to approach Girafarig that you see slowly rotating backwards, as they’re usually pretty annoyed.</p>\n"
     },
@@ -47263,7 +47470,7 @@
         ],
         "level5": [
           [
-            "Frisk"
+            "Looming"
           ],
           [
             "Multiple"
@@ -47337,7 +47544,19 @@
             "Psychic Terrain"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>closes the mouth as a threat display, as seen on that one TCG art</p>\n"
     }
@@ -47767,7 +47986,19 @@
             "Dragon Energy"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Dunsparce don’t seem to have predators — the usual suspects react to it with bafflement. Enterprising art dealers pour molten metal into abandoned Dunsparce nests, then excavate the results and sell them as highly abstract sculpture.</p>\n"
     },
@@ -47897,7 +48128,19 @@
             "Boomburst"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p><strong>Pokéfeature:</strong> When Dunsparce evolves, you may choose if it evolves into Two-Segment or Three-Segment Form.</p>\n"
     }
@@ -47962,7 +48205,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Cut",
+          "Wing Attack",
           "Sand Attack",
           "Poison Sting",
           "Feint Attack"
@@ -48024,6 +48267,7 @@
           "Bulldoze",
           "Counter",
           "Cross Poison",
+          "Cut",
           "Dark Pulse",
           "Dig",
           "Double-Edge",
@@ -48075,7 +48319,6 @@
           "Thunder Fang",
           "U-Turn",
           "Venoshock",
-          "Wing Attack",
           "X-Scissor"
         ]
       },
@@ -48146,7 +48389,7 @@
           "Leech Life"
         ],
         "starting": [
-          "Cut",
+          "Wing Attack",
           "Sand Attack",
           "Poison Sting",
           "Feint Attack"
@@ -48209,6 +48452,7 @@
           "Bulldoze",
           "Counter",
           "Cross Poison",
+          "Cut",
           "Dark Pulse",
           "Dig",
           "Double-Edge",
@@ -48260,7 +48504,6 @@
           "Throat Chop",
           "Thunder Fang",
           "Venoshock",
-          "Wing Attack",
           "X-Scissor"
         ]
       },
@@ -50428,8 +50671,8 @@
     },
     {
       "name": "Ursaluna",
-      "type1": "Normal",
-      "type2": "Ground",
+      "type1": "Ground",
+      "type2": "Normal",
       "stats": [
         {
           "HP": 70
@@ -50612,6 +50855,65 @@
         ]
       },
       "blurb": "<p>NOTE: the gray parts are actually peat/mud slopped all over it. it’s hard to tell in the art</p>\n"
+    },
+    {
+      "name": "Ursaluna (Blood Moon)",
+      "type1": "Ground",
+      "type2": "Normal",
+      "stats": [
+        {
+          "HP": 60
+        },
+        {
+          "ATK": 6,
+          "Athletics": 1
+        },
+        {
+          "DEF": 11,
+          "Endurance": 6
+        },
+        {
+          "SATK": 13,
+          "Focus": 8
+        },
+        {
+          "SDEF": 6,
+          "Stealth": 1
+        },
+        {
+          "SPE": 4,
+          "Acrobatics": -1
+        }
+      ],
+      "height": "8′10″",
+      "weight": 727.5,
+      "eggGroups": [
+        "Field"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Mind's Eye"
+          ]
+        ],
+        "level5": [
+          [
+            "Lunar Power"
+          ],
+          [
+            "Bulletproof"
+          ],
+          [
+            "Unnerve"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {
+        "by": "Peat Block at a foggy night",
+        "from": "Ursaring"
+      },
+      "moves": {}
     }
   ],
   "slugma": [
@@ -50879,7 +51181,7 @@
             "Earth Power"
           ],
           "12": [
-            "Rock Blast"
+            "Explosion"
           ],
           "13": [
             "Recover"
@@ -50927,6 +51229,7 @@
           "Protect",
           "Reflect",
           "Rest",
+          "Rock Blast",
           "Rock Smash",
           "Rock Tomb",
           "Rollout",
@@ -52446,7 +52749,19 @@
             "Draining Kiss"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Delibird share bird Pokémon’s typical fascination with collecting interesting objects, but give them away instead of hoarding them. Delibird that move into gardens or pebble beaches become beloved neighbors, but those living near garbage dumps are popular only with Trubbish.</p>\n"
     }
@@ -53443,7 +53758,19 @@
             "Last Resort"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>When Phanpy headbutt, they cover their eyes with their ears and run face-first into their target. This often causes them to miss, as they can no longer see where they’re going.</p>\n"
     },
@@ -53560,7 +53887,19 @@
             "Megahorn"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Donphan herds travel between watering holes by all rolling together at once. If you find yourself on a path where wild Pokémon refuse to tread, and there are trenches surrounding you, you have found yourself in great danger.</p>\n"
     }
@@ -54204,7 +54543,7 @@
             "Volt Absorb"
           ],
           [
-            "Run Away"
+            "Serene Grace"
           ],
           [
             "Inner Focus"
@@ -54226,7 +54565,7 @@
             "Calm Mind"
           ],
           "3": [
-            "Ancient Power"
+            "Air Cutter"
           ],
           "4": [
             "Spark"
@@ -54366,7 +54705,7 @@
             "Flash Fire"
           ],
           [
-            "Run Away"
+            "Serene Grace"
           ],
           [
             "Inner Focus"
@@ -54388,7 +54727,7 @@
             "Calm Mind"
           ],
           "3": [
-            "Hidden Power"
+            "Ominous Wind"
           ],
           "4": [
             "Flame Wheel"
@@ -54529,7 +54868,7 @@
             "Water Absorb"
           ],
           [
-            "Run Away"
+            "Serene Grace"
           ],
           [
             "Inner Focus"
@@ -54551,7 +54890,7 @@
             "Calm Mind"
           ],
           "3": [
-            "Ominous Wind"
+            "Aurora Beam"
           ],
           "4": [
             "Water Pulse"
@@ -54598,7 +54937,6 @@
         "tutor": [
           "Agility",
           "Air Slash",
-          "Aurora Beam",
           "Aurora Veil",
           "Avalanche",
           "Body Slam",
@@ -54623,6 +54961,7 @@
           "Iron Tail",
           "Laser Focus",
           "Liquidation",
+          "Ominous Wind",
           "Protect",
           "Psych Up",
           "Purify",
@@ -54754,7 +55093,19 @@
             "Precipice Blades"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Larvitar are so good at navigating in low visibility that cave towns will send them out to rescue lost travelers and lead them to safety.</p>\n"
     },
@@ -54870,7 +55221,19 @@
             "Accelerock"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>The dirt and rock a Pupitar consumed as a Larvitar determine the thickness, color, and shape of its outer shell. It is rumored that if a Larvitar eats a mountain’s worth of gems, it will evolve into a Pupitar with a crystalline shell.</p>\n"
     },
@@ -54987,7 +55350,19 @@
             "Power Trip"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Tyranitar draws its massive power from the Pupitar husk visible in its belly. This husk creates so much energy that a Tyranitar’s internal temperature is over 800 degrees. The husk also allows Tyranitar to eat radioactive minerals, its favorite food.</p>\n"
     },
@@ -60053,7 +60428,7 @@
             "Chlorophyll"
           ],
           [
-            "Early Bird"
+            "Wind Rider"
           ]
         ],
         "level5": [
@@ -60925,7 +61300,18 @@
             "Heart Swap"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Ralts cannot filter emotional input from other creatures yet, and prefer to stay alone to avoid being overwhelmed by other Pokémon’s desire to battle. Despite this, they are the only member of their evolutionary line to approach Trainers in the wild.</p>\n"
     },
@@ -61045,7 +61431,18 @@
             "Spacial Rend"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Kirlia dancing competitions have been a tradition in Hoenn for centuries, and have set the bar for global standards. Trainers travel from all over the world to participate, bringing in styles and regional variants that don’t interact anywhere else.</p>\n"
     },
@@ -61166,7 +61563,18 @@
             "Magic Coat"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>A Kirlia evolves when it discards its own self preservation to protect something else. Gardevoir’s responsibility can grow attached to nearly anything: Gardevoir have been seen protecting their Trainers, their nests, and even a local Bob’s Your Uncle establishment.</p>\n"
     },
@@ -61348,7 +61756,17 @@
             "Counter"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Facade",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>In old films, watch carefully when the action starts. Directors used Gallade as swordfight stunt doubles, producing dazzling scenes that fooled absolutely nobody. When a character starts swinging their elbow at their opponent, you know the switch has been made.</p>\n"
     },
@@ -63634,7 +64052,19 @@
             "Slack Off"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>When Makuhita is not training, it loves to collect stones. A Makuhita can spend hours sifting through a rocky route, picking up stones and hurling them away. Martial Artists believe Makuhita is trying to find a stone that will give it enough energy to evolve.</p>\n"
     },
@@ -63753,7 +64183,19 @@
             "Headlong Rush"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Hariyama matches are one of the most beloved sports in any region, even recognized by the International Pokéathlon Committee. Hariyama that consistently win become celebrities, much to the lament of their oft-forgotten Trainers.</p>\n"
     }
@@ -68404,7 +68846,7 @@
         ],
         "level5": [
           [
-            "Unaware"
+            "Looming"
           ],
           [
             "Startle"
@@ -68977,23 +69419,27 @@
           "Smog",
           "Withdraw",
           "Ember",
-          "Curse"
+          "Protect"
         ],
         "levelUp": {
           "2": [
             "Rapid Spin"
           ],
           "3": [
-            "Smokescreen"
+            "Smokescreen",
+            "Curse"
           ],
           "4": [
-            "Clear Smog"
+            "Clear Smog",
+            "Mist",
+            "Haze"
           ],
           "5": [
-            "Flame Charge"
+            "Flame Wheel"
           ],
           "6": [
-            "Iron Defense"
+            "Iron Defense",
+            "Burning Bulwark"
           ],
           "7": [
             "Lava Plume"
@@ -69047,7 +69493,6 @@
           "Incinerate",
           "Iron Tail",
           "Overheat",
-          "Protect",
           "Rest",
           "Rock Slide",
           "Rock Smash",
@@ -69642,10 +70087,10 @@
         ],
         "level5": [
           [
-            "Stall"
+            "Stakeout"
           ],
           [
-            "Stakeout"
+            "Worker Bug"
           ],
           [
             "Sheer Force"
@@ -69800,7 +70245,7 @@
             "Sand Veil"
           ],
           [
-            "Punk Rock"
+            "Worker Bug"
           ],
           [
             "Sheer Force"
@@ -69963,10 +70408,10 @@
         ],
         "level5": [
           [
-            "Sand Stream"
+            "Tinted Lens"
           ],
           [
-            "Tinted Lens"
+            "Worker Bug"
           ],
           [
             "Sheer Force"
@@ -70162,7 +70607,8 @@
             "Leech Seed"
           ],
           "3": [
-            "Spikes"
+            "Spikes",
+            "Power Trip"
           ],
           "4": [
             "Poison Jab"
@@ -70175,7 +70621,8 @@
             "Pin Missile"
           ],
           "7": [
-            "Rollout"
+            "Rollout",
+            "Swords Dance"
           ],
           "8": [
             "Scorching Sands"
@@ -70184,25 +70631,25 @@
             "Energy Ball"
           ],
           "10": [
-            "Sucker Punch"
+            "Sucker Punch",
+            "Fell Stinger"
           ],
           "11": [
-            "Sandstorm"
+            "Sandstorm",
+            "Moonlight"
           ],
           "12": [
             "Gyro Ball"
           ],
           "13": [
-            "Trick-or-Treat"
+            "Trick-or-Treat",
+            "Destiny Bond"
           ],
           "14": [
-            "Destiny Bond"
+            "Teeter Dance"
           ],
           "15": [
             "Fleur Cannon"
-          ],
-          "16": [
-            "Teeter Dance"
           ]
         },
         "tutor": [
@@ -70221,7 +70668,6 @@
           "Encore",
           "Endure",
           "Facade",
-          "Fell Stinger",
           "Fling",
           "Focus Blast",
           "Foul Play",
@@ -70256,7 +70702,6 @@
           "Superpower",
           "Swift",
           "Switcheroo",
-          "Swords Dance",
           "Thunder Punch",
           "Venoshock",
           "Worry Seed"
@@ -70337,7 +70782,8 @@
             "Leech Seed"
           ],
           "3": [
-            "Spikes"
+            "Spikes",
+            "Power Trip"
           ],
           "4": [
             "Poison Jab"
@@ -70351,7 +70797,8 @@
             "Pin Missile"
           ],
           "8": [
-            "Payback"
+            "Rollout",
+            "Swords Dance"
           ],
           "9": [
             "Scorching Sands"
@@ -70360,25 +70807,25 @@
             "Energy Ball"
           ],
           "11": [
-            "Sucker Punch"
+            "Sucker Punch",
+            "Heat Wave"
           ],
           "12": [
-            "Sandstorm"
+            "Sandstorm",
+            "Moonlight"
           ],
           "13": [
             "Revenge"
           ],
           "14": [
-            "Cotton Spore"
-          ],
-          "15": [
+            "Cotton Spore",
             "Destiny Bond"
           ],
-          "16": [
-            "Focus Punch"
+          "15": [
+            "Nasty Plot"
           ],
-          "17": [
-            "Mean Look"
+          "16": [
+            "Darkest Lariat"
           ]
         },
         "tutor": [
@@ -70412,8 +70859,8 @@
           "Magical Leaf",
           "Mega Kick",
           "Mega Punch",
-          "Nasty Plot",
           "Nightmare",
+          "Payback",
           "Power-Up Punch",
           "Protect",
           "Rest",
@@ -70432,7 +70879,6 @@
           "Superpower",
           "Swift",
           "Switcheroo",
-          "Swords Dance",
           "Teeter Dance",
           "Thunder Punch",
           "Venoshock",
@@ -71254,7 +71700,8 @@
             "Brine"
           ],
           "11": [
-            "Magic Room"
+            "Magic Room",
+            "Blood Moon"
           ],
           "12": [
             "Moonblast"
@@ -71267,6 +71714,9 @@
           ],
           "15": [
             "Lunar Blessing"
+          ],
+          "16": [
+            "Lunar Dance"
           ]
         },
         "tutor": [
@@ -71295,7 +71745,6 @@
           "Icy Wind",
           "Iron Head",
           "Light Screen",
-          "Lunar Dance",
           "Magic Coat",
           "Nasty Plot",
           "Power Swap",
@@ -71423,7 +71872,8 @@
             "Solar Blade"
           ],
           "11": [
-            "Wonder Room"
+            "Wonder Room",
+            "Dazzling Gleam"
           ],
           "12": [
             "Flare Blitz"
@@ -71436,6 +71886,9 @@
           ],
           "15": [
             "Heal Block"
+          ],
+          "16": [
+            "Fiery Dance"
           ]
         },
         "tutor": [
@@ -71451,7 +71904,6 @@
           "Earthquake",
           "Endure",
           "Facade",
-          "Fiery Dance",
           "Fire Blast",
           "Flamethrower",
           "Flash",
@@ -75078,7 +75530,7 @@
             "Heal Pulse"
           ],
           "9": [
-            "Psychic"
+            "Psychic Noise"
           ],
           "10": [
             "Uproar"
@@ -75127,6 +75579,7 @@
           "Light Screen",
           "Perish Song",
           "Protect",
+          "Psychic",
           "Psyshock",
           "Rain Dance",
           "Reflect",
@@ -77425,7 +77878,19 @@
             "Draco Meteor"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Bagon are such frequent aircraft stowaways that any inexplicable technical problems or pilot troubles are half-jokingly blamed on them. <em>Drayden’s Dragon Manual</em> confirms you can safely jettison them midflight: it’s safe for them, and they like it.</p>\n"
     },
@@ -77539,7 +78004,18 @@
             "Body Press"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Trainers who read or talk to their Shelgon report much faster evolution into Salamence. Whether this is because Shelgon appreciates the company or wants to fly away from the conversation is up for debate.</p>\n"
     },
@@ -77655,7 +78131,19 @@
             "Hurricane"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Along with its new wings, Salamence’s fire sac becomes capable of taking in vast quantities of oxygen. Pokéologists believe this was a previous attempt to fly that never reached fruition.</p>\n"
     },
@@ -78955,7 +79443,6 @@
         },
         "tutor": [
           "Apple Acid",
-          "Battle Cry",
           "Block",
           "Body Slam",
           "Breaking Swipe",
@@ -79036,7 +79523,7 @@
         ],
         "level5": [
           [
-            "Extra Ordinary"
+            "Looming"
           ],
           [
             "Clear Body"
@@ -79886,7 +80373,7 @@
             "Solar Power"
           ],
           [
-            "Mold Breaker"
+            "Looming"
           ],
           [
             "Sun Blanket"
@@ -80050,7 +80537,7 @@
             "Solar Power"
           ],
           [
-            "Mold Breaker"
+            "Looming"
           ],
           [
             "Sun Blanket"
@@ -81295,6 +81782,7 @@
           "Amnesia",
           "Attract",
           "Block",
+          "Body Press",
           "Body Slam",
           "Bulldoze",
           "Bullet Seed",
@@ -81309,6 +81797,8 @@
           "Grassy Terrain",
           "Heavy Slam",
           "Horn Leech",
+          "Ingrain",
+          "Iron Defense",
           "Iron Head",
           "Iron Tail",
           "Light Screen",
@@ -81340,7 +81830,8 @@
           "Tickle",
           "Wide Guard",
           "Work Up",
-          "Worry Seed"
+          "Worry Seed",
+          "Trailblaze"
         ]
       },
       "blurb": "<p>The leaves on Turtwig’s head should be trimmed regularly to be in proper battling form if they’re taken to environments outside their home. In particularly damp biomes, this can take hours. The trimmings make good tea, so it’s not all bad.</p>\n"
@@ -81474,6 +81965,8 @@
           "Grass Pledge",
           "Growth",
           "Horn Leech",
+          "Ingrain",
+          "Iron Defense",
           "Iron Head",
           "Iron Tail",
           "Leaf Storm",
@@ -81507,7 +82000,8 @@
           "Tickle",
           "Wide Guard",
           "Work Up",
-          "Worry Seed"
+          "Worry Seed",
+          "Trailblaze"
         ]
       },
       "blurb": "<p>Grotle like to dig underground to sleep, only a pair of shrubs protruding from the surface. When these shrubs shake, Grotle knows something interesting is up above. Grotle can even track the branches that fall off for miles without error.</p>\n"
@@ -81605,7 +82099,7 @@
             "Wood Hammer"
           ],
           "11": [
-            "Ingrain"
+            "Shell Smash"
           ],
           "12": [
             "Terrain Pulse"
@@ -81630,6 +82124,7 @@
           "Amnesia",
           "Attract",
           "Block",
+          "Body Press",
           "Body Slam",
           "Bulldoze",
           "Bullet Seed",
@@ -81648,6 +82143,8 @@
           "Growth",
           "Horn Leech",
           "Hyper Beam",
+          "Ingrain",
+          "Iron Defense",
           "Iron Head",
           "Iron Tail",
           "Leaf Storm",
@@ -81657,6 +82154,7 @@
           "Protect",
           "Reflect",
           "Rest",
+          "Rock Blast",
           "Rock Slide",
           "Rock Tomb",
           "Round",
@@ -81664,7 +82162,6 @@
           "Sand Tomb",
           "Sandstorm",
           "Seed Bomb",
-          "Shell Smash",
           "Sleep Talk",
           "Snore",
           "Solar Beam",
@@ -81683,7 +82180,8 @@
           "Tickle",
           "Wide Guard",
           "Work Up",
-          "Worry Seed"
+          "Worry Seed",
+          "Trailblaze"
         ]
       },
       "blurb": "<p>Trainers who fall asleep in quiet forests might wake up in a strange new area with pure water springs. If they look at the tree they slept under, they’ll find it to be a part of Torterra’s back. When Trainers leave these grottos, they never seem to find them again.</p>\n"
@@ -82262,7 +82760,7 @@
             "Ice Body"
           ],
           [
-            "Defiant"
+            "Competitive"
           ]
         ]
       },
@@ -82411,13 +82909,13 @@
         ],
         "level5": [
           [
-            "Competitive"
+            "Defiant"
           ],
           [
             "Ice Body"
           ],
           [
-            "Defiant"
+            "Competitive"
           ]
         ]
       },
@@ -82583,7 +83081,7 @@
             "Ice Body"
           ],
           [
-            "Defiant"
+            "Competitive"
           ]
         ]
       },
@@ -83586,12 +84084,19 @@
             "Roar"
           ],
           "15": [
-            "Instruct"
+            "Clangorous Soul"
+          ],
+          "16": [
+            "Eerie Spell"
+          ],
+          "17": [
+            "Alluring Voice"
           ]
         },
         "tutor": [
           "Confide",
           "Flash",
+          "Instruct",
           "Parting Shot",
           "Rain Dance",
           "Screech",
@@ -83713,7 +84218,13 @@
             "Boomburst"
           ],
           "16": [
-            "Shadow Panic"
+            "Torch Song"
+          ],
+          "17": [
+            "Psychic Noise"
+          ],
+          "18": [
+            "Alluring Voice"
           ]
         },
         "tutor": [
@@ -88764,7 +89275,7 @@
             "Future Sight"
           ],
           "13": [
-            "Zen Headbutt"
+            "Psychic Noise"
           ],
           "14": [
             "Heal Block"
@@ -88825,7 +89336,8 @@
           "Telekinesis",
           "Trick",
           "Trick Room",
-          "Wonder Room"
+          "Wonder Room",
+          "Zen Headbutt"
         ]
       },
       "blurb": "<p>Bronzong gains no benefit from the rain it brings — it seeks cover in rainfall. Ruin Maniacs Monthly theorizes it summons rain to bargain for tribute from other species. If Bronzong cannot find food, it buries itself and sleeps until needed.</p>\n"
@@ -90479,7 +90991,7 @@
             "Poison Touch"
           ],
           [
-            "Deadly Poison"
+            "Merciless"
           ],
           [
             "Keen Eye"
@@ -90642,10 +91154,10 @@
         ],
         "level5": [
           [
-            "Merciless"
+            "Worker Bug"
           ],
           [
-            "Deadly Poison"
+            "Merciless"
           ],
           [
             "Keen Eye"
@@ -101058,7 +101570,8 @@
             "Simple Beam"
           ],
           "8": [
-            "Assurance"
+            "Assurance",
+            "Psychic Noise"
           ],
           "9": [
             "Barrier"
@@ -101238,7 +101751,8 @@
             "Simple Beam"
           ],
           "9": [
-            "Assurance"
+            "Assurance",
+            "Psychic Noise"
           ],
           "10": [
             "Imprison"
@@ -109389,7 +109903,7 @@
             "Overcoat"
           ],
           [
-            "Pickup"
+            "Toxic Debris"
           ],
           [
             "Aftermath"
@@ -109549,7 +110063,7 @@
             "Effect Spore"
           ],
           [
-            "Pickup"
+            "Toxic Debris"
           ],
           [
             "Aftermath"
@@ -113556,7 +114070,18 @@
             "Strength Sap"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger"
+        ]
       },
       "blurb": "<p>DNA sequencing suggests that Foongus might be a Unovan variant of Morelull. The Pokémon adapted to live in urban environments, luring Trainers rather than Pokémon. Trainers who fall for this ruse and get knocked unconscious find themselves missing their Poké Puffs.</p>\n"
     },
@@ -113672,7 +114197,18 @@
             "Strength Sap"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger"
+        ]
       },
       "blurb": "<p>Amoonguss generally do not realize their disguise no longer works after evolution. Trainers who refuse to fall for Amoonguss’ obvious ruse find themselves being chased down by the Pokémon and its poisonous spores, offended by the insult.</p>\n"
     }
@@ -118366,7 +118902,7 @@
         ],
         "level5": [
           [
-            "Weak Armor"
+            "Looming"
           ],
           [
             "Poltergeize"
@@ -118614,7 +119150,19 @@
             "X-Scissor"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Pawniard are dangerous pests when they enter urban areas. They’ll threaten shopkeepers, gang up on guard Pokémon, and even attack Trainers in public plazas. Pawniard packs only show up once a week no matter how bold they get, so towns at least get time to prepare.</p>\n"
     },
@@ -118735,7 +119283,19 @@
             "X-Scissor"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Bisharp don’t participate in battles it thinks are unworthy of its attention, only hitting the final blow. If it sees a Pokémon as strong as itself though, it challenges the target one on one and won’t let its Pawniards interfere.</p>\n"
     },
@@ -118857,7 +119417,19 @@
             "X-Scissor"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p><a href=\"https://www.youtube.com/watch?v=WjLBnBunehI\">https://www.youtube.com/watch?v=WjLBnBunehI</a></p>\n"
     }
@@ -120185,7 +120757,19 @@
             "Head Smash"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Deino has a powerful sense of smell, and it rushes to bonk its head into anything that smells new. If you’re just learning to cook curry, Deino is a great partner as it loves even a poorly made dish.</p>\n"
     },
@@ -120301,7 +120885,19 @@
             "Double-Edge"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Brainscans show that Zweilous only has one mind between both heads. Although the heads don’t get along, they almost always make the same decision. Their bickering is closer to an internal dialog than a fight between two different Pokémon.</p>\n"
     },
@@ -120418,7 +121014,19 @@
             "Hyper Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>When Hydreigon evolves, both its original heads become arms that can fire off Moves of their own and its brain matter reforms in the middle. Sometimes it argues with its arms out of habit, but they don’t talk back anymore.</p>\n"
     }
@@ -120529,7 +121137,19 @@
             "Sunsteel Strike"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>In autumn, people burn piles of dead leaves to try and attract Larvesta. Towns with a shrine gather together for one giant pile, making a fire that can be seen a mile away. Any Larvesta that stick around afterward are considered guests of the shrine and not to be captured.</p>\n"
     },
@@ -120645,7 +121265,19 @@
             "Sunsteel Strike"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Volcarona’s ember scales make a powerful incense that temples use in ancient rituals. The scales are dangerous to handle, as they burn with the slightest spark. They’re also easy to dislodge, so Stylists should be especially careful when grooming Volcarona.</p>\n"
     }
@@ -120693,7 +121325,7 @@
         ],
         "level5": [
           [
-            "Serene Grace"
+            "Regal Challenge"
           ],
           [
             "Dire Horn"
@@ -120709,7 +121341,7 @@
         "starting": [
           "Cut",
           "Helping Hand",
-          "Metal Claw",
+          "Smart Strike",
           "Work Up"
         ],
         "levelUp": {
@@ -120731,7 +121363,7 @@
             "Taunt"
           ],
           "7": [
-            "Smart Strike"
+            "Hard Press"
           ],
           "8": [
             "Sacred Sword",
@@ -131169,7 +131801,8 @@
             "Rock Slide"
           ],
           "7": [
-            "Crunch"
+            "Crunch",
+            "Morning Sun"
           ],
           "8": [
             "Stomping Tantrum"
@@ -131333,7 +131966,8 @@
             "Rock Slide"
           ],
           "7": [
-            "Crunch"
+            "Crunch",
+            "Morning Sun"
           ],
           "8": false,
           "9": [
@@ -131497,7 +132131,8 @@
             "Power Gem"
           ],
           "7": [
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Moonlight"
           ],
           "8": [
             "Nature Power"
@@ -131661,7 +132296,8 @@
             "Power Gem"
           ],
           "7": [
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Moonlight"
           ],
           "8": false,
           "9": [
@@ -146195,7 +146831,8 @@
             "Aqua Jet"
           ],
           "4": [
-            "Psywave"
+            "Psywave",
+            "Psychic Noise"
           ],
           "5": [
             "Screech"
@@ -146395,7 +147032,6 @@
         "tutor": [
           "Amnesia",
           "Attract",
-          "Battle Cry",
           "Blizzard",
           "Breaking Swipe",
           "Bulldoze",
@@ -146730,7 +147366,6 @@
         "tutor": [
           "Attract",
           "Aura Sphere",
-          "Battle Cry",
           "Body Press",
           "Breaking Swipe",
           "Brick Break",
@@ -146905,7 +147540,6 @@
         "tutor": [
           "Attract",
           "Aura Sphere",
-          "Battle Cry",
           "Body Press",
           "Breaking Swipe",
           "Brick Break",
@@ -147089,7 +147723,6 @@
         "tutor": [
           "Attract",
           "Aura Sphere",
-          "Battle Cry",
           "Body Press",
           "Breaking Swipe",
           "Brick Break",
@@ -148681,7 +149314,7 @@
             "Illuminate"
           ],
           [
-            "Levitate"
+            "Looming"
           ]
         ]
       },
@@ -149360,7 +149993,7 @@
             "Lunar Power"
           ],
           [
-            "Unburden"
+            "Looming"
           ]
         ]
       },
@@ -149823,7 +150456,7 @@
             "Multiple"
           ],
           [
-            "Compound Eyes"
+            "Looming"
           ],
           [
             "Sturdy"
@@ -155579,7 +156212,7 @@
             "Rock Blast"
           ],
           "10": [
-            "Strange Steam"
+            "Hydro Steam"
           ],
           "11": [
             "Blazing Torque"
@@ -156042,21 +156675,23 @@
       "moves": {
         "starting": [
           "Astonish",
-          "Withdraw"
+          "Withdraw",
+          "Recycle",
+          "Growth"
         ],
         "levelUp": {
           "2": false,
           "3": [
-            "Growth"
+            "Pounce"
           ],
           "4": false,
           "5": false,
           "6": [
-            "Life Dew"
+            "Protect"
           ],
           "7": false,
           "8": [
-            "First Impression"
+            "Life Dew"
           ],
           "9": false,
           "10": [
@@ -156066,7 +156701,7 @@
             "Rollout"
           ],
           "12": [
-            "Dragon Tail"
+            "First Impression"
           ],
           "13": [
             "Grav Apple",
@@ -156083,7 +156718,6 @@
         "tutor": [
           "Defense Curl",
           "Grassy Glide",
-          "Recycle",
           "Sucker Punch"
         ]
       },
@@ -156156,7 +156790,9 @@
         ],
         "starting": [
           "Astonish",
-          "Withdraw"
+          "Withdraw",
+          "Recycle",
+          "Growth"
         ],
         "levelUp": {
           "2": [
@@ -156227,7 +156863,6 @@
           "Hyper Beam",
           "Iron Defense",
           "Outrage",
-          "Recycle",
           "Rest",
           "Rollout",
           "Round",
@@ -156295,7 +156930,7 @@
             "Well-Baked Body"
           ],
           [
-            "Cheek Pouch"
+            "Cud Chew"
           ],
           [
             "Thick Fat"
@@ -156313,11 +156948,13 @@
         ],
         "starting": [
           "Astonish",
-          "Withdraw"
+          "Withdraw",
+          "Recycle",
+          "Growth"
         ],
         "levelUp": {
           "2": [
-            "Sweet Scent"
+            "Stomp"
           ],
           "3": [
             "Curse"
@@ -156385,7 +157022,6 @@
           "Light Screen",
           "Outrage",
           "Payback",
-          "Recycle",
           "Reflect",
           "Rest",
           "Rollout",
@@ -156404,6 +157040,249 @@
         ]
       },
       "blurb": "<p>Appletun sheds its skin once a month. People used to eat this skin as is, but modern health regulations state you should rinse it thoroughly. Chefs use the skin in all sorts of recipes, so a busy Chef may have an entire team of Appletun to never be left understocked.</p>\n"
+    },
+    {
+      "name": "Dipplin",
+      "type1": "Grass",
+      "type2": "Dragon",
+      "stats": [
+        {
+          "HP": 45
+        },
+        {
+          "ATK": 7,
+          "Athletics": 2
+        },
+        {
+          "DEF": 10,
+          "Endurance": 5
+        },
+        {
+          "SATK": 9,
+          "Focus": 4
+        },
+        {
+          "SDEF": 7,
+          "Stealth": 2
+        },
+        {
+          "SPE": 3,
+          "Acrobatics": -2
+        }
+      ],
+      "height": "1′4″",
+      "weight": 9.7,
+      "eggGroups": [
+        "Plant",
+        "Draconic"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Supersweet Syrup"
+          ],
+          [
+            "Gluttony"
+          ]
+        ],
+        "level5": [
+          [
+            "Multiple"
+          ],
+          [
+            "Ripen"
+          ],
+          [
+            "Sticky Hold"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {
+        "by": "Syrupy Apple",
+        "from": "Applin"
+      },
+      "moves": {
+        "form": [
+          "Double Hit"
+        ],
+        "starting": [
+          "Astonish",
+          "Withdraw",
+          "Recycle",
+          "Growth"
+        ],
+        "levelUp": {
+          "2": [
+            "Dragon Tail"
+          ],
+          "3": [
+            "Sweet Scent"
+          ],
+          "4": [
+            "Infestation",
+            "Dragon Rage"
+          ],
+          "5": [
+            "Substitute"
+          ],
+          "6": [
+            "Syrup Bomb"
+          ],
+          "7": [
+            "Protect"
+          ],
+          "8": [
+            "Dragon Cheer"
+          ],
+          "9": [
+            "Bullet Seed"
+          ],
+          "10": [
+            "Dragon Pulse"
+          ],
+          "11": [
+            "Recover"
+          ],
+          "12": [
+            "Scale Shot"
+          ],
+          "13": [
+            "Energy Ball"
+          ],
+          "14": [
+            "Gunk Shot"
+          ],
+          "15": [
+            "Natural Gift"
+          ],
+          "16": [
+            "Shell Smash"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Hydrapple",
+      "type1": "Grass",
+      "type2": "Dragon",
+      "stats": [
+        {
+          "HP": 60
+        },
+        {
+          "ATK": 7,
+          "Athletics": 2
+        },
+        {
+          "DEF": 10,
+          "Endurance": 5
+        },
+        {
+          "SATK": 11,
+          "Focus": 6
+        },
+        {
+          "SDEF": 7,
+          "Stealth": 2
+        },
+        {
+          "SPE": 3,
+          "Acrobatics": -2
+        }
+      ],
+      "height": "5′11″",
+      "weight": 205,
+      "eggGroups": [
+        "Plant",
+        "Draconic"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Supersweet Syrup"
+          ],
+          [
+            "Regenerator"
+          ]
+        ],
+        "level5": [
+          [
+            "Multiple"
+          ],
+          [
+            "Gluttony"
+          ],
+          [
+            "Sticky Hold"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {
+        "by": "Know Dragon Cheer",
+        "from": "Dipplin"
+      },
+      "moves": {
+        "form": [
+          "Fickle Beam"
+        ],
+        "starting": [
+          "Astonish",
+          "Withdraw",
+          "Recycle",
+          "Growth"
+        ],
+        "levelUp": {
+          "2": false,
+          "3": [
+            "Dragon Tail"
+          ],
+          "4": [
+            "Yawn"
+          ],
+          "5": [
+            "Infestation",
+            "Dragon Rage"
+          ],
+          "6": [
+            "Substitute"
+          ],
+          "7": [
+            "Syrup Bomb"
+          ],
+          "8": [
+            "Protect"
+          ],
+          "9": [
+            "Dragon Cheer"
+          ],
+          "10": [
+            "Bullet Seed"
+          ],
+          "11": [
+            "Dragon Pulse"
+          ],
+          "12": [
+            "Recover"
+          ],
+          "13": [
+            "Scale Shot"
+          ],
+          "14": [
+            "Energy Ball"
+          ],
+          "15": [
+            "Power Whip"
+          ],
+          "16": [
+            "Natural Gift"
+          ],
+          "17": [
+            "Nasty Plot"
+          ]
+        }
+      }
     }
   ],
   "silicobra": [
@@ -157421,7 +158300,7 @@
             {
               "oneOf": [
                 "Clanging Scales",
-                "Mirror Move"
+                "Dragon Cheer"
               ]
             }
           ],
@@ -158208,7 +159087,7 @@
             "Sludge Wave"
           ],
           "15": [
-            "Strength Sap"
+            "Teatime"
           ]
         },
         "tutor": [
@@ -158240,6 +159119,7 @@
           "Soak",
           "Stone Edge",
           "Stored Power",
+          "Strength Sap",
           "Substitute",
           "Swift",
           "Telekinesis",
@@ -158403,6 +159283,231 @@
         ]
       },
       "blurb": "<p>Polteageist that grow too big for its teapot (physically or emotionally) will search for a bigger home. In fall, you may see many Polteageist line up by a discarded piece of china. When a Polteageist of the right size enters the new pot, they all scramble to swap their old ones.</p>\n"
+    }
+  ],
+  "poltchageist": [
+    {
+      "name": "Poltchageist",
+      "type1": "Grass",
+      "type2": "Ghost",
+      "stats": [
+        {
+          "HP": 25
+        },
+        {
+          "ATK": 4,
+          "Athletics": -1
+        },
+        {
+          "DEF": 4,
+          "Endurance": -1
+        },
+        {
+          "SATK": 6,
+          "Focus": 1
+        },
+        {
+          "SDEF": 4,
+          "Stealth": -1
+        },
+        {
+          "SPE": 4,
+          "Acrobatics": -1
+        }
+      ],
+      "height": "4″",
+      "weight": 2.4,
+      "eggGroups": [
+        "Mineral",
+        "Amorphous"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Hospitality"
+          ]
+        ],
+        "level5": [
+          [
+            "Aroma Veil"
+          ],
+          [
+            "Weak Armor"
+          ],
+          [
+            "Heatproof"
+          ]
+        ]
+      },
+      "catchDC": 10,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Astonish",
+          "Withdraw",
+          "Mega Drain",
+          "Stun Spore"
+        ],
+        "levelUp": {
+          "2": [
+            "Life Dew"
+          ],
+          "3": [
+            "Foul Play"
+          ],
+          "4": [
+            "Hex"
+          ],
+          "5": [
+            "Giga Drain"
+          ],
+          "6": [
+            "Rage Powder"
+          ],
+          "7": [
+            "Shadow Ball"
+          ],
+          "8": [
+            "Pain Split"
+          ],
+          "9": [
+            "Memento"
+          ],
+          "10": [
+            "Poltergeist"
+          ],
+          "11": [
+            "Leaf Storm"
+          ],
+          "12": [
+            "Strength Sap"
+          ],
+          "13": [
+            "Sparkly Swirl"
+          ],
+          "14": [
+            "Sleep Powder"
+          ],
+          "15": [
+            "Recycle"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Sinistcha",
+      "type1": "Grass",
+      "type2": "Ghost",
+      "stats": [
+        {
+          "HP": 40
+        },
+        {
+          "ATK": 5,
+          "Athletics": 0
+        },
+        {
+          "DEF": 10,
+          "Endurance": 5
+        },
+        {
+          "SATK": 11,
+          "Focus": 6
+        },
+        {
+          "SDEF": 7,
+          "Stealth": 2
+        },
+        {
+          "SPE": 6,
+          "Acrobatics": 1
+        }
+      ],
+      "height": "8″",
+      "weight": 4.9,
+      "eggGroups": [
+        "Mineral",
+        "Amorphous"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Hospitality"
+          ]
+        ],
+        "level5": [
+          [
+            "Lifedrinker"
+          ],
+          [
+            "Weak Armor"
+          ],
+          [
+            "Heatproof"
+          ]
+        ]
+      },
+      "catchDC": 18,
+      "evolves": {
+        "by": "Old Teacup",
+        "from": "Poltchageist"
+      },
+      "moves": {
+        "form": [
+          "Matcha Gotcha"
+        ],
+        "starting": [
+          "Astonish",
+          "Withdraw",
+          "Mega Drain",
+          "Stun Spore"
+        ],
+        "levelUp": {
+          "2": false,
+          "3": [
+            "Life Dew"
+          ],
+          "4": [
+            "Foul Play"
+          ],
+          "5": [
+            "Hex"
+          ],
+          "6": [
+            "Giga Drain"
+          ],
+          "7": [
+            "Rage Powder"
+          ],
+          "8": [
+            "Shadow Ball"
+          ],
+          "9": [
+            "Scald"
+          ],
+          "10": [
+            "Memento"
+          ],
+          "11": [
+            "Wood Hammer"
+          ],
+          "12": [
+            "Leaf Storm"
+          ],
+          "13": [
+            "Strength Sap"
+          ],
+          "14": [
+            "Moonblast"
+          ],
+          "15": [
+            "Bouncy Bubble"
+          ],
+          "16": [
+            "Psych Up"
+          ]
+        }
+      }
     }
   ],
   "hatenna": [
@@ -161411,7 +162516,7 @@
         ],
         "level5": [
           [
-            "Regal Challenge"
+            "Looming"
           ],
           [
             "Water Compaction"
@@ -162225,7 +163330,8 @@
             "Metal Sound"
           ],
           "4": [
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Dragon Tail"
           ],
           "5": [
             "Autotomize"
@@ -162234,10 +163340,11 @@
             "Magnet Bomb"
           ],
           "7": [
-            "Iron Defense"
+            "Iron Defense",
+            "Laser Focus"
           ],
           "8": [
-            "Laser Focus"
+            "Flamethrower"
           ],
           "9": [
             "Dragon Claw",
@@ -162256,7 +163363,7 @@
             "Hyper Beam"
           ],
           "14": [
-            "Flamethrower"
+            "Hard Press"
           ],
           "15": [
             "Focus Blast"
@@ -162271,7 +163378,6 @@
           "Curse",
           "Dark Pulse",
           "Draco Meteor",
-          "Dragon Tail",
           "Egg Tooth",
           "Endure",
           "Facade",
@@ -162310,6 +163416,127 @@
         ]
       },
       "blurb": "<p>Duraludon pulverizes gemstones with its specially-shaped claws. It uses the powder to clean its alloy armor in place of water. Gemstones are Tyranitar’s second favorite food, so it attacks Duraludon on sight. One way or the other, the battles never last long.</p>\n"
+    },
+    {
+      "name": "Archaludon",
+      "type1": "Steel",
+      "type2": "Dragon",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 10,
+          "Athletics": 5
+        },
+        {
+          "DEF": 12,
+          "Endurance": 7
+        },
+        {
+          "SATK": 12,
+          "Focus": 7
+        },
+        {
+          "SDEF": 6,
+          "Stealth": 1
+        },
+        {
+          "SPE": 8,
+          "Acrobatics": 3
+        }
+      ],
+      "height": "6′7″",
+      "weight": 132.3,
+      "eggGroups": [
+        "Mineral",
+        "Draconic"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Stamina"
+          ],
+          [
+            "Sturdy"
+          ]
+        ],
+        "level5": [
+          [
+            "Lightning Rod"
+          ],
+          [
+            "Beam Cannon"
+          ],
+          [
+            "Stalwart"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {
+        "by": "Metal Alloy",
+        "from": "Duraludon"
+      },
+      "moves": {
+        "form": [
+          "Electro Shot"
+        ],
+        "starting": [
+          "Metal Claw",
+          "Leer",
+          "Dragon Rage",
+          "Rock Smash"
+        ],
+        "levelUp": {
+          "2": false,
+          "3": [
+            "Hone Claws"
+          ],
+          "4": [
+            "Metal Sound"
+          ],
+          "5": [
+            "Breaking Swipe",
+            "Dragon Tail"
+          ],
+          "6": [
+            "Curse"
+          ],
+          "7": [
+            "Stomp"
+          ],
+          "8": [
+            "Iron Defense",
+            "Laser Focus"
+          ],
+          "9": [
+            "Crunch"
+          ],
+          "10": [
+            "Dragon Claw",
+            "Dragon Pulse"
+          ],
+          "11": [
+            "Flash Cannon"
+          ],
+          "12": [
+            "Metal Burst"
+          ],
+          "13": [
+            "Steel Beam"
+          ],
+          "14": [
+            "Hyper Beam"
+          ],
+          "15": [
+            "Hard Press"
+          ],
+          "16": [
+            "Earthquake"
+          ]
+        }
+      }
     }
   ],
   "dreepy": [
@@ -163443,7 +164670,7 @@
             "Tinted Lens"
           ],
           [
-            "Levitate"
+            "Looming"
           ],
           [
             "Power Spot"
@@ -163582,7 +164809,7 @@
             "Beam Cannon"
           ],
           [
-            "Levitate"
+            "Looming"
           ],
           [
             "Power Spot"
@@ -165279,7 +166506,53 @@
             "Me First"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Acrobatics",
+          "Agility",
+          "Ally Switch",
+          "Attract",
+          "Bullet Seed",
+          "Captivate",
+          "Charm",
+          "Confide",
+          "Copycat",
+          "Disarming Voice",
+          "Double Team",
+          "Endure",
+          "Facade",
+          "Fake Tears",
+          "Giga Drain",
+          "Grass Knot",
+          "Grass Pledge",
+          "Grassy Glide",
+          "Grassy Terrain",
+          "Helping Hand",
+          "Leaf Storm",
+          "Leech Seed",
+          "Misty Terrain",
+          "Mud-Slap",
+          "Nasty Plot",
+          "Petal Blizzard",
+          "Protect",
+          "Quick Attack",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Shadow Claw",
+          "Skitter Smack",
+          "Sleep Talk",
+          "Solar Beam",
+          "Substitute",
+          "Sucker Punch",
+          "Swagger",
+          "Swift",
+          "Tail Whip",
+          "Take Down",
+          "Taunt",
+          "Toxic",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       }
     },
     {
@@ -165395,7 +166668,55 @@
             "Fleur Cannon"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Acrobatics",
+          "Aerial Ace",
+          "Agility",
+          "Ally Switch",
+          "Attract",
+          "Bullet Seed",
+          "Captivate",
+          "Charm",
+          "Confide",
+          "Copycat",
+          "Disarming Voice",
+          "Double Team",
+          "Endure",
+          "Facade",
+          "Fake Tears",
+          "Fling",
+          "Giga Drain",
+          "Grass Pledge",
+          "Grassy Glide",
+          "Grassy Terrain",
+          "Helping Hand",
+          "Leaf Storm",
+          "Leech Seed",
+          "Low Kick",
+          "Low Sweep",
+          "Mud-Slap",
+          "Nasty Plot",
+          "Petal Blizzard",
+          "Protect",
+          "Quick Attack",
+          "Rest",
+          "Round",
+          "Shadow Claw",
+          "Skitter Smack",
+          "Sleep Talk",
+          "Solar Beam",
+          "Substitute",
+          "Sucker Punch",
+          "Swagger",
+          "Swift",
+          "Tail Whip",
+          "Take Down",
+          "Taunt",
+          "Thunder Punch",
+          "Toxic",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       },
       "blurb": "<p>absolutely refuses to learn the “walking the dog” yoyo trick</p>\n"
     },
@@ -165514,7 +166835,69 @@
             "Pollen Puff"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Acrobatics",
+          "Aerial Ace",
+          "Agility",
+          "Ally Switch",
+          "Attract",
+          "Aura Sphere",
+          "Brick Break",
+          "Bullet Seed",
+          "Captivate",
+          "Charm",
+          "Confide",
+          "Copycat",
+          "Dark Pulse",
+          "Disarming Voice",
+          "Double Team",
+          "Endure",
+          "Facade",
+          "Fake Tears",
+          "Foul Play",
+          "Frenzy Plant",
+          "Giga Drain",
+          "Giga Impact",
+          "Grass Knot",
+          "Grass Pledge",
+          "Grassy Glide",
+          "Helping Hand",
+          "Hyper Beam",
+          "Leech Seed",
+          "Low Kick",
+          "Low Sweep",
+          "Mud-Slap",
+          "Nasty Plot",
+          "Petal Blizzard",
+          "Power Gem",
+          "Protect",
+          "Quick Attack",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Shadow Ball",
+          "Shadow Claw",
+          "Skill Swap",
+          "Skitter Smack",
+          "Sleep Talk",
+          "Solar Beam",
+          "Spikes",
+          "Substitute",
+          "Sucker Punch",
+          "Swagger",
+          "Swift",
+          "Tail Whip",
+          "Take Down",
+          "Taunt",
+          "Thunder Punch",
+          "Toxic",
+          "Toxic Spikes",
+          "Trick",
+          "Trick Room",
+          "Chilling Water",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       },
       "blurb": "<p>hiding the flower stem lets it attack more unexpectedly than Floragato, since opponents could read the string positioning before the bud swung around. Also Paldean brides do NOT toss bouquets at weddings</p>\n"
     }
@@ -165624,7 +167007,44 @@
             "Burn Up"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Body Slam",
+          "Captivate",
+          "Confide",
+          "Curse",
+          "Dig",
+          "Disarming Voice",
+          "Double Team",
+          "Egg Tooth",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fire Fang",
+          "Fire Pledge",
+          "Fire Spin",
+          "Flame Charge",
+          "Flare Blitz",
+          "Heat Wave",
+          "Helping Hand",
+          "Mud-Slap",
+          "Outrage",
+          "Overheat",
+          "Protect",
+          "Rest",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Take Down",
+          "Thunder Fang",
+          "Toxic",
+          "Will-O-Wisp",
+          "Zen Headbutt",
+          "Tera Blast"
+        ]
       }
     },
     {
@@ -165738,7 +167158,45 @@
             "Pyro Ball"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Belch",
+          "Body Slam",
+          "Captivate",
+          "Confide",
+          "Crunch",
+          "Curse",
+          "Dig",
+          "Disarming Voice",
+          "Double Team",
+          "Egg Tooth",
+          "Endure",
+          "Facade",
+          "Fire Fang",
+          "Fire Pledge",
+          "Fire Spin",
+          "Flame Charge",
+          "Flare Blitz",
+          "Heat Wave",
+          "Helping Hand",
+          "Mud-Slap",
+          "Overheat",
+          "Protect",
+          "Rest",
+          "Seed Bomb",
+          "Slack Off",
+          "Sleep Talk",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Take Down",
+          "Thunder Fang",
+          "Toxic",
+          "Will-O-Wisp",
+          "Zen Headbutt",
+          "Tera Blast"
+        ]
       }
     },
     {
@@ -165854,7 +167312,56 @@
             "Overheat"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Belch",
+          "Blast Burn",
+          "Body Slam",
+          "Captivate",
+          "Confide",
+          "Crunch",
+          "Curse",
+          "Dig",
+          "Disarming Voice",
+          "Double Team",
+          "Earth Power",
+          "Earthquake",
+          "Egg Tooth",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fire Fang",
+          "Fire Pledge",
+          "Fire Spin",
+          "Flame Charge",
+          "Flare Blitz",
+          "Giga Impact",
+          "Heat Wave",
+          "Helping Hand",
+          "Hyper Beam",
+          "Imprison",
+          "Mud-Slap",
+          "Night Shade",
+          "Outrage",
+          "Protect",
+          "Rest",
+          "Scary Face",
+          "Seed Bomb",
+          "Shadow Claw",
+          "Skull Bash",
+          "Slack Off",
+          "Sleep Talk",
+          "Solar Beam",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Take Down",
+          "Thunder Fang",
+          "Toxic",
+          "Zen Headbutt",
+          "Tera Blast"
+        ]
       }
     }
   ],
@@ -165964,7 +167471,38 @@
             "Surging Strikes"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Aerial Ace",
+          "Air Cutter",
+          "Attract",
+          "Baton Pass",
+          "Captivate",
+          "Confide",
+          "Detect",
+          "Disarming Voice",
+          "Double Team",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Helping Hand",
+          "Hydro Pump",
+          "Last Resort",
+          "Misty Terrain",
+          "Protect",
+          "Rain Dance",
+          "Rapid Spin",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Surf",
+          "Swagger",
+          "Swift",
+          "Take Down",
+          "Toxic",
+          "Water Pledge",
+          "Chilling Water",
+          "Tera Blast"
+        ]
       }
     },
     {
@@ -166079,7 +167617,41 @@
             "Muddy Water"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Aerial Ace",
+          "Air Cutter",
+          "Attract",
+          "Baton Pass",
+          "Brave Bird",
+          "Captivate",
+          "Confide",
+          "Detect",
+          "Disarming Voice",
+          "Double Team",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Helping Hand",
+          "Hydro Pump",
+          "Last Resort",
+          "Low Kick",
+          "Misty Terrain",
+          "Protect",
+          "Rain Dance",
+          "Rapid Spin",
+          "Rest",
+          "Roost",
+          "Round",
+          "Sleep Talk",
+          "Surf",
+          "Swagger",
+          "Swift",
+          "Take Down",
+          "Toxic",
+          "Water Pledge",
+          "Chilling Water",
+          "Tera Blast"
+        ]
       }
     },
     {
@@ -166196,7 +167768,55 @@
             "Wave Crash"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Aerial Ace",
+          "Agility",
+          "Air Cutter",
+          "Attract",
+          "Baton Pass",
+          "Brave Bird",
+          "Brick Break",
+          "Bulk Up",
+          "Captivate",
+          "Confide",
+          "Detect",
+          "Disarming Voice",
+          "Double Team",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fling",
+          "Giga Impact",
+          "Helping Hand",
+          "Hurricane",
+          "Hydro Cannon",
+          "Hydro Pump",
+          "Hyper Beam",
+          "Icy Wind",
+          "Last Resort",
+          "Low Kick",
+          "Misty Terrain",
+          "Protect",
+          "Rain Dance",
+          "Rapid Spin",
+          "Rest",
+          "Roost",
+          "Round",
+          "Sleep Talk",
+          "Substitute",
+          "Surf",
+          "Swagger",
+          "Swift",
+          "Swords Dance",
+          "Take Down",
+          "Taunt",
+          "Toxic",
+          "U-Turn",
+          "Water Pledge",
+          "Water Pulse",
+          "Chilling Water",
+          "Tera Blast"
+        ]
       }
     }
   ],
@@ -166318,7 +167938,39 @@
             "Gyro Ball"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Body Slam",
+          "Bulldoze",
+          "Bullet Seed",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Endeavor",
+          "Endure",
+          "Facade",
+          "Helping Hand",
+          "Hyper Voice",
+          "Iron Head",
+          "Mud-Slap",
+          "Play Rough",
+          "Protect",
+          "Rain Dance",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Take Down",
+          "Thief",
+          "Toxic",
+          "Zen Headbutt",
+          "Chilling Water",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       }
     },
     {
@@ -166445,7 +168097,46 @@
             "Sparkly Swirl"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Body Press",
+          "Body Slam",
+          "Bulldoze",
+          "Bullet Seed",
+          "Confide",
+          "Double Team",
+          "Endeavor",
+          "Endure",
+          "Energy Ball",
+          "Facade",
+          "Giga Impact",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Iron Head",
+          "Mud-Slap",
+          "Play Rough",
+          "Protect",
+          "Rain Dance",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Spit Up",
+          "Stockpile",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Swallow",
+          "Take Down",
+          "Thief",
+          "Toxic",
+          "Zen Headbutt",
+          "Chilling Water",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       }
     },
     {
@@ -166572,7 +168263,47 @@
             "Sparkly Swirl"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Body Press",
+          "Body Slam",
+          "Bulldoze",
+          "Bullet Seed",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Endeavor",
+          "Endure",
+          "Energy Ball",
+          "Facade",
+          "Giga Impact",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Iron Head",
+          "Mud-Slap",
+          "Play Rough",
+          "Protect",
+          "Rain Dance",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Spit Up",
+          "Stockpile",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Swallow",
+          "Take Down",
+          "Thief",
+          "Toxic",
+          "Zen Headbutt",
+          "Chilling Water",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       }
     }
   ],
@@ -166628,7 +168359,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 2,
       "evolves": {},
       "moves": {
         "starting": [
@@ -166687,7 +168418,18 @@
             "Power Whip"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>It’s a mercy that Tarountula doesn’t use its silk like most spiders do, because the silk’s durability and strength make it tremendously difficult to clean up. The fishing industry pays top dollar for it.</p>\n"
     },
@@ -166742,7 +168484,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 7,
       "evolves": {
         "by": "Level 3",
         "from": "Tarountula"
@@ -166808,7 +168550,19 @@
             "Close Combat"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>spidops in urban areas hang from bridges and attempt to ensnare anything that passes by; they confusedly attempt to ensnare a lot of vehicles</p>\n"
     }
@@ -166865,7 +168619,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -166920,7 +168674,19 @@
             "High Jump Kick"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     },
     {
@@ -166975,7 +168741,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 12,
       "evolves": {
         "by": "Level 5",
         "from": "Nymble"
@@ -167037,7 +168803,19 @@
             "Axe Kick"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Lokix swarms are bad for both plants AND animals</p>\n"
     }
@@ -167097,7 +168875,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -167151,7 +168929,45 @@
             "Plasma Fists"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Baton Pass",
+          "Captivate",
+          "Charge Beam",
+          "Charm",
+          "Confide",
+          "Crunch",
+          "Double Team",
+          "Eerie Impulse",
+          "Electric Terrain",
+          "Electro Ball",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fake Out",
+          "Fling",
+          "Helping Hand",
+          "Mach Punch",
+          "Metal Claw",
+          "Protect",
+          "Rain Dance",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Sweet Kiss",
+          "Swift",
+          "Take Down",
+          "Thief",
+          "Thunder",
+          "Thunder Fang",
+          "Thunderbolt",
+          "Toxic",
+          "Wish",
+          "Tera Blast"
+        ]
       }
     },
     {
@@ -167209,7 +169025,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {
         "by": "Level 4",
         "from": "Pawmi"
@@ -167270,7 +169086,48 @@
             "Plasma Fists"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Baton Pass",
+          "Captivate",
+          "Charge Beam",
+          "Charm",
+          "Confide",
+          "Crunch",
+          "Double Team",
+          "Eerie Impulse",
+          "Electric Terrain",
+          "Electro Ball",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fake Out",
+          "Fling",
+          "Helping Hand",
+          "Low Kick",
+          "Low Sweep",
+          "Metal Claw",
+          "Play Rough",
+          "Protect",
+          "Rain Dance",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Sweet Kiss",
+          "Swift",
+          "Take Down",
+          "Thief",
+          "Thunder",
+          "Thunder Fang",
+          "Thunderbolt",
+          "Toxic",
+          "Volt Switch",
+          "Wish",
+          "Tera Blast"
+        ]
       }
     },
     {
@@ -167328,7 +169185,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 16,
       "evolves": {
         "by": "Level 6",
         "from": "Pawmo"
@@ -167390,7 +169247,60 @@
             "Low Sweep"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Baton Pass",
+          "Body Press",
+          "Brick Break",
+          "Bulk Up",
+          "Captivate",
+          "Charge Beam",
+          "Charm",
+          "Confide",
+          "Crunch",
+          "Double Team",
+          "Eerie Impulse",
+          "Electric Terrain",
+          "Electro Ball",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fake Out",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Giga Impact",
+          "Grass Knot",
+          "Helping Hand",
+          "Hyper Beam",
+          "Ice Punch",
+          "Low Kick",
+          "Metal Claw",
+          "Metronome",
+          "Play Rough",
+          "Protect",
+          "Rain Dance",
+          "Rest",
+          "Rock Tomb",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Sweet Kiss",
+          "Swift",
+          "Take Down",
+          "Thief",
+          "Thunder",
+          "Thunder Fang",
+          "Thunderbolt",
+          "Toxic",
+          "Volt Switch",
+          "Wild Charge",
+          "Wish",
+          "Tera Blast"
+        ]
       },
       "blurb": "<p>Pawmot with little electricity left appear deflated as all the volume leaves their fur</p>\n"
     }
@@ -167451,7 +169361,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 5,
       "evolves": {},
       "moves": {
         "starting": [
@@ -167504,7 +169414,18 @@
             "Return"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>college debt joke (who is their creditor?)</p>\n"
     },
@@ -167563,7 +169484,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 16,
       "evolves": {
         "by": "Level 5 when you’re not looking",
         "from": "Tandemaus"
@@ -167628,7 +169549,19 @@
             "Frustration"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>we gotta say SOMETHING involve how its evolution happens without fanfare; “Tandemaus’s evolution into Maushold is considered somewhat of a mystery, as the little individuals that form the group seem to appear out of nowhere.”</p>\n<p><strong>Pokéfeature:</strong> When Tandemaus evolves, you may choose if it evolves into the Family of Three or Family of Four form of Maushold.</p>\n"
     }
@@ -167686,7 +169619,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -167744,7 +169677,19 @@
             "Last Resort"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>does the fermentation breath cause any problems? is it a common brewery pet/mascot?</p>\n"
     },
@@ -167800,7 +169745,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 15,
       "evolves": {
         "by": "Level 5",
         "from": "Fidough"
@@ -167863,7 +169808,19 @@
             "Last Resort"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>they live in packs of 13</p>\n"
     }
@@ -167921,7 +169878,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 2,
       "evolves": {},
       "moves": {
         "starting": [
@@ -167975,7 +169932,36 @@
             "Solar Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Bullet Seed",
+          "Captivate",
+          "Charm",
+          "Confide",
+          "Double Team",
+          "Earth Power",
+          "Endure",
+          "Facade",
+          "Grass Knot",
+          "Grassy Terrain",
+          "Helping Hand",
+          "Leaf Storm",
+          "Magical Leaf",
+          "Memento",
+          "Protect",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Strength Sap",
+          "Substitute",
+          "Swagger",
+          "Swift",
+          "Synthesis",
+          "Toxic",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       }
     },
     {
@@ -168030,7 +170016,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {
         "by": "Level 5",
         "from": "Smoliv"
@@ -168090,7 +170076,33 @@
             "Solar Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Bullet Seed",
+          "Captivate",
+          "Charm",
+          "Confide",
+          "Double Team",
+          "Endure",
+          "Facade",
+          "Grass Knot",
+          "Leaf Storm",
+          "Magical Leaf",
+          "Memento",
+          "Protect",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Strength Sap",
+          "Substitute",
+          "Swagger",
+          "Swift",
+          "Synthesis",
+          "Toxic",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       },
       "blurb": "<p>how does Dolliv know when its journey is over?</p>\n"
     },
@@ -168146,7 +170158,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 20,
       "evolves": {
         "by": "Level 7",
         "from": "Dolliv"
@@ -168207,7 +170219,44 @@
             "Solar Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Bullet Seed",
+          "Captivate",
+          "Charm",
+          "Confide",
+          "Dazzling Gleam",
+          "Double Team",
+          "Earth Power",
+          "Encore",
+          "Endure",
+          "Facade",
+          "Fling",
+          "Giga Impact",
+          "Grass Knot",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Light Screen",
+          "Magical Leaf",
+          "Memento",
+          "Metronome",
+          "Pollen Puff",
+          "Protect",
+          "Reflect",
+          "Rest",
+          "Round",
+          "Seed Bomb",
+          "Sleep Talk",
+          "Strength Sap",
+          "Substitute",
+          "Swagger",
+          "Swift",
+          "Synthesis",
+          "Toxic",
+          "Tera Blast",
+          "Trailblaze"
+        ]
       },
       "blurb": "<p>maybe work in my “sacred oil” theory as to why it’s Normal-Type here, since the ghost immunity is the only thing it seems to benefit from</p>\n"
     }
@@ -168272,7 +170321,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -168340,7 +170389,17 @@
             }
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p><strong>Pokéfeature:</strong> Rowdy/Defiant/Tough Claws/Stake Out for Green/Blue/Yellow/White, and also a choice between Guts/Sheer Force for (I think) Green/Blue and Yellow/White?</p>\n"
     }
@@ -168400,7 +170459,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 2,
       "evolves": {},
       "moves": {
         "starting": [
@@ -168454,7 +170513,19 @@
             "Purify"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>nacli has a complicated relationship with the ocean. and/or: what’s up with that internal glow?</p>\n"
     },
@@ -168512,7 +170583,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {
         "by": "Level 5",
         "from": "Nacli"
@@ -168573,9 +170644,21 @@
             "Purify"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>what’s up with the quadruped body plan</p>\n"
+      "blurb": "<p>While it has much greater mobility than its pre-evolution, Naclstack still needs the stability of four legs while it learns how to walk.</p>\n"
     },
     {
       "name": "Garganacl",
@@ -168631,7 +170714,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 20,
       "evolves": {
         "by": "Level 8",
         "from": "Naclstack"
@@ -168693,7 +170776,19 @@
             "Purify"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the obvious visual layers of sediment correspond to increased hardness as you go down, since its weight increasingly bears down and compresses each lower layer</p>\n"
     }
@@ -168750,7 +170845,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 8,
       "evolves": {},
       "moves": {
         "starting": [
@@ -168804,7 +170899,19 @@
             "Wood Hammer"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>why does it need armor to evolve?</p>\n"
     },
@@ -168860,7 +170967,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 20,
       "evolves": {
         "by": "Auspicious Armor",
         "from": "Charcadet"
@@ -168921,7 +171028,19 @@
             "Body Press"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the “blessed armor” (JP name) is made from bronzor fragments</p>\n"
     },
@@ -168977,7 +171096,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 20,
       "evolves": {
         "by": "Malicious Armor",
         "from": "Charcadet"
@@ -169038,7 +171157,19 @@
             "Close Combat"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the “cursed armor” (JP name) is made from sinistea chips</p>\n"
     }
@@ -169098,7 +171229,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -169151,7 +171282,19 @@
             "Splishy Splash"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     },
     {
@@ -169208,7 +171351,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 12,
       "evolves": {
         "by": "Thunder Stone",
         "from": "Tadbulb"
@@ -169271,7 +171414,19 @@
             "Muddy Water"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Emergency mobile powerplants can be quickly stood up by placing several Bellibolt in the bed of a pickup truck and taking them off-road. This also delights the Bellibolt</p>\n"
     }
@@ -169333,7 +171488,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -169388,7 +171543,19 @@
             "Bolt Beak"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>wattrel’s feathers are coated in an oil that cuts down on its drag in the water, and also insulates its own electricity to prevent electric arcing in water</p>\n"
     },
@@ -169448,7 +171615,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 15,
       "evolves": {
         "by": "Level 5",
         "from": "Wattrel"
@@ -169512,7 +171679,19 @@
             "Spit Up"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the oils wattrel previously used to swim through the water have been changed to capacitative oils for stronger electricity</p>\n"
     }
@@ -169572,7 +171751,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 5,
       "evolves": {},
       "moves": {
         "starting": [
@@ -169628,7 +171807,18 @@
             "Endeavor"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       }
     },
     {
@@ -169685,7 +171875,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 16,
       "evolves": {
         "by": "Level 6",
         "from": "Masschiff"
@@ -169748,7 +171938,18 @@
             "Endeavor"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       }
     }
   ],
@@ -169808,7 +172009,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -169863,7 +172064,19 @@
             "Sketch"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>hint at the Kilroy Was Here joke somehow</p>\n"
     },
@@ -169922,7 +172135,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 15,
       "evolves": {
         "by": "Level 6",
         "from": "Shroodle"
@@ -169982,9 +172195,21 @@
             "Decorate"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>what happens if Grafaiai meets Smeargle?</p>\n"
+      "blurb": "<p>what happens if Grafaiai meets Smeargle? do they have turf squabbles, or do they unexpectedly collaborate?</p>\n"
     }
   ],
   "bramblin": [
@@ -170040,7 +172265,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -170100,7 +172325,19 @@
             "Destiny Bond"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>how does rolling over a great distance help it evolve? it’s the only 1000-step evo mon where it’s not explained</p>\n"
     },
@@ -170156,7 +172393,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 18,
       "evolves": {
         "by": "Level 6",
         "from": "Bramblin"
@@ -170223,7 +172460,19 @@
             "Destiny Bond"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>brambleghast racing is too hazardous since gust direction changes can cause problems</p>\n"
     }
@@ -170336,7 +172585,19 @@
             "Wring Out"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     },
     {
@@ -170453,7 +172714,19 @@
             "Wring Out"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>what did it get by trading its incredibly fast running as a Toedscool?</p>\n"
     }
@@ -170513,7 +172786,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 12,
       "evolves": {},
       "moves": {
         "starting": [
@@ -170566,7 +172839,18 @@
             "Crabhammer"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Festive wooden ornaments that crack nuts are designed to look like Klawf. When real Klawf are used this way, no trace of nut remains.</p>\n"
     }
@@ -170626,7 +172910,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -170682,7 +172966,19 @@
             "Seed Flare"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>why doesn’t it have arms</p>\n"
     }
@@ -170743,7 +173039,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 16,
       "evolves": {
         "by": "Fire Stone",
         "from": "Capaskid"
@@ -170814,9 +173110,21 @@
             "Raging Fury"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>nobody is sure how it decides which head uses which attacks (IRL and also probably in-game)</p>\n"
+      "blurb": "<p>nobody is sure how it decides which head uses which attacks (IRL and also probably in-PTV)</p>\n"
     },
     {
       "name": "Arctibax",
@@ -170933,7 +173241,19 @@
             "Triple Axel"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>why does it briefly have an acrobatic phase before evolving into a kaiju suit?</p>\n"
     },
@@ -171053,9 +173373,21 @@
             "Ice Hammer"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>Also baxcalibur’s ptv entry has to mention monumental territory battles with hydreigon I don’t make the rules</p>\n"
+      "blurb": "<p>this entry has to mention monumental territory battles with hydreigon. it’s a law. I don’t make the rules</p>\n"
     }
   ],
   "rellor": [
@@ -171110,7 +173442,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -171163,7 +173495,19 @@
             "Rock Wrecker"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     },
     {
@@ -171218,7 +173562,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 18,
       "evolves": {
         "by": "Level 5",
         "from": "Rellor"
@@ -171280,7 +173624,19 @@
             "Aura Sphere"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     }
   ],
@@ -171339,7 +173695,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 5,
       "evolves": {},
       "moves": {
         "starting": [
@@ -171393,7 +173749,19 @@
             "Electro Ball"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>great clouds of flittle rolling over the hills when windstorms crop up in flat grasslands</p>\n"
     },
@@ -171451,7 +173819,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 18,
       "evolves": {
         "by": "Level 7",
         "from": "Flittle"
@@ -171512,7 +173880,19 @@
             "Scorching Sands"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     }
   ],
@@ -171572,7 +173952,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -171626,6 +174006,17 @@
           ]
         },
         "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic",
           "Wood Hammer"
         ]
       },
@@ -171686,7 +174077,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 12,
       "evolves": {
         "by": "Level 5",
         "from": "Tinkatink"
@@ -171722,7 +174113,7 @@
             "Hammer Arm"
           ],
           "9": [
-            "Behemoth Bash"
+            "Hard Press"
           ],
           "10": [
             "Play Rough"
@@ -171747,6 +174138,17 @@
           ]
         },
         "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic",
           "Wood Hammer"
         ]
       },
@@ -171807,7 +174209,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 20,
       "evolves": {
         "by": "Level 8",
         "from": "Tinkatuff"
@@ -171841,10 +174243,10 @@
           ],
           "8": false,
           "9": [
-            "Sky Uppercut"
+            "Smack Down"
           ],
           "10": [
-            "Smack Down"
+            "Hard Press"
           ],
           "11": [
             "Play Rough"
@@ -171869,6 +174271,17 @@
           ]
         },
         "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic",
           "Wood Hammer"
         ]
       },
@@ -171983,7 +174396,19 @@
             "Surging Strikes"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>also known as Travisbane after it brought Professor Travis to ruin</p>\n"
     },
@@ -172101,7 +174526,19 @@
             "Surging Strikes"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>what’s with the new vibrant coloration?</p>\n"
     }
@@ -172162,7 +174599,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {},
       "moves": {
         "starting": [
@@ -172217,7 +174654,19 @@
             "Rock Wrecker"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>comedy gold during Watmel Berry season</p>\n"
     }
@@ -172275,7 +174724,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -172328,7 +174777,19 @@
             "Baton Pass"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     },
     {
@@ -172383,7 +174844,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 22,
       "evolves": {
         "by": "Level 8",
         "from": "Finizen"
@@ -172444,7 +174905,18 @@
             "Retaliate"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the nearly-unchanged appearance to Finizen is intentional, to help camouflage itself among them to protect them better when threats arrive</p>\n"
     },
@@ -172500,7 +174972,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 22,
       "evolves": {
         "by": "Zero to Hero",
         "from": "Palafin"
@@ -172561,7 +175033,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -172619,7 +175091,18 @@
             "Extreme Speed"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>it’s always gasping because its engine is limited by its natural aspiration. also why the fuck does it float</p>\n"
     },
@@ -172675,7 +175158,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 16,
       "evolves": {
         "by": "Level 8",
         "from": "Varoom"
@@ -172742,7 +175225,18 @@
             "Combat Torque"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the mouth on top is where a classical hot rod engine’s air intake/carburetor/filter normally goes, hence one of its canon abilities</p>\n"
     }
@@ -172799,7 +175293,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {},
       "moves": {
         "starting": [
@@ -172854,7 +175348,19 @@
             "Power Whip"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>can be used to clean up soil that’s contaminated with heavy metals</p>\n"
     }
@@ -172912,7 +175418,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {},
       "moves": {
         "starting": [
@@ -172967,7 +175473,19 @@
             "Fleur Cannon"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>is it using nutrients from that bulb, or is it STORING nutrients in it? (I guess real bulbiferous plants do both)</p>\n"
     },
@@ -173023,7 +175541,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 20,
       "evolves": {
         "by": "Level 7",
         "from": "Glimmet"
@@ -173085,7 +175603,19 @@
             "Fleur Cannon"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>does its spinning do anything for it?</p>\n"
     }
@@ -173142,7 +175672,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 8,
       "evolves": {},
       "moves": {
         "starting": [
@@ -173198,7 +175728,17 @@
             "Facade"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       }
     },
     {
@@ -173252,7 +175792,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 18,
       "evolves": {
         "by": "Level 6 at night",
         "from": "Greavard"
@@ -173315,9 +175855,19 @@
             "Facade"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>What does the “tombstone” say?</p>\n"
+      "blurb": "<p>Many have attempted to decode the markings on Houndstone’s “tombstone” protuberance. No Houndstone’s markings are alike, but linguists have concluded they share no statistical similarity to any human language. This does not deter Houndstone enthusiasts.</p>\n"
     }
   ],
   "flamigo": [
@@ -173376,7 +175926,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 12,
       "evolves": {},
       "moves": {
         "starting": [
@@ -173432,7 +175982,18 @@
             "Power Trip"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>Flamigo using Belly Drum is just prompting a vivid mental image of it flailing its head around like one of those dancing inflatable guys and smacking itself with its beak</p>\n"
     }
@@ -173492,7 +176053,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 5,
       "evolves": {},
       "moves": {
         "starting": [
@@ -173545,7 +176106,18 @@
             "Heavy Slam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>cetoddle BOUNCE!</p>\n"
     },
@@ -173593,7 +176165,7 @@
         ],
         "level5": [
           [
-            "Chill"
+            "Looming"
           ],
           [
             "Ice Body"
@@ -173603,7 +176175,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 18,
       "evolves": {
         "by": "Ice Stone",
         "from": "Cetoddle"
@@ -173663,7 +176235,18 @@
             "Heavy Slam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>cetitan are obviously filter feeders, but what do they filter? snow? but what would they get out of it? there’s no snow krill</p>\n"
     }
@@ -173721,7 +176304,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 5,
       "evolves": {},
       "moves": {
         "starting": [
@@ -173774,7 +176357,19 @@
             "Final Gambit"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>what eats the spare flesh after it’s been shed?</p>\n"
     }
@@ -173827,14 +176422,14 @@
             "Gluttony"
           ],
           [
-            "Symbiosis"
+            "Looming"
           ],
           [
             "Water Veil"
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 15,
       "evolves": {},
       "moves": {
         "starting": [
@@ -173889,7 +176484,17 @@
             "Earthquake"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>doesn’t compete with the ocean whales since it’s freshwater</p>\n"
     }
@@ -173949,7 +176554,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {},
       "moves": {
         "starting": [
@@ -174023,7 +176628,19 @@
             "Instruct"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>obviously we gotta hint at GMs who want to use this to pilot other mons</p>\n"
     }
@@ -174080,7 +176697,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 10,
       "evolves": {},
       "moves": {
         "starting": [
@@ -174132,7 +176749,18 @@
             "Wood Hammer"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>can a gimmighoul be tempted into a larger or more ornate chest? do they trade up like hermit crabs?</p>\n"
     },
@@ -174187,7 +176815,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 2,
       "evolves": {
         "by": "???",
         "from": "Gimmighoul"
@@ -174242,7 +176870,19 @@
             "Spectral Thief"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>where do roaming gimmighoul hide their stashes?</p>\n"
     },
@@ -174357,7 +176997,19 @@
             "Thousand Waves"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>the coins scattered everywhere from battles across the land is how Gholdengo redistributes its wealth to other Gimmighoul, completing its lifecycle</p>\n"
     }
@@ -174471,7 +177123,19 @@
             "Ice Burn"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>if they absorb heat, why do they bother living in cold mountains?</p>\n"
     }
@@ -174588,7 +177252,19 @@
             "Fissure"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>what was the bowl supposed to hold before it cracked?</p>\n"
     }
@@ -174706,7 +177382,19 @@
             "Sheer Cold"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p><a href=\"https://antediluviansalad.blogspot.com/2016/05/your-puny-lipped-sabertooth-kitty-is.html\">https://antediluviansalad.blogspot.com/2016/05/your-puny-lipped-sabertooth-kitty-is.html</a></p>\n"
     }
@@ -174824,7 +177512,19 @@
             "Leaf Storm"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>what kinds of offerings does it like?</p>\n"
     }
@@ -174941,7 +177641,18 @@
             "Overheat"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Toxic"
+        ]
       },
       "blurb": "<p>it’s literally a green-eyed monster, and represents envy</p>\n"
     }
@@ -175055,7 +177766,19 @@
             "Megahorn"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>worse at rolling than Donphan or Iron Treads</p>\n"
     }
@@ -175169,7 +177892,19 @@
             "Megahorn"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>so configured for rolling that it doesn’t have as much stability as the other two on its feet</p>\n"
     }
@@ -175284,9 +178019,21 @@
             "Earthquake"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>note that it stands up to fight, since that’s not obvoius from canon dex entries</p>\n"
+      "blurb": "<p>note that it stands up to fight, since that’s not obvious from canon dex entries</p>\n"
     }
   ],
   "iron moth": [
@@ -175398,7 +178145,19 @@
             "Meteor Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>i think the joke with this thing is that its wings are actually satellite-esque solar panels, which would explain the Volcarona connection</p>\n"
     }
@@ -175512,7 +178271,19 @@
             "Leech Life"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>so how does THIS one dance</p>\n"
     }
@@ -175627,7 +178398,19 @@
             "Mega Kick"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p><a href=\"https://www.youtube.com/watch?v=gNSfhSXtvSk\">https://www.youtube.com/watch?v=gNSfhSXtvSk</a></p>\n"
     }
@@ -175708,7 +178491,8 @@
             "Body Slam"
           ],
           "6": [
-            "Rest"
+            "Rest",
+            "Psychic Noise"
           ],
           "7": [
             "Play Rough"
@@ -175720,7 +178504,8 @@
             "Psychic Fangs"
           ],
           "10": [
-            "Gyro Ball"
+            "Gyro Ball",
+            "Alluring Voice"
           ],
           "11": [
             "Wish"
@@ -175738,7 +178523,18 @@
             "Roar of Time"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>PG you got this one, I’m sure</p>\n"
     }
@@ -175851,7 +178647,19 @@
             "Psyshock"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>has no special reaction to Aerodactyl, upsetting true believers in the ancient paradox theory</p>\n"
     }
@@ -175968,9 +178776,252 @@
             "Roar of Time"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>note that mega evolution’s sources are known to only be 3,000 years old at most</p>\n"
+    }
+  ],
+  "raging bolt": [
+    {
+      "name": "Raging Bolt",
+      "type1": "Electric",
+      "type2": "Dragon",
+      "stats": [
+        {
+          "HP": 65
+        },
+        {
+          "ATK": 6,
+          "Athletics": 1
+        },
+        {
+          "DEF": 8,
+          "Endurance": 3
+        },
+        {
+          "SATK": 13,
+          "Focus": 8
+        },
+        {
+          "SDEF": 8,
+          "Stealth": 3
+        },
+        {
+          "SPE": 7,
+          "Acrobatics": 2
+        }
+      ],
+      "height": "17′1″",
+      "weight": 1058.2,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Protosynthesis"
+          ]
+        ],
+        "level5": [
+          [
+            "Volt Absorb"
+          ],
+          [
+            "Sheer Force"
+          ],
+          [
+            "Looming"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Stomp",
+          "Leer",
+          "Shock Wave",
+          "Twister"
+        ],
+        "levelUp": {
+          "2": [
+            "Ancient Power",
+            "Charge?"
+          ],
+          "3": [
+            "Dragon Rage"
+          ],
+          "4": [
+            "Electric Terrain",
+            "Discharge"
+          ],
+          "5": [
+            "Noble Roar",
+            "Light Screen"
+          ],
+          "6": [
+            "Dragon Tail"
+          ],
+          "7": [
+            "Calm Mind"
+          ],
+          "8": [
+            "Dragon Hammer"
+          ],
+          "9": [
+            "Thunder Clap"
+          ],
+          "10": [
+            "Rising Voltage"
+          ],
+          "11": [
+            "Dragon Pulse"
+          ],
+          "12": [
+            "Sunny Day",
+            "Zap Cannon"
+          ],
+          "13": [
+            "Body Press"
+          ],
+          "14": [
+            "Thunder"
+          ],
+          "15": [
+            "Weather Ball"
+          ],
+          "16": [
+            "Whirlwind"
+          ]
+        }
+      }
+    }
+  ],
+  "gouging fire": [
+    {
+      "name": "Gouging Fire",
+      "type1": "Fire",
+      "type2": "Dragon",
+      "stats": [
+        {
+          "HP": 60
+        },
+        {
+          "ATK": 11,
+          "Athletics": 6
+        },
+        {
+          "DEF": 11,
+          "Endurance": 6
+        },
+        {
+          "SATK": 6,
+          "Focus": 1
+        },
+        {
+          "SDEF": 8,
+          "Stealth": 3
+        },
+        {
+          "SPE": 8,
+          "Acrobatics": 3
+        }
+      ],
+      "height": "11′6″",
+      "weight": 1300.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Protosynthesis"
+          ]
+        ],
+        "level5": [
+          [
+            "Flash Fire"
+          ],
+          [
+            "Sheer Force"
+          ],
+          [
+            "Dire Horn"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Horn Attack",
+          "Leer",
+          "Incinerate",
+          "Twister"
+        ],
+        "levelUp": {
+          "2": [
+            "Ancient Power",
+            "Fire Fang?"
+          ],
+          "3": [
+            "Dragon Claw"
+          ],
+          "4": [
+            "Double Kick"
+          ],
+          "5": [
+            "Noble Roar",
+            "Howl"
+          ],
+          "6": [
+            "Crush Claw"
+          ],
+          "7": [
+            "Morning Sun"
+          ],
+          "8": [
+            "Dragon Rush"
+          ],
+          "9": [
+            "Burning Bulwark"
+          ],
+          "10": [
+            "Fire Blast"
+          ],
+          "11": [
+            "Lava Plume"
+          ],
+          "12": [
+            "Sunny Day",
+            "Outrage"
+          ],
+          "13": [
+            "Flare Blitz"
+          ],
+          "14": [
+            "Raging Fury"
+          ],
+          "15": [
+            "Head Smash"
+          ],
+          "16": [
+            "Circle Throw"
+          ]
+        }
+      }
     }
   ],
   "walking wake": [
@@ -176030,14 +179081,14 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Quick Attack",
+          "Bite",
           "Leer",
           "Aqua Jet",
           "Twister"
         ],
         "levelUp": {
           "2": [
-            "Bite",
+            "Ancient Power",
             "Hone Claws"
           ],
           "3": [
@@ -176047,8 +179098,8 @@
             "Water Pulse"
           ],
           "5": [
-            "Roar",
-            "Noble Roar"
+            "Noble Roar",
+            "Counter"
           ],
           "6": [
             "Breaking Swipe"
@@ -176197,7 +179248,19 @@
             "Earthquake"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>surprisingly really bad at the ceremonies and formal rules of sumo</p>\n"
     }
@@ -176314,7 +179377,19 @@
             "Hyper Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>to contrast the real Hydreigon’s “the two smaller heads don’t think” bit, maybe Iron Jugulis processes with all 3 head CPUs at once</p>\n"
     }
@@ -176431,7 +179506,19 @@
             "Surf"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>we gotta justify how it’s part Rock, it looks more metal and plastic than most of the future ‘doxes</p>\n"
     }
@@ -176545,7 +179632,19 @@
             "Freeze-Dry"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>why does it have the extendo-neck</p>\n"
     }
@@ -176666,7 +179765,18 @@
             "Metal Burst"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>what do Gardevoir and Gallade each think about this thing?</p>\n"
     }
@@ -176729,8 +179839,8 @@
       "moves": {
         "starting": [
           "Cut",
-          "Helping Hand",
-          "Magical Leaf",
+          "Leer",
+          "Razor Leaf",
           "Work Up"
         ],
         "levelUp": {
@@ -176742,7 +179852,7 @@
             "Zen Headbutt"
           ],
           "4": [
-            "Retaliate"
+            "Slash"
           ],
           "5": [
             "Night Slash"
@@ -176763,7 +179873,7 @@
           ],
           "10": [
             "Close Combat",
-            "Imprison"
+            "Electric Terrain"
           ],
           "11": [
             "Megahorn"
@@ -176781,7 +179891,236 @@
             "Ally Switch"
           ]
         }
-      }
+      },
+      "blurb": "<p>so if the swords of justice serve to protect the environment and pokemon from people, then what does this trio do…?</p>\n"
+    }
+  ],
+  "iron crown": [
+    {
+      "name": "Iron Crown",
+      "type1": "Steel",
+      "type2": "Psychic",
+      "stats": [
+        {
+          "HP": 45
+        },
+        {
+          "ATK": 6,
+          "Athletics": 1
+        },
+        {
+          "DEF": 9,
+          "Endurance": 4
+        },
+        {
+          "SATK": 11,
+          "Focus": 6
+        },
+        {
+          "SDEF": 10,
+          "Stealth": 5
+        },
+        {
+          "SPE": 9,
+          "Acrobatics": 4
+        }
+      ],
+      "height": "5′3″",
+      "weight": 343.9,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Quark Drive"
+          ]
+        ],
+        "level5": [
+          [
+            "Steely Spirit"
+          ],
+          [
+            "Dire Horn"
+          ],
+          [
+            "Neuroforce"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Cut",
+          "Leer",
+          "Smart Strike",
+          "Work Up"
+        ],
+        "levelUp": {
+          "2": [
+            "Quick Guard",
+            "Quick Attack"
+          ],
+          "3": [
+            "Psyshock"
+          ],
+          "4": [
+            "Slash"
+          ],
+          "5": [
+            "Mirror Shot"
+          ],
+          "6": [
+            "Aerial Ace",
+            "Gravity"
+          ],
+          "7": [
+            "Flash Cannon"
+          ],
+          "8": [
+            "Sacred Sword",
+            "Swords Dance"
+          ],
+          "9": [
+            "Tachyon Cutter"
+          ],
+          "10": [
+            "Close Combat",
+            "Electric Terrain"
+          ],
+          "11": [
+            "Volt Switch"
+          ],
+          "12": [
+            "Future Sight"
+          ],
+          "13": [
+            "High Horsepower"
+          ],
+          "14": [
+            "Hyper Beam"
+          ],
+          "15": [
+            "Ally Switch"
+          ]
+        }
+      },
+      "blurb": "<p>tachyons are unproven scientific particles that are theoretically faster than light</p>\n"
+    }
+  ],
+  "iron boulder": [
+    {
+      "name": "Iron Boulder",
+      "type1": "Rock",
+      "type2": "Psychic",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 11,
+          "Athletics": 6
+        },
+        {
+          "DEF": 7,
+          "Endurance": 2
+        },
+        {
+          "SATK": 6,
+          "Focus": 1
+        },
+        {
+          "SDEF": 10,
+          "Stealth": 5
+        },
+        {
+          "SPE": 11,
+          "Acrobatics": 6
+        }
+      ],
+      "height": "4′11″",
+      "weight": 358.2,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Quark Drive"
+          ]
+        ],
+        "level5": [
+          [
+            "Bulletproven"
+          ],
+          [
+            "Dire Horn"
+          ],
+          [
+            "Neuroforce"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Cut",
+          "Leer",
+          "Rollout",
+          "Work Up"
+        ],
+        "levelUp": {
+          "2": [
+            "Quick Guard",
+            "Quick Attack"
+          ],
+          "3": [
+            "Psycho Cut"
+          ],
+          "4": [
+            "Slash"
+          ],
+          "5": [
+            "Rock Tomb"
+          ],
+          "6": [
+            "Aerial Ace",
+            "Counter"
+          ],
+          "7": [
+            "Rock Blast"
+          ],
+          "8": [
+            "Sacred Sword",
+            "Swords Dance"
+          ],
+          "9": [
+            "Mighty Cleave"
+          ],
+          "10": [
+            "Close Combat",
+            "Electric Terrain"
+          ],
+          "11": [
+            "Megahorn"
+          ],
+          "12": [
+            "Stone Edge"
+          ],
+          "13": [
+            "High Horsepower"
+          ],
+          "14": [
+            "Giga Impact"
+          ],
+          "15": [
+            "Ally Switch"
+          ]
+        }
+      },
+      "blurb": "<p>this is just a cannonball</p>\n"
     }
   ],
   "cyclizar": [
@@ -176837,7 +180176,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 4,
       "evolves": {},
       "moves": {
         "starting": [
@@ -176893,7 +180232,19 @@
             "Extreme Speed"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>we GOTTA talk about cool bike stunt competitions on these dudes, I demand it</p>\n"
     }
@@ -177006,9 +180357,21 @@
             "Giga Impact"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
-      "blurb": "<p>no fossil pokemon has ancestral memories of this thing, but that doesn’t mean they don’t know instinctively to respect it</p>\n"
+      "blurb": "<p>No fossil Pokémon seems to remember Koraidon, but they all instinctively know to respect it, as befits its title of “Winged King”.</p>\n"
     }
   ],
   "miraidon": [
@@ -177119,9 +180482,1239 @@
             "Hyper Beam"
           ]
         },
-        "tutor": []
+        "tutor": [
+          "Attract",
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Facade",
+          "Protect",
+          "Rest",
+          "Round",
+          "Sleep Talk",
+          "Swagger",
+          "Toxic"
+        ]
       },
       "blurb": "<p>under no circumstances should you let Porygon-Z near this thing</p>\n"
+    }
+  ],
+  "okidogi": [
+    {
+      "name": "Okidogi",
+      "type1": "Poison",
+      "type2": "Fighting",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 12,
+          "Athletics": 7
+        },
+        {
+          "DEF": 11,
+          "Endurance": 6
+        },
+        {
+          "SATK": 5,
+          "Focus": 0
+        },
+        {
+          "SDEF": 8,
+          "Stealth": 3
+        },
+        {
+          "SPE": 7,
+          "Acrobatics": 2
+        }
+      ],
+      "height": "5′11″",
+      "weight": 203.3,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Toxic Chain"
+          ]
+        ],
+        "level5": [
+          [
+            "Anger Point"
+          ],
+          [
+            "Pickpocket"
+          ],
+          [
+            "Guard Dog"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Bite",
+          "Low Kick",
+          "Bulk Up",
+          "Howl"
+        ],
+        "levelUp": {
+          "2": [
+            "Thief"
+          ],
+          "3": [
+            "Poison Fang"
+          ],
+          "4": [
+            "Counter"
+          ],
+          "5": [
+            "Force Palm"
+          ],
+          "6": [
+            "Poison Jab"
+          ],
+          "7": [
+            "Superpower"
+          ],
+          "8": [
+            "Crunch"
+          ],
+          "9": [
+            "Endeavor"
+          ],
+          "10": [
+            "Giga Impact"
+          ],
+          "11": [
+            "Roar"
+          ],
+          "12": [
+            "Venom Drench"
+          ],
+          "13": [
+            "Gunk Shot"
+          ],
+          "14": [
+            "Close Combat"
+          ],
+          "15": [
+            "Outrage"
+          ]
+        }
+      },
+      "blurb": "<p>easily goaded into showing off its strength, can be easily pacified by acting impressed by it</p>\n"
+    }
+  ],
+  "munkidori": [
+    {
+      "name": "Munkidori",
+      "type1": "Poison",
+      "type2": "Psychic",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 7,
+          "Athletics": 2
+        },
+        {
+          "DEF": 6,
+          "Endurance": 1
+        },
+        {
+          "SATK": 12,
+          "Focus": 7
+        },
+        {
+          "SDEF": 8,
+          "Stealth": 3
+        },
+        {
+          "SPE": 10,
+          "Acrobatics": 5
+        }
+      ],
+      "height": "3′3″",
+      "weight": 26.9,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Toxic Chain"
+          ]
+        ],
+        "level5": [
+          [
+            "Neuroforce"
+          ],
+          [
+            "Pickpocket"
+          ],
+          [
+            "Frisk"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Scratch",
+          "Confusion",
+          "Fake Out",
+          "Flatter"
+        ],
+        "levelUp": {
+          "2": [
+            "Thief"
+          ],
+          "3": [
+            "Psybeam"
+          ],
+          "4": [
+            "Helping Hand"
+          ],
+          "5": [
+            "Clear Smog"
+          ],
+          "6": [
+            "Sludge Bomb"
+          ],
+          "7": [
+            "Psychic"
+          ],
+          "8": [
+            "Sludge Wave"
+          ],
+          "9": [
+            "Nasty Plot"
+          ],
+          "10": [
+            "Future Sight"
+          ],
+          "11": [
+            "Parting Shot"
+          ],
+          "12": [
+            "Hex"
+          ],
+          "13": [
+            "Psychic Noise"
+          ],
+          "14": [
+            "Shadow Ball"
+          ],
+          "15": [
+            "Focus Blast"
+          ]
+        }
+      },
+      "blurb": "<p>it’s not fooled if you pretend to act impressed by its intelligence, but it’ll give into the flattery anyway</p>\n"
+    }
+  ],
+  "fezandipiti": [
+    {
+      "name": "Fezandipiti",
+      "type1": "Poison",
+      "type2": "Fairy",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 8,
+          "Athletics": 3
+        },
+        {
+          "DEF": 7,
+          "Endurance": 2
+        },
+        {
+          "SATK": 6,
+          "Focus": 1
+        },
+        {
+          "SDEF": 12,
+          "Stealth": 7
+        },
+        {
+          "SPE": 9,
+          "Acrobatics": 4
+        }
+      ],
+      "height": "4′7″",
+      "weight": 66.4,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Toxic Chain"
+          ]
+        ],
+        "level5": [
+          [
+            "Levitate"
+          ],
+          [
+            "Pickpocket"
+          ],
+          [
+            "Technician"
+          ]
+        ]
+      },
+      "catchDC": 22,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Wing Attack",
+          "Disarming Voice",
+          "Poison Gas",
+          "Double Kick"
+        ],
+        "levelUp": {
+          "2": [
+            "Thief"
+          ],
+          "3": [
+            "Quick Attack"
+          ],
+          "4": [
+            "Attract"
+          ],
+          "5": [
+            "Dual Wingbeat"
+          ],
+          "6": [
+            "Cross Poison"
+          ],
+          "7": [
+            "Tail Slap"
+          ],
+          "8": [
+            "Beat Up"
+          ],
+          "9": [
+            "Swagger",
+            "Flatter"
+          ],
+          "10": [
+            "Dazzling Gleam"
+          ],
+          "11": [
+            "Roost"
+          ],
+          "12": [
+            "Venoshock"
+          ],
+          "13": [
+            "Play Rough"
+          ],
+          "14": [
+            "Air Cutter"
+          ],
+          "15": [
+            "Heat Wave"
+          ]
+        }
+      },
+      "blurb": "<p>it knows it’s gorgeous now, but that doesn’t mean it doesn’t like hearing it</p>\n"
+    }
+  ],
+  "pecharunt": [
+    {
+      "name": "Pecharunt",
+      "type1": "Poison",
+      "type2": "Ghost",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 8,
+          "Athletics": 3
+        },
+        {
+          "DEF": 15,
+          "Endurance": 10
+        },
+        {
+          "SATK": 8,
+          "Focus": 3
+        },
+        {
+          "SDEF": 8,
+          "Stealth": 3
+        },
+        {
+          "SPE": 8,
+          "Acrobatics": 3
+        }
+      ],
+      "height": "1′",
+      "weight": 0.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Poison Puppeteer"
+          ]
+        ],
+        "level5": [
+          [
+            "Shell Armor"
+          ],
+          [
+            "Strategist"
+          ],
+          [
+            "Teamwork"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Smog",
+          "Astonish",
+          "Poison Gas",
+          "Memento"
+        ],
+        "levelUp": {
+          "2": [
+            "Withdraw"
+          ],
+          "3": [
+            "Sweet Scent"
+          ],
+          "4": [
+            "Destiny Bond"
+          ],
+          "5": [
+            "Defense Curl",
+            "Rollout"
+          ],
+          "6": [
+            "Fake Tears"
+          ],
+          "7": [
+            "Parting Shot"
+          ],
+          "8": [
+            "Shadow Ball"
+          ],
+          "9": [
+            "Mean Look"
+          ],
+          "10": [
+            "Malignant Chain"
+          ],
+          "11": [
+            "Toxic"
+          ],
+          "12": [
+            "Nasty Plot"
+          ],
+          "13": [
+            "Recover"
+          ],
+          "14": [
+            "Venoshock",
+            "Hex"
+          ],
+          "15": [
+            "Body Press"
+          ]
+        }
+      },
+      "blurb": "<p>the truly desperate will seek out Pecharunt to have wishes granted, despite knowing it comes with a cost</p>\n"
+    }
+  ],
+  "ogerpon": [
+    {
+      "name": "Ogerpon",
+      "type1": "Grass",
+      "stats": [
+        {
+          "HP": 45
+        },
+        {
+          "ATK": 11,
+          "Athletics": 6
+        },
+        {
+          "DEF": 7,
+          "Endurance": 2
+        },
+        {
+          "SATK": 5,
+          "Focus": 0
+        },
+        {
+          "SDEF": 9,
+          "Stealth": 4
+        },
+        {
+          "SPE": 10,
+          "Acrobatics": 5
+        }
+      ],
+      "height": "3′11″",
+      "weight": 87.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Defiant"
+          ]
+        ],
+        "level5": [
+          [
+            "Run Away"
+          ],
+          [
+            "Steel Toe"
+          ],
+          [
+            "Overcoat"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Vine Whip",
+          "Leech Seed",
+          "Quick Attack",
+          "Follow Me"
+        ],
+        "levelUp": {
+          "2": [
+            "Focus Energy"
+          ],
+          "3": [
+            "Double Kick"
+          ],
+          "4": [
+            "Growth",
+            "Retaliate"
+          ],
+          "5": [
+            "Mega Kick"
+          ],
+          "6": [
+            "Low Sweep"
+          ],
+          "7": [
+            "Ivy Cudgel"
+          ],
+          "8": [
+            "Throat Chop"
+          ],
+          "9": [
+            "Synthesis"
+          ],
+          "10": [
+            "Trop Kick"
+          ],
+          "11": [
+            "Spiky Shield"
+          ],
+          "12": [
+            "Power Whip"
+          ],
+          "13": [
+            "Superpower"
+          ],
+          "14": [
+            "Wood Hammer"
+          ],
+          "15": [
+            "High Jump Kick"
+          ]
+        }
+      },
+      "blurb": "<p>what’s its behavior like without a mask? in the DLC it seems to try blending in with people but is terribly shy</p>\n"
+    },
+    {
+      "name": "Ogerpon (Wellspring)",
+      "type1": "Grass",
+      "type2": "Water",
+      "stats": [
+        {
+          "HP": 45
+        },
+        {
+          "ATK": 11,
+          "Athletics": 6
+        },
+        {
+          "DEF": 7,
+          "Endurance": 2
+        },
+        {
+          "SATK": 5,
+          "Focus": 0
+        },
+        {
+          "SDEF": 9,
+          "Stealth": 4
+        },
+        {
+          "SPE": 10,
+          "Acrobatics": 5
+        }
+      ],
+      "height": "3′11″",
+      "weight": 87.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Water Absorb"
+          ]
+        ],
+        "level5": [
+          [
+            "Water Veil"
+          ],
+          [
+            "Steel Toe"
+          ],
+          [
+            "Overcoat"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {
+        "by": "Hold Wellspring Mask",
+        "from": "Ogerpon"
+      },
+      "moves": {
+        "starting": [
+          "Vine Whip",
+          "Leech Seed",
+          "Quick Attack",
+          "Follow Me"
+        ],
+        "levelUp": {
+          "2": [
+            "Focus Energy"
+          ],
+          "3": [
+            "Double Kick"
+          ],
+          "4": [
+            "Growth",
+            "Retaliate"
+          ],
+          "5": [
+            "Mega Kick"
+          ],
+          "6": [
+            "Low Sweep"
+          ],
+          "7": [
+            "Ivy Cudgel"
+          ],
+          "8": [
+            "Throat Chop"
+          ],
+          "9": [
+            "Synthesis"
+          ],
+          "10": [
+            "Triple Axel"
+          ],
+          "11": [
+            "Calm Mind"
+          ],
+          "12": [
+            "Power Whip"
+          ],
+          "13": [
+            "Superpower"
+          ],
+          "14": [
+            "Wave Crash"
+          ],
+          "15": [
+            "High Jump Kick"
+          ]
+        }
+      },
+      "blurb": "<p>what’s this mask based on?</p>\n"
+    },
+    {
+      "name": "Ogerpon (Hearthflame)",
+      "type1": "Grass",
+      "type2": "Fire",
+      "stats": [
+        {
+          "HP": 45
+        },
+        {
+          "ATK": 11,
+          "Athletics": 6
+        },
+        {
+          "DEF": 7,
+          "Endurance": 2
+        },
+        {
+          "SATK": 5,
+          "Focus": 0
+        },
+        {
+          "SDEF": 9,
+          "Stealth": 4
+        },
+        {
+          "SPE": 10,
+          "Acrobatics": 5
+        }
+      ],
+      "height": "3′11″",
+      "weight": 87.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Mold Breaker"
+          ]
+        ],
+        "level5": [
+          [
+            "Zealous"
+          ],
+          [
+            "Steel Toe"
+          ],
+          [
+            "Overcoat"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {
+        "by": "Hold Hearthflame Mask",
+        "from": "Ogerpon"
+      },
+      "moves": {
+        "starting": [
+          "Vine Whip",
+          "Leech Seed",
+          "Quick Attack",
+          "Follow Me"
+        ],
+        "levelUp": {
+          "2": [
+            "Focus Energy"
+          ],
+          "3": [
+            "Double Kick"
+          ],
+          "4": [
+            "Growth",
+            "Retaliate"
+          ],
+          "5": [
+            "Mega Kick"
+          ],
+          "6": [
+            "Low Sweep"
+          ],
+          "7": [
+            "Ivy Cudgel"
+          ],
+          "8": [
+            "Throat Chop"
+          ],
+          "9": [
+            "Synthesis"
+          ],
+          "10": [
+            "Blaze Kick"
+          ],
+          "11": [
+            "Belly Drum"
+          ],
+          "12": [
+            "Power Whip"
+          ],
+          "13": [
+            "Superpower"
+          ],
+          "14": [
+            "Flare Blitz"
+          ],
+          "15": [
+            "High Jump Kick"
+          ]
+        }
+      },
+      "blurb": "<p>what’s this mask based on?</p>\n"
+    },
+    {
+      "name": "Ogerpon (Cornerstone)",
+      "type1": "Grass",
+      "type2": "Rock",
+      "stats": [
+        {
+          "HP": 45
+        },
+        {
+          "ATK": 11,
+          "Athletics": 6
+        },
+        {
+          "DEF": 7,
+          "Endurance": 2
+        },
+        {
+          "SATK": 5,
+          "Focus": 0
+        },
+        {
+          "SDEF": 9,
+          "Stealth": 4
+        },
+        {
+          "SPE": 10,
+          "Acrobatics": 5
+        }
+      ],
+      "height": "3′11″",
+      "weight": 87.7,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Sturdy"
+          ]
+        ],
+        "level5": [
+          [
+            "Solid Rock"
+          ],
+          [
+            "Steel Toe"
+          ],
+          [
+            "Overcoat"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {
+        "by": "Hold Cornerstone Mask",
+        "from": "Ogerpon"
+      },
+      "moves": {
+        "starting": [
+          "Vine Whip",
+          "Leech Seed",
+          "Quick Attack",
+          "Follow Me"
+        ],
+        "levelUp": {
+          "2": [
+            "Focus Energy"
+          ],
+          "3": [
+            "Double Kick"
+          ],
+          "4": [
+            "Growth",
+            "Retaliate"
+          ],
+          "5": [
+            "Mega Kick"
+          ],
+          "6": [
+            "Low Sweep"
+          ],
+          "7": [
+            "Ivy Cudgel"
+          ],
+          "8": [
+            "Throat Chop"
+          ],
+          "9": [
+            "Synthesis"
+          ],
+          "10": [
+            "Stone Edge"
+          ],
+          "11": [
+            "Cotton Guard"
+          ],
+          "12": [
+            "Power Whip"
+          ],
+          "13": [
+            "Superpower"
+          ],
+          "14": [
+            "Head Smash"
+          ],
+          "15": [
+            "High Jump Kick"
+          ]
+        }
+      },
+      "blurb": "<p>what’s this mask based on?</p>\n"
+    }
+  ],
+  "terapagos": [
+    {
+      "name": "Terapagos",
+      "type1": "Normal",
+      "stats": [
+        {
+          "HP": 50
+        },
+        {
+          "ATK": 6,
+          "Athletics": 1
+        },
+        {
+          "DEF": 8,
+          "Endurance": 3
+        },
+        {
+          "SATK": 6,
+          "Focus": 1
+        },
+        {
+          "SDEF": 8,
+          "Stealth": 3
+        },
+        {
+          "SPE": 5,
+          "Acrobatics": 0
+        }
+      ],
+      "height": "8″",
+      "weight": 14.3,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Tera Shift"
+          ]
+        ],
+        "level5": [
+          [
+            {
+              "Entry": "Reflect Type"
+            }
+          ],
+          [
+            "Shell Armor"
+          ],
+          [
+            "Clear Body"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {},
+      "moves": {
+        "starting": [
+          "Rapid Spin",
+          "Withdraw",
+          "Tri-Attack",
+          "Ancient Power"
+        ],
+        "levelUp": {
+          "2": [
+            "Headbutt"
+          ],
+          "3": [
+            "Reflect Type"
+          ],
+          "4": [
+            "Protect"
+          ],
+          "5": [
+            "Tera Blast"
+          ],
+          "6": [
+            "Earth Power"
+          ],
+          "7": [
+            "Synchronoise"
+          ],
+          "8": [
+            "Heavy Slam"
+          ],
+          "9": [
+            "Aqua Tail"
+          ],
+          "10": [
+            "Tera Starstorm"
+          ],
+          "11": [
+            "Double-Edge"
+          ],
+          "12": [
+            "Rock Polish"
+          ],
+          "13": [
+            "Gyro Ball"
+          ],
+          "14": [
+            "Dazzling Gleam"
+          ],
+          "15": [
+            "Meteor Beam"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Terapagos (Terastal)",
+      "type1": "Normal",
+      "stats": [
+        {
+          "HP": 55
+        },
+        {
+          "ATK": 9,
+          "Athletics": 4
+        },
+        {
+          "DEF": 10,
+          "Endurance": 5
+        },
+        {
+          "SATK": 10,
+          "Focus": 5
+        },
+        {
+          "SDEF": 10,
+          "Stealth": 5
+        },
+        {
+          "SPE": 8,
+          "Acrobatics": 3
+        }
+      ],
+      "height": "1′",
+      "weight": 35.3,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Tera Shell"
+          ]
+        ],
+        "level5": [
+          [
+            "Levitate"
+          ],
+          [
+            "Shell Armor"
+          ],
+          [
+            "Clear Body"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {
+        "by": "Tera Shift",
+        "from": "Terapagos"
+      },
+      "moves": {
+        "starting": [
+          "Rapid Spin",
+          "Withdraw",
+          "Tri-Attack",
+          "Ancient Power"
+        ],
+        "levelUp": {
+          "2": [
+            "Headbutt"
+          ],
+          "3": [
+            "Reflect Type"
+          ],
+          "4": [
+            "Protect"
+          ],
+          "5": [
+            "Tera Blast"
+          ],
+          "6": [
+            "Earth Power"
+          ],
+          "7": [
+            "Synchronoise"
+          ],
+          "8": [
+            "Heavy Slam"
+          ],
+          "9": [
+            "Aqua Tail"
+          ],
+          "10": [
+            "Tera Starstorm"
+          ],
+          "11": [
+            "Double-Edge"
+          ],
+          "12": [
+            "Rock Polish"
+          ],
+          "13": [
+            "Gyro Ball"
+          ],
+          "14": [
+            "Dazzling Gleam"
+          ],
+          "15": [
+            "Meteor Beam"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Terapagos (Stellar)",
+      "type1": "Normal",
+      "stats": [
+        {
+          "HP": 85
+        },
+        {
+          "ATK": 10,
+          "Athletics": 5
+        },
+        {
+          "DEF": 10,
+          "Endurance": 5
+        },
+        {
+          "SATK": 12,
+          "Focus": 7
+        },
+        {
+          "SDEF": 10,
+          "Stealth": 5
+        },
+        {
+          "SPE": 8,
+          "Acrobatics": 3
+        }
+      ],
+      "height": "5′7″",
+      "weight": 169.8,
+      "eggGroups": [
+        "None"
+      ],
+      "abilities": {
+        "start": [
+          [
+            "Teraform Zero"
+          ]
+        ],
+        "level5": [
+          [
+            "Berserk"
+          ],
+          [
+            "Shell Armor"
+          ],
+          [
+            "Clear Body"
+          ]
+        ]
+      },
+      "catchDC": 24,
+      "evolves": {
+        "by": "Terastalize",
+        "from": "Terapagos (Terastal)"
+      },
+      "moves": {
+        "starting": [
+          "Rapid Spin",
+          "Withdraw",
+          "Tri-Attack",
+          "Ancient Power"
+        ],
+        "levelUp": {
+          "2": [
+            "Headbutt"
+          ],
+          "3": [
+            "Reflect Type"
+          ],
+          "4": [
+            "Protect"
+          ],
+          "5": [
+            "Tera Blast"
+          ],
+          "6": [
+            "Earth Power"
+          ],
+          "7": [
+            "Synchronoise"
+          ],
+          "8": [
+            "Heavy Slam"
+          ],
+          "9": [
+            "Aqua Tail"
+          ],
+          "10": [
+            "Tera Starstorm"
+          ],
+          "11": [
+            "Double-Edge"
+          ],
+          "12": [
+            "Rock Polish"
+          ],
+          "13": [
+            "Gyro Ball"
+          ],
+          "14": [
+            "Dazzling Gleam"
+          ],
+          "15": [
+            "Meteor Beam"
+          ]
+        }
+      },
+      "blurb": "<p>its reality-bending powers are all the more dangerous since at its core, it’s just the same old tiny Terapagos brain in there</p>\n"
     }
   ]
 }

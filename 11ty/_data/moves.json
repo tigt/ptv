@@ -433,7 +433,7 @@
     "pp": 3,
     "accuracy": 3,
     "range": "Contact",
-    "description": "<p>Confuses on 16+. If Axe Kick misses, the user loses 5 Ticks. Lifts a leg and slams the heel down.</p>\n",
+    "description": "<p>Confuses on 16+. If Axe Kick misses or the target is Immune to it, the user loses 5 Ticks. Lifts a leg and slams the heel down.</p>\n",
     "zEffect": 64,
     "name": "Axe Kick"
   },
@@ -507,15 +507,6 @@
     "description": "<p>The user tags in a teammate and switches out, even if the user is Trapped. All Boosted/Dropped Stats and <a href=\"https://pokemondb.net/move/baton-pass\">ongoing effects</a> transfer to the replacement. Choose the replacement when choosing the Move.</p>\n",
     "zEffect": "Remove any Stat Drops before switching out.",
     "name": "Baton Pass"
-  },
-  {
-    "type": "Dragon",
-    "kind": "Status",
-    "pp": 3,
-    "range": "Allies",
-    "description": "<p>Priority. Allies other than the user lower their Moves’ PP costs by -2 for this round.</p>\n",
-    "zEffect": "Boost the user's Save Bonus by +3.",
-    "name": "Battle Cry"
   },
   {
     "type": "Flying",
@@ -1550,7 +1541,7 @@
     "pp": 5,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>For every 10% of HP the target has lost, Crush Grip’s damage drops by -2. A punishment to make ye mighty tremble.</p>\n",
+    "description": "<p>For every Tick of HP the target has lost, Crush Grip gets -2 Power. A punishment to make ye mighty tremble.</p>\n",
     "zEffect": 68,
     "maxPower": 140,
     "name": "Crush Grip"
@@ -2255,6 +2246,15 @@
     "description": "<p>Races at ultrafast speeds to pierce with futuristic electricity. Power is boosted more than usual if it’s super-effective.</p>\n",
     "zEffect": 60,
     "name": "Electro Drift"
+  },
+  {
+    "type": "Electric",
+    "kind": "Special",
+    "power": 20,
+    "pp": 5,
+    "accuracy": 1,
+    "description": "<p>This turn: Gathers electricity to Boost the user’s SATK by +5. Next turn: Fires a high-voltage beam at the target. In Rain, attacks on the first turn.</p>\n",
+    "name": "Electro Shot"
   },
   {
     "type": "Electric",
@@ -3232,7 +3232,7 @@
     "pp": 5,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>Swings the user’s whole body to strike with a huge hammer. This move can’t be used twice in a row. </p>\n",
+    "description": "<p>Swings the user’s whole body to strike with a huge hammer. This Move can’t be used twice in a row. </p>\n",
     "zEffect": 68,
     "name": "Gigaton Hammer"
   },
@@ -3586,7 +3586,7 @@
     "pp": 3,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>Until the target switches out, they can’t gain HP and their Moves that Heal or Drain are disabled. Weaponized entropy.</p>\n",
+    "description": "<p>Until the target switches out, they can’t heal HP and their Moves that Heal or Drain are disabled. Weaponized entropy.</p>\n",
     "zEffect": "Boost the user's SATK by +10.",
     "name": "Heal Block"
   },
@@ -3728,7 +3728,7 @@
     "pp": 3,
     "accuracy": 3,
     "range": "Contact",
-    "description": "<p>If High Jump Kick misses, the user loses 5 Ticks. A risky rising knee strike.</p>\n",
+    "description": "<p>If High Jump Kick misses or the target is Immune to it, the user loses 5 Ticks. A risky rising knee strike.</p>\n",
     "zEffect": 66,
     "maxPower": 95,
     "name": "High Jump Kick"
@@ -3853,7 +3853,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Bypasses and removes Protection. Spins at high speed to pierce through.</p>\n",
+    "description": "<p>Bypasses Protection. Spins at high speed to pierce through.</p>\n",
     "zEffect": 60,
     "maxPower": 130,
     "name": "Hyper Drill"
@@ -4207,7 +4207,7 @@
     "pp": 2,
     "accuracy": 3,
     "range": "Contact",
-    "description": "<p>If Jump Kick misses, the user loses 5 Ticks. An aerial dropkick.</p>\n",
+    "description": "<p>If Jump Kick misses or the target is Immune to it, the user loses 5 Ticks. An aerial dropkick.</p>\n",
     "zEffect": 60,
     "maxPower": 130,
     "name": "Jump Kick"
@@ -4248,7 +4248,7 @@
     "kind": "Status",
     "pp": 6,
     "range": "Self",
-    "description": "<p>Super-Priority. Protects the user. If the prevented Move made Contact, Drop the attacker’s ATK by -5. A bulwark that could stop a revolution.</p>\n",
+    "description": "<p>Super-Priority. Protects the user. If the prevented Move made Contact, Drop the attacker’s ATK by -5. A bastion that could stop a revolution.</p>\n",
     "zEffect": "Remove any Stat Drops.",
     "name": "King's Shield"
   },
@@ -4574,11 +4574,11 @@
   {
     "type": "Psychic",
     "kind": "Special",
-    "power": 8,
+    "power": 13,
     "pp": 2,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>Drops SDEF by -5 on an Even-Numbered Roll. A mind-bending release of light.</p>\n",
+    "description": "<p>On 11+, Drops SDEF by -5. A mind-bending release of light.</p>\n",
     "zEffect": 44,
     "maxPower": 120,
     "name": "Luster Purge"
@@ -4993,7 +4993,7 @@
   {
     "type": "Psychic",
     "kind": "Special",
-    "power": 8,
+    "power": 13,
     "pp": 2,
     "accuracy": 1,
     "range": "Ranged",
@@ -7963,7 +7963,7 @@
     "pp": 3,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>If the user’s previous Move failed, missed, was stopped by a status problem, or had no effect on its target(s), Stomping Tantrum gets +10 Power. (No buff if the targets Protected themselves.)</p>\n",
+    "description": "<p>If the user’s previous Move failed, missed, was stopped by a status problem, or had no effect on all its targets, Stomping Tantrum gets +10 Power. (But not if the targets Protected themselves.)</p>\n",
     "zEffect": 52,
     "maxPower": 130,
     "name": "Stomping Tantrum"
@@ -8642,7 +8642,7 @@
     "pp": 3,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Drops DEF by -5. A kick so lightning kick there’s not even a chance to defend.</p>\n",
+    "description": "<p>Drops DEF by -5. A kick so lightning-fast there’s not even a chance to defend.</p>\n",
     "zEffect": 58,
     "maxPower": 90,
     "name": "Thunderous Kick"
@@ -9336,7 +9336,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>For every Tick the target has lost, Wring Out reduces by -2 Power. Hurts less if you go limp.</p>\n",
+    "description": "<p>For every Tick the target has lost, Wring Out gets -2 Power. Hurts less if you go limp.</p>\n",
     "zEffect": 36,
     "maxPower": 120,
     "name": "Wring Out"
@@ -9413,27 +9413,168 @@
   {
     "type": "Steel",
     "kind": "Special",
+    "power": 4,
     "accuracy": "Can't miss",
+    "range": "Ranged",
+    "description": "<p>Double Strike. Launches twin particle blades that defy modern science.</p>\n",
     "name": "Tachyon Cutter"
+  },
+  {
+    "type": "Rock",
+    "kind": "Physical",
+    "power": 13,
+    "accuracy": 1,
+    "range": "Contact",
+    "description": "<p>Bypasses Protection. Wields light accumulated atop the user’s head into a powerful edge.</p>\n",
+    "name": "Mighty Cleave"
   },
   {
     "type": "Fighting",
     "kind": "Physical",
+    "power": 7,
+    "accuracy": 1,
+    "range": "Contact",
+    "description": "<p>Super-Priority. Flinches the target. Fails if the target didn’t choose a Priority Move this round. Reacts to movement with a palm heel strike.</p>\n",
     "name": "Upper Hand"
   },
   {
     "type": "Psychic",
     "kind": "Special",
+    "power": 9,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Sonic. For 2 turns, the target can’t heal HP and their Moves that Heal or Drain are disabled. Unpleasant sound waves that ring through the mind.</p>\n",
     "name": "Psychic Noise"
+  },
+  {
+    "type": "Fairy",
+    "kind": "Special",
+    "power": 10,
+    "pp": 3,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Sonic. An angelic voice that Confuses targets who Boosted their Stats this Round.</p>\n",
+    "name": "Alluring Voice"
+  },
+  {
+    "type": "Dragon",
+    "kind": "Status",
+    "range": "Allies in Zone",
+    "description": "<p>A draconic yell raises morale, Boosting targets’ Critical Rate by +3. If a target is Dragon-Type, Boost their Critical Rate by +6 instead.</p>\n",
+    "zEffect": "Boost the user's Critical Rate by +4.",
+    "name": "Dragon Cheer"
+  },
+  {
+    "type": "Fire",
+    "kind": "Physical",
+    "power": 9,
+    "pp": 3,
+    "accuracy": 1,
+    "range": "Contact",
+    "description": "<p>If the user’s previous Move failed, missed, was stopped by a status problem, or had no effect on all its targets, Temper Flare gets +10 Power. (But not if the targets Protected themselves.)</p>\n",
+    "name": "Temper Flare"
+  },
+  {
+    "type": "Steel",
+    "kind": "Physical",
+    "power": 14,
+    "pp": 3,
+    "accuracy": 1,
+    "range": "Contact",
+    "description": "<p>Squeezes between unyielding surfaces. For every Tick of HP the target has lost, Hard Press gets -1 Power. Between a hard place and a hard place.</p>\n",
+    "name": "Hard Press"
+  },
+  {
+    "type": "Electric",
+    "kind": "Physical",
+    "power": 14,
+    "pp": 2,
+    "accuracy": 1,
+    "range": "Contact",
+    "description": "<p>If Supercell Slam misses or the target is Immune to Electric, the user loses 5 Ticks. An electrified dive that drops like thunder.</p>\n",
+    "name": "Supercell Slam"
   },
   {
     "type": "Grass",
     "kind": "Special",
+    "power": 6,
+    "accuracy": 3,
+    "range": "Ranged",
+    "description": "<p>A sticky explosion of candy syrup coats the target, Dropping their SPE between the next 3 Rounds.</p>\n",
     "name": "Syrup Bomb"
+  },
+  {
+    "type": "Dragon",
+    "kind": "Special",
+    "power": 10,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>A moody laser. Roll an additional d20: on 14+, all the user’s heads unite to go all out and this Move gets +16 Power.</p>\n",
+    "name": "Fickle Beam"
   },
   {
     "type": "Electric",
     "kind": "Special",
+    "power": 8,
+    "pp": 3,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Priority. If the target didn’t choose a damaging Move this round, Thunderclap fails.</p>\n",
     "name": "Thunderclap"
+  },
+  {
+    "type": "Fire",
+    "kind": "Status",
+    "pp": 7,
+    "range": "Self",
+    "description": "<p>Super-Priority. Protects the user from non-Status Moves and Burns attackers who make contact. Intense heat warps the very air.</p>\n",
+    "zEffect": "Boost DEF by +5.",
+    "name": "Burning Bulwark"
+  },
+  {
+    "type": "Normal",
+    "kind": "Special",
+    "power": 22,
+    "pp": 5,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Looses The full brunt of the user’s spirit from a full moon shining blood-red. This Move can’t be used twice in a row.</p>\n",
+    "name": "Blood Moon"
+  },
+  {
+    "type": "Grass",
+    "kind": "Special",
+    "power": 10,
+    "accuracy": 2,
+    "range": "Ranged - Foes in Zone",
+    "description": "<p>Burns on 16+. A cannonade of stirred-up tea that Drains half the damage dealt.</p>\n",
+    "name": "Matcha Gotcha"
+  },
+  {
+    "type": "Grass",
+    "kind": "Physical",
+    "power": 14,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Critical Hit on 18+. Bludgeons with an ivy-wrapped club. If used by Ogerpon, this Move’s Type changes to match the mask it wears.</p>\n",
+    "name": "Ivy Cudgel"
+  },
+  {
+    "type": "Poison",
+    "kind": "Special",
+    "power": 14,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Badly Poisons on 10+. A corrosive rope snares and pours toxins into the target.</p>\n",
+    "name": "Malignant Chain"
+  },
+  {
+    "type": "Normal",
+    "kind": "Special",
+    "power": 22,
+    "accuracy": 1,
+    "range": "Ranged",
+    "description": "<p>Bombards with crystal power. If used by Stellar Form Terapagos, this Move targets all Foes in Zone and if the user’s ATK is higher than its SATK, this Move becomes Physical.</p>\n",
+    "name": "Tera Starstorm"
   }
 ]
