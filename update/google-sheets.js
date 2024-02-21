@@ -60,21 +60,7 @@ fetchedSheets.then(data => {
     sellIsNumeric: isFinite(+row.Sell)
   })))
 
-  writeJson('moves', data['Moves'].map(row => ({
-    type: row.Type,
-    kind: row.Kind,
-    power: row.Power,
-    pp: row.PP,
-    accuracy: row.Accuracy,
-    range: row.Range,
-    description: row.Description && markdown(row.Description),
-    zEffect: row['Z-Effect'],
-    maxPower: row['MAX Power'],
-    name: row.Move
-  })))
-
   writeJson('abilities', data['Abilities'].map(function (row) {
-    console.log(row);
     return {
       name: row.Ability,
       bonusStats: row['Bonus Stats'],
@@ -82,6 +68,7 @@ fetchedSheets.then(data => {
     };
   }))
 
+  const moveLearners = {}
   const movesets = Object.fromEntries(data['Movesets'].map(movesetsMapper))
   const tutorMoves = Object.fromEntries(data["'Tutor Matrix'"].map(tutorMatrixMapper))
   const dexBlurbs = Object.fromEntries(data['Dex'].map(row => [row.Name, row.Blurb]))
@@ -96,24 +83,46 @@ fetchedSheets.then(data => {
   }
   writeJson('pokemon', families)
 
+  writeJson('moves', data['Moves'].map(row => {
+    return {
+      name: row.Move,
+      type: row.Type,
+      kind: row.Kind,
+      power: row.Power,
+      pp: row.PP,
+      accuracy: row.Accuracy,
+      range: row.Range,
+      description: row.Description && markdown(row.Description),
+      zEffect: row['Z-Effect'],
+      maxPower: row['MAX Power'],
+      learnedBy: moveLearners[row.Move]
+    }
+  }))
+
   function getBaseForm (name, dex) {
     if (name === '...?') { return dex['Luvdisc'] }
-    
     const mon = dex[name]
     const prevo = mon?.evolves.from
-    if (prevo) {
-      if (prevo === name) {
-        throw Error(`${name} listed as evolving from from itself, exiting to avoid infinite recursion`)
-      }
-      return getBaseForm(prevo, dex)
+    if (prevo === name) {
+      throw Error(`${name} listed as evolving from from itself, exiting to avoid infinite recursion`)
     }
-    return mon
+    return prevo ? getBaseForm(prevo, dex) : mon
   }
 
   function dexMapper (row, tutorMoves, movesets, dexBlurbs) {
     const blurb = dexBlurbs[row.Name]
     const naturalMoves = movesets[row.Name]
     const { form, starting, levelUp } = naturalMoves || {}
+    const onlyTutorMoves = tutorMoves[row.Name]?.filter(move => !naturalMoves?.all?.has(move))
+    const allMoves = new Set(Array.from(naturalMoves?.all || []).concat(onlyTutorMoves))
+    console.log(allMoves)
+    for (const move of allMoves) {
+      if (moveLearners[move]) {
+        moveLearners[move]?.push(row.Name)
+      } else {
+        moveLearners[move] = []
+      }
+    }
   
     return [row.Name, {
         name: row.Name,
@@ -139,7 +148,8 @@ fetchedSheets.then(data => {
           form,
           starting,
           levelUp,
-          tutor: tutorMoves[row.Name]?.filter(move => !naturalMoves?.all?.has(move))
+          tutor: onlyTutorMoves,
+          all: allMoves
         },
         blurb: blurb && markdown(blurb)
       }]
@@ -178,13 +188,8 @@ function movesetsMapper (row) {
 
   const form = row.Form?.split(', ').map(splitMoveslot)
   const starting = [row.Start1, row.Start2, row.Start3, row.Start4].filter(Boolean).map(splitMoveslot)
-
-  return [row.Mon, {
-    form,
-    starting,
-    levelUp,
-    all: new Set([].concat(form, starting, levelUpEntries.flatMap(([_, val]) => val?.oneOf || val)))
-  }]
+  const all = new Set([].concat(form, starting, levelUpEntries.flatMap(([_, val]) => val?.oneOf || val)))
+  return [row.Mon, { form, starting, levelUp, all }]
 }
 
 function splitMoveslot (str) {

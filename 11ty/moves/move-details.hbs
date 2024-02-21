@@ -12,10 +12,8 @@ layout: base
 
 <style>
   article {
-    max-width: 20em;
-    margin: 0.5em;
-    padding: 0 0.5em;
-    vertical-align: top;
+    margin: 0.5em 1em;
+    max-width: 40em;
   }
 
   dt {
@@ -27,8 +25,15 @@ layout: base
     content: ": ";
     white-space: pre;
   }
+
+  ul {
+    margin: 0;
+    padding: 0 0 0 1.5ch;
+    columns: 8em;
+  }
 </style>
 
+{{#with move}}
 <article>
   <h1>{{name}}</h1>
   <dl>
@@ -49,10 +54,19 @@ layout: base
   {{#if zEffect}}
     <p><b>Z-Effect:</b> {{zEffect}}</p>
   {{/if}}
+  {{#if maxPower}}
+    <p><b>MAX Power</b> {{maxPower}}</p>
+  {{/if}}
 
-  {{!-- TODO: list each mon that learns it --}}
-  {{!-- TODO: MAX Power --}}
+  <h2>Learned by</h2>
+  <ul>
+  {{#each learnedBy}}
+    <li>{{this}}
+  {{/each}}
+  </ul>
+
   {{!-- TODO: bulbapedia link?
     Note that it needs the underscores, unlike Wikipedia: <p><a href="https://bulbapedia.bulbagarden.net/wiki/{{name}}_(move)">This Move’s videogame equivalent on Bulbapedia</a></p>
   --}}
 </article>
+{{/with}}

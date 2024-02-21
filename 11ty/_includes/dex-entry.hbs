@@ -58,7 +58,7 @@
     {{#*inline "formatAbilities" }}
       {{#each abilities~}}
         {{#if Entry}}
-          <a href="/abilities/#entry-move">Entry:</a> <a href="/moves/#{{slugify Entry}}">{{Entry}}</a>
+          <a href="/abilities/#entry-move">Entry:</a> <a href="/moves/{{slugify Entry}}/">{{Entry}}</a>
         {{else}}
           <a href="/abilities/#{{slugify this}}">{{this}}</a>
         {{/if}}

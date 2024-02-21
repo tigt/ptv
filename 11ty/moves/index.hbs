@@ -11,10 +11,6 @@ title: Moves
     outline: 1px dashed #b02a32;
   }
 
-  a[rel=bookmark] {
-    color: inherit;
-  }
-
   article {
     display: inline-block;
     max-width: 20em;
@@ -22,40 +18,19 @@ title: Moves
     padding: 0 0.5em;
     vertical-align: top;
   }
-
-  dt {
-    float: left;
-    font-weight: bolder;
-  }
-
-  dt:after {
-    content: ": ";
-    white-space: pre;
-  }
 </style>
 
 <h1>Moves</h1>
 
 {{#moves}}
   <article id="{{slugify name}}">
-    <h2><a rel="bookmark" href="#{{slugify name}}">{{name}}</a></h2>
-    <dl>
-      <dt>Type<dd>{{type}}
-      <dt>Category<dd>{{kind}}
-      <dt>PP Cost<dd>{{pp}}
-      {{#if power}}
-      <dt>Power<dd>{{power}}
-      {{/if}}
-      {{#if accuracy}}
-      <dt>Accuracy<dd>{{accuracy}}
-      {{/if}}
-      <dt>Range<dd>{{range}}
-    </dl>
+    <h2><a href="/moves/{{slugify name}}/">{{name}} ⇢</a></h2>
+    <p>{{type}} · {{kind}} · {{pp}} PP
+      {{#if power}} · {{power}} Power{{/if}}
+      {{#if accuracy}} · {{accuracy}} AC {{/if}}
+      · {{range}}
+    </p>
     
     {{{description}}}
-    
-    {{#if zEffect}}
-      <p><b>Z-Effect:</b> {{zEffect}}</p>
-    {{/if}}
   </article>
 {{/moves}}
