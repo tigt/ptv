@@ -228,7 +228,7 @@
   },
   {
     "name": "Dancer",
-    "description": "<p>If another character uses a Move with “Dance” in the name or Aqua Step, immediately use that Move for 0 PP without spending the user’s turn. This can’t go infinite.</p>\n"
+    "description": "<p>If another character uses a Move with “Dance” in the name, Aqua Step, or Clangorous Soul, immediately use that Move for 0 PP without spending the user’s turn. This can’t go infinite.</p>\n"
   },
   {
     "name": "Dark Aura",
@@ -325,7 +325,8 @@
   },
   {
     "name": "Electric Cheeks",
-    "description": "<p>On the turn the user enters battle, their Electric Moves get Priority.</p>\n"
+    "bonusStats": "+1 SPE",
+    "description": "<p>The user’s Electric Moves get Priority while the user has full HP.</p>\n"
   },
   {
     "name": "Electric Surge",
@@ -710,7 +711,7 @@
   },
   {
     "name": "Magic Guard",
-    "description": "<p>The user is immune to damage from Status Problems, hazards, weather, recoil, or Held Items. The user doesn’t lose HP from using Mind Blown or Steel Beam.</p>\n"
+    "description": "<p>The user is immune to damage from Status Problems, hazards, weather, recoil, or Held Items. The user doesn’t lose HP from using Mind Blown, Steel Beam, or Chloroblast.</p>\n"
   },
   {
     "name": "Magician",
@@ -1600,19 +1601,19 @@
   },
   {
     "name": "Hospitality",
-    "description": "<p>”When the user enters battle, it showers its allies in Zone with hospitality to heal 25% of their HP each.”</p>\n"
+    "description": "<p>When the user enters battle, it heals each in-Zone ally for 3 Ticks each.</p>\n"
   },
   {
     "name": "Supersweet Syrup",
-    "description": "<p>The first time the user enters battle, a sickly-sweet scent Drops all in-Zone foes’ Evasion by -1.</p>\n"
+    "description": "<p>The first time the user enters battle, their sickly-sweet scent Drops all in-Zone foes’ Evasion by -1.</p>\n"
   },
   {
     "name": "Toxic Chain",
-    "description": "<p>“The user’s toxic chain may (30%) badly poison any target the user hits with a Move.”</p>\n"
+    "description": "<p>The user’s Moves Badly Poison targets on 14+.</p>\n"
   },
   {
     "name": "Mind's Eye",
-    "description": "<p>“The user ignores changes to foes’ Evasion, its Accuracy can’t be dropped, and it can hit Ghost-Types with Normal- and Fighting-Type moves.”</p>\n"
+    "description": "<p>The user ignores changes to foes’ Evasion, their Accuracy can’t be Dropped, and they can hit Ghost-Types with Normal- or Fighting-Type moves.</p>\n"
   },
   {
     "name": "Embody Aspect",
@@ -1620,18 +1621,18 @@
   },
   {
     "name": "Poison Puppeteer",
-    "description": "<p>“Targets Poisoned by the user’s Moves will also become Confused.”</p>\n"
+    "description": "<p>Targets Poisoned by the user’s Moves also become Confused.</p>\n"
   },
   {
     "name": "Tera Shift",
-    "description": "<p>“When the user enters battle, it absorbs energy around itself to transform into its Terastal Form.”</p>\n"
+    "description": "<p>When the user enters battle, they absorb energy and transform into their Terastal Form.</p>\n"
   },
   {
     "name": "Tera Shell",
-    "description": "<p>“The user’s shell holds the powers of each type. All Moves that damage the user when its HP is full will not be very effective.”</p>\n"
+    "description": "<p>“The user’s shell holds the powers of each type. All Moves that damage the user when their HP is full will not be very effective.”</p>\n"
   },
   {
     "name": "Teraform Zero",
-    "description": "<p>“When the user changes into its Stellar Form, its hidden powers eliminate all effects of weather and terrain, reducing them to zero.”</p>\n"
+    "description": "<p>“When the user changes into Stellar Form, their hidden powers eliminate all effects of weather and terrain, reducing them to zero.”</p>\n"
   }
 ]

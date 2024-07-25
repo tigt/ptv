@@ -2050,9 +2050,12 @@
             "Stockpile"
           ],
           "14": [
-            "Calm Mind"
+            "Guard Split"
           ],
           "15": [
+            "Calm Mind"
+          ],
+          "16": [
             "Stored Power"
           ]
         },
@@ -2150,9 +2153,10 @@
             "Whirlwind"
           ],
           "8": [
-            "Bug Buzz"
+            "Pollen Puff"
           ],
           "9": [
+            "Air Cutter",
             "Quiver Dance"
           ],
           "10": [
@@ -2172,6 +2176,12 @@
           ],
           "15": [
             "Energy Ball"
+          ],
+          "16": [
+            "Psychic"
+          ],
+          "17": [
+            "Springtide Storm"
           ]
         },
         "tutor": [
@@ -2179,6 +2189,7 @@
           "Attract",
           "Baton Pass",
           "Bug Bite",
+          "Bug Buzz",
           "Captivate",
           "Defog",
           "Double Team",
@@ -2194,9 +2205,7 @@
           "Infestation",
           "Iron Defense",
           "Mega Kick",
-          "Pollen Puff",
           "Protect",
-          "Psychic",
           "Psychic Fangs",
           "Psystrike",
           "Rage Powder",
@@ -2428,9 +2437,12 @@
             "Stockpile"
           ],
           "14": [
-            "Acupressure"
+            "Guard Swap"
           ],
           "15": [
+            "Acupressure"
+          ],
+          "16": [
             "Power Trip"
           ]
         },
@@ -2530,7 +2542,8 @@
             "Assurance"
           ],
           "9": [
-            "Venoshock"
+            "Barb Barrage",
+            "Swords Dance"
           ],
           "10": [
             "Fell Stinger"
@@ -2549,6 +2562,12 @@
           ],
           "15": [
             "Outrage"
+          ],
+          "16": [
+            "Hyper Drill"
+          ],
+          "17": [
+            "Close Combat"
           ]
         },
         "tutor": [
@@ -2587,11 +2606,11 @@
           "Solar Blade",
           "Substitute",
           "Sunny Day",
-          "Swords Dance",
           "Thief",
           "Throat Chop",
           "Toxic",
           "U-Turn",
+          "Venoshock",
           "X-Scissor"
         ],
         "all": {}
@@ -3985,14 +4004,13 @@
             "Double-Edge"
           ],
           "15": [
-            "Sky Attack"
+            "Brave Bird"
           ]
         },
         "tutor": [
           "Astonish",
           "Attract",
           "Baton Pass",
-          "Brave Bird",
           "Defog",
           "Drill Run",
           "Dual Wingbeat",
@@ -4014,6 +4032,7 @@
           "Rest",
           "Round",
           "Scary Face",
+          "Sky Attack",
           "Sleep Talk",
           "Snore",
           "Steel Wing",
@@ -8358,7 +8377,8 @@
             "Milk Drink"
           ],
           "10": [
-            "Bounce"
+            "Bounce",
+            "Alluring Voice"
           ],
           "11": [
             "Thrash"
@@ -8374,16 +8394,78 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
-          "Captivate",
-          "Confide",
+          "Baton Pass",
+          "Blizzard",
+          "Body Slam",
+          "Brick Break",
+          "Covet",
+          "Dazzling Gleam",
+          "Dig",
+          "Double Slap",
           "Double Team",
+          "Drain Punch",
+          "Draining Kiss",
+          "Endure",
+          "Expanding Force",
           "Facade",
+          "Fake Tears",
+          "Fire Blast",
+          "Fire Punch",
+          "Flamethrower",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Grass Knot",
+          "Gravity",
+          "Gyro Ball",
+          "Heal Pulse",
+          "Helping Hand",
+          "Hyper Voice",
+          "Ice Beam",
+          "Ice Punch",
+          "Icy Wind",
+          "Last Resort",
+          "Light Screen",
+          "Magic Room",
+          "Misty Explosion",
+          "Misty Terrain",
+          "Perish Song",
+          "Play Nice",
+          "Play Rough",
+          "Present",
           "Protect",
+          "Psych Up",
+          "Psychic",
+          "Psyshock",
+          "Rain Dance",
+          "Reflect",
+          "Retaliate",
+          "Rollout",
           "Round",
+          "Safeguard",
+          "Self-Destruct",
           "Sleep Talk",
+          "Snatch",
+          "Solar Beam",
+          "Splash",
+          "Stealth Rock",
+          "Steel Roller",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
           "Swagger",
-          "Toxic"
+          "Synchronoise",
+          "Thunder",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Tri Attack",
+          "Wake-Up Slap",
+          "Wild Charge",
+          "Wish",
+          "Work Up"
         ],
         "all": {}
       },
@@ -8467,7 +8549,7 @@
             "Disarming Voice"
           ],
           "4": [
-            "Fly"
+            "Relic Song"
           ],
           "5": [
             "Stockpile",
@@ -8486,7 +8568,8 @@
             "Mimic"
           ],
           "10": [
-            "Gyro Ball"
+            "Gyro Ball",
+            "Alluring Voice"
           ],
           "11": [
             "Hyper Voice"
@@ -8505,16 +8588,79 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
+          "Baton Pass",
+          "Blizzard",
+          "Body Slam",
+          "Bounce",
+          "Brick Break",
           "Captivate",
-          "Confide",
+          "Charm",
+          "Covet",
+          "Dazzling Gleam",
+          "Dig",
+          "Double Slap",
           "Double Team",
+          "Drain Punch",
+          "Draining Kiss",
+          "Endure",
+          "Expanding Force",
           "Facade",
+          "Fake Tears",
+          "Fire Blast",
+          "Fire Punch",
+          "Flamethrower",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Grass Knot",
+          "Gravity",
+          "Heal Pulse",
+          "Helping Hand",
+          "Ice Beam",
+          "Ice Punch",
+          "Icy Wind",
+          "Last Resort",
+          "Light Screen",
+          "Magic Room",
+          "Mega Kick",
+          "Mega Punch",
+          "Misty Explosion",
+          "Misty Terrain",
+          "Perish Song",
+          "Play Nice",
+          "Present",
           "Protect",
+          "Psych Up",
+          "Psychic",
+          "Rain Dance",
+          "Reflect",
+          "Retaliate",
           "Round",
+          "Safeguard",
+          "Self-Destruct",
           "Sleep Talk",
+          "Snatch",
+          "Snore",
+          "Solar Beam",
+          "Stealth Rock",
+          "Steel Roller",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
           "Swagger",
-          "Toxic"
+          "Synchronoise",
+          "Thunder",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Tri Attack",
+          "Uproar",
+          "Wild Charge",
+          "Wish",
+          "Work Up"
         ],
         "all": {}
       },
@@ -8618,7 +8764,8 @@
             "Mimic"
           ],
           "11": [
-            "Gyro Ball"
+            "Gyro Ball",
+            "Alluring Voice"
           ],
           "12": [
             "Hyper Voice"
@@ -8637,15 +8784,79 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
+          "Baton Pass",
+          "Blizzard",
+          "Bounce",
+          "Brick Break",
           "Captivate",
-          "Confide",
+          "Charm",
+          "Covet",
+          "Dig",
+          "Double Slap",
           "Double Team",
+          "Drain Punch",
+          "Draining Kiss",
+          "Endure",
           "Facade",
+          "Fake Tears",
+          "Fire Blast",
+          "Fire Punch",
+          "Flamethrower",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Giga Impact",
+          "Grass Knot",
+          "Gravity",
+          "Heal Pulse",
+          "Helping Hand",
+          "Hyper Beam",
+          "Ice Beam",
+          "Ice Punch",
+          "Icy Wind",
+          "Last Resort",
+          "Light Screen",
+          "Magic Room",
+          "Mega Kick",
+          "Mega Punch",
+          "Misty Explosion",
+          "Misty Terrain",
+          "Perish Song",
+          "Play Nice",
+          "Present",
           "Protect",
+          "Psych Up",
+          "Psychic",
+          "Rain Dance",
+          "Reflect",
+          "Retaliate",
+          "Rollout",
+          "Safeguard",
+          "Self-Destruct",
           "Sleep Talk",
+          "Snatch",
+          "Snore",
+          "Solar Beam",
+          "Stealth Rock",
+          "Steel Roller",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
           "Swagger",
-          "Toxic"
+          "Synchronoise",
+          "Thunder",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Tri Attack",
+          "Uproar",
+          "Wake-Up Slap",
+          "Wild Charge",
+          "Wish",
+          "Work Up"
         ],
         "all": {}
       },
@@ -11225,7 +11436,6 @@
           "Sleep Talk",
           "Snore",
           "Spite",
-          "Stratagem",
           "Submission",
           "Substitute",
           "Sunny Day",
@@ -11394,7 +11604,6 @@
           "Sleep Talk",
           "Snore",
           "Spite",
-          "Stratagem",
           "Substitute",
           "Sunny Day",
           "Swift",
@@ -11556,7 +11765,6 @@
           "Sleep Talk",
           "Snore",
           "Spite",
-          "Stratagem",
           "Submission",
           "Substitute",
           "Sunny Day",
@@ -11725,7 +11933,6 @@
           "Sleep Talk",
           "Snore",
           "Spite",
-          "Stratagem",
           "Substitute",
           "Sunny Day",
           "Swift",
@@ -12564,16 +12771,65 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Beat Up",
+          "Body Slam",
+          "Brick Break",
+          "Bulk Up",
+          "Bulldoze",
+          "Coaching",
+          "Counter",
+          "Dig",
+          "Dual Chop",
+          "Earthquake",
+          "Encore",
+          "Endure",
           "Facade",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Foresight",
+          "Gunk Shot",
+          "Helping Hand",
+          "Ice Punch",
+          "Low Sweep",
+          "Meditate",
+          "Metronome",
+          "Night Slash",
+          "Overheat",
+          "Pay Day",
+          "Payback",
+          "Poison Jab",
+          "Power Trip",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Reversal",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Scary Face",
+          "Seed Bomb",
           "Sleep Talk",
-          "Toxic"
+          "Smelling Salts",
+          "Snore",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Taunt",
+          "Thief",
+          "Thunder",
+          "Thunder Punch",
+          "Thunderbolt",
+          "U-Turn",
+          "Uproar",
+          "Work Up"
         ],
         "all": {}
       },
@@ -12704,16 +12960,68 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Beat Up",
+          "Body Slam",
+          "Brick Break",
+          "Bulk Up",
+          "Bulldoze",
+          "Coaching",
+          "Counter",
+          "Dig",
+          "Dual Chop",
+          "Earthquake",
+          "Encore",
+          "Endure",
           "Facade",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Foresight",
+          "Giga Impact",
+          "Gunk Shot",
+          "Helping Hand",
+          "Hyper Beam",
+          "Ice Punch",
+          "Iron Tail",
+          "Low Sweep",
+          "Meditate",
+          "Metronome",
+          "Night Slash",
+          "Overheat",
+          "Pay Day",
+          "Payback",
+          "Poison Jab",
+          "Power Trip",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Reversal",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Scary Face",
+          "Seed Bomb",
           "Sleep Talk",
-          "Toxic"
+          "Smelling Salts",
+          "Snore",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Taunt",
+          "Thief",
+          "Thunder",
+          "Thunder Punch",
+          "Thunderbolt",
+          "U-Turn",
+          "Uproar",
+          "Work Up"
         ],
         "all": {}
       },
@@ -13798,7 +14106,7 @@
       },
       "moves": {
         "form": [
-          "Submission"
+          "Dynamic Punch"
         ],
         "starting": [
           "Pound",
@@ -13846,7 +14154,7 @@
             "Confuse Ray"
           ],
           "16": [
-            "Dynamic Punch"
+            "Victory Dance"
           ],
           "17": [
             "Sparkly Swirl"
@@ -13902,6 +14210,7 @@
           "Sleep Talk",
           "Snore",
           "Splash",
+          "Submission",
           "Substitute",
           "Superpower",
           "Surf",
@@ -18992,17 +19301,42 @@
           ]
         },
         "tutor": [
-          "Attract",
-          "Captivate",
-          "Confide",
+          "Ally Switch",
+          "Body Press",
+          "Charge Beam",
           "Double Team",
+          "Electric Terrain",
+          "Electroweb",
+          "Endure",
+          "Explosion",
           "Facade",
+          "Flash",
+          "Gravity",
+          "Heavy Slam",
+          "Iron Defense",
+          "Iron Head",
+          "Magnetic Flux",
+          "Mirror Coat",
           "Protect",
+          "Rain Dance",
+          "Recycle",
+          "Reflect",
           "Rest",
+          "Rising Voltage",
           "Round",
+          "Self-Destruct",
+          "Signal Beam",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Steel Beam",
+          "Steel Roller",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Thunder",
+          "Thunderbolt",
+          "Tri Attack",
+          "Volt Switch"
         ],
         "all": {}
       },
@@ -19125,17 +19459,42 @@
           ]
         },
         "tutor": [
-          "Attract",
-          "Captivate",
-          "Confide",
+          "Ally Switch",
+          "Body Press",
           "Double Team",
+          "Electroweb",
+          "Endure",
           "Facade",
+          "Flash",
+          "Giga Impact",
+          "Gravity",
+          "Gyro Ball",
+          "Heavy Slam",
+          "Hyper Beam",
+          "Iron Defense",
+          "Iron Head",
+          "Magnetic Flux",
+          "Mirror Coat",
           "Protect",
+          "Rain Dance",
+          "Recycle",
+          "Reflect",
           "Rest",
+          "Rising Voltage",
           "Round",
+          "Screech",
+          "Self-Destruct",
+          "Signal Beam",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Steel Beam",
+          "Steel Roller",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Thunder",
+          "Thunderbolt",
+          "Volt Switch"
         ],
         "all": {}
       },
@@ -19259,17 +19618,42 @@
           ]
         },
         "tutor": [
-          "Attract",
-          "Captivate",
-          "Confide",
+          "Ally Switch",
+          "Body Press",
           "Double Team",
+          "Electric Terrain",
+          "Electroweb",
+          "Endure",
+          "Explosion",
           "Facade",
+          "Flash",
+          "Giga Impact",
+          "Gyro Ball",
+          "Heavy Slam",
+          "Iron Defense",
+          "Iron Head",
+          "Magnetic Flux",
+          "Mirror Coat",
           "Protect",
+          "Rain Dance",
+          "Recycle",
+          "Reflect",
           "Rest",
+          "Rising Voltage",
           "Round",
+          "Screech",
+          "Self-Destruct",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Steel Beam",
+          "Steel Roller",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Thunder",
+          "Thunderbolt",
+          "Tri Attack",
+          "Volt Switch"
         ],
         "all": {}
       },
@@ -22281,7 +22665,7 @@
             "Dragon Tail"
           ],
           "7": [
-            "Gyro Ball"
+            "Hard Press"
           ],
           "8": [
             "Glare"
@@ -22330,6 +22714,7 @@
           "Flail",
           "Flash Cannon",
           "Giga Impact",
+          "Gyro Ball",
           "Head Smash",
           "High Horsepower",
           "Hyper Beam",
@@ -24983,17 +25368,17 @@
       },
       "moves": {
         "form": [
-          "Double Kick"
+          "Jump Kick"
         ],
         "starting": [
-          "Tackle",
+          "Rolling Kick",
           "Helping Hand",
           "Fake Out",
           "Focus Energy"
         ],
         "levelUp": {
           "2": [
-            "Brick Break"
+            "Double Kick"
           ],
           "3": [
             "Low Kick"
@@ -25003,7 +25388,8 @@
             "Wide Guard"
           ],
           "6": [
-            "Blaze Kick"
+            "Blaze Kick",
+            "Stomp"
           ],
           "7": [
             "Mind Reader"
@@ -25041,6 +25427,7 @@
           "Aura Sphere",
           "Body Slam",
           "Bounce",
+          "Brick Break",
           "Bulk Up",
           "Bulldoze",
           "Bullet Punch",
@@ -25053,7 +25440,6 @@
           "Focus Blast",
           "Giga Impact",
           "Hyper Beam",
-          "Jump Kick",
           "Low Sweep",
           "Mach Punch",
           "Mega Punch",
@@ -25068,11 +25454,9 @@
           "Reversal",
           "Rock Slide",
           "Rock Tomb",
-          "Rolling Kick",
           "Round",
           "Sleep Talk",
           "Snore",
-          "Stomp",
           "Stomping Tantrum",
           "Stone Edge",
           "Strength",
@@ -25156,7 +25540,7 @@
           "Drain Punch"
         ],
         "starting": [
-          "Tackle",
+          "Sky Uppercut",
           "Helping Hand",
           "Fake Out",
           "Focus Energy"
@@ -25250,7 +25634,6 @@
           "Rock Slide",
           "Rock Tomb",
           "Round",
-          "Sky Uppercut",
           "Sleep Talk",
           "Snore",
           "Stone Edge",
@@ -25334,7 +25717,7 @@
           "Triple Kick"
         ],
         "starting": [
-          "Tackle",
+          "Arm Thrust",
           "Helping Hand",
           "Fake Out",
           "Focus Energy"
@@ -25344,7 +25727,7 @@
             "Quick Attack"
           ],
           "3": [
-            "Gyro Ball"
+            "Rapid Spin"
           ],
           "4": false,
           "5": [
@@ -25352,13 +25735,14 @@
             "Quick Guard"
           ],
           "6": [
-            "Smart Strike"
+            "Smart Strike",
+            "Gyro Ball"
           ],
           "7": [
             "Agility"
           ],
           "8": [
-            "Rolling Kick"
+            "Upper Hand"
           ],
           "9": [
             "Bulk Up"
@@ -25414,12 +25798,12 @@
           "Mind Reader",
           "Protect",
           "Rain Dance",
-          "Rapid Spin",
           "Rest",
           "Retaliate",
           "Revenge",
           "Rock Slide",
           "Rock Smash",
+          "Rolling Kick",
           "Rollout",
           "Round",
           "Sandstorm",
@@ -26213,7 +26597,7 @@
           ],
           "4": [
             "Mist",
-            "Corrosive Gas"
+            "Defog"
           ],
           "5": [
             "Gyro Ball"
@@ -26257,10 +26641,10 @@
           "Aromatic Mist",
           "Attract",
           "Brutal Swing",
+          "Corrosive Gas",
           "Curse",
           "Dark Pulse",
           "Dazzling Gleam",
-          "Defog",
           "Double Team",
           "Endure",
           "Facade",
@@ -28922,8 +29306,7 @@
         ],
         "levelUp": {
           "2": [
-            "Rapid Spin",
-            "Gyro Ball"
+            "Rapid Spin"
           ],
           "3": [
             "Recover"
@@ -28983,6 +29366,7 @@
           "Flip Turn",
           "Grass Knot",
           "Gravity",
+          "Gyro Ball",
           "Snowscape",
           "Ice Beam",
           "Icy Wind",
@@ -29088,8 +29472,7 @@
         "levelUp": {
           "2": false,
           "3": [
-            "Rapid Spin",
-            "Gyro Ball"
+            "Rapid Spin"
           ],
           "4": [
             "Recover"
@@ -29151,6 +29534,7 @@
           "Giga Impact",
           "Grass Knot",
           "Gravity",
+          "Gyro Ball",
           "Snowscape",
           "Hyper Beam",
           "Ice Beam",
@@ -30040,7 +30424,8 @@
             "Pursuit"
           ],
           "12": [
-            "Swords Dance"
+            "Swords Dance",
+            "Lunge"
           ],
           "13": [
             "Laser Focus"
@@ -30201,13 +30586,14 @@
             "Pursuit"
           ],
           "13": [
-            "Swords Dance"
+            "Swords Dance",
+            "Double Iron Bash"
           ],
           "14": [
             "Laser Focus"
           ],
           "15": [
-            "Double Iron Bash"
+            "Crabhammer"
           ],
           "16": [
             "Close Combat"
@@ -30431,13 +30817,14 @@
             "Pursuit"
           ],
           "13": [
-            "Swords Dance"
+            "Swords Dance",
+            "Stone Edge"
           ],
           "14": [
             "Laser Focus"
           ],
           "15": [
-            "Stone Edge"
+            "Mighty Cleave"
           ],
           "16": [
             "Close Combat"
@@ -31913,17 +32300,19 @@
         ],
         "levelUp": {
           "2": [
-            "Bug Bite"
+            "Bug Bite",
+            "Submission"
           ],
           "3": [
             "Seismic Toss",
             "Dig"
           ],
           "4": [
-            "Double Hit"
+            "Double Hit",
+            "Swords Dance"
           ],
           "5": [
-            "Submission"
+            "Vital Throw"
           ],
           "6": [
             "Strength"
@@ -31932,15 +32321,14 @@
             "X-Scissor"
           ],
           "8": [
-            "Crush Grip"
+            "Hard Press"
           ],
           "9": [
             "Storm Throw",
-            "Vital Throw",
             "Circle Throw"
           ],
           "10": [
-            "Swords Dance"
+            "Lunge"
           ],
           "11": [
             "Guillotine"
@@ -31949,13 +32337,13 @@
             "Superpower"
           ],
           "13": [
-            "Lunge"
+            "Thrash"
           ],
           "14": [
             "Cross Chop"
           ],
           "15": [
-            "Stone Edge"
+            "Crush Grip"
           ]
         },
         "tutor": [
@@ -32004,12 +32392,12 @@
           "Smack Down",
           "Snore",
           "Stealth Rock",
+          "Stone Edge",
           "Substitute",
           "Sunny Day",
           "Swagger",
           "Take Down",
           "Thief",
-          "Thrash",
           "Throat Chop"
         ],
         "all": {}
@@ -32194,14 +32582,56 @@
         },
         "tutor": [
           "Attract",
-          "Captivate",
-          "Confide",
+          "Bide",
+          "Blizzard",
+          "Bulldoze",
+          "Close Combat",
           "Double Team",
+          "Earthquake",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fissure",
+          "Flame Burst",
+          "Flame Charge",
+          "Flamethrower",
+          "Headbutt",
+          "Helping Hand",
+          "High Horsepower",
+          "Horn Drill",
+          "Hyper Beam",
+          "Ice Beam",
+          "Icy Wind",
+          "Iron Tail",
+          "Lash Out",
+          "Megahorn",
+          "Outrage",
           "Protect",
+          "Rain Dance",
+          "Retaliate",
+          "Revenge",
+          "Reversal",
+          "Rock Slide",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sandstorm",
           "Sleep Talk",
-          "Toxic"
+          "Smart Strike",
+          "Snore",
+          "Solar Beam",
+          "Stomp",
+          "Stomping Tantrum",
+          "Stone Edge",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
+          "Surf",
+          "Throat Chop",
+          "Thunder",
+          "Thunderbolt",
+          "Uproar",
+          "Whirlpool"
         ],
         "all": {}
       },
@@ -32333,7 +32763,7 @@
         ],
         "all": {}
       },
-      "blurb": "<p>is Kantonian Tauros superior to this form in any way?</p>\n"
+      "blurb": "<p>is Kantonian Tauros superior to this form in any way? I mean I guess it sure wouldn’t win any fights between them</p>\n"
     },
     {
       "name": "Paldean Tauros (Blaze Breed)",
@@ -32771,7 +33201,8 @@
             "Crunch"
           ],
           "8": [
-            "Thrash"
+            "Thrash",
+            "Temper Flare"
           ],
           "9": [
             "Aqua Tail"
@@ -33729,7 +34160,7 @@
             "Sizzly Slide"
           ],
           "13": [
-            "Sunsteel Strike"
+            "V-Create"
           ],
           "14": [
             "Power Split"
@@ -36210,7 +36641,6 @@
           "Splash",
           "Steel Roller",
           "Stomping Tantrum",
-          "Stratagem",
           "Submission",
           "Substitute",
           "Sunny Day",
@@ -36403,7 +36833,6 @@
           "Solar Beam",
           "Steel Roller",
           "Stomping Tantrum",
-          "Stratagem",
           "Submission",
           "Substitute",
           "Sunny Day",
@@ -38891,7 +39320,6 @@
           "Stored Power",
           "Storm Throw",
           "Strange Steam",
-          "Stratagem",
           "Strength",
           "Strength Sap",
           "String Shot",
@@ -41044,14 +41472,15 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Peck",
+          "Gust",
           "Growl",
           "Night Shade",
           "Echoed Voice"
         ],
         "levelUp": {
           "2": [
-            "Confusion"
+            "Confusion",
+            "Defog"
           ],
           "3": [
             "Hypnosis"
@@ -41075,20 +41504,22 @@
             "Extrasensory"
           ],
           "9": [
+            "Uproar",
             "Ominous Wind"
           ],
           "10": [
-            "Uproar",
-            "Icy Wind"
+            "Dark Void"
           ],
           "11": [
-            "Roost"
+            "Roost",
+            "Icy Wind"
           ],
           "12": [
             "Moonblast"
           ],
           "13": [
-            "Synchronoise"
+            "Synchronoise",
+            "Psychic Noise"
           ],
           "14": [
             "Shadow Ball"
@@ -41102,7 +41533,6 @@
           "Air Cutter",
           "Amnesia",
           "Attract",
-          "Defog",
           "Detect",
           "Double Team",
           "Double-Edge",
@@ -41209,14 +41639,15 @@
           "Dream Eater"
         ],
         "starting": [
-          "Peck",
+          "Gust",
           "Growl",
           "Night Shade",
           "Echoed Voice"
         ],
         "levelUp": {
           "2": [
-            "Confusion"
+            "Confusion",
+            "Defog"
           ],
           "3": [
             "Hypnosis"
@@ -41241,20 +41672,22 @@
             "Extrasensory"
           ],
           "10": [
-            "Zen Headbutt"
+            "Uproar",
+            "Ominous Wind"
           ],
           "11": [
-            "Uproar",
-            "Icy Wind"
+            "Dark Void"
           ],
           "12": [
-            "Roost"
+            "Roost",
+            "Icy Wind"
           ],
           "13": [
             "Moonblast"
           ],
           "14": [
-            "Synchronoise"
+            "Synchronoise",
+            "Psychic Noise"
           ],
           "15": [
             "Shadow Ball"
@@ -41268,7 +41701,6 @@
           "Air Cutter",
           "Amnesia",
           "Attract",
-          "Defog",
           "Detect",
           "Double Team",
           "Double-Edge",
@@ -41288,7 +41720,6 @@
           "Mirror Coat",
           "Mirror Move",
           "Nasty Plot",
-          "Ominous Wind",
           "Protect",
           "Psychic",
           "Rain Dance",
@@ -41306,7 +41737,8 @@
           "Twister",
           "Whirlwind",
           "Wing Attack",
-          "Work Up"
+          "Work Up",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -42961,6 +43393,7 @@
             "Nasty Plot"
           ],
           "6": [
+            "Air Cutter",
             "Synchronoise"
           ],
           "7": [
@@ -42990,7 +43423,7 @@
             "Nature's Madness"
           ],
           "15": [
-            "Air Cutter"
+            "Esper Wing"
           ]
         },
         "tutor": [
@@ -43144,6 +43577,7 @@
             "Psycho Shift"
           ],
           "7": [
+            "Air Cutter",
             "Ominous Wind"
           ],
           "8": [
@@ -43173,7 +43607,7 @@
             "Tailwind"
           ],
           "16": [
-            "Air Cutter"
+            "Esper Wing"
           ]
         },
         "tutor": [
@@ -45913,10 +46347,11 @@
             "Bug Buzz"
           ],
           "10": [
-            "Pursuit"
+            "Pursuit",
+            "Psychic Noise"
           ],
           "11": [
-            "Screech"
+            "Quiver Dance"
           ],
           "12": [
             "Leech Life"
@@ -45951,6 +46386,7 @@
           "Reversal",
           "Round",
           "Scale Shot",
+          "Screech",
           "Secret Power",
           "Shadow Ball",
           "Signal Beam",
@@ -46068,7 +46504,8 @@
             "Bug Buzz"
           ],
           "11": [
-            "Slash"
+            "Slash",
+            "Fly"
           ],
           "12": [
             "Screech"
@@ -46077,7 +46514,7 @@
             "Leech Life"
           ],
           "14": [
-            "Fly"
+            "Dragon Pulse"
           ],
           "15": [
             "Hurricane"
@@ -46814,16 +47251,19 @@
         ],
         "levelUp": {
           "2": [
-            "Haze"
+            "Haze",
+            "Midnight"
           ],
           "3": [
             "Thief"
           ],
           "4": [
-            "Night Shade"
+            "Night Shade",
+            "Ominous Wind"
           ],
           "5": [
-            "Air Cutter"
+            "Air Cutter",
+            "Night Slash"
           ],
           "6": [
             "Taunt",
@@ -46840,6 +47280,7 @@
             "Tailwind"
           ],
           "10": [
+            "Snatch",
             "Dark Pulse"
           ],
           "11": [
@@ -46878,7 +47319,6 @@
           "Lash Out",
           "Mirror Move",
           "Nasty Plot",
-          "Ominous Wind",
           "Payback",
           "Perish Song",
           "Protect",
@@ -46897,7 +47337,6 @@
           "Sky Attack",
           "Sleep Talk",
           "Snarl",
-          "Snatch",
           "Snore",
           "Steel Wing",
           "Substitute",
@@ -46957,7 +47396,9 @@
         ],
         "level5": [
           [
-            "Pressure"
+            {
+              "Entry": "Midnight"
+            }
           ],
           [
             "Sniper"
@@ -46985,32 +47426,37 @@
         "levelUp": {
           "2": false,
           "3": [
-            "Haze"
+            "Haze",
+            "Midnight"
           ],
           "4": [
             "Beat Up"
           ],
           "5": [
-            "Night Shade"
+            "Night Shade",
+            "Ominous Wind"
           ],
           "6": [
-            "Air Cutter"
+            "Air Cutter",
+            "Night Slash"
           ],
           "7": [
             "Swagger",
             "Quash"
           ],
           "8": [
+            "Mean Look",
             "Nasty Plot"
           ],
           "9": [
-            "Foul Play"
+            "Knock Off"
           ],
           "10": [
             "Tailwind"
           ],
           "11": [
-            "Night Slash"
+            "Wicked Blow",
+            "Dark Pulse"
           ],
           "12": [
             "Torment"
@@ -47035,7 +47481,6 @@
           "Brave Bird",
           "Calm Mind",
           "Confuse Ray",
-          "Dark Pulse",
           "Drill Peck",
           "Dual Wingbeat",
           "Endure",
@@ -47043,6 +47488,7 @@
           "Feather Dance",
           "Flatter",
           "Fly",
+          "Foul Play",
           "Giga Impact",
           "Heat Wave",
           "Hurricane",
@@ -47051,7 +47497,6 @@
           "Incinerate",
           "Lash Out",
           "Mirror Move",
-          "Ominous Wind",
           "Payback",
           "Perish Song",
           "Protect",
@@ -47195,17 +47640,52 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Calm Mind",
+          "Curse",
+          "Dark Pulse",
+          "Dazzling Gleam",
+          "Destiny Bond",
+          "Endure",
+          "Energy Ball",
           "Facade",
+          "Flash",
+          "Foul Play",
+          "Icy Wind",
+          "Imprison",
+          "Lucky Chant",
+          "Magical Leaf",
+          "Me First",
+          "Memento",
+          "Mystical Fire",
+          "Nasty Plot",
+          "Nightmare",
+          "Ominous Wind",
+          "Payback",
+          "Phantom Force",
           "Protect",
+          "Psychic",
+          "Rain Dance",
           "Rest",
           "Round",
+          "Shadow Sneak",
+          "Skill Swap",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Substitute",
+          "Sucker Punch",
+          "Sunny Day",
+          "Taunt",
+          "Thief",
+          "Thunder",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Trick",
+          "Trick Room",
+          "Uproar",
+          "Will-O-Wisp",
+          "Wonder Room"
         ],
         "all": {}
       },
@@ -47325,17 +47805,54 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Calm Mind",
+          "Curse",
+          "Dark Pulse",
+          "Dazzling Gleam",
+          "Destiny Bond",
+          "Endure",
+          "Energy Ball",
           "Facade",
+          "Fake Tears",
+          "Flash",
+          "Foul Play",
+          "Giga Impact",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Icy Wind",
+          "Imprison",
+          "Inferno",
+          "Me First",
+          "Memento",
+          "Nasty Plot",
+          "Nightmare",
+          "Ominous Wind",
+          "Payback",
+          "Phantom Force",
           "Protect",
+          "Psychic",
+          "Rain Dance",
           "Rest",
           "Round",
+          "Screech",
+          "Shadow Sneak",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Substitute",
+          "Sucker Punch",
+          "Sunny Day",
+          "Taunt",
+          "Thief",
+          "Thunder",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Trick",
+          "Trick Room",
+          "Uproar",
+          "Will-O-Wisp",
+          "Wonder Room"
         ],
         "all": {}
       },
@@ -47722,17 +48239,70 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
+          "Amnesia",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Beat Up",
+          "Body Slam",
+          "Bulldoze",
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Double Kick",
+          "Earthquake",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
           "Facade",
+          "Foresight",
+          "Foul Play",
+          "Future Sight",
+          "Giga Impact",
+          "Grass Knot",
+          "Gravity",
+          "Growl",
+          "Headbutt",
+          "Helping Hand",
+          "Hyper Beam",
+          "Imprison",
+          "Lash Out",
+          "Light Screen",
+          "Magic Coat",
+          "Mean Look",
+          "Mega Kick",
+          "Mirror Coat",
+          "Nightmare",
           "Protect",
+          "Psychic Terrain",
+          "Psyshock",
+          "Rain Dance",
+          "Razor Wind",
+          "Reflect",
           "Rest",
+          "Retaliate",
           "Round",
+          "Secret Power",
+          "Shadow Ball",
+          "Skill Swap",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Stomping Tantrum",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
+          "Take Down",
+          "Telekinesis",
+          "Terrain Pulse",
+          "Thief",
+          "Thunder",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Trick",
+          "U-Turn",
+          "Uproar",
+          "Wish",
+          "Work Up",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -48085,7 +48655,7 @@
       },
       "moves": {
         "form": [
-          "Mirror Shot",
+          "Hard Press",
           "Autotomize"
         ],
         "starting": [
@@ -48112,7 +48682,8 @@
             "Iron Defense"
           ],
           "8": [
-            "Bide"
+            "Bide",
+            "Mirror Shot"
           ],
           "9": [
             "Explosion"
@@ -48303,17 +48874,72 @@
           ]
         },
         "tutor": [
+          "Amnesia",
+          "Aqua Jet",
+          "Astonish",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Baton Pass",
+          "Bide",
+          "Bite",
+          "Blizzard",
+          "Bulldoze",
+          "Calm Mind",
+          "Charm",
+          "Chatter",
+          "Curse",
+          "Dream Eater",
+          "Dual Wingbeat",
+          "Earthquake",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Flamethrower",
+          "Giga Impact",
+          "Gyro Ball",
+          "Headbutt",
+          "Helping Hand",
+          "Hex",
+          "Hyper Beam",
+          "Ice Beam",
+          "Iron Tail",
+          "Last Resort",
+          "Magic Coat",
+          "Nightmare",
+          "Pain Split",
+          "Poison Jab",
           "Protect",
+          "Psych Up",
+          "Quiver Dance",
+          "Rage",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Scale Shot",
+          "Secret Power",
+          "Shadow Ball",
+          "Skitter Smack",
           "Sleep Talk",
+          "Snore",
+          "Solar Beam",
+          "Stealth Rock",
+          "Stomping Tantrum",
+          "Stored Power",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
           "Swagger",
-          "Toxic"
+          "Thief",
+          "Thunder",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Tri Attack",
+          "Trump Card",
+          "Wild Charge",
+          "Zap Cannon",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -48558,7 +49184,7 @@
             "Drill Run"
           ],
           "11": [
-            "Drain Punch"
+            "Sky Uppercut"
           ],
           "12": [
             "Haze"
@@ -52376,7 +53002,7 @@
             "Brine"
           ],
           "14": [
-            "Nature's Madness"
+            "Ruination"
           ],
           "15": [
             "Icy Wind"
@@ -52553,7 +53179,7 @@
             "Brine"
           ],
           "15": [
-            "Nature's Madness"
+            "Ruination"
           ],
           "16": [
             "Icy Wind"
@@ -53098,17 +53724,69 @@
           ]
         },
         "tutor": [
+          "Agility",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Aurora Beam",
+          "Aurora Veil",
+          "Avalanche",
+          "Baton Pass",
+          "Body Slam",
+          "Bounce",
+          "Brave Bird",
+          "Brick Break",
+          "Brutal Swing",
+          "Counter",
+          "Curse",
+          "Defog",
+          "Destiny Bond",
+          "Detect",
+          "Drill Run",
+          "Dual Wingbeat",
+          "Endure",
           "Facade",
+          "Fake Out",
+          "Fly",
+          "Focus Punch",
+          "Frost Breath",
+          "Future Sight",
+          "Giga Impact",
+          "Gunk Shot",
+          "Snowscape",
+          "Hyper Beam",
+          "Ice Ball",
+          "Ice Beam",
+          "Ice Punch",
+          "Ice Shard",
+          "Icicle Spear",
+          "Icy Wind",
+          "Mega Kick",
+          "Mega Punch",
+          "Memento",
+          "Pluck",
           "Protect",
+          "Quick Attack",
+          "Rain Dance",
+          "Rapid Spin",
           "Rest",
+          "Return",
           "Round",
+          "Seismic Toss",
+          "Signal Beam",
+          "Sky Attack",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Spikes",
+          "Splash",
+          "Steel Wing",
+          "Stuff Cheeks",
+          "Submission",
+          "Substitute",
+          "Swift",
+          "Thief",
+          "Triple Axel",
+          "Water Pulse",
+          "Weather Ball"
         ],
         "all": {}
       },
@@ -54115,17 +54793,57 @@
           ]
         },
         "tutor": [
+          "Ancient Power",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Press",
+          "Body Slam",
+          "Bounce",
+          "Counter",
+          "Earth Power",
+          "Encore",
+          "Endeavor",
+          "Endure",
           "Facade",
+          "Fire Fang",
+          "Fissure",
+          "Focus Energy",
+          "Gunk Shot",
+          "Gyro Ball",
+          "Head Smash",
+          "Headbutt",
+          "Heavy Slam",
+          "High Horsepower",
+          "Hyper Voice",
+          "Ice Ball",
+          "Ice Shard",
+          "Iron Defense",
+          "Iron Tail",
+          "Mud-Slap",
+          "Odor Sleuth",
+          "Poison Jab",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Rock Slide",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sand Tomb",
+          "Sandstorm",
+          "Scary Face",
+          "Scorching Sands",
+          "Seed Bomb",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Stealth Rock",
+          "Stomping Tantrum",
+          "Stone Edge",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Thunder Fang"
         ],
         "all": {}
       },
@@ -54245,17 +54963,62 @@
           ]
         },
         "tutor": [
+          "Ancient Power",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Press",
+          "Body Slam",
+          "Bounce",
+          "Charm",
+          "Counter",
+          "Earth Power",
+          "Encore",
+          "Endeavor",
+          "Endure",
           "Facade",
+          "Fire Fang",
+          "Fissure",
+          "Focus Energy",
+          "Gunk Shot",
+          "Gyro Ball",
+          "Head Smash",
+          "Headbutt",
+          "Heavy Slam",
+          "High Horsepower",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Ice Ball",
+          "Ice Shard",
+          "Iron Defense",
+          "Iron Tail",
+          "Last Resort",
+          "Mud-Slap",
+          "Odor Sleuth",
+          "Play Rough",
+          "Poison Jab",
+          "Power Whip",
           "Protect",
           "Rest",
+          "Rock Slide",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sand Tomb",
+          "Sandstorm",
+          "Scorching Sands",
+          "Seed Bomb",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Stealth Rock",
+          "Stomping Tantrum",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Thunder Fang",
+          "Wicked Torque",
+          "Combat Torque"
         ],
         "all": {}
       },
@@ -55459,17 +56222,77 @@
           ]
         },
         "tutor": [
+          "Ancient Power",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Avalanche",
+          "Blizzard",
+          "Block",
+          "Body Press",
+          "Body Slam",
+          "Brick Break",
+          "Bulldoze",
+          "Chip Away",
+          "Curse",
+          "Dragon Dance",
+          "Earth Power",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Fire Punch",
+          "Flamethrower",
+          "Fling",
+          "Focus Blast",
+          "Focus Energy",
+          "Heavy Slam",
+          "High Horsepower",
+          "Hone Claws",
+          "Hydro Pump",
+          "Ice Beam",
+          "Ice Fang",
+          "Ice Punch",
+          "Iron Defense",
+          "Iron Head",
+          "Iron Tail",
+          "Low Kick",
+          "Mega Kick",
+          "Mega Punch",
+          "Muddy Water",
+          "Outrage",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Rock Blast",
+          "Rock Polish",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sand Tomb",
+          "Shadow Claw",
           "Sleep Talk",
+          "Smack Down",
+          "Snarl",
+          "Snore",
+          "Spite",
+          "Stealth Rock",
+          "Stomp",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
           "Swagger",
-          "Toxic"
+          "Taunt",
+          "Thunder",
+          "Thunder Fang",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Torment",
+          "Uproar"
         ],
         "all": {}
       },
@@ -55588,17 +56411,66 @@
           ]
         },
         "tutor": [
+          "Ancient Power",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Avalanche",
+          "Blizzard",
+          "Block",
+          "Body Press",
+          "Body Slam",
+          "Brick Break",
+          "Bulldoze",
+          "Chip Away",
+          "Curse",
+          "Dragon Dance",
+          "Earth Power",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Flamethrower",
+          "Fling",
+          "Focus Blast",
+          "Focus Energy",
+          "Heavy Slam",
+          "High Horsepower",
+          "Hone Claws",
+          "Hydro Pump",
+          "Ice Beam",
+          "Iron Head",
+          "Iron Tail",
+          "Muddy Water",
+          "Outrage",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Rock Blast",
+          "Rock Polish",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sand Tomb",
+          "Sandstorm",
           "Sleep Talk",
+          "Smack Down",
+          "Snarl",
+          "Snore",
+          "Spite",
+          "Stealth Rock",
+          "Stomp",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
           "Swagger",
-          "Toxic"
+          "Taunt",
+          "Thunder",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Torment",
+          "Uproar"
         ],
         "all": {}
       },
@@ -55718,17 +56590,84 @@
           ]
         },
         "tutor": [
+          "Ancient Power",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Avalanche",
+          "Blizzard",
+          "Block",
+          "Body Press",
+          "Body Slam",
+          "Brick Break",
+          "Brutal Swing",
+          "Bulldoze",
+          "Chip Away",
+          "Curse",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Earth Power",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Fire Punch",
+          "Flamethrower",
+          "Fling",
+          "Focus Blast",
+          "Focus Energy",
+          "Foul Play",
+          "High Horsepower",
+          "Hone Claws",
+          "Hydro Pump",
+          "Hyper Beam",
+          "Ice Beam",
+          "Ice Fang",
+          "Ice Punch",
+          "Iron Defense",
+          "Iron Head",
+          "Iron Tail",
+          "Lash Out",
+          "Low Kick",
+          "Mega Kick",
+          "Mega Punch",
+          "Muddy Water",
+          "Outrage",
+          "Payback",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Rock Blast",
+          "Rock Polish",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sand Tomb",
+          "Sandstorm",
+          "Shadow Claw",
           "Sleep Talk",
+          "Smack Down",
+          "Snarl",
+          "Snore",
+          "Spite",
+          "Stomp",
+          "Strength",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Surf",
           "Swagger",
-          "Toxic"
+          "Taunt",
+          "Thunder",
+          "Thunder Fang",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Torment",
+          "Uproar"
         ],
         "all": {}
       },
@@ -61712,16 +62651,63 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
-          "Captivate",
+          "Body Slam",
           "Confide",
+          "Confuse Ray",
+          "Destiny Bond",
+          "Disable",
+          "Encore",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
           "Facade",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Future Sight",
+          "Grass Knot",
+          "Grudge",
+          "Helping Hand",
+          "Hyper Voice",
+          "Ice Punch",
+          "Icy Wind",
+          "Imprison",
+          "Knock Off",
+          "Light Screen",
+          "Magic Room",
+          "Magical Leaf",
+          "Mean Look",
+          "Mega Punch",
+          "Memento",
+          "Misty Terrain",
           "Protect",
+          "Psyshock",
+          "Rain Dance",
+          "Reflect",
           "Rest",
           "Round",
+          "Safeguard",
+          "Shadow Ball",
+          "Shadow Sneak",
+          "Skill Swap",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Taunt",
+          "Thief",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Trick",
+          "Trick Room",
+          "Will-O-Wisp",
+          "Wonder Room",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -61844,16 +62830,65 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
-          "Captivate",
+          "Body Slam",
+          "Charm",
           "Confide",
+          "Confuse Ray",
+          "Destiny Bond",
+          "Disable",
+          "Encore",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
           "Facade",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Grass Knot",
+          "Grudge",
+          "Helping Hand",
+          "Hyper Voice",
+          "Ice Punch",
+          "Icy Wind",
+          "Imprison",
+          "Knock Off",
+          "Light Screen",
+          "Magic Room",
+          "Mean Look",
+          "Mega Kick",
+          "Mega Punch",
+          "Memento",
+          "Misty Terrain",
           "Protect",
+          "Psyshock",
+          "Rain Dance",
+          "Reflect",
           "Rest",
           "Round",
+          "Safeguard",
+          "Shadow Ball",
+          "Shadow Sneak",
+          "Skill Swap",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Stored Power",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Taunt",
+          "Thief",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Trick",
+          "Trick Room",
+          "Triple Axel",
+          "Will-O-Wisp",
+          "Wonder Room",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -61977,16 +63012,87 @@
           ]
         },
         "tutor": [
+          "Ally Switch",
           "Attract",
-          "Captivate",
+          "Block",
+          "Body Slam",
+          "Charge Beam",
+          "Charm",
           "Confide",
+          "Confuse Ray",
+          "Court Change",
+          "Destiny Bond",
+          "Disable",
+          "Echoed Voice",
+          "Encore",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
           "Facade",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Future Sight",
+          "Giga Impact",
+          "Grass Knot",
+          "Grudge",
+          "Guard Swap",
+          "Heal Bell",
+          "Healing Wish",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Ice Punch",
+          "Icy Wind",
+          "Imprison",
+          "Knock Off",
+          "Light Screen",
+          "Lucky Chant",
+          "Magic Room",
+          "Magical Leaf",
+          "Mean Look",
+          "Mega Kick",
+          "Mega Punch",
+          "Memento",
+          "Misty Explosion",
+          "Misty Terrain",
+          "Mystical Fire",
+          "Pain Split",
+          "Power Swap",
           "Protect",
+          "Psych Up",
+          "Psychic Terrain",
+          "Psyshock",
+          "Rain Dance",
+          "Recycle",
+          "Reflect",
           "Rest",
           "Round",
+          "Safeguard",
+          "Shadow Ball",
+          "Shadow Sneak",
+          "Signal Beam",
+          "Skill Swap",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Stored Power",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Taunt",
+          "Telekinesis",
+          "Thief",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Torment",
+          "Trick",
+          "Trick Room",
+          "Triple Axel",
+          "Will-O-Wisp",
+          "Wonder Room",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -62173,15 +63279,91 @@
           ]
         },
         "tutor": [
+          "Air Slash",
+          "Ally Switch",
           "Attract",
-          "Captivate",
+          "Aura Sphere",
+          "Body Slam",
+          "Brick Break",
+          "Bulk Up",
+          "Bulldoze",
+          "Calm Mind",
+          "Charm",
+          "Coaching",
           "Confide",
+          "Confuse Ray",
+          "Destiny Bond",
+          "Disable",
+          "Drain Punch",
+          "Draining Kiss",
+          "Earthquake",
+          "Encore",
+          "Endure",
+          "Energy Ball",
+          "Expanding Force",
           "Facade",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Future Sight",
+          "Giga Impact",
+          "Grass Knot",
+          "Grudge",
+          "Helping Hand",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Ice Punch",
+          "Icy Wind",
+          "Imprison",
+          "Knock Off",
+          "Leaf Blade",
+          "Light Screen",
+          "Low Kick",
+          "Low Sweep",
+          "Magic Room",
+          "Magical Leaf",
+          "Mean Look",
+          "Mega Kick",
+          "Mega Punch",
+          "Memento",
+          "Misty Terrain",
+          "Poison Jab",
+          "Psychic",
+          "Psyshock",
+          "Rain Dance",
+          "Reflect",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Reversal",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Safeguard",
+          "Shadow Ball",
+          "Shadow Sneak",
+          "Skill Swap",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Solar Blade",
+          "Stone Edge",
+          "Stored Power",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Swift",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Thunderbolt",
+          "Trick",
+          "Trick Room",
+          "Triple Axel",
+          "Will-O-Wisp",
+          "Wonder Room",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -62315,55 +63497,63 @@
         ],
         "levelUp": {
           "2": [
-            "Water Sport"
+            "Water Sport",
+            "Soak"
           ],
           "3": [
-            "Bubble Beam"
+            "Bubble Beam",
+            "U-Turn"
           ],
           "4": [
-            "Agility"
+            "Life Dew",
+            "Skitter Smack"
           ],
           "5": [
+            "Mist",
             "Haze"
           ],
           "6": [
-            "Aqua Jet"
+            "Aqua Jet",
+            "Syrup Bomb"
           ],
           "7": [
-            "Skitter Smack"
+            "Lunge"
           ],
           "8": [
             "Triple Axel"
           ],
           "9": [
-            "Sticky Web"
-          ],
-          "10": [
-            "Bug Buzz"
-          ],
-          "11": [
-            "Soak"
-          ],
-          "12": [
-            "Aqua Ring"
-          ],
-          "13": [
-            "Hydro Pump"
-          ],
-          "14": [
+            "Sticky Web",
             "Flip Turn"
           ],
-          "15": [
+          "10": [
+            "Hydro Pump"
+          ],
+          "11": [
+            "Agility",
+            "Baton Pass"
+          ],
+          "12": [
+            "Aqua Ring",
             "Aromatherapy"
+          ],
+          "13": [
+            "Muddy Water"
+          ],
+          "14": [
+            "Power Trick"
+          ],
+          "15": [
+            "Ice Beam"
           ]
         },
         "tutor": [
           "Acrobatics",
           "Air Slash",
           "Attract",
-          "Baton Pass",
           "Blizzard",
           "Bug Bite",
+          "Bug Buzz",
           "Endure",
           "Energy Ball",
           "Facade",
@@ -62371,10 +63561,8 @@
           "Flash",
           "Foresight",
           "Giga Drain",
-          "Ice Beam",
           "Icy Wind",
           "Liquidation",
-          "Lunge",
           "Mind Reader",
           "Mud Shot",
           "Natural Gift",
@@ -62393,8 +63581,7 @@
           "Solar Beam",
           "String Shot",
           "Substitute",
-          "Thief",
-          "U-Turn"
+          "Thief"
         ],
         "all": {}
       },
@@ -62443,7 +63630,7 @@
         ],
         "level5": [
           [
-            "Serene Grace"
+            "Startle"
           ],
           [
             "Shield Dust"
@@ -62470,53 +63657,59 @@
         ],
         "levelUp": {
           "2": [
-            "Water Sport"
+            "Water Sport",
+            "Defog"
           ],
           "3": [
-            "Gust"
+            "Gust",
+            "U-Turn"
           ],
           "4": false,
           "5": [
-            "Agility"
+            "Tailwind",
+            "Silver Wind"
           ],
           "6": [
-            "Stun Spore"
+            "Stun Spore",
+            "Whirlwind"
           ],
           "7": [
-            "Air Cutter"
+            "Air Cutter",
+            "Giga Drain"
           ],
           "8": [
-            "Silver Wind"
+            "Bug Buzz"
           ],
           "9": [
             "Air Slash"
           ],
           "10": [
-            "Mean Look"
+            "Mean Look",
+            "Dual Wingbeat"
           ],
           "11": [
-            "Bug Buzz"
+            "Freezing Glare"
           ],
           "12": [
-            "Whirlwind"
+            "Agility",
+            "Baton Pass"
           ],
           "13": [
             "Quiver Dance"
           ],
           "14": [
-            "Dual Wingbeat"
+            "Hurricane"
           ],
           "15": [
-            "U-Turn"
+            "Power Trick"
           ],
           "16": [
-            "Luster Purge"
+            "Heat Wave"
           ]
         },
         "tutor": [
           "Acrobatics",
           "Attract",
-          "Baton Pass",
           "Blizzard",
           "Bug Bite",
           "Captivate",
@@ -62526,9 +63719,7 @@
           "Fell Stinger",
           "Flash",
           "Foresight",
-          "Giga Drain",
           "Giga Impact",
-          "Hurricane",
           "Hyper Beam",
           "Icy Wind",
           "Liquidation",
@@ -64485,17 +65676,68 @@
           ]
         },
         "tutor": [
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Press",
+          "Brick Break",
+          "Brine",
+          "Bulk Up",
+          "Bulldoze",
+          "Bullet Punch",
+          "Chip Away",
+          "Coaching",
+          "Cross Chop",
+          "Detect",
+          "Dig",
+          "Dynamic Punch",
+          "Earthquake",
           "Facade",
+          "Feint",
+          "Feint Attack",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Foresight",
+          "Heat Crash",
+          "Heavy Slam",
+          "Helping Hand",
+          "High Horsepower",
+          "Ice Punch",
+          "Iron Head",
+          "Low Sweep",
+          "Mega Kick",
+          "Mega Punch",
+          "Metronome",
+          "Payback",
+          "Poison Jab",
+          "Power-Up Punch",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Reversal",
+          "Rock Slide",
+          "Rock Tomb",
+          "Role Play",
           "Round",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Steel Roller",
+          "Stomping Tantrum",
+          "Stone Edge",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Surf",
+          "Swift",
+          "Throat Chop",
+          "Thunder Punch",
+          "Whirlpool",
+          "Wide Guard",
+          "Work Up"
         ],
         "all": {}
       },
@@ -64617,17 +65859,70 @@
           ]
         },
         "tutor": [
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Press",
+          "Brick Break",
+          "Brine",
+          "Bulk Up",
+          "Bulldoze",
+          "Bullet Punch",
+          "Chip Away",
+          "Coaching",
+          "Counter",
+          "Cross Chop",
+          "Detect",
+          "Dig",
+          "Dynamic Punch",
+          "Earthquake",
           "Facade",
+          "Feint",
+          "Feint Attack",
+          "Fire Punch",
+          "Fling",
+          "Focus Blast",
+          "Focus Punch",
+          "Foresight",
+          "Giga Impact",
+          "Heat Crash",
+          "Helping Hand",
+          "High Horsepower",
+          "Hyper Beam",
+          "Ice Punch",
+          "Iron Head",
+          "Low Kick",
+          "Low Sweep",
+          "Mega Kick",
+          "Mega Punch",
+          "Metronome",
+          "Payback",
+          "Poison Jab",
+          "Power-Up Punch",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Retaliate",
+          "Revenge",
+          "Rock Slide",
+          "Rock Tomb",
+          "Role Play",
           "Round",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Steel Roller",
+          "Stomping Tantrum",
+          "Stone Edge",
+          "Submission",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Surf",
+          "Swift",
+          "Throat Chop",
+          "Thunder Punch",
+          "Whirlpool",
+          "Wide Guard",
+          "Work Up"
         ],
         "all": {}
       },
@@ -65481,7 +66776,6 @@
           "Snarl",
           "Snatch",
           "Snore",
-          "Stratagem",
           "Submission",
           "Substitute",
           "Sucker Punch",
@@ -67311,8 +68605,8 @@
             "Reflect"
           ],
           "4": [
-            "Bestow",
-            "Encore"
+            "Encore",
+            "Bestow"
           ],
           "5": [
             "Round"
@@ -67332,8 +68626,8 @@
             "Charm"
           ],
           "10": [
-            "Charge",
-            "Discharge"
+            "Discharge",
+            "Coaching"
           ],
           "11": [
             "Nasty Plot"
@@ -67361,7 +68655,6 @@
         "tutor": [
           "Attract",
           "Body Slam",
-          "Coaching",
           "Eerie Impulse",
           "Electroweb",
           "Endure",
@@ -67476,8 +68769,8 @@
             "Light Screen"
           ],
           "4": [
-            "Switcheroo",
-            "Encore"
+            "Encore",
+            "Switcheroo"
           ],
           "5": [
             "Round"
@@ -67497,8 +68790,8 @@
             "Fake Tears"
           ],
           "10": [
-            "Charge",
-            "Discharge"
+            "Discharge",
+            "Dragon Cheer"
           ],
           "11": [
             "Nasty Plot"
@@ -69086,7 +70379,7 @@
       "height": "8′2″",
       "weight": 287.3,
       "eggGroups": [
-        "Crustacean"
+        "Fish"
       ],
       "abilities": {
         "start": [
@@ -70603,7 +71896,7 @@
             "Sandstorm"
           ],
           "7": [
-            "Drill Run"
+            "Stomping Tantrum"
           ],
           "8": [
             "Skitter Smack"
@@ -70958,7 +72251,7 @@
             "Iron Tail"
           ],
           "17": [
-            "Outrage"
+            "Sandsear Storm"
           ]
         },
         "tutor": [
@@ -70993,6 +72286,7 @@
           "Mega Kick",
           "Mega Punch",
           "Mud Shot",
+          "Outrage",
           "Protect",
           "Quick Attack",
           "Rest",
@@ -71281,7 +72575,7 @@
             "Pin Missile"
           ],
           "8": [
-            "Rollout",
+            "Sand Tomb",
             "Swords Dance"
           ],
           "9": [
@@ -71366,7 +72660,8 @@
           "Teeter Dance",
           "Thunder Punch",
           "Venoshock",
-          "Worry Seed"
+          "Worry Seed",
+          "Comeuppance"
         ],
         "all": {}
       },
@@ -71444,7 +72739,8 @@
             "Round"
           ],
           "4": [
-            "Cotton Guard"
+            "Cotton Guard",
+            "Defog"
           ],
           "5": [
             "Dragon Breath"
@@ -71459,10 +72755,10 @@
             "Sing"
           ],
           "9": [
-            "Take Down"
+            "Double-Edge"
           ],
           "10": [
-            "Roost"
+            "Tidy Up"
           ],
           "11": [
             "Moonblast"
@@ -71605,7 +72901,8 @@
             "Round"
           ],
           "4": [
-            "Cotton Guard"
+            "Cotton Guard",
+            "Defog"
           ],
           "5": [
             "Dragon Breath"
@@ -71621,7 +72918,7 @@
             "Sing"
           ],
           "10": [
-            "Take Down"
+            "Double-Edge"
           ],
           "11": [
             "Heal Bell"
@@ -72365,7 +73662,7 @@
           ],
           "11": [
             "Wonder Room",
-            "Dazzling Gleam"
+            "Photon Geyser"
           ],
           "12": [
             "Flare Blitz"
@@ -72546,7 +73843,7 @@
             "Fissure"
           ],
           "13": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "14": [
             "Flail"
@@ -72706,7 +74003,7 @@
             "Fissure"
           ],
           "14": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "15": [
             "Punishment"
@@ -75164,7 +76461,7 @@
             "Rattled"
           ],
           [
-            "Cursed Body"
+            "Tinted Lens"
           ],
           [
             "Frisk"
@@ -75200,7 +76497,8 @@
             "Hex"
           ],
           "8": [
-            "Scary Face"
+            "Scary Face",
+            "Strength Sap"
           ],
           "9": [
             "Curse"
@@ -75322,7 +76620,7 @@
             "Mummy"
           ],
           [
-            "Cursed Body"
+            "Tinted Lens"
           ],
           [
             "Frisk"
@@ -75365,13 +76663,14 @@
             "Hex"
           ],
           "9": [
-            "Scary Face"
+            "Scary Face",
+            "Strength Sap"
           ],
           "10": [
             "Curse"
           ],
           "11": [
-            "Shadow Claw"
+            "Poltergeist"
           ],
           "12": [
             "Future Sight"
@@ -75421,7 +76720,6 @@
           "Memento",
           "Metronome",
           "Ominous Wind",
-          "Poltergeist",
           "Protect",
           "Psychic",
           "Rain Dance",
@@ -75494,10 +76792,10 @@
         ],
         "level5": [
           [
-            "Levitate"
+            "Lifedrinker"
           ],
           [
-            "Cursed Body"
+            "Tinted Lens"
           ],
           [
             "Frisk"
@@ -75541,7 +76839,8 @@
             "Hex"
           ],
           "10": [
-            "Scary Face"
+            "Scary Face",
+            "Strength Sap"
           ],
           "11": [
             "Curse"
@@ -76822,7 +78121,7 @@
             "Draining Kiss"
           ],
           "6": [
-            "Shadow Sneak"
+            "Hex"
           ],
           "7": [
             "Frost Breath"
@@ -76870,7 +78169,6 @@
           "Facade",
           "Fake Tears",
           "Giga Impact",
-          "Hex",
           "Hyper Beam",
           "Ice Beam",
           "Ice Fang",
@@ -78414,16 +79712,48 @@
         },
         "tutor": [
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Slam",
+          "Bounce",
+          "Breaking Swipe",
+          "Brick Break",
+          "Brutal Swing",
+          "Bulldoze",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Dragon Tail",
+          "Earthquake",
+          "Egg Tooth",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Focus Energy",
+          "Fury Cutter",
+          "Gravity",
+          "Heat Wave",
+          "Hurricane",
+          "Hydro Pump",
+          "Hyper Voice",
+          "Incinerate",
+          "Iron Defense",
+          "Iron Tail",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Roar",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Shadow Claw",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Smack Down",
+          "Snore",
+          "Stone Edge",
+          "Submission",
+          "Substitute",
+          "Swift",
+          "Tailwind",
+          "Thunder Fang"
         ],
         "all": {}
       },
@@ -78541,15 +79871,46 @@
         },
         "tutor": [
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Slam",
+          "Bounce",
+          "Breaking Swipe",
+          "Brick Break",
+          "Brutal Swing",
+          "Bulldoze",
+          "Draco Meteor",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Dragon Tail",
+          "Earthquake",
+          "Egg Tooth",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Focus Energy",
+          "Fury Cutter",
+          "Gravity",
+          "Heat Wave",
+          "Hurricane",
+          "Hydro Pump",
+          "Hyper Voice",
+          "Incinerate",
+          "Iron Defense",
+          "Iron Tail",
+          "Rain Dance",
           "Rest",
+          "Roar",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Shadow Claw",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Smack Down",
+          "Snore",
+          "Stone Edge",
+          "Substitute",
+          "Swift",
+          "Tailwind"
         ],
         "all": {}
       },
@@ -78668,17 +80029,54 @@
           ]
         },
         "tutor": [
+          "Aerial Ace",
+          "Air Slash",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Body Slam",
+          "Bounce",
+          "Breaking Swipe",
+          "Brick Break",
+          "Brutal Swing",
+          "Bulldoze",
+          "Draco Meteor",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Dragon Tail",
+          "Dual Wingbeat",
+          "Earthquake",
+          "Egg Tooth",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Focus Energy",
+          "Fury Cutter",
+          "Giga Impact",
+          "Gravity",
+          "Heat Wave",
+          "Hydro Pump",
+          "Hyper Beam",
+          "Hyper Voice",
+          "Incinerate",
+          "Iron Defense",
+          "Iron Tail",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Roar",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Shadow Claw",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Smack Down",
+          "Snore",
+          "Steel Wing",
+          "Stone Edge",
+          "Substitute",
+          "Swift",
+          "Tailwind",
+          "Thunder Fang"
         ],
         "all": {}
       },
@@ -78923,7 +80321,7 @@
             "Flash Cannon"
           ],
           "7": [
-            "Gyro Ball"
+            "Hard Press"
           ],
           "8": [
             "Iron Defense",
@@ -78971,6 +80369,7 @@
           "Flash",
           "Grass Knot",
           "Gravity",
+          "Gyro Ball",
           "Ice Punch",
           "Icy Wind",
           "Iron Head",
@@ -79089,7 +80488,7 @@
             "Flash Cannon"
           ],
           "7": [
-            "Gyro Ball"
+            "Hard Press"
           ],
           "8": [
             "Iron Defense",
@@ -79138,6 +80537,7 @@
           "Giga Impact",
           "Grass Knot",
           "Gravity",
+          "Gyro Ball",
           "Ice Punch",
           "Icy Wind",
           "Iron Head",
@@ -80116,7 +81516,7 @@
           "9": [
             "Stone Edge",
             "Ice Hammer",
-            "Heavy Slam"
+            "Hard Press"
           ],
           "10": [
             "Crush Grip"
@@ -80160,6 +81560,7 @@
           "Giga Drain",
           "Gravity",
           "Heat Crash",
+          "Heavy Slam",
           "Hidden Power",
           "High Horsepower",
           "Hyper Beam",
@@ -85762,7 +87163,7 @@
             "Swagger"
           ],
           "6": [
-            "Iron Head"
+            "Hard Press"
           ],
           "7": [
             "Crafty Shield"
@@ -85819,6 +87220,7 @@
           "Ice Beam",
           "Incinerate",
           "Iron Defense",
+          "Iron Head",
           "Iron Tail",
           "Magic Coat",
           "Magnet Rise",
@@ -85933,7 +87335,7 @@
           ],
           "6": false,
           "7": [
-            "Iron Head"
+            "Hard Press"
           ],
           "8": [
             "Wide Guard"
@@ -85945,7 +87347,7 @@
             "Spiky Shield"
           ],
           "11": [
-            "Heavy Slam"
+            "Body Press"
           ],
           "12": [
             "King's Shield"
@@ -85987,10 +87389,12 @@
           "Focus Energy",
           "Giga Impact",
           "Headbutt",
+          "Heavy Slam",
           "Hyper Beam",
           "Ice Beam",
           "Incinerate",
           "Iron Defense",
+          "Iron Head",
           "Iron Tail",
           "Magic Coat",
           "Magnet Rise",
@@ -86081,7 +87485,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Tackle",
+          "Flail",
           "Protect",
           "Hidden Power"
         ],
@@ -86092,15 +87496,18 @@
           ],
           "4": false,
           "5": [
-            "String Shot"
+            "String Shot",
+            "Protect"
           ],
           "6": [
             "Camouflage"
           ],
           "7": [
-            "Sticky Web"
+            "Sticky Web",
+            "Shelter"
           ],
           "8": [
+            "Recycle",
             "Secret Power"
           ],
           "9": [
@@ -86113,13 +87520,14 @@
             "Last Resort"
           ],
           "12": [
-            "Nature Power"
+            "Nature Power",
+            "Skull Bash"
           ],
           "13": [
             "Baton Pass"
           ],
           "14": [
-            "Recycle"
+            "Minimize"
           ],
           "15": [
             "Spit Up"
@@ -86203,7 +87611,7 @@
           "Quiver Dance"
         ],
         "starting": [
-          "Tackle",
+          "Flail",
           "Protect",
           "Hidden Power"
         ],
@@ -86224,10 +87632,11 @@
           ],
           "7": [
             "Captivate",
-            "Flail"
+            "Jungle Healing"
           ],
           "8": [
-            "Grassy Terrain"
+            "Grassy Terrain",
+            "Sucker Punch"
           ],
           "9": [
             "Petal Dance"
@@ -86239,7 +87648,8 @@
             "Leaf Storm"
           ],
           "12": [
-            "Bug Buzz"
+            "Bug Buzz",
+            "Energy Ball"
           ],
           "13": [
             "Fleur Cannon"
@@ -86260,7 +87670,6 @@
           "Dig",
           "Electroweb",
           "Endure",
-          "Energy Ball",
           "Facade",
           "False Swipe",
           "Flash",
@@ -86358,7 +87767,7 @@
           "Quiver Dance"
         ],
         "starting": [
-          "Tackle",
+          "Flail",
           "Protect",
           "Hidden Power"
         ],
@@ -86379,10 +87788,11 @@
           ],
           "7": [
             "Captivate",
-            "Flail"
+            "Spikes"
           ],
           "8": [
-            "Sandstorm"
+            "Grassy Terrain",
+            "Sucker Punch"
           ],
           "9": [
             "Scorching Sands"
@@ -86394,10 +87804,11 @@
             "Fissure"
           ],
           "12": [
-            "Bug Buzz"
+            "Bug Buzz",
+            "Earthquake"
           ],
           "13": [
-            "Heat Wave"
+            "Rock Slide"
           ],
           "14": [
             "Baton Pass"
@@ -86414,7 +87825,6 @@
           "Bulldoze",
           "Dig",
           "Earth Power",
-          "Earthquake",
           "Electroweb",
           "Endure",
           "Facade",
@@ -86431,6 +87841,7 @@
           "Rock Tomb",
           "Round",
           "Safeguard",
+          "Sandstorm",
           "Self-Destruct",
           "Shadow Ball",
           "Skill Swap",
@@ -86512,7 +87923,7 @@
           "Quiver Dance"
         ],
         "starting": [
-          "Tackle",
+          "Flail",
           "Protect",
           "Hidden Power"
         ],
@@ -86533,10 +87944,11 @@
           ],
           "7": [
             "Captivate",
-            "Flail"
+            "Autotomize"
           ],
           "8": [
-            "Metal Burst"
+            "Grassy Terrain",
+            "Sucker Punch"
           ],
           "9": [
             "Iron Head"
@@ -86548,7 +87960,8 @@
             "Steel Beam"
           ],
           "12": [
-            "Bug Buzz"
+            "Bug Buzz",
+            "Gyro Ball"
           ],
           "13": [
             "Gunk Shot"
@@ -86574,7 +87987,6 @@
           "Flash Cannon",
           "Giga Drain",
           "Giga Impact",
-          "Gyro Ball",
           "Hyper Beam",
           "Hyper Fang",
           "Hyper Voice",
@@ -86665,7 +88077,7 @@
           "Quiver Dance"
         ],
         "starting": [
-          "Tackle",
+          "Flail",
           "Protect",
           "Hidden Power"
         ],
@@ -86689,10 +88101,13 @@
             "Shadow Sneak"
           ],
           "8": [
-            "Roost"
+            "Roost",
+            "Air Slash"
           ],
           "9": [
-            "Air Slash"
+            "Giga Drain",
+            "Mud Bomb",
+            "Steel Wing"
           ],
           "10": [
             "Psychic"
@@ -86701,10 +88116,11 @@
             "Lunge"
           ],
           "12": [
-            "Bug Buzz"
+            "Bug Buzz",
+            "Dual Wingbeat"
           ],
           "13": [
-            "Night Slash"
+            "Scale Shot"
           ],
           "14": [
             "Baton Pass"
@@ -86720,7 +88136,6 @@
           "Acrobatics",
           "Attract",
           "Captivate",
-          "Dual Wingbeat",
           "Earth Power",
           "Electroweb",
           "Endure",
@@ -86729,7 +88144,6 @@
           "False Swipe",
           "Flash",
           "Flash Cannon",
-          "Giga Drain",
           "Giga Impact",
           "Hyper Beam",
           "Hyper Fang",
@@ -86826,31 +88240,35 @@
             "Flower Shield"
           ],
           "5": [
-            "Life Dew"
+            "Air Cutter"
           ],
           "6": [
-            "Silver Wind"
+            "Silver Wind",
+            "Aromatic Mist",
+            "Life Dew"
           ],
           "7": [
             "Aromatherapy"
           ],
           "8": [
-            "Fell Stinger"
+            "Syrup Bomb"
           ],
           "9": [
-            "Air Cutter"
-          ],
-          "10": [
             "Tri Attack"
           ],
+          "10": [
+            "Pollen Puff",
+            "Sticky Web"
+          ],
           "11": [
-            "Pollen Puff"
+            "Fell Stinger"
           ],
           "12": [
             "Burning Jealousy"
           ],
           "13": [
-            "Detect"
+            "Detect",
+            "Endeavor"
           ],
           "14": [
             "Tailwind"
@@ -86862,7 +88280,6 @@
         "tutor": [
           "Acrobatics",
           "Air Slash",
-          "Aromatic Mist",
           "Assurance",
           "Beat Up",
           "Confuse Ray",
@@ -86990,7 +88407,8 @@
             "Confuse Ray"
           ],
           "11": [
-            "Toxic"
+            "Toxic",
+            "Venom Drench"
           ],
           "12": [
             "Outrage"
@@ -86999,13 +88417,14 @@
             "Reversal"
           ],
           "14": [
-            "Destiny Bond"
+            "Destiny Bond",
+            "Quiver Dance"
           ],
           "15": [
             "Dazzling Gleam"
           ],
           "16": [
-            "Venom Drench"
+            "Psychic Noise"
           ]
         },
         "tutor": [
@@ -87314,7 +88733,7 @@
             "Hydro Pump"
           ],
           "13": [
-            "Close Combat"
+            "Wave Crash"
           ],
           "14": [
             "Liquidation"
@@ -87479,7 +88898,7 @@
             "Hydro Pump"
           ],
           "14": [
-            "Close Combat"
+            "Wave Crash"
           ],
           "15": [
             "Surf"
@@ -93421,7 +94840,7 @@
             "Haze"
           ],
           "13": [
-            "Uproar"
+            "Natural Gift"
           ],
           "14": [
             "Eerie Impulse"
@@ -93535,7 +94954,7 @@
             "Mist"
           ],
           "13": [
-            "Uproar"
+            "Chilling Water"
           ],
           "14": [
             "Eerie Impulse"
@@ -93649,7 +95068,7 @@
             "Snowscape"
           ],
           "13": [
-            "Uproar"
+            "Icy Wind"
           ],
           "14": [
             "Eerie Impulse"
@@ -93763,13 +95182,13 @@
             "Tailwind"
           ],
           "13": [
-            "Uproar"
+            "Bleakwind Storm"
           ],
           "14": [
             "Eerie Impulse"
           ],
           "15": [
-            "Aeroblast"
+            "Wildbolt Storm"
           ]
         },
         "all": {}
@@ -93849,7 +95268,7 @@
             "Electro Ball"
           ],
           "4": [
-            "Grassy Glide"
+            "Trailblaze"
           ],
           "5": [
             "Ominous Wind"
@@ -93877,7 +95296,7 @@
             "Rototiller"
           ],
           "13": [
-            "Uproar"
+            "Grassy Glide"
           ],
           "14": [
             "Eerie Impulse"
@@ -101010,7 +102429,8 @@
             "Air Cutter"
           ],
           "4": [
-            "Taunt"
+            "Taunt",
+            "Lucky Chant"
           ],
           "5": [
             "Morning Sun"
@@ -101029,10 +102449,11 @@
             "Roost"
           ],
           "10": [
-            "Tailwind"
+            "Tailwind",
+            "Icy Wind"
           ],
           "11": [
-            "Floaty Fall"
+            "Superpower"
           ],
           "12": [
             "Helping Hand"
@@ -101044,7 +102465,8 @@
             "Hurricane"
           ],
           "15": [
-            "Heat Wave"
+            "Heat Wave",
+            "Petal Blizzard"
           ]
         },
         "tutor": [
@@ -101061,7 +102483,6 @@
           "Fly",
           "Focus Energy",
           "Hypnosis",
-          "Lucky Chant",
           "Night Slash",
           "Pluck",
           "Protect",
@@ -101164,7 +102585,8 @@
           ],
           "4": false,
           "5": [
-            "Taunt"
+            "Taunt",
+            "Lucky Chant"
           ],
           "6": [
             "Detect"
@@ -101183,7 +102605,8 @@
             "Roost"
           ],
           "11": [
-            "Tailwind"
+            "Tailwind",
+            "Icy Wind"
           ],
           "12": [
             "Brave Bird"
@@ -101198,7 +102621,8 @@
             "Hurricane"
           ],
           "16": [
-            "Heat Wave"
+            "Heat Wave",
+            "Petal Blizzard"
           ]
         },
         "tutor": [
@@ -101213,7 +102637,6 @@
           "Fly",
           "Focus Energy",
           "Hypnosis",
-          "Lucky Chant",
           "Morning Sun",
           "Night Slash",
           "Pluck",
@@ -101322,14 +102745,15 @@
           ],
           "4": false,
           "5": [
-            "Taunt"
+            "Taunt",
+            "Lucky Chant"
           ],
           "6": false,
           "7": [
             {
               "oneOf": [
                 "Swagger",
-                "Fly"
+                "Sky Drop"
               ]
             }
           ],
@@ -101347,7 +102771,8 @@
             "Roost"
           ],
           "12": [
-            "Tailwind"
+            "Tailwind",
+            "Icy Wind"
           ],
           "13": [
             "Sky Attack"
@@ -101362,7 +102787,8 @@
             "Hurricane"
           ],
           "17": [
-            "Heat Wave"
+            "Heat Wave",
+            "Petal Blizzard"
           ]
         },
         "tutor": [
@@ -101382,7 +102808,6 @@
           "Giga Impact",
           "Hyper Beam",
           "Hypnosis",
-          "Lucky Chant",
           "Morning Sun",
           "Night Slash",
           "Pluck",
@@ -102651,7 +104076,7 @@
             "Drill Peck"
           ],
           "15": [
-            "Hydro Pump"
+            "Hyper Drill"
           ]
         },
         "tutor": [
@@ -102667,6 +104092,7 @@
           "Focus Blast",
           "High Horsepower",
           "Horn Drill",
+          "Hydro Pump",
           "Iron Defense",
           "Metal Sound",
           "Mud Shot",
@@ -102807,7 +104233,7 @@
             "Drill Peck"
           ],
           "16": [
-            "Hydro Pump"
+            "Hyper Drill"
           ]
         },
         "tutor": [
@@ -103328,7 +104754,7 @@
       },
       "moves": {
         "form": [
-          "Double Iron Bash"
+          "Hard Press"
         ],
         "starting": [
           "Pound",
@@ -104480,7 +105906,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Cut",
+          "Fury Cutter",
           "String Shot",
           "Leafage",
           "Pounce"
@@ -104647,7 +106073,7 @@
           "Protect"
         ],
         "starting": [
-          "Cut",
+          "Fury Cutter",
           "String Shot",
           "Leafage",
           "Pounce"
@@ -104814,7 +106240,7 @@
           "Slash"
         ],
         "starting": [
-          "Cut",
+          "Fury Cutter",
           "String Shot",
           "Leafage",
           "Pounce"
@@ -107273,7 +108699,7 @@
         "starting": [
           "Rage",
           "Taunt",
-          "Ember",
+          "Incinerate",
           "Work Up"
         ],
         "levelUp": {
@@ -107281,22 +108707,22 @@
             "Bite"
           ],
           "3": [
-            "Incinerate"
-          ],
-          "4": [
-            "Take Down"
-          ],
-          "5": [
             "Fire Fang"
           ],
+          "4": [
+            "Rock Climb"
+          ],
+          "5": [
+            "Temper Flare"
+          ],
           "6": [
-            "Headbutt"
+            "Zen Headbutt"
           ],
           "7": [
             "Fire Punch"
           ],
           "8": [
-            "Rock Slide"
+            "Stomping Tantrum"
           ],
           "9": [
             "Overheat"
@@ -107308,7 +108734,7 @@
             "Flare Blitz"
           ],
           "12": [
-            "Swagger"
+            "Stoke"
           ],
           "13": [
             "Thrash"
@@ -107361,6 +108787,7 @@
           "Psychic",
           "Rest",
           "Reversal",
+          "Rock Slide",
           "Rock Smash",
           "Rock Tomb",
           "Rollout",
@@ -107374,13 +108801,13 @@
           "Submission",
           "Substitute",
           "Sunny Day",
+          "Take Down",
           "Thief",
           "Trick",
           "U-Turn",
           "Uproar",
           "Will-O-Wisp",
-          "Yawn",
-          "Zen Headbutt"
+          "Yawn"
         ],
         "all": {}
       },
@@ -107449,7 +108876,7 @@
         "starting": [
           "Rage",
           "Taunt",
-          "Ember",
+          "Incinerate",
           "Work Up"
         ],
         "levelUp": {
@@ -107457,16 +108884,16 @@
             "Bite"
           ],
           "3": [
-            "Incinerate"
-          ],
-          "4": [
-            "Take Down"
-          ],
-          "5": [
             "Fire Fang"
           ],
+          "4": [
+            "Rock Climb"
+          ],
+          "5": [
+            "Temper Flare"
+          ],
           "6": [
-            "Headbutt"
+            "Zen Headbutt"
           ],
           "7": false,
           "8": [
@@ -107553,12 +108980,12 @@
           "Submission",
           "Substitute",
           "Sunny Day",
+          "Take Down",
           "Thief",
           "Trick",
           "U-Turn",
           "Will-O-Wisp",
-          "Yawn",
-          "Zen Headbutt"
+          "Yawn"
         ],
         "all": {}
       },
@@ -107619,7 +109046,7 @@
         "starting": [
           "Rage",
           "Taunt",
-          "Ember",
+          "Incinerate",
           "Work Up"
         ],
         "levelUp": {
@@ -107627,16 +109054,16 @@
             "Bite"
           ],
           "3": [
-            "Incinerate"
-          ],
-          "4": [
-            "Take Down"
-          ],
-          "5": [
             "Fire Fang"
           ],
+          "4": [
+            "Rock Climb"
+          ],
+          "5": [
+            "Temper Flare"
+          ],
           "6": [
-            "Headbutt"
+            "Zen Headbutt"
           ],
           "7": false,
           "8": [
@@ -107724,12 +109151,12 @@
           "Submission",
           "Substitute",
           "Sunny Day",
+          "Take Down",
           "Thief",
           "Trick",
           "U-Turn",
           "Will-O-Wisp",
-          "Yawn",
-          "Zen Headbutt"
+          "Yawn"
         ],
         "all": {}
       },
@@ -107800,22 +109227,22 @@
             "Bite"
           ],
           "3": [
-            "Avalanche"
-          ],
-          "4": [
-            "Take Down"
-          ],
-          "5": [
             "Ice Fang"
           ],
+          "4": [
+            "Rock Climb"
+          ],
+          "5": [
+            "Avalanche"
+          ],
           "6": [
-            "Headbutt"
+            "Zen Headbutt"
           ],
           "7": [
             "Ice Punch"
           ],
           "8": [
-            "U-Turn"
+            "Stomping Tantrum"
           ],
           "9": [
             "Ice Burn"
@@ -107827,7 +109254,7 @@
             "Blizzard"
           ],
           "12": [
-            "Swagger"
+            "Stoke"
           ],
           "13": [
             "Thrash"
@@ -107895,11 +109322,12 @@
           "Submission",
           "Substitute",
           "Sunny Day",
+          "Take Down",
           "Thief",
+          "U-Turn",
           "Uproar",
           "Will-O-Wisp",
-          "Yawn",
-          "Zen Headbutt"
+          "Yawn"
         ],
         "all": {}
       },
@@ -107976,16 +109404,16 @@
             "Bite"
           ],
           "3": [
-            "Avalanche"
-          ],
-          "4": [
-            "Take Down"
-          ],
-          "5": [
             "Ice Fang"
           ],
+          "4": [
+            "Rock Climb"
+          ],
+          "5": [
+            "Avalanche"
+          ],
           "6": [
-            "Headbutt"
+            "Zen Headbutt"
           ],
           "7": false,
           "8": [
@@ -108013,7 +109441,7 @@
             "Superpower"
           ],
           "16": [
-            "Darkest Lariat"
+            "Raging Fury"
           ]
         },
         "tutor": [
@@ -108074,11 +109502,11 @@
           "Submission",
           "Substitute",
           "Sunny Day",
+          "Take Down",
           "Thief",
           "U-Turn",
           "Will-O-Wisp",
-          "Yawn",
-          "Zen Headbutt"
+          "Yawn"
         ],
         "all": {}
       },
@@ -108147,16 +109575,16 @@
             "Bite"
           ],
           "3": [
-            "Avalanche"
-          ],
-          "4": [
-            "Take Down"
-          ],
-          "5": [
             "Ice Fang"
           ],
+          "4": [
+            "Rock Climb"
+          ],
+          "5": [
+            "Avalanche"
+          ],
           "6": [
-            "Headbutt"
+            "Zen Headbutt"
           ],
           "7": false,
           "8": [
@@ -108184,7 +109612,7 @@
             "Superpower"
           ],
           "16": [
-            "Darkest Lariat"
+            "Raging Fury"
           ]
         },
         "tutor": [
@@ -108245,11 +109673,11 @@
           "Submission",
           "Substitute",
           "Sunny Day",
+          "Take Down",
           "Thief",
           "U-Turn",
           "Will-O-Wisp",
-          "Yawn",
-          "Zen Headbutt"
+          "Yawn"
         ],
         "all": {}
       },
@@ -108326,7 +109754,8 @@
             "After You"
           ],
           "3": [
-            "Mega Drain"
+            "Mega Drain",
+            "Acupressure"
           ],
           "4": [
             "Leech Seed",
@@ -108357,8 +109786,8 @@
             "Solar Beam"
           ],
           "12": [
-            "Acupressure",
-            "Cotton Guard"
+            "Cotton Guard",
+            "Aqua Step"
           ],
           "13": [
             "Petal Dance"
@@ -108486,13 +109915,14 @@
             "Smack Down"
           ],
           "3": [
-            "Bug Bite"
+            "Skitter Smack"
           ],
           "4": [
             "Bulldoze"
           ],
           "5": [
-            "Slash"
+            "Slash",
+            "X-Scissor"
           ],
           "6": [
             "Rock Slide"
@@ -108550,7 +109980,6 @@
           "Sand Tomb",
           "Sandstorm",
           "Shadow Claw",
-          "Skitter Smack",
           "Sleep Talk",
           "Snore",
           "Solar Beam",
@@ -108560,8 +109989,7 @@
           "Stone Edge",
           "Strength",
           "Substitute",
-          "Swords Dance",
-          "X-Scissor"
+          "Swords Dance"
         ],
         "all": {}
       },
@@ -108643,13 +110071,14 @@
             "Smack Down"
           ],
           "3": [
-            "Bug Bite"
+            "Skitter Smack"
           ],
           "4": [
             "Bulldoze"
           ],
           "5": [
-            "Slash"
+            "Slash",
+            "X-Scissor"
           ],
           "6": [
             "Rock Slide"
@@ -108662,10 +110091,10 @@
             "Rock Blast"
           ],
           "10": [
-            "X-Scissor"
+            "Lunge"
           ],
           "11": [
-            "Amnesia"
+            "Shelter"
           ],
           "12": [
             "Shell Smash"
@@ -108710,7 +110139,6 @@
           "Sand Tomb",
           "Sandstorm",
           "Shadow Claw",
-          "Skitter Smack",
           "Sleep Talk",
           "Snore",
           "Solar Beam",
@@ -111394,7 +112822,7 @@
         },
         "all": {}
       },
-      "blurb": "<p>honestly zorua is kind of a bitch if the fluffy fox died of the cold??? vulpix did just fine</p>\n"
+      "blurb": "<p>honestly zorua is kind of a wimp if the fluffy fox died of the cold??? vulpix did just fine</p>\n"
     },
     {
       "name": "Hisuian Zoroark",
@@ -111509,7 +112937,8 @@
           ]
         },
         "all": {}
-      }
+      },
+      "blurb": "<p>maybe the shed ghostly fur has interesting material properties?</p>\n"
     }
   ],
   "minccino": [
@@ -113835,7 +115264,7 @@
         ],
         "level5": [
           [
-            "Reckless"
+            "Dire Horn"
           ],
           [
             "Pixilate",
@@ -114851,15 +116280,38 @@
         },
         "tutor": [
           "Attract",
-          "Captivate",
-          "Confide",
+          "Body Slam",
+          "Defense Curl",
           "Double Team",
+          "Endure",
+          "Energy Ball",
           "Facade",
+          "Flash",
+          "Foul Play",
+          "Gastro Acid",
+          "Grass Knot",
+          "Grassy Terrain",
+          "Mimic",
+          "Nature Power",
+          "Payback",
+          "Poison Powder",
+          "Pollen Puff",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Rollout",
           "Round",
+          "Seed Bomb",
           "Sleep Talk",
-          "Swagger"
+          "Sludge Bomb",
+          "Smelling Salts",
+          "Snore",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Wake-Up Slap",
+          "Worry Seed"
         ],
         "all": {}
       },
@@ -114979,15 +116431,40 @@
         },
         "tutor": [
           "Attract",
-          "Captivate",
-          "Confide",
+          "Body Slam",
+          "Defense Curl",
           "Double Team",
+          "Endure",
+          "Energy Ball",
           "Facade",
+          "Flash",
+          "Foul Play",
+          "Gastro Acid",
+          "Giga Impact",
+          "Grass Knot",
+          "Grassy Terrain",
+          "Hyper Beam",
+          "Mimic",
+          "Nature Power",
+          "Payback",
+          "Poison Powder",
+          "Pollen Puff",
           "Protect",
+          "Rain Dance",
           "Rest",
+          "Rollout",
           "Round",
+          "Seed Bomb",
           "Sleep Talk",
-          "Swagger"
+          "Sludge Bomb",
+          "Smelling Salts",
+          "Snore",
+          "Stomping Tantrum",
+          "Substitute",
+          "Sunny Day",
+          "Swagger",
+          "Wake-Up Slap",
+          "Worry Seed"
         ],
         "all": {}
       },
@@ -116605,7 +118082,7 @@
             "Thrash"
           ],
           "14": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "15": [
             "Zap Cannon"
@@ -116650,7 +118127,8 @@
           "Thunder",
           "U-Turn",
           "Volt Switch",
-          "Volt Tackle"
+          "Volt Tackle",
+          "Wild Charge"
         ],
         "all": {}
       },
@@ -116760,7 +118238,7 @@
             "Thrash"
           ],
           "15": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "16": [
             "Zap Cannon"
@@ -116810,7 +118288,8 @@
           "Thunder Punch",
           "U-Turn",
           "Volt Switch",
-          "Volt Tackle"
+          "Volt Tackle",
+          "Wild Charge"
         ],
         "all": {}
       },
@@ -116879,30 +118358,36 @@
           "Confusion",
           "Growl",
           "Imprison",
-          "Signal Beam"
+          "Teleport"
         ],
         "levelUp": {
           "2": [
-            "Teleport"
+            "Signal Beam",
+            "Gravity"
           ],
           "3": [
-            "Psybeam"
+            "Psybeam",
+            "Disable"
           ],
           "4": [
             "Power Split",
             "Guard Split"
           ],
           "5": [
-            "Steel Wing"
+            "Tri Attack",
+            "Trick Room"
           ],
           "6": [
+            "Headbutt",
             "Zen Headbutt"
           ],
           "7": [
-            "Recover"
+            "Recover",
+            "Embargo"
           ],
           "8": [
-            "Wonder Room"
+            "Wonder Room",
+            "Cosmic Power"
           ],
           "9": [
             "Calm Mind"
@@ -116915,10 +118400,11 @@
             "Meteor Beam"
           ],
           "12": [
-            "Hidden Power"
+            "Hidden Power",
+            "Psycho Shift"
           ],
           "13": [
-            "Disable"
+            "Psycho Boost"
           ],
           "14": [
             "Heal Block"
@@ -116932,11 +118418,9 @@
           "Ally Switch",
           "Astonish",
           "Attract",
-          "Cosmic Power",
           "Dark Pulse",
           "Destiny Bond",
           "Double Team",
-          "Embargo",
           "Endure",
           "Energy Ball",
           "Expanding Force",
@@ -116944,7 +118428,6 @@
           "Flash",
           "Flash Cannon",
           "Future Sight",
-          "Gravity",
           "Guard Swap",
           "Light Screen",
           "Magic Coat",
@@ -116969,6 +118452,7 @@
           "Sleep Talk",
           "Snatch",
           "Snore",
+          "Steel Wing",
           "Stored Power",
           "Submission",
           "Substitute",
@@ -116976,9 +118460,7 @@
           "Thief",
           "Thunder Wave",
           "Thunderbolt",
-          "Tri Attack",
           "Trick",
-          "Trick Room",
           "Uproar"
         ],
         "all": {}
@@ -117052,31 +118534,37 @@
           "Confusion",
           "Growl",
           "Imprison",
-          "Signal Beam"
+          "Teleport"
         ],
         "levelUp": {
           "2": [
-            "Teleport"
+            "Signal Beam",
+            "Gravity"
           ],
           "3": [
-            "Psybeam"
+            "Psybeam",
+            "Disable"
           ],
           "4": [
             "Power Split",
             "Guard Split"
           ],
           "5": [
-            "Steel Wing"
+            "Tri Attack",
+            "Trick Room"
           ],
           "6": [
+            "Headbutt",
             "Zen Headbutt"
           ],
           "7": [
-            "Recover"
+            "Recover",
+            "Embargo"
           ],
           "8": false,
           "9": [
-            "Wonder Room"
+            "Wonder Room",
+            "Cosmic Power"
           ],
           "10": [
             "Calm Mind"
@@ -117089,13 +118577,14 @@
             "Meteor Beam"
           ],
           "13": [
-            "Hidden Power"
+            "Hidden Power",
+            "Psycho Shift"
           ],
           "14": [
-            "Disable"
+            "Expanding Force"
           ],
           "15": [
-            "Embargo"
+            "Heal Block"
           ],
           "16": [
             "Simple Beam"
@@ -117106,21 +118595,17 @@
           "Ally Switch",
           "Astonish",
           "Attract",
-          "Cosmic Power",
           "Dark Pulse",
           "Destiny Bond",
           "Double Team",
           "Endure",
           "Energy Ball",
-          "Expanding Force",
           "Facade",
           "Flash",
           "Flash Cannon",
           "Future Sight",
           "Giga Impact",
-          "Gravity",
           "Guard Swap",
-          "Heal Block",
           "Hyper Beam",
           "Light Screen",
           "Magic Coat",
@@ -117144,6 +118629,7 @@
           "Sleep Talk",
           "Snatch",
           "Snore",
+          "Steel Wing",
           "Stored Power",
           "Submission",
           "Substitute",
@@ -117151,9 +118637,7 @@
           "Thief",
           "Thunder Wave",
           "Thunderbolt",
-          "Tri Attack",
           "Trick",
-          "Trick Room",
           "Uproar"
         ],
         "all": {}
@@ -118711,7 +120195,8 @@
         ],
         "levelUp": {
           "2": [
-            "Bide"
+            "Bide",
+            "Camouflage"
           ],
           "3": [
             "Mud Shot"
@@ -118758,7 +120243,6 @@
           "Astonish",
           "Attract",
           "Bulldoze",
-          "Camouflage",
           "Curse",
           "Dig",
           "Earthquake",
@@ -118872,7 +120356,8 @@
         ],
         "levelUp": {
           "2": [
-            "Bide"
+            "Bide",
+            "Camouflage"
           ],
           "3": [
             "Mud Shot"
@@ -119379,7 +120864,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Cut",
+          "Rock Smash",
           "Leer",
           "Bite",
           "Scary Face"
@@ -119465,7 +120950,6 @@
           "Retaliate",
           "Revenge",
           "Rock Slide",
-          "Rock Smash",
           "Rock Tomb",
           "Round",
           "Scale Shot",
@@ -119962,17 +121446,53 @@
           ]
         },
         "tutor": [
+          "Air Slash",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Brick Break",
+          "Dark Pulse",
+          "Dig",
+          "Dual Chop",
+          "Endure",
           "Facade",
+          "False Swipe",
+          "Fling",
+          "Focus Blast",
+          "Foul Play",
+          "Grass Knot",
+          "Headbutt",
+          "Hone Claws",
+          "Lash Out",
+          "Low Kick",
+          "Low Sweep",
+          "Mean Look",
+          "Payback",
+          "Poison Jab",
           "Protect",
+          "Pursuit",
+          "Quick Guard",
+          "Rain Dance",
           "Rest",
+          "Revenge",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sandstorm",
+          "Screech",
+          "Shadow Claw",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snarl",
+          "Snatch",
+          "Snore",
+          "Stealth Rock",
+          "Steel Beam",
+          "Stone Edge",
+          "Submission",
+          "Substitute",
+          "Sucker Punch",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Wave"
         ],
         "all": {}
       },
@@ -120096,17 +121616,56 @@
           ]
         },
         "tutor": [
+          "Air Slash",
+          "Assurance",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Brick Break",
+          "Dark Pulse",
+          "Dig",
+          "Dual Chop",
+          "Endure",
           "Facade",
+          "False Swipe",
+          "Fling",
+          "Focus Blast",
+          "Foul Play",
+          "Giga Impact",
+          "Grass Knot",
+          "Headbutt",
+          "Hone Claws",
+          "Hyper Beam",
+          "Low Kick",
+          "Low Sweep",
+          "Mean Look",
+          "Payback",
+          "Poison Jab",
           "Protect",
+          "Psycho Cut",
+          "Pursuit",
+          "Quick Guard",
+          "Rain Dance",
           "Rest",
+          "Revenge",
+          "Rock Smash",
+          "Rock Tomb",
           "Round",
+          "Sandstorm",
+          "Screech",
+          "Shadow Claw",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snarl",
+          "Snatch",
+          "Snore",
+          "Stealth Rock",
+          "Steel Beam",
+          "Stone Edge",
+          "Submission",
+          "Substitute",
+          "Sucker Punch",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Wave"
         ],
         "all": {}
       },
@@ -120167,7 +121726,7 @@
           ]
         ]
       },
-      "catchDC": null,
+      "catchDC": 22,
       "evolves": {
         "by": "Leader's Crest",
         "from": "Bisharp"
@@ -121206,7 +122765,7 @@
             "Steelworker"
           ],
           [
-            "Heat Sink"
+            "Defiant"
           ],
           [
             "White Smoke"
@@ -121235,7 +122794,8 @@
             "Swallow"
           ],
           "5": [
-            "Slash"
+            "Slash",
+            "Snatch"
           ],
           "6": [
             "Fire Lash"
@@ -121253,13 +122813,14 @@
             "Flamethrower"
           ],
           "11": [
-            "Amnesia"
+            "Amnesia",
+            "Stoke"
           ],
           "12": [
             "Flare Blitz"
           ],
           "13": [
-            "Steel Beam"
+            "Inferno"
           ],
           "14": [
             "Belch"
@@ -121302,7 +122863,6 @@
           "Scorching Sands",
           "Shadow Claw",
           "Sleep Talk",
-          "Snatch",
           "Snore",
           "Solar Beam",
           "Stomping Tantrum",
@@ -121400,6 +122960,7 @@
             "Dig"
           ],
           "5": [
+            "Strength",
             "Beat Up"
           ],
           "6": [
@@ -121418,7 +122979,8 @@
             "Iron Head"
           ],
           "11": [
-            "Metal Sound"
+            "Metal Sound",
+            "Agility"
           ],
           "12": [
             "Guillotine"
@@ -121430,11 +122992,10 @@
             "Infestation"
           ],
           "15": [
-            "Rock Tomb"
+            "Brick Break"
           ]
         },
         "tutor": [
-          "Agility",
           "Attract",
           "Baton Pass",
           "Endeavor",
@@ -121452,6 +123013,7 @@
           "Rest",
           "Retaliate",
           "Rock Slide",
+          "Rock Tomb",
           "Round",
           "Sandstorm",
           "Screech",
@@ -121580,17 +123142,66 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
+          "Aqua Tail",
+          "Astonish",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Beat Up",
+          "Belch",
+          "Breaking Swipe",
+          "Brutal Swing",
+          "Bulldoze",
+          "Dark Pulse",
+          "Draco Meteor",
+          "Dragon Dance",
+          "Dragon Tail",
+          "Earth Power",
+          "Earthquake",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Fire Spin",
+          "Flamethrower",
+          "Flash Cannon",
+          "Focus Blast",
+          "Heat Wave",
+          "Helping Hand",
+          "Hydro Pump",
+          "Hyper Voice",
+          "Ice Fang",
+          "Incinerate",
+          "Iron Tail",
+          "Payback",
           "Protect",
+          "Rain Dance",
+          "Reflect",
           "Rest",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Scale Shot",
+          "Screech",
+          "Signal Beam",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snarl",
+          "Snore",
+          "Spite",
+          "Stone Edge",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Surf",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Fang",
+          "Thunder Wave",
+          "Torment",
+          "U-Turn",
+          "Uproar",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -121709,17 +123320,68 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
+          "Aqua Tail",
+          "Astonish",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Beat Up",
+          "Belch",
+          "Breaking Swipe",
+          "Brutal Swing",
+          "Bulldoze",
+          "Dark Pulse",
+          "Draco Meteor",
+          "Dragon Dance",
+          "Dragon Tail",
+          "Dual Wingbeat",
+          "Earth Power",
+          "Earthquake",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Fire Spin",
+          "Flamethrower",
+          "Flash Cannon",
+          "Focus Blast",
+          "Head Smash",
+          "Heat Wave",
+          "Helping Hand",
+          "Hydro Pump",
+          "Ice Fang",
+          "Incinerate",
+          "Iron Tail",
+          "Payback",
           "Protect",
+          "Rain Dance",
+          "Reflect",
           "Rest",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Scale Shot",
+          "Screech",
+          "Signal Beam",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snarl",
+          "Snore",
+          "Spite",
+          "Steel Wing",
+          "Stone Edge",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Surf",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Fang",
+          "Thunder Wave",
+          "Torment",
+          "U-Turn",
+          "Uproar",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -121839,17 +123501,72 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
+          "Aqua Tail",
+          "Astonish",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Beat Up",
+          "Belch",
+          "Breaking Swipe",
+          "Brutal Swing",
+          "Bulldoze",
+          "Dark Pulse",
+          "Draco Meteor",
+          "Dragon Dance",
+          "Dragon Tail",
+          "Dual Wingbeat",
+          "Earth Power",
+          "Earthquake",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Fang",
+          "Fire Spin",
+          "Flamethrower",
+          "Flash Cannon",
+          "Fly",
+          "Focus Blast",
+          "Giga Impact",
+          "Head Smash",
+          "Heat Wave",
+          "Helping Hand",
+          "Hydro Pump",
+          "Hyper Voice",
+          "Ice Fang",
+          "Incinerate",
+          "Iron Tail",
+          "Payback",
           "Protect",
+          "Rain Dance",
+          "Reflect",
           "Rest",
+          "Rock Slide",
+          "Rock Tomb",
           "Round",
+          "Scale Shot",
+          "Screech",
+          "Signal Beam",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snarl",
+          "Snore",
+          "Spite",
+          "Steel Wing",
+          "Stone Edge",
+          "Strength",
+          "Substitute",
+          "Sunny Day",
+          "Superpower",
+          "Surf",
+          "Tailwind",
+          "Taunt",
+          "Thief",
+          "Throat Chop",
+          "Thunder Fang",
+          "Thunder Wave",
+          "Torment",
+          "U-Turn",
+          "Uproar",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -121963,17 +123680,40 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Calm Mind",
+          "Double-Edge",
+          "Endure",
           "Facade",
+          "Fire Blast",
+          "Fire Spin",
+          "Flamethrower",
+          "Giga Drain",
+          "Harden",
+          "Hurricane",
+          "Incinerate",
+          "Light Screen",
+          "Morning Sun",
+          "Mystical Fire",
+          "Overheat",
+          "Poison Jab",
           "Protect",
+          "Psychic",
           "Rest",
           "Round",
+          "Safeguard",
+          "Signal Beam",
+          "Skitter Smack",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Solar Beam",
+          "Substitute",
+          "Tailwind",
+          "U-Turn",
+          "Wild Charge",
+          "Will-O-Wisp",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -122092,17 +123832,45 @@
           ]
         },
         "tutor": [
+          "Acrobatics",
           "Attract",
-          "Captivate",
-          "Confide",
-          "Double Team",
+          "Calm Mind",
+          "Double-Edge",
+          "Dual Wingbeat",
+          "Endure",
           "Facade",
+          "Flamethrower",
+          "Flare Blitz",
+          "Fly",
+          "Giga Drain",
+          "Giga Impact",
+          "Harden",
+          "Heat Wave",
+          "Hyper Beam",
+          "Incinerate",
+          "Light Screen",
+          "Morning Sun",
+          "Mystical Fire",
+          "Overheat",
+          "Poison Jab",
           "Protect",
+          "Psychic",
           "Rest",
           "Round",
+          "Safeguard",
+          "Screech",
+          "Signal Beam",
+          "Skitter Smack",
           "Sleep Talk",
-          "Swagger",
-          "Toxic"
+          "Snore",
+          "Solar Beam",
+          "Substitute",
+          "Tailwind",
+          "Thrash",
+          "U-Turn",
+          "Wild Charge",
+          "Will-O-Wisp",
+          "Zen Headbutt"
         ],
         "all": {}
       },
@@ -124265,7 +126033,7 @@
             "Fly"
           ],
           "14": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "15": [
             "Thunder Punch"
@@ -124320,7 +126088,8 @@
           "Thunderbolt",
           "Volt Switch",
           "Volt Tackle",
-          "Weather Ball"
+          "Weather Ball",
+          "Wild Charge"
         ],
         "all": {}
       },
@@ -125137,7 +126906,7 @@
       "moves": {
         "starting": [
           "Tackle",
-          "Growl",
+          "Defense Curl",
           "Vine Whip",
           "Protect"
         ],
@@ -125152,10 +126921,11 @@
             "Pin Missile"
           ],
           "5": [
-            "Hyper Fang"
+            "Super Fang"
           ],
           "6": [
-            "Dizzy Punch"
+            "Dizzy Punch",
+            "Synthesis"
           ],
           "7": [
             "Mud Shot"
@@ -125182,7 +126952,7 @@
             "Body Press"
           ],
           "15": [
-            "Comeuppance"
+            "Shell Smash"
           ]
         },
         "tutor": [
@@ -125202,6 +126972,7 @@
           "Fling",
           "Focus Blast",
           "Focus Punch",
+          "Follow Me",
           "Giga Drain",
           "Grass Knot",
           "Grass Pledge",
@@ -125237,7 +127008,6 @@
           "Superpower",
           "Swift",
           "Swords Dance",
-          "Synthesis",
           "Taunt",
           "Thunder Punch",
           "Work Up",
@@ -125309,7 +127079,7 @@
         ],
         "starting": [
           "Tackle",
-          "Growl",
+          "Defense Curl",
           "Vine Whip",
           "Protect"
         ],
@@ -125328,13 +127098,14 @@
             "Bite"
           ],
           "7": [
-            "Counter"
+            "Counter",
+            "Synthesis"
           ],
           "8": [
             "Spikes"
           ],
           "9": [
-            "Leaf Blade"
+            "Sappy Seed"
           ],
           "10": [
             "Bulk Up"
@@ -125349,13 +127120,13 @@
             "Body Slam"
           ],
           "14": [
-            "Focus Punch"
+            "Collision Course"
           ],
           "15": [
             "Body Press"
           ],
           "16": [
-            "Comeuppance"
+            "Shell Smash"
           ]
         },
         "tutor": [
@@ -125374,6 +127145,8 @@
           "Feint",
           "Fling",
           "Focus Blast",
+          "Focus Punch",
+          "Follow Me",
           "Giga Drain",
           "Grass Knot",
           "Grass Pledge",
@@ -125410,7 +127183,6 @@
           "Superpower",
           "Swift",
           "Swords Dance",
-          "Synthesis",
           "Taunt",
           "Thunder Punch",
           "Work Up",
@@ -125483,7 +127255,7 @@
         ],
         "starting": [
           "Tackle",
-          "Growl",
+          "Defense Curl",
           "Vine Whip",
           "Protect"
         ],
@@ -125503,10 +127275,11 @@
           ],
           "7": false,
           "8": [
-            "Drain Punch"
+            "Drain Punch",
+            "Synthesis"
           ],
           "9": [
-            "Rock Tomb"
+            "Hard Press"
           ],
           "10": [
             "Wood Hammer"
@@ -125530,7 +127303,7 @@
             "Body Press"
           ],
           "17": [
-            "Comeuppance"
+            "Shell Smash"
           ]
         },
         "tutor": [
@@ -125550,6 +127323,7 @@
           "Fling",
           "Focus Blast",
           "Focus Punch",
+          "Follow Me",
           "Frenzy Plant",
           "Giga Drain",
           "Giga Impact",
@@ -125572,6 +127346,7 @@
           "Retaliate",
           "Rock Slide",
           "Rock Smash",
+          "Rock Tomb",
           "Round",
           "Seed Bomb",
           "Shadow Claw",
@@ -125589,7 +127364,6 @@
           "Superpower",
           "Swift",
           "Swords Dance",
-          "Synthesis",
           "Taunt",
           "Thunder Punch",
           "Work Up",
@@ -125675,6 +127449,7 @@
             "Dig"
           ],
           "6": [
+            "Incinerate",
             "Speed Swap"
           ],
           "7": [
@@ -125696,7 +127471,7 @@
             "Fire Blast"
           ],
           "13": [
-            "Magic Coat"
+            "Stoke"
           ],
           "14": [
             "Shadow Ball"
@@ -125720,6 +127495,7 @@
           "Heat Wave",
           "Iron Tail",
           "Low Kick",
+          "Magic Coat",
           "Magic Room",
           "Mystical Fire",
           "Overheat",
@@ -125834,6 +127610,7 @@
             "Lucky Chant"
           ],
           "7": [
+            "Magic Coat",
             "Speed Swap"
           ],
           "8": [
@@ -125881,7 +127658,6 @@
           "Heat Wave",
           "Iron Tail",
           "Low Kick",
-          "Magic Coat",
           "Magical Leaf",
           "Mystical Fire",
           "Overheat",
@@ -126002,10 +127778,11 @@
           ],
           "7": false,
           "8": [
+            "Psyshock",
             "Speed Swap"
           ],
           "9": [
-            "Psyshock"
+            "Dazzling Gleam"
           ],
           "10": [
             "Psychic"
@@ -126038,7 +127815,6 @@
           "Blast Burn",
           "Burning Jealousy",
           "Calm Mind",
-          "Dazzling Gleam",
           "Endure",
           "Expanding Force",
           "Facade",
@@ -126164,13 +127940,14 @@
             "Round"
           ],
           "6": [
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Haze"
           ],
           "7": [
             "Sticky Web"
           ],
           "8": [
-            "Liquidation"
+            "Bouncy Bubble"
           ],
           "9": [
             "Substitute"
@@ -126321,7 +128098,8 @@
             "Fling"
           ],
           "7": [
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Haze"
           ],
           "8": [
             "Spikes"
@@ -126482,7 +128260,8 @@
           ],
           "7": false,
           "8": [
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Haze"
           ],
           "9": [
             "Toxic Spikes"
@@ -126700,17 +128479,17 @@
             "Double Hit"
           ],
           "6": [
-            "Bulldoze",
-            "Grass Knot"
+            "Bulldoze"
           ],
           "7": [
-            "Rototiller"
+            "Rototiller",
+            "Grass Knot"
           ],
           "8": [
             "Bounce"
           ],
           "9": [
-            "Hyper Fang"
+            "Facade"
           ],
           "10": [
             "Stomping Tantrum"
@@ -126740,7 +128519,6 @@
           "Bulk Up",
           "Defense Curl",
           "Endure",
-          "Facade",
           "Fire Punch",
           "Fling",
           "Foul Play",
@@ -126864,17 +128642,17 @@
             "Double Hit"
           ],
           "7": [
-            "Bulldoze",
-            "Mega Punch"
+            "Bulldoze"
           ],
           "8": [
-            "Rototiller"
+            "Rototiller",
+            "Mega Punch"
           ],
           "9": [
             "Bounce"
           ],
           "10": [
-            "Take Down"
+            "Double-Edge"
           ],
           "11": [
             "Earthquake"
@@ -127882,7 +129660,7 @@
             "Wild Charge"
           ],
           "14": [
-            "Uproar"
+            "V-create"
           ],
           "15": [
             "Superpower"
@@ -128055,7 +129833,12 @@
             "Wild Charge"
           ],
           "15": [
-            "Uproar"
+            {
+              "oneOf": [
+                "Burning Bulwark",
+                "Assurance"
+              ]
+            }
           ],
           "16": [
             "Superpower"
@@ -128614,9 +130397,9 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Tackle",
+          "Horn Attack",
           "Growth",
-          "Leafage",
+          "Branch Poke",
           "Tail Whip"
         ],
         "levelUp": {
@@ -128624,7 +130407,7 @@
             "Leech Seed"
           ],
           "3": [
-            "Horn Attack"
+            "Headbutt"
           ],
           "4": [
             "Razor Leaf"
@@ -128639,7 +130422,7 @@
             "Synthesis"
           ],
           "8": [
-            "Headbutt"
+            "Seed Bomb"
           ],
           "9": [
             "Rock Climb"
@@ -128686,7 +130469,6 @@
           "Rock Smash",
           "Rollout",
           "Round",
-          "Seed Bomb",
           "Sleep Talk",
           "Snore",
           "Solar Beam",
@@ -128766,9 +130548,9 @@
           "Aerial Ace"
         ],
         "starting": [
-          "Tackle",
+          "Horn Attack",
           "Growth",
-          "Leafage",
+          "Branch Poke",
           "Tail Whip"
         ],
         "levelUp": {
@@ -128776,7 +130558,7 @@
             "Leech Seed"
           ],
           "3": [
-            "Horn Attack"
+            "Headbutt"
           ],
           "4": [
             "Razor Leaf"
@@ -128792,7 +130574,7 @@
             "Bulk Up"
           ],
           "9": [
-            "Headbutt"
+            "Seed Bomb"
           ],
           "10": [
             "Rock Climb"
@@ -128840,7 +130622,6 @@
           "Rock Smash",
           "Rollout",
           "Round",
-          "Seed Bomb",
           "Sleep Talk",
           "Snore",
           "Solar Beam",
@@ -129236,7 +131017,7 @@
         ],
         "all": {}
       },
-      "blurb": "<p>Pangoro is rough to adults, but practically passive around children. Pangoro owned by older siblings are often found into games of house, piano recitals, and are overwhelmingly nicknamed “Mrs. Nesbit”. They appreciate the attention.</p>\n"
+      "blurb": "<p>Pangoro is rough to adults, but practically passive around children. Pangoro owned by older siblings are often found in games of house, piano recitals, and are overwhelmingly nicknamed “Mrs. Nesbitt”. They appreciate the attention.</p>\n"
     }
   ],
   "furfrou": [
@@ -129377,7 +131158,7 @@
         ],
         "all": {}
       },
-      "blurb": "<p>Furfrou is the icon of Kalos, especially after Lysandre soured Pyroar’s popularity. In the wild, they cut their own fur with their sharp claws. The results aren’t very stylish, so they jump at the chance for a groomer to beautify them.<br><strong>Pokéfeature:</strong> When Furfrou gets a haircut, its Level 5 Ability and the move False Surrender changes based on its haircut. Haircuts can be given during Long Rests (or by a Stylist any time outside of combat).</p>\n<ul>\n<li>Natural: Natural Gift, Tangling Hair</li>\n<li>Heart: Heart Swap, Soul-Heart</li>\n<li>Star: Water Shuriken, Victory Star</li>\n<li>Diamond: Power Gem, Prism Armor</li>\n<li>Pharaoh: Hex, Cursed Body</li>\n<li>Kabuki: Role Play, Dancer</li>\n<li>Matron: Teatime, Friend Guard</li>\n<li>Dandy: After You, Rivalry</li>\n<li>La Reine: Trop Kick, Queenly Majesty</li>\n<li>Debutante: Follow Me, Enthrall</li>\n</ul>\n<p>(The GM and players are encouraged to collaborate to create more.)</p>\n"
+      "blurb": "<p>Furfrou is the icon of Kalos, especially after Lysandre soured Pyroar’s popularity.<br><strong>Pokéfeature:</strong> When Furfrou gets a haircut, its Level 5 Ability and the move Natural Gift changes based on its haircut. Haircuts can be given during Long Rests (or by a Stylist any time outside of combat).</p>\n<ul>\n<li>Natural: Natural Gift, Tangling Hair</li>\n<li>Heart: Heart Swap, Soul-Heart</li>\n<li>Star: Water Shuriken, Victory Star</li>\n<li>Diamond: Diamond Storm, Prism Armor</li>\n<li>Pharaoh: Scorching Sands, Cursed Body</li>\n<li>Kabuki: Role Play, Dancer</li>\n<li>Matron: Teatime, Friend Guard</li>\n<li>Dandy: After You, Rivalry</li>\n<li>La Reine: Trop Kick, Queenly Majesty</li>\n<li>Debutante: Dazzling Gleam, Enthrall</li>\n</ul>\n<p>(The GM and players are encouraged to collaborate to create more.)</p>\n"
     }
   ],
   "espurr": [
@@ -129979,7 +131760,7 @@
             "Shadow Claw"
           ],
           "14": [
-            "Solar Blade"
+            "Bitter Blade"
           ],
           "15": [
             "Close Combat"
@@ -130015,6 +131796,7 @@
           "Shadow Ball",
           "Sleep Talk",
           "Snore",
+          "Solar Blade",
           "Spite",
           "Steel Beam",
           "Substitute",
@@ -130131,7 +131913,7 @@
             "Shadow Claw"
           ],
           "15": [
-            "Solar Blade"
+            "Cross Poison"
           ],
           "16": [
             "Close Combat"
@@ -130167,6 +131949,7 @@
           "Shadow Ball",
           "Sleep Talk",
           "Snore",
+          "Solar Blade",
           "Spite",
           "Steel Beam",
           "Substitute",
@@ -130397,11 +132180,10 @@
         ],
         "levelUp": {
           "2": [
-            "Wing Attack"
+            "Peck"
           ],
           "3": [
-            "Aromatherapy",
-            "Odor Sleuth"
+            "Aromatherapy"
           ],
           "4": [
             "Draining Kiss"
@@ -130464,6 +132246,7 @@
           "Light Screen",
           "Metronome",
           "Nasty Plot",
+          "Odor Sleuth",
           "Protect",
           "Psyshock",
           "Rain Dance",
@@ -130556,8 +132339,7 @@
             "Low Kick"
           ],
           "4": [
-            "Aromatherapy",
-            "Odor Sleuth"
+            "Aromatherapy"
           ],
           "5": [
             "Draining Kiss"
@@ -130622,6 +132404,7 @@
           "Light Screen",
           "Metronome",
           "Nasty Plot",
+          "Odor Sleuth",
           "Protect",
           "Psyshock",
           "Rain Dance",
@@ -130710,7 +132493,6 @@
             "Gust"
           ],
           "3": [
-            "Aromatherapy",
             "Odor Sleuth"
           ],
           "4": [
@@ -130868,7 +132650,6 @@
             "Karate Chop"
           ],
           "4": [
-            "Aromatherapy",
             "Odor Sleuth"
           ],
           "5": [
@@ -132689,7 +134470,8 @@
             "Charm"
           ],
           "3": [
-            "Bite"
+            "Bite",
+            "Dragon Cheer"
           ],
           "4": [
             "Dragon Tail"
@@ -132855,7 +134637,8 @@
             "Charm"
           ],
           "3": [
-            "Bite"
+            "Bite",
+            "Dragon Cheer"
           ],
           "4": [
             "Dragon Tail"
@@ -133021,7 +134804,8 @@
             "Icy Wind"
           ],
           "3": [
-            "Body Slam"
+            "Body Slam",
+            "Aurora Veil"
           ],
           "4": [
             "Aurora Beam"
@@ -133037,11 +134821,10 @@
             "Moonlight"
           ],
           "8": [
-            "Nature Power"
+            "Flash Cannon"
           ],
           "9": [
-            "Light Screen",
-            "Aurora Veil"
+            "Light Screen"
           ],
           "10": [
             "Snowscape"
@@ -133074,7 +134857,6 @@
           "Endure",
           "Facade",
           "Flash",
-          "Flash Cannon",
           "Flatter",
           "Hyper Voice",
           "Ice Beam",
@@ -133187,7 +134969,8 @@
             "Icy Wind"
           ],
           "3": [
-            "Body Slam"
+            "Body Slam",
+            "Aurora Veil"
           ],
           "4": [
             "Aurora Beam"
@@ -133207,8 +134990,7 @@
             "Nature Power"
           ],
           "10": [
-            "Reflect",
-            "Aurora Veil"
+            "Reflect"
           ],
           "11": [
             "Snowscape"
@@ -133720,10 +135502,10 @@
             "Power Gem"
           ],
           "10": [
-            "Stealth Rock"
+            "Dazzling Gleam"
           ],
           "11": [
-            "Dazzling Gleam"
+            "Stealth Rock"
           ],
           "12": [
             "Stone Edge"
@@ -134162,7 +135944,7 @@
       },
       "catchDC": 22,
       "evolves": {
-        "by": "Level 10, in rain",
+        "by": "Level 10, in rain or fog",
         "from": "Sliggoo"
       },
       "moves": {
@@ -134455,7 +136237,7 @@
       },
       "catchDC": 22,
       "evolves": {
-        "by": "Level 10, in rain",
+        "by": "Level 10, in rain or fog",
         "from": "Hisuian Sliggoo"
       },
       "moves": {
@@ -135454,7 +137236,7 @@
             "Crunch"
           ],
           "11": [
-            "Glaciate"
+            "Lunge"
           ],
           "12": [
             "Double-Edge"
@@ -137029,14 +138811,14 @@
             "Power Swap"
           ],
           "10": [
-            "Stealth Rock"
+            "Diamond Storm"
           ],
           "11": [
             "Moonblast",
             "Focus Blast"
           ],
           "12": [
-            "Diamond Storm"
+            "Stealth Rock"
           ],
           "13": [
             "Magic Room"
@@ -140297,7 +142079,7 @@
             "Shift Gear"
           ],
           "13": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "14": [
             "Electro Drift"
@@ -140306,7 +142088,7 @@
             "Double-Edge"
           ],
           "16": [
-            "Gyro Ball"
+            "Headlong Rush"
           ]
         },
         "tutor": [
@@ -140345,7 +142127,8 @@
           "Thunder Wave",
           "Thunderbolt",
           "Volt Switch",
-          "Volt Tackle"
+          "Volt Tackle",
+          "Wild Charge"
         ],
         "all": {}
       },
@@ -140942,7 +142725,7 @@
             "Hurricane"
           ],
           "15": [
-            "Victory Dance"
+            "Clangorous Soul"
           ]
         },
         "tutor": [
@@ -140980,7 +142763,8 @@
           "Swords Dance",
           "Tailwind",
           "U-Turn",
-          "Work Up"
+          "Work Up",
+          "Victory Dance"
         ],
         "all": {}
       },
@@ -141240,7 +143024,7 @@
             "Hurricane"
           ],
           "15": [
-            "Victory Dance"
+            "Aqua Step"
           ]
         },
         "tutor": [
@@ -141277,7 +143061,8 @@
           "Swords Dance",
           "Tailwind",
           "U-Turn",
-          "Work Up"
+          "Work Up",
+          "Victory Dance"
         ],
         "all": {}
       },
@@ -141388,7 +143173,7 @@
             "Hurricane"
           ],
           "15": [
-            "Victory Dance"
+            "Swords Dance"
           ]
         },
         "tutor": [
@@ -141423,10 +143208,10 @@
           "Steel Wing",
           "Substitute",
           "Sunny Day",
-          "Swords Dance",
           "Tailwind",
           "U-Turn",
-          "Work Up"
+          "Work Up",
+          "Victory Dance"
         ],
         "all": {}
       },
@@ -144276,7 +146061,8 @@
       },
       "moves": {
         "form": [
-          "Fire Lash"
+          "Fire Lash",
+          "Captivate"
         ],
         "starting": [
           "Scratch",
@@ -144335,7 +146121,6 @@
           "Attract",
           "Belch",
           "Breaking Swipe",
-          "Captivate",
           "Cross Poison",
           "Dragon Claw",
           "Dragon Dance",
@@ -146094,7 +147879,7 @@
             "Shadow Ball"
           ],
           "11": [
-            "Rock Polish"
+            "Salt Cure"
           ],
           "12": [
             "Sandstorm"
@@ -146251,7 +148036,7 @@
             "Shadow Ball"
           ],
           "12": [
-            "Rock Polish"
+            "Salt Cure"
           ],
           "13": [
             "Sandstorm"
@@ -146260,7 +148045,7 @@
             "Dream Eater"
           ],
           "15": [
-            "Draining Kiss"
+            "Bone Rush"
           ],
           "16": [
             "Iron Head"
@@ -146845,7 +148630,7 @@
           "Swift",
           "Defense Curl",
           "Rollout",
-          "Peck"
+          "Bounce"
         ],
         "levelUp": {
           "2": [
@@ -147002,7 +148787,7 @@
           "Swift",
           "Defense Curl",
           "Rollout",
-          "Peck"
+          "Bounce"
         ],
         "levelUp": {
           "2": [
@@ -147352,10 +149137,10 @@
             "Explosion"
           ],
           "14": [
-            "Powder"
+            "Burning Bulwark"
           ],
           "15": [
-            "Solar Beam"
+            "Gunk Shot"
           ],
           "16": [
             "Earth Power"
@@ -147404,6 +149189,7 @@
           "Scorching Sands",
           "Sleep Talk",
           "Snore",
+          "Solar Beam",
           "Stomping Tantrum",
           "Stone Edge",
           "Submission",
@@ -147522,7 +149308,7 @@
             "Electric Terrain"
           ],
           "13": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "14": [
             "Spiky Shield"
@@ -147582,6 +149368,7 @@
           "U-Turn",
           "Volt Switch",
           "Volt Tackle",
+          "Wild Charge",
           "Wish",
           "Work Up",
           "Zen Headbutt"
@@ -147848,13 +149635,14 @@
             "Aqua Tail"
           ],
           "10": [
-            "Dazzling Gleam"
+            "Synchronoise"
           ],
           "11": [
             "Ice Fang"
           ],
           "12": [
-            "Trick Room"
+            "Trick Room",
+            "Wave Crash"
           ],
           "13": [
             "Iron Tail"
@@ -147863,7 +149651,7 @@
             "Confuse Ray"
           ],
           "15": [
-            "Synchronoise"
+            "Dazzling Gleam"
           ],
           "16": [
             "Prismatic Laser"
@@ -147986,7 +149774,8 @@
             "Glare"
           ],
           "3": [
-            "Safeguard"
+            "Safeguard",
+            "Retaliate"
           ],
           "4": [
             "Dragon Breath"
@@ -148177,7 +149966,7 @@
             "Whirlpool"
           ],
           "9": [
-            "Strength"
+            "Energy Ball"
           ],
           "10": [
             "Heavy Slam"
@@ -148189,7 +149978,7 @@
             "Shadow Ball"
           ],
           "13": [
-            "Energy Ball"
+            "Liquidation"
           ],
           "14": [
             "Phantom Force"
@@ -148198,7 +149987,7 @@
             "Power Whip"
           ],
           "16": [
-            "Liquidation"
+            "Malignant Chain"
           ]
         },
         "tutor": [
@@ -150401,7 +152190,7 @@
       "moves": {
         "starting": [
           "Wrap",
-          "Stratagem",
+          "Ancient Power",
           "Acid",
           "Tickle"
         ],
@@ -150719,7 +152508,7 @@
       "moves": {
         "starting": [
           "Feint",
-          "Bug Bite",
+          "Pounce",
           "Vacuum Wave",
           "Leer"
         ],
@@ -150746,7 +152535,7 @@
             "Bounce"
           ],
           "8": [
-            "Triple Kick"
+            "Upper Hand"
           ],
           "9": [
             "Wild Charge"
@@ -150774,6 +152563,7 @@
           "Assurance",
           "Blizzard",
           "Brick Break",
+          "Bug Bite",
           "Close Combat",
           "Coaching",
           "Cosmic Power",
@@ -150804,7 +152594,6 @@
           "Skitter Smack",
           "Sleep Talk",
           "Snore",
-          "Stratagem",
           "Submission",
           "Substitute",
           "Swift",
@@ -152803,7 +154592,7 @@
             "Headbutt"
           ],
           "5": [
-            "Magnet Bomb"
+            "Hard Press"
           ],
           "6": false,
           "7": [
@@ -152816,7 +154605,7 @@
             "Double Iron Bash"
           ],
           "10": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "11": [
             "Superpower"
@@ -159376,7 +161165,7 @@
             {
               "oneOf": [
                 "Clanging Scales",
-                "Dragon Cheer"
+                "Psychic Noise"
               ]
             }
           ],
@@ -161858,7 +163647,7 @@
             "Bestow"
           ],
           "14": [
-            "Gyro Ball"
+            "Syrup Bomb"
           ],
           "15": [
             "Sparkly Swirl"
@@ -161989,7 +163778,8 @@
             "No Retreat"
           ],
           "6": [
-            "Endure"
+            "Endure",
+            "Smart Strike"
           ],
           "7": [
             "First Impression"
@@ -162048,7 +163838,6 @@
           "Sacred Sword",
           "Screech",
           "Sleep Talk",
-          "Smart Strike",
           "Snore",
           "Substitute",
           "Superpower",
@@ -162205,7 +163994,8 @@
           "Thunderbolt",
           "Toxic Spikes",
           "Venom Drench",
-          "Venoshock"
+          "Venoshock",
+          "Psyblade"
         ],
         "all": {}
       },
@@ -162586,7 +164376,7 @@
             "Stone Edge"
           ],
           "12": [
-            "High Jump Kick"
+            "Axe Kick"
           ],
           "13": [
             "Geomancy"
@@ -162595,7 +164385,8 @@
             "Land's Wrath"
           ],
           "15": [
-            "Solar Blade"
+            "Power Split",
+            "Guard Split"
           ]
         },
         "tutor": [
@@ -162620,7 +164411,6 @@
           "Moonlight",
           "Nature Power",
           "Power Gem",
-          "Power Split",
           "Power Swap",
           "Power Trick",
           "Power Trip",
@@ -162635,6 +164425,7 @@
           "Self-Destruct",
           "Sleep Talk",
           "Snore",
+          "Solar Blade",
           "Stomping Tantrum",
           "Strength",
           "Submission",
@@ -162708,20 +164499,22 @@
         "starting": [
           "Tackle",
           "Mist",
-          "Powder Snow"
+          "Powder Snow",
+          "Snowscape"
         ],
         "levelUp": {
           "2": [
             "Pluck"
           ],
           "3": [
-            "Snowscape"
-          ],
-          "4": [
             "Icy Wind"
           ],
-          "5": [
+          "4": [
             "Headbutt"
+          ],
+          "5": [
+            "Aurora Veil",
+            "Chilling Water"
           ],
           "6": [
             "Weather Ball"
@@ -162736,7 +164529,7 @@
             "Freeze-Dry"
           ],
           "10": [
-            "Aurora Veil"
+            "Head Smash"
           ],
           "11": [
             "Surf"
@@ -162770,7 +164563,6 @@
           "Facade",
           "Flail",
           "Giga Impact",
-          "Head Smash",
           "Hydro Pump",
           "Hyper Beam",
           "Ice Beam",
@@ -162859,20 +164651,22 @@
         "starting": [
           "Tackle",
           "Mist",
-          "Powder Snow"
+          "Powder Snow",
+          "Snowscape"
         ],
         "levelUp": {
           "2": [
             "Pluck"
           ],
           "3": [
-            "Snowscape"
-          ],
-          "4": [
             "Icy Wind"
           ],
-          "5": [
+          "4": [
             "Headbutt"
+          ],
+          "5": [
+            "Aurora Veil",
+            "Chilling Water"
           ],
           "6": [
             "Weather Ball"
@@ -162887,7 +164681,7 @@
             "Freeze-Dry"
           ],
           "10": [
-            "Aurora Veil"
+            "Head Smash"
           ],
           "11": [
             "Surf"
@@ -162921,7 +164715,6 @@
           "Facade",
           "Flail",
           "Giga Impact",
-          "Head Smash",
           "Hydro Pump",
           "Hyper Beam",
           "Ice Beam",
@@ -165840,7 +167633,7 @@
             "Meteor Beam"
           ],
           "13": [
-            "Shadow Bone"
+            "Bone Rush"
           ],
           "14": [
             "Sludge Wave"
@@ -165983,7 +167776,7 @@
             "Meteor Beam"
           ],
           "13": [
-            "Shadow Bone"
+            "Bone Rush"
           ],
           "14": [
             "Sludge Wave"
@@ -166447,7 +168240,7 @@
             "Flip Turn"
           ],
           "14": [
-            "Thunder Punch"
+            "Triple Axel"
           ],
           "15": [
             "Close Combat"
@@ -166506,6 +168299,7 @@
           "Superpower",
           "Swift",
           "Taunt",
+          "Thunder Punch",
           "U-Turn",
           "Waterfall",
           "Whirlpool",
@@ -167195,7 +168989,7 @@
             "As One"
           ],
           [
-            "As One"
+            "Yardworker"
           ]
         ]
       },
@@ -167227,7 +169021,7 @@
           ],
           "5": [
             "Psychic Terrain",
-            "Grassy Terrain"
+            "Snowscape"
           ],
           "6": [
             "Sappy Seed",
@@ -167286,8 +169080,8 @@
           "Facade",
           "Giga Impact",
           "Grass Knot",
+          "Grassy Terrain",
           "Guard Swap",
-          "Snowscape",
           "Heavy Slam",
           "Hyper Beam",
           "Ice Beam",
@@ -167389,7 +169183,7 @@
             "As One"
           ],
           [
-            "As One"
+            "Yardworker"
           ]
         ]
       },
@@ -167421,7 +169215,7 @@
           ],
           "5": [
             "Psychic Terrain",
-            "Grassy Terrain"
+            "Midnight"
           ],
           "6": [
             "Sappy Seed",
@@ -167478,6 +169272,7 @@
           "Foul Play",
           "Giga Impact",
           "Grass Knot",
+          "Grassy Terrain",
           "Guard Swap",
           "Hex",
           "Hyper Beam",
@@ -170065,7 +171860,7 @@
             "Agility"
           ],
           "13": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "14": [
             "Volt Switch"
@@ -170110,6 +171905,7 @@
           "Thunder Fang",
           "Thunderbolt",
           "Toxic",
+          "Wild Charge",
           "Wish",
           "Tera Blast"
         ],
@@ -170223,7 +172019,7 @@
             "Agility"
           ],
           "14": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "15": [
             "Mach Punch"
@@ -170271,6 +172067,7 @@
           "Thunderbolt",
           "Toxic",
           "Volt Switch",
+          "Wild Charge",
           "Wish",
           "Tera Blast"
         ],
@@ -170681,7 +172478,7 @@
             "Beat Up"
           ],
           "13": [
-            "Wake-up Slap"
+            "Wake-Up Slap"
           ],
           "14": [
             "Copycat"
@@ -171538,7 +173335,7 @@
               "oneOf": [
                 "Seed Bomb",
                 "Flip Turn",
-                "Wild Charge",
+                "Supercell Slam",
                 "Iron Head"
               ]
             }
@@ -171783,7 +173580,7 @@
             "Sandstorm"
           ],
           "11": [
-            "Heavy Slam"
+            "Superpower"
           ],
           "12": [
             "Earthquake"
@@ -171899,7 +173696,7 @@
           ],
           "5": false,
           "6": [
-            "Stomp"
+            "Brutal Swing"
           ],
           "7": [
             "Iron Defense"
@@ -173980,10 +175777,12 @@
             "Rock Climb"
           ],
           "5": [
+            "Skitter Smack",
             "Protect"
           ],
           "6": [
-            "Rock Blast"
+            "Rock Blast",
+            "Block"
           ],
           "7": [
             "X-Scissor"
@@ -175728,7 +177527,7 @@
         ],
         "all": {}
       },
-      "blurb": "<p>what’s with the new vibrant coloration?</p>\n"
+      "blurb": "<p>The vibrant red coloration seems odd for an abush predator, but in the filtered blue light undersea, it causes Wugtrio to appear brown, blending in with its rocky hideyhole. Researchers think the color helps them notice and signal to other Wugtrio when they’re not hiding in wait.</p>\n"
     }
   ],
   "bombirdier": [
@@ -175804,11 +177603,11 @@
             "Pluck"
           ],
           "4": [
-            "Whirlwind",
             "Sky Drop"
           ],
           "5": [
-            "Rock Tomb"
+            "Rock Tomb",
+            "Whirlwind"
           ],
           "6": [
             "Torment",
@@ -176263,7 +178062,7 @@
           ],
           "9": [
             "Swagger",
-            "Pursuit"
+            "Metal Sound"
           ],
           "10": [
             "Spin Out"
@@ -176272,7 +178071,8 @@
             "Noxious Torque"
           ],
           "12": [
-            "Overheat"
+            "Overheat",
+            "Pursuit"
           ],
           "13": [
             "Gunk Shot"
@@ -176281,7 +178081,8 @@
             "Accelerock"
           ],
           "15": [
-            "Extreme Speed"
+            "Extreme Speed",
+            "Explosion"
           ]
         },
         "tutor": [
@@ -176508,7 +178309,7 @@
             "Dig"
           ],
           "5": [
-            "Take Down",
+            "Headbutt",
             "Autotomize"
           ],
           "6": [
@@ -176618,7 +178419,7 @@
       "evolves": {},
       "moves": {
         "starting": [
-          "Stratagem",
+          "Ancient Power",
           "Acid Armor",
           "Acid Spray",
           "Poison Powder"
@@ -176748,7 +178549,7 @@
           "Mortal Spin"
         ],
         "starting": [
-          "Stratagem",
+          "Ancient Power",
           "Acid Armor",
           "Acid Spray",
           "Poison Powder"
@@ -177530,22 +179331,23 @@
             "Psycho Cut"
           ],
           "6": [
-            "Fillet Away"
-          ],
-          "7": [
+            "Fillet Away",
             "Recover"
           ],
-          "8": [
+          "7": [
             "Aqua Cutter"
           ],
-          "9": [
+          "8": [
             "Night Slash"
           ],
-          "10": [
+          "9": [
             "Liquidation"
           ],
-          "11": [
+          "10": [
             "Crunch"
+          ],
+          "11": [
+            "Scale Shot"
           ],
           "12": [
             "Air Cutter"
@@ -177575,7 +179377,7 @@
         ],
         "all": {}
       },
-      "blurb": "<p>what eats the spare flesh after it’s been shed?</p>\n"
+      "blurb": "<p>Underwater scavengers are particularly numerous in Veluza territory, and especially well-fed during breeding season — where Veluza shed flesh more often while competing with each other.</p>\n"
     }
   ],
   "dondozo": [
@@ -177701,7 +179503,7 @@
         ],
         "all": {}
       },
-      "blurb": "<p>doesn’t compete with the ocean whales since it’s freshwater</p>\n"
+      "blurb": "<p>doesn’t compete with the ocean whale mons since it’s freshwater</p>\n"
     }
   ],
   "tatsugiri": [
@@ -180450,7 +182252,7 @@
             "Belly Drum"
           ],
           "9": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "10": [
             "Seismic Toss"
@@ -180704,7 +182506,7 @@
             "Screech"
           ],
           "8": [
-            "Wild Charge"
+            "Supercell Slam"
           ],
           "9": [
             "Pin Missile"
@@ -180859,6 +182661,10 @@
           ],
           "17": [
             "Freeze-Dry"
+          ],
+          "18": [
+            "Iron Head",
+            "Aqua Jet"
           ]
         },
         "tutor": [

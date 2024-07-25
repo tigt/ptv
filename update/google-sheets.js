@@ -115,7 +115,7 @@ fetchedSheets.then(data => {
     const { form, starting, levelUp } = naturalMoves || {}
     const onlyTutorMoves = tutorMoves[row.Name]?.filter(move => !naturalMoves?.all?.has(move))
     const allMoves = new Set(Array.from(naturalMoves?.all || []).concat(onlyTutorMoves))
-    console.log(allMoves)
+
     for (const move of allMoves) {
       if (moveLearners[move]) {
         moveLearners[move]?.push(row.Name)
