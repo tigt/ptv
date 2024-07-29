@@ -3,6 +3,22 @@ title: Core Rules
 layout: base
 ---
 
+<style>
+  main {
+    max-width: 45em;
+  }
+
+  table {
+    border-collapse: collapse;
+    border: hidden;
+  }
+
+  th, td {
+    border: 1px solid;
+    padding: 0.2em;
+  }
+</style>
+
 ## Pokémon: Tabletop Version
 
 ### Intentional differences from the video games
@@ -75,7 +91,7 @@ Success and failure vary by the result and GM interpretation:
 - **Results far below the DC** probably fail in obvious ways, or succeed with drastic consequences.  
 - **Rolls of 1** (“natural 1”) don’t always fail, but you don’t look very cool if you pull them off.
 
-#### **Advantage and Disadvantage** {#advantage-and-disadvantage}
+#### Advantage and Disadvantage
 
 An Advantage or Disadvantage to a Check represents unusual circumstances — like improvisation, using circumstances or surroundings smartly, or thorough preparation.
 
@@ -220,8 +236,7 @@ A Trainer battle usually decides how many Pokémon to use and how much to bet be
 ## Building a Character
 
 ### 1. Concept and backstory
-
-(Steal liberally from [FATE'S character creation](https://fate-srd.com/fate-core/character-creation))  
+ 
 Create 2 **Talents**. Talents can be anything unrelated to combat that your character is particularly good at. You get [Advantage](#advantage-and-disadvantage) on Skill Checks related to a Talent. (If you think a Talent may be too broad, ask your GM.)  
 *Examples:* Swimming, Flexing, Threatening, Baking
 
@@ -270,7 +285,7 @@ To determine a character’s Battle Stats, start with 5, then add both correspon
 
 For example, if a Trainer has +3 Endurance and −1 Bluster, their Defense would be 7 (5 + 3 − 1). Most Trainers don’t intentionally enter combat, but it’s important to know just in case.
 
-#### **HP and PP** {#hp-and-pp}
+#### HP and PP
 
 **HP** (Hit Points) represents a character’s vitality and resolve, and determines how much punishment they can take. When characters reach 0 or less HP, they [Faint](#status-problems).
 
@@ -499,7 +514,7 @@ If an Underdog Pokémon evolves, it loses these Stat bonuses and Moves.
 
 Some Pokémon have special rules outside of their Abilities, Moves and Type. These rules are included in their Pokédex entry as **Pokéfeatures**.
 
-## Combat & Danger {#combat-&-danger}
+## Combat & Danger
 
 Pokémon Trainers often find themselves in conflict with other Pokémon. Combat has special rules for when and how characters act. Time during battle is counted in **Rounds**, and characters keep their decisions secret until the last second.
 
@@ -671,7 +686,7 @@ Moves that **Protect** the user prevent Moves from affecting the user, both thei
 
 When a Move is **Disabled**, it can’t be chosen and automatically fails if used somehow.
 
-###### HP Loss {#hp-loss}
+###### HP Loss
 
 If an effect says a target **loses HP**, that HP loss does not interact with any Stats, bonus damage, or Effectiveness outside of Immune.
 
@@ -770,7 +785,7 @@ Although most battles between Trainers begin with introductions, characters can 
 - If a Trainer is surprised, they must reveal their first Pokémon to the opponent, instead of using the double-blind system.  
 - If a wild Pokémon is surprised, it must reveal its first Move instead of using the double-blind system.
 
-### **Rests and Healing** {#rests-and-healing}
+### Rest and Healing
 
 Pokémon Centers restore perfect health within seconds, but you can’t always reach one. **Rest** is any period of time when characters aren’t busy with strenuous physical or mental activity. Usually rest means sleeping or relaxing, but what exactly counts is up to the GM.
 
@@ -932,7 +947,7 @@ Each Pokémon has an assigned Tera Type; unless the GM assigned a specific Tera 
 - Moves of the Tera Type with 5 or less Power become 6 Power, as long as they don’t have Multi-strike or Priority.  
 - Effects (such as those from Moves like Forest’s Curse or Abilities like Protean) can’t make a Terastallized Pokémon change their Type.
 
-## Status Problems {#status-problems}
+## Status Problems
 
 **Burned**  
 Burned characters get -15 ATK, and they lose 1 Tick of Health between rounds.  
@@ -1528,7 +1543,7 @@ If a Pokemon doesn’t respect its Trainer, it’s unreliable. There are no rule
 At the start of a disloyal Pokemon’s turn, roll d20 (if the Pokemon’s action already involves a d20 roll, like an attack roll or skill check, you can reuse it):
 
 Result | Action
------: | :-----
+-----: | :------------
     ≤5 | The Pokémon actively sabotages the battle. (Takes any form the GM decides, from self-inflicting Confusion or Sleep to targeting allies.)
   6–10 | The Pokémon makes no action.
  11–15 | The Pokémon ignores specific orders, but battles the requested target in a different way.
