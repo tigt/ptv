@@ -174,7 +174,7 @@
     "name": "Black Augurite",
     "buy": 3000,
     "sell": 1500,
-    "description": "A glassy, sharp rock that can be used up to evolve Scyther.\nThe holder is considered to be in a Sandstorm.",
+    "description": "A glassy, sharp rock that can be used up to evolve Scyther.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -342,7 +342,7 @@
     "name": "Dawn Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Catches the light like a sudden realization. Can be used up to evolve Eevee, Snorunt♀, or Kirlia♂.\nThe holder is considered to be on Psychic Terrain.",
+    "description": "Catches the light like a sudden realization. Can be used up to evolve Eevee, Snorunt♀, or Kirlia♂.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -350,7 +350,7 @@
     "name": "Deep Sea Scale",
     "buy": 2000,
     "sell": 1000,
-    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss.\nOnce per battle, the holder Resists damage that Water would.",
+    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -358,7 +358,7 @@
     "name": "Deep Sea Tooth",
     "buy": 2000,
     "sell": 1000,
-    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail.\nOnce per battle, the holder may have their Move do Water damage instead.",
+    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -406,7 +406,7 @@
     "name": "Dragon Scale",
     "buy": 2000,
     "sell": 1000,
-    "description": "A thick, unyielding scale that can be used up to evolve Seadra.\nOnce per battle, the holder may Resist damage that Dragon would.",
+    "description": "A thick, unyielding scale that can be used up to evolve Seadra.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -422,7 +422,7 @@
     "name": "Dubious Disc",
     "buy": 2000,
     "sell": 1000,
-    "description": "Can be used up to evolve Porygon2. They didn't enhance the user experience enough…\nWhen the holder joins the battle, they get Confused and Boost SATK by +10.",
+    "description": "Can be used up to evolve Porygon2. They didn't enhance the user experience enough…",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -438,7 +438,7 @@
     "name": "Dusk Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Swallows light that tries to shine through it. Can be used up to evolve Eevee, Misdreavus, Murkrow, Lampent, or Doublade.\nThe holder is considered to be in Midnight. (Critical Rates for and against the holder get +5.)",
+    "description": "Swallows light that tries to shine through it. Can be used up to evolve Eevee, Misdreavus, Murkrow, Lampent, or Doublade.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -473,10 +473,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Electririzer",
+    "name": "Electirizer",
     "buy": 2000,
     "sell": 1000,
-    "description": "An electricity-packed device that can be used up to evolve Electabuzz. \nThe holder's Electric Moves cost 1 PP less.",
+    "description": "An electricity-packed device that can be used up to evolve Electabuzz.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -530,7 +530,7 @@
     "name": "Fire Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Flickers like a burning ember. Can be used up to evolve Vulpix, Growlithe, Pansear, or Eevee.\nThe holder is considered to be in Harsh Sunlight.",
+    "description": "Flickers like a burning ember. Can be used up to evolve Vulpix, Growlithe, Pansear, or Eevee.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -599,7 +599,7 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Four-leaf Clover",
+    "name": "Fairy Feather",
     "buy": 1000,
     "sell": 500,
     "description": "The holder's Fairy Moves get +5 damage.",
@@ -642,7 +642,7 @@
     "name": "Galarica Loop",
     "buy": 6000,
     "sell": 3000,
-    "description": "Can be used up to evolve Galarian Slowpoke to Galarian Slowbro/Galarian Slowking (your choice).\nThe holder’s Poison or Psychic Moves cost 1 PP less.",
+    "description": "A ring of woven-together Galarica twigs, wearable as a cuff or a wreath. Can be used up to evolve Galarian Slowpoke to Galarian Slowbro or Galarian Slowking (your choice).",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -770,7 +770,7 @@
     "name": "Ice Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Glints like a glacier. Can be used up to evolve Eevee, Crabrawler, Alolan Sandslash, or Alolan Vulpix.\nThe holder is considered to be in Hail.",
+    "description": "Glints like a glacier. Can be used up to evolve Eevee, Crabrawler, Alolan Sandslash, or Alolan Vulpix.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -808,7 +808,7 @@
     "name": "Leaf Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Always surrounded with fresh air. Can be used up to evolve Gloom, Weepinbell, Exeggcute, Eevee, Nuzleaf, or Pansage.\nThe holder is considered to be on Grassy Terrain.",
+    "description": "Always surrounded with fresh air. Can be used up to evolve Gloom, Weepinbell, Exeggcute, Eevee, Nuzleaf, or Pansage.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -872,7 +872,7 @@
     "name": "Local Specialty",
     "buy": 300,
     "sell": 150,
-    "description": "Heals 20 HP and cures all Status Problems. Rage Candy Bars, Lava Cookies, Old Gateaux; everywhere’s got one.",
+    "description": "Heals 20 HP and cures all Status Problems. Rage Candy Bars, Old Gateaux, Sandwiches; everywhere’s got one.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -920,7 +920,7 @@
     "name": "Magmarizer",
     "buy": 2000,
     "sell": 1000,
-    "description": "A heat-packed device that can be used up to evolve Magmar. The holder’s Fire Moves cost 1 PP less. ",
+    "description": "A heat-packed device that can be used up to evolve Magmar.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1070,7 +1070,7 @@
     "name": "Moon Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Radiates X-Rays. Can be used up to evolve Nidorina, Nidoking, Jigglypuff, Clefairy, Eevee, Skitty, or Munna.\nThe holder is considered to be in moonlight.",
+    "description": "Radiates X-Rays. Can be used up to evolve Nidorina, Nidoking, Jigglypuff, Clefairy, Eevee, Skitty, or Munna.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1126,7 +1126,7 @@
     "name": "Oval Stone",
     "buy": 2000,
     "sell": 1000,
-    "description": "An egg-shaped rock that can be used up to evolve Happini.\nThe holder gets +2 SDEF and -2 ATK.",
+    "description": "An egg-shaped rock that can be used up to evolve Happini.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1142,7 +1142,7 @@
     "name": "Peat Block",
     "buy": 3000,
     "sell": 1500,
-    "description": "A muddy turf cube that can be used up to evolve Ursaring.\nThe holder ignores the effects of terrain.",
+    "description": "A muddy turf cube that can be used up to evolve Ursaring.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1242,7 +1242,7 @@
     "name": "Prism Scale",
     "buy": 2000,
     "sell": 1000,
-    "description": "A beautiful rainbow scale that can be used up to evolve Feebas.\nThe holder gets +2 to Composure checks.",
+    "description": "A beautiful rainbow scale that can be used up to evolve Feebas.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1258,7 +1258,7 @@
     "name": "Protector",
     "buy": 3000,
     "sell": 1500,
-    "description": "A stiff, heavy brace that can be used up to evolve Rhydon.\nThe holder gets +5 DEF and SDEF against Super-Effective damage.",
+    "description": "A stiff, heavy brace that can be used up to evolve Rhydon.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1330,7 +1330,7 @@
     "name": "Reaper Cloth",
     "buy": 2000,
     "sell": 1000,
-    "description": "An otherworldy shround that can be used up to evolve Dusclops.\nWhen the holder Faints a target, they heal 2 Ticks.",
+    "description": "An otherworldy shround that can be used up to evolve Dusclops.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1410,7 +1410,7 @@
     "name": "Sachet",
     "buy": 2000,
     "sell": 1000,
-    "description": "A strong-smelling stinkbag that can be used up to evolve Spritzee.\nIf held, others making contact make a DC 5 Save or become Confused. ",
+    "description": "A strong-smelling stinkbag that can be used up to evolve Spritzee.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1450,7 +1450,7 @@
     "name": "Shiny Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Glimmers with a dazzle. Can be used up to evolve Roselia, Togetic, Minccino, or Floette.\nThe holder is considered to be on Misty Terrain.",
+    "description": "Glimmers with a dazzle. Can be used up to evolve Roselia, Togetic, Minccino, or Floette.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1560,7 +1560,7 @@
     "name": "Sun Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Glows like the midday sky. Can be used up to evolve Gloom, Sunkern, Cottonee, Petilil, and Helioptile.\nThe holder ignores the effects of weather.",
+    "description": "Glows like the midday sky. Can be used up to evolve Gloom, Sunkern, Cottonee, Petilil, and Helioptile.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1576,7 +1576,7 @@
     "name": "Sweet Apple",
     "buy": 1000,
     "sell": 500,
-    "description": "Can be used up to evolve Applin into Appletun.\nThe holder can consume it to use Apple Acid.",
+    "description": "A peculiar, exceptionally sweet apple that can make Applin evolve into Appletun.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1584,7 +1584,7 @@
     "name": "Tart Apple",
     "buy": 1000,
     "sell": 500,
-    "description": "Can be used up to evolve Applin into Flapple.\nThe holder can consume it to use Grav Apple.",
+    "description": "A peculiar, exceptionally tart apple that can make Applin evolve into Flapple.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1654,7 +1654,7 @@
     "name": "Thunder Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Pulses with crackling sparks. Can be used up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, or Charjabug.\nThe holder is considered to be on Electric Terrain.",
+    "description": "Pulses with crackling sparks. Can be used up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, or Charjabug.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1717,7 +1717,7 @@
     "name": "Up-Grade",
     "buy": 2000,
     "sell": 1000,
-    "description": "A disk of minor adjustments to enhance the user experience that can be used up to evolve Porygon.\nThe holder gets +1 to each Stat.",
+    "description": "A disk of minor adjustments to enhance the user experience that can be used up to evolve Porygon.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1733,7 +1733,7 @@
     "name": "Water Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Sparkles like a sunlit stream. Can be used up to evolve Poliwhirl, Staryu, Shellder, Eevee, Lombre, or Panpour.\nThe holder is considered to be in Rain.",
+    "description": "Sparkles like a sunlit stream. Can be used up to evolve Poliwhirl, Staryu, Shellder, Eevee, Lombre, or Panpour.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1757,7 +1757,7 @@
     "name": "Whipped Dream",
     "buy": 2000,
     "sell": 1000,
-    "description": "A cloyingly-sweet treat that can be used up to evolve Swirlix.\nIf the holder makes contact with a foe, the foe makes a DC 6 Save or they must target the holder as if Follow Me had been used.",
+    "description": "A cloyingly-sweet treat that can be used up to evolve Swirlix.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1882,6 +1882,254 @@
     "buy": 4000,
     "sell": 2000,
     "description": "The holder gets +4 Accuracy targeting characters who already acted this Round.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Choice Dumpling",
+    "buy": 2400,
+    "sell": 600,
+    "description": "A dumpling that will make a Pokémon become fixated on a move in battle. The Pokémon will deal more damage when using that move but will take more damage as well.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Aux Powerguard",
+    "buy": 2400,
+    "sell": 600,
+    "description": "An item that sharply boosts the offensive and defensive stats of a Pokémon in battle. These effects disappear if the Pokémon leaves the battle. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Swap Snack",
+    "buy": 2400,
+    "sell": 600,
+    "description": "When eaten, this curious snack temporarily swaps a Pokémon's offensive stats with its defensive stats. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Twice-Spiced Radish",
+    "buy": 3200,
+    "sell": 800,
+    "description": "For the next five turns, the Pokémon takes a hard-hitting stance, which increases damage dealt by its moves (+50%). ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ball of Mud",
+    "buy": 40,
+    "sell": 10,
+    "description": "A ball of mud that has become stiff and hard. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Scatter Bang",
+    "buy": 500,
+    "sell": 125,
+    "description": "When thrown at the ground, these balls produce a loud noise and scare off low-level Pokémon in the area, sending them running. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Smoke Bomb",
+    "buy": 400,
+    "sell": 100,
+    "description": "When thrown, a Smoke Bomb creates a cloud of smoke with a wide radius that lingers for approximately 25 seconds. The player can sneak in the smoke like in tall grass, allowing them to sneak up on wild Pokémon without being noticed. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Spoiled Apricorn",
+    "buy": 40,
+    "sell": 10,
+    "description": "An Apricorn that's had its insides eaten. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Stealth Spray",
+    "buy": 800,
+    "sell": 200,
+    "description": "When used from the satchel, it silences the player's footsteps for one minute, reducing the chance of alerting wild Pokémon. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Sticky Glob",
+    "buy": 800,
+    "sell": 200,
+    "description": "A ball of some kind of sticky substance. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Hopo Berry",
+    "buy": 300,
+    "sell": 75,
+    "description": "When used from the satchel on a Pokémon, it restores the PP of one of its moves by 10. When thrown from the satchel onto a wild Pokémon, its reactions will be dulled. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Cornerstone Mask",
+    "description": "If an Ogerpon is holding a Cornerstone Mask, it changes to its Cornerstone Mask form. It increases the power of its moves by 20%. An item to be held by Ogerpon. This carved wooden mask is adorned with crystals and allows Ogerpon to wield the Rock type during battle. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Teal Mask",
+    "description": "A teal mask patterned after the face of an ogre. Ogerpon dropped it while fleeing up the stairs after visiting the Festival of Masks. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Hearthflame Mask",
+    "description": "If an Ogerpon is holding a Hearthflame Mask, it changes to its Hearthflame Mask form. It increases the power of its moves by 20%. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Wellspring Mask",
+    "description": "If an Ogerpon is holding a Wellspring Mask, it changes to its Wellspring Mask form. It increases the power of its moves by 20%. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Covert Cloak",
+    "buy": 20000,
+    "sell": 5000,
+    "description": "This hooded cloak conceals the holder, tricking the eyes of its enemies and protecting it from the additional effects of moves. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fresh-Start Mochi",
+    "buy": 300,
+    "sell": 75,
+    "description": "A mochi cake with Berries kneaded into its dough. It causes a Pokémon to lose all its base points. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Leader's Crest",
+    "buy": 3000,
+    "sell": 750,
+    "description": "A shard of what appears to be an old blade of some sort. It is held only by Bisharp that head up a group of Pawniard. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Loaded Dice",
+    "buy": 20000,
+    "sell": 5000,
+    "description": "An item to be held by a Pokémon. This loaded dice always rolls a good number, and holding one can ensure that the holder's multistrike moves hit more times. Loaded Dice causes multi-strike moves used by the holder to always hit at least four times, if possible.\n\nIt causes Triple Kick, Triple Axel, and Population Bomb used by the holder to only perform one accuracy check. It causes the holder's Population Bomb to hit four to ten times (with an even chance of each number of hits). ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Malicious Armor",
+    "buy": 6000,
+    "sell": 1500,
+    "description": "A cursed set of armor that can make Charcadet evolve into Ceruledge. Malicious will lurks within it. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Auspicious Armor",
+    "buy": 6000,
+    "sell": 1500,
+    "description": "A blessed set of armor that can make Charcadet evolve into Armarouge. Auspicious wishes live within it.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Unremarkable Teacup",
+    "buy": 1600,
+    "sell": 400,
+    "description": "Causes Counterfeit Form Poltchageist to evolve into Unremarkable Form Sinistcha upon use. It may be cracked, but tea drunk from it is delicious.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Masterpiece Teacup",
+    "buy": 38000,
+    "sell": 9500,
+    "description": "Causes Artisan Form Poltchageist to evolve into Masterpiece Form Sinistcha upon use. It may be chipped, but tea drunk from it is delicious.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Mirror Herb",
+    "buy": 30000,
+    "sell": 7500,
+    "description": "Just after an opponent has a stat increase, the holder consumes the Mirror Herb and gets the same stat increase. If multiple stats of the opponent are increased at once, all the stat increases are copied.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Punching Glove",
+    "buy": 15000,
+    "sell": 3750,
+    "description": "Punching Glove increases the power of punching moves by 10% and prevents contact with targets done by those moves. This item's effect additionally stacks with Iron Fist.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Scroll of Darkness",
+    "description": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of darkness. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Scroll of Waters",
+    "description": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of water. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Tera Shard",
+    "buy": 6000,
+    "sell": 1500,
+    "description": "50 of these can be used to change a Pokémon’s Tera Type. On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters. ",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Syrupy Apple",
+    "buy": 2200,
+    "sell": 550,
+    "description": "A peculiar, exceptionally syrupy apple that can make Applin evolve into Dipplin.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Tera Orb",
+    "description": "An orb that holds within it the power to crystallize. When it is charged with energy, it can be used to cause Pokémon to Terastallize. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Ability Shield",
+    "buy": 20000,
+    "sell": 10000,
+    "description": "This cute and rather unique-looking shield protects the holder from having its Ability changed or suppressed, and protects the holder from effects that ignore Abilities.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Booster Energy",
+    "description": "The energy that fills this capsule boosts the strength of the Pokémon. If held by a Pokémon with the Ability Protosynthesis when harsh sunlight is not active, or Quark Drive when Electric Terrain is not active, Booster Energy activates the Pokémon's Ability (being consumed in the process).",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Clear Amulet",
+    "buy": 30000,
+    "sell": 7500,
+    "description": "This clear, sparkling amulet protects the holder from having its Stats Dropped by others.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   }

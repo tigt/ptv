@@ -79159,7 +79159,7 @@
         ],
         "level5": [
           [
-            "Petrificate"
+            "Primordial Sea"
           ],
           [
             "Solid Rock"
@@ -114173,7 +114173,7 @@
           ],
           "3": [
             "Hidden Power",
-            "Snatch"
+            "Hold Hands"
           ],
           "4": false,
           "5": [
@@ -165287,13 +165287,14 @@
             "Gyro Ball"
           ],
           "3": [
-            "Dig"
+            "Dig",
+            "Rock Smash"
           ],
           "4": [
             "Stomp"
           ],
           "5": [
-            "Rock Smash"
+            "Bullet Seed"
           ],
           "6": [
             "Bulldoze"
@@ -165443,13 +165444,14 @@
             "Metal Claw"
           ],
           "3": [
-            "Dig"
+            "Dig",
+            "Rock Smash"
           ],
           "4": [
             "Stomp"
           ],
           "5": [
-            "Rock Smash"
+            "Bullet Seed"
           ],
           "6": [
             "Bulldoze"
@@ -166066,7 +166068,7 @@
           "Ancient Power",
           "Water Gun",
           "Protect",
-          "Power Snow"
+          "Powder Snow"
         ],
         "levelUp": {
           "2": [

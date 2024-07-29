@@ -60,14 +60,7 @@ fetchedSheets.then(data => {
     sellIsNumeric: isFinite(+row.Sell)
   })))
 
-  writeJson('abilities', data['Abilities'].map(function (row) {
-    return {
-      name: row.Ability,
-      bonusStats: row['Bonus Stats'],
-      description: row.Description && markdown(row.Description)
-    };
-  }))
-
+  const abilityHavers = {}
   const moveLearners = {}
   const movesets = Object.fromEntries(data['Movesets'].map(movesetsMapper))
   const tutorMoves = Object.fromEntries(data["'Tutor Matrix'"].map(tutorMatrixMapper))
@@ -99,6 +92,15 @@ fetchedSheets.then(data => {
     }
   }))
 
+  writeJson('abilities', data['Abilities'].map(function (row) {
+    return {
+      name: row.Ability,
+      bonusStats: row['Bonus Stats'],
+      description: row.Description && markdown(row.Description),
+      usedBy: abilityHavers[row.Ability]
+    }
+  }))
+
   function getBaseForm (name, dex) {
     if (name === '...?') { return dex['Luvdisc'] }
     const mon = dex[name]
@@ -111,6 +113,7 @@ fetchedSheets.then(data => {
 
   function dexMapper (row, tutorMoves, movesets, dexBlurbs) {
     const blurb = dexBlurbs[row.Name]
+    
     const naturalMoves = movesets[row.Name]
     const { form, starting, levelUp } = naturalMoves || {}
     const onlyTutorMoves = tutorMoves[row.Name]?.filter(move => !naturalMoves?.all?.has(move))
@@ -120,7 +123,18 @@ fetchedSheets.then(data => {
       if (moveLearners[move]) {
         moveLearners[move]?.push(row.Name)
       } else {
-        moveLearners[move] = []
+        moveLearners[move] = [row.Name]
+      }
+    }
+
+    const startAbilities = parseAbilities(row['Ability 1'], row['Ability 2'])
+    const level5Abilities = parseAbilities(row['Ability 3'], row['Ability 4'], row['Ability 5'])
+    for (const ability of [...startAbilities, ...level5Abilities]) {
+      if (abilityHavers[ability]) {
+        // TODO: “Entry:” abilities
+        abilityHavers[ability]?.push(row.Name)
+      } else {
+        abilityHavers[ability] = [row.Name]
       }
     }
   
@@ -139,8 +153,8 @@ fetchedSheets.then(data => {
         weight: row.Weight,
         eggGroups: [row['Egg 1'], row['Egg 2']].filter(Boolean),
         abilities: {
-          start: parseAbilities(row['Ability 1'], row['Ability 2']),
-          level5: parseAbilities(row['Ability 3'], row['Ability 4'], row['Ability 5'])
+          start: startAbilities,
+          level5: level5Abilities 
         },
         catchDC: +row['◓ DC'],
         evolves: { by: row['Evolves By'], from: row['Evolves From'] },
@@ -153,18 +167,18 @@ fetchedSheets.then(data => {
         },
         blurb: blurb && markdown(blurb)
       }]
-  
-    // some ability slots have multiple choices, usually based on gender or forme, so this returns an array of arrays
-    function parseAbilities (...strs) {
-      return strs.filter(Boolean)
-        .map(str =>
-          str.split(/\//g)
-            .map(s => s.trim())
-            .map(s => s.startsWith('Entry: ') ? { Entry: s.replace('Entry: ', '') }: s)
-        )
-    }
   }
 })
+
+// some ability slots have multiple choices, usually based on gender or forme, so this returns an array of arrays
+function parseAbilities (...strs) {
+  return strs.filter(Boolean)
+    .map(str =>
+      str.split(/\//g)
+        .map(s => s.trim())
+        .map(s => s.startsWith('Entry: ') ? { Entry: s.replace('Entry: ', '') } : s)
+    )
+}
 
 function movesetsMapper (row) {
   const levelUpEntries = Object.entries(row).filter(([name]) => name.startsWith('Level'))

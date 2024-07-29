@@ -19,7 +19,11 @@ title: Abilities
   }
 
   p {
-    margin: 0.6em;
+    margin: 0.6em 0;
+  }
+
+  .ability_usedBy {
+    font-size: smaller;
   }
 </style>
 
@@ -36,6 +40,10 @@ title: Abilities
         {{/if}}
 
         <dd class="ability_desc">{{{description}}}
+
+        {{#if usedBy}}
+          <dd class="ability_usedBy">Found on: {{#each usedBy}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}
+        {{/if}}
       </div>
     {{/abilities}}
   </dl>
