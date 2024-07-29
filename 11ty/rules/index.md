@@ -1542,12 +1542,14 @@ If a Pokemon doesn’t respect its Trainer, it’s unreliable. There are no rule
 
 At the start of a disloyal Pokemon’s turn, roll d20 (if the Pokemon’s action already involves a d20 roll, like an attack roll or skill check, you can reuse it):
 
-Result | Action
------: | :------------
-    ≤5 | The Pokémon actively sabotages the battle. (Takes any form the GM decides, from self-inflicting Confusion or Sleep to targeting allies.)
-  6–10 | The Pokémon makes no action.
- 11–15 | The Pokémon ignores specific orders, but battles the requested target in a different way.
-   ≥16 | The Pokémon acts as requested.
+<table>
+<thead><tr><th>Result<th>Action
+<tbody>
+<tr><th>≤5<td>The Pokémon actively sabotages the battle. (Takes any form the GM decides, from self-inflicting Confusion or Sleep to targeting allies.)
+<tr><th>6–10<td>The Pokémon makes no action.
+<tr><th>11–15<td>The Pokémon ignores specific orders, but battles the requested target in a different way.
+<tr><th>≥16<td>The Pokémon acts as requested.
+</table>
 
 ### Building Encounters
 
@@ -1556,8 +1558,8 @@ There is no guaranteed formula for fairness; a battle’s difficulty relies on l
 When building an encounter with a Level Budget, add your Players’ Levels together, then multiply that total by how many Pokemon you want them to each use. The result is how many total enemy Levels to pit against the players.
 
 As an example, say you have three Level 2 players and you want them to use 2 Pokemon each:  
-2<sub>Player 1’s level</sub> + 2<sub>Player 2’s level</sub> + 2<sub>Player 3’s level</sub> = 6<sub>total Player levels</sub>  
-6<sub>total Player levels</sub> × 2<sub>Pokémon used</sub> = 12
+<math>2<sub>Player 1’s level</sub> + 2<sub>Player 2’s level</sub> + 2<sub>Player 3’s level</sub> = 6<sub>total Player levels</sub>  
+6<sub>total Player levels</sub> × 2<sub>Pokémon used</sub> = 12</math>
 
 With this Level Budget of 12, you can make:
 
