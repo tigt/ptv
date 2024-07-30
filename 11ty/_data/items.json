@@ -350,7 +350,7 @@
     "name": "Deep Sea Scale",
     "buy": 2000,
     "sell": 1000,
-    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss.",
+    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss. Clamperl holding this item also get +10 Stealth.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -358,7 +358,7 @@
     "name": "Deep Sea Tooth",
     "buy": 2000,
     "sell": 1000,
-    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail.",
+    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail. Clamperl holding this item also get +10 Focus.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -530,7 +530,7 @@
     "name": "Fire Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Flickers like a burning ember. Can be used up to evolve Vulpix, Growlithe, Pansear, or Eevee.",
+    "description": "Flickers like a burning ember. Can be used up to evolve Vulpix, Growlithe, Pansear, Capsakid, or Eevee.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -770,7 +770,7 @@
     "name": "Ice Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Glints like a glacier. Can be used up to evolve Eevee, Crabrawler, Alolan Sandslash, or Alolan Vulpix.",
+    "description": "Glints like a glacier. Can be used up to evolve Eevee, Crabrawler, Alolan Sandslash, Alolan Vulpix, Galarian Darumaka, or Cetoddle.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1654,7 +1654,7 @@
     "name": "Thunder Stone",
     "buy": 3000,
     "sell": 1500,
-    "description": "Pulses with crackling sparks. Can be used up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, or Charjabug.",
+    "description": "Pulses with crackling sparks. Can be used up to evolve Pikachu, Magneton, Eevee, Nosepass, Eelektrik, Charjabug, or Tadbulb.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

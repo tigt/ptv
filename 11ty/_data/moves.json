@@ -17951,6 +17951,7 @@
     "power": 20,
     "pp": 5,
     "accuracy": 1,
+    "range": "Ranged",
     "description": "<p>This turn: Gathers electricity to Boost the user’s SATK by +5. Next turn: Fires a high-voltage beam at the target. In Rain, attacks on the first turn.</p>\n",
     "learnedBy": [
       "Archaludon"
