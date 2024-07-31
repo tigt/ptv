@@ -4097,7 +4097,7 @@
   {
     "name": "Pickup",
     "bonusStats": "+2 SDEF",
-    "description": "<p>If another character consumes or drops an item (including via Fling or Natural Gift) and the user can hold that item, the user restores the item and picks it up. If multiple characters have Pickup, the highest SPE gets the item.</p>\n<p>Once per day, <a href=\"https://ptv.ti.gt/abilities/pickup/\">roll d20 and see what you find</a>.</p>\n",
+    "description": "<p>If another character consumes or drops an item (including via Fling or Natural Gift) and the user can hold that item, the user restores the item and picks it up. If multiple characters have Pickup, the highest SPE gets the item.</p>\n<p>Once per day, <a href=\"https://ptv.ti.gt/pickup/\">roll d20 and see what you find</a>.</p>\n",
     "usedBy": [
       "Meowth",
       "Alolan Meowth",

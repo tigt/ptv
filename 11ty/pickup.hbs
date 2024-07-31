@@ -1,0 +1,72 @@
+---
+title: Pickup table
+layout: base
+data: items
+---
+
+<style>
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+table {
+  border-collapse: collapse;
+  border: hidden;
+}
+
+th, td {
+  border: 1px solid;
+  padding: 0.2em;
+}
+
+.roll-widget[hidden],
+.rolled[hidden] {
+  display: inline-block !important;
+  visibility: hidden;
+}
+
+tr:target {
+  outline: 2px dashed;
+  scroll-margin: 45vh;
+}
+</style>
+
+<h1>Pickup results table</h1>
+
+<p>When you use <a href="/abilities/#pickup">the Pickup Ability</a>, roll two d20’s and add them together, then look the total up on this table to see what you find.</p>
+
+<form class="roll-widget" hidden>
+<p><button class="rollme" type="button">Roll on this table for me!</button> <label class="rolled" hidden>Result:&nbsp;<output></output></label>
+</form>
+
+<table>
+  <thead><tr><th>Roll<th>What you find
+  <tbody>
+{{#pickup}}
+<tr id="roll-{{roll}}">
+  <th>{{roll}}
+  <td>{{item}}
+{{/pickup}}
+</table>
+
+<script>
+var btn = document.querySelector('.rollme')
+var out = document.querySelector('.rolled')
+
+function d20 () {
+  return Math.floor(Math.random() * 20) + 1
+}
+
+function rollOnTable () {
+  var result = d20() + d20()
+  var fragment = `#roll-${result}`
+  out.firstElementChild.innerHTML = `<a href="${fragment}">${result}</a>`
+  out.hidden = false
+  location.hash = fragment
+}
+
+btn.addEventListener('click', rollOnTable)
+
+document.querySelector('.roll-widget').hidden = false
+</script>

@@ -1,0 +1,158 @@
+[
+  {
+    "roll": 2,
+    "item": "An angry Pokémon that fits the terrain (like Voltorb, Amoongus, Galarian Stunfisk)"
+  },
+  {
+    "roll": 3,
+    "item": "Ring Target, Iron Ball, Sticky Barb, Flame Orb, Toxic Orb, or Lagging Tail"
+  },
+  {
+    "roll": 4,
+    "item": "Pretty Feather"
+  },
+  {
+    "roll": 5,
+    "item": "Sweet Honey"
+  },
+  {
+    "roll": 6,
+    "item": "Heart Scale"
+  },
+  {
+    "roll": 7,
+    "item": "Big Root"
+  },
+  {
+    "roll": 8,
+    "item": "Electric Seed, Psychic Seed, Grassy Seed, or Misty Seed (depending on terrain)"
+  },
+  {
+    "roll": 9,
+    "item": "Damp Rock, Heat Rock, Icy Rock, or Smooth Rock (depending on terrain)"
+  },
+  {
+    "roll": 10,
+    "item": "Luminous Moss, Snowball, Absorb Bulb, or Cell Battery (depending on terrain)"
+  },
+  {
+    "roll": 11,
+    "item": "Poké Doll"
+  },
+  {
+    "roll": 12,
+    "item": "Shed Shell"
+  },
+  {
+    "roll": 13,
+    "item": "Mirror Herb"
+  },
+  {
+    "roll": 14,
+    "item": "Power Herb"
+  },
+  {
+    "roll": 15,
+    "item": "White Herb"
+  },
+  {
+    "roll": 16,
+    "item": "Mental Herb"
+  },
+  {
+    "roll": 17,
+    "item": "Poké Ball"
+  },
+  {
+    "roll": 18,
+    "item": "Super Potion"
+  },
+  {
+    "roll": 19,
+    "item": "Big Mushroom"
+  },
+  {
+    "roll": 20,
+    "item": "Mushroom"
+  },
+  {
+    "roll": 21,
+    "item": "Berry of GM’s choice"
+  },
+  {
+    "roll": 22,
+    "item": "Type Gem that fits the Terrain"
+  },
+  {
+    "roll": 23,
+    "item": "X-Item of GM’s choice"
+  },
+  {
+    "roll": 24,
+    "item": "Revive"
+  },
+  {
+    "roll": 25,
+    "item": "Ultra Ball"
+  },
+  {
+    "roll": 26,
+    "item": "Hyper Potion"
+  },
+  {
+    "roll": 27,
+    "item": "Ether"
+  },
+  {
+    "roll": 28,
+    "item": "Nugget"
+  },
+  {
+    "roll": 29,
+    "item": "Eviolite"
+  },
+  {
+    "roll": 30,
+    "item": "A vitamin of GM’s choice"
+  },
+  {
+    "roll": 31,
+    "item": "An item that evolves Pokémon that fits the terrain"
+  },
+  {
+    "roll": 32,
+    "item": "Max Revive"
+  },
+  {
+    "roll": 33,
+    "item": "A Type-Boosting item that fits the terrain (Charcoal, Mirror Coat, etc.)"
+  },
+  {
+    "roll": 34,
+    "item": "Random Type Plate"
+  },
+  {
+    "roll": 35,
+    "item": "Max Ether"
+  },
+  {
+    "roll": 36,
+    "item": "Rare Candy"
+  },
+  {
+    "roll": 37,
+    "item": "Leftovers"
+  },
+  {
+    "roll": 38,
+    "item": "A TM that fits the terrain"
+  },
+  {
+    "roll": 39,
+    "item": "A fossil of GM’s choice"
+  },
+  {
+    "roll": 40,
+    "item": "Roll again twice and get both results"
+  }
+]

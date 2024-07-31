@@ -29,7 +29,7 @@ const params = new URLSearchParams({
   valueRenderOption: 'UNFORMATTED_VALUE',
   prettyPrint: false
 })
-for (const name of ['Pokemon', 'Abilities', 'Moves', 'Movesets', 'Items', 'Tutor Matrix', 'Dex']) {
+for (const name of ['Pokemon', 'Abilities', 'Moves', 'Movesets', 'Items', 'Tutor Matrix', 'Dex', 'Pickup']) {
   params.append('ranges', name)
 }
 
@@ -58,6 +58,11 @@ fetchedSheets.then(data => {
     description: row.Description,
     buyIsNumeric: isFinite(+row.Buy),
     sellIsNumeric: isFinite(+row.Sell)
+  })))
+
+  writeJson('pickup', data['Pickup'].map(row => ({
+    roll: row.Roll,
+    item: row['Item found']
   })))
 
   const abilityHavers = {}

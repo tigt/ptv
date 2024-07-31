@@ -1607,14 +1607,14 @@
   {
     "name": "Technical Machine",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Costs $4 × (500 + (500×PP Cost)) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Costs ₽4 × (500 + (500×PP Cost)) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
   {
     "name": "Technical Record",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Destroyed upon use. Costs $500 + (500×PP Cost) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Destroyed upon use. Costs ₽500 + (500×PP Cost) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -1638,7 +1638,7 @@
     "name": "Thick Club",
     "buy": 1000,
     "sell": 500,
-    "description": "Marowak gets +10 ATK when holding this.",
+    "description": "Cubone and Marowak get +10 ATK when holding this.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2001,23 +2001,7 @@
     "name": "Covert Cloak",
     "buy": 20000,
     "sell": 5000,
-    "description": "This hooded cloak conceals the holder, tricking the eyes of its enemies and protecting it from the additional effects of moves. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Fresh-Start Mochi",
-    "buy": 300,
-    "sell": 75,
-    "description": "A mochi cake with Berries kneaded into its dough. It causes a Pokémon to lose all its base points. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Leader's Crest",
-    "buy": 3000,
-    "sell": 750,
-    "description": "A shard of what appears to be an old blade of some sort. It is held only by Bisharp that head up a group of Pawniard. ",
+    "description": "This hooded cloak conceals the holder, tricking the eyes of its enemies and protecting it from the additional effects of Moves.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2030,38 +2014,6 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Malicious Armor",
-    "buy": 6000,
-    "sell": 1500,
-    "description": "A cursed set of armor that can make Charcadet evolve into Ceruledge. Malicious will lurks within it. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Auspicious Armor",
-    "buy": 6000,
-    "sell": 1500,
-    "description": "A blessed set of armor that can make Charcadet evolve into Armarouge. Auspicious wishes live within it.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Unremarkable Teacup",
-    "buy": 1600,
-    "sell": 400,
-    "description": "Causes Counterfeit Form Poltchageist to evolve into Unremarkable Form Sinistcha upon use. It may be cracked, but tea drunk from it is delicious.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Masterpiece Teacup",
-    "buy": 38000,
-    "sell": 9500,
-    "description": "Causes Artisan Form Poltchageist to evolve into Masterpiece Form Sinistcha upon use. It may be chipped, but tea drunk from it is delicious.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
     "name": "Mirror Herb",
     "buy": 30000,
     "sell": 7500,
@@ -2070,38 +2022,10 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Punching Glove",
-    "buy": 15000,
-    "sell": 3750,
-    "description": "Punching Glove increases the power of punching moves by 10% and prevents contact with targets done by those moves. This item's effect additionally stacks with Iron Fist.",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Scroll of Darkness",
-    "description": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of darkness. ",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
-    "name": "Scroll of Waters",
-    "description": "A peculiar scroll that can make a certain species of Pokémon evolve. Written upon it are the true secrets of the path of water. ",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
     "name": "Tera Shard",
     "buy": 6000,
     "sell": 1500,
-    "description": "50 of these can be used to change a Pokémon’s Tera Type. On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Syrupy Apple",
-    "buy": 2200,
-    "sell": 550,
-    "description": "A peculiar, exceptionally syrupy apple that can make Applin evolve into Dipplin.",
+    "description": "50 of these can be used to change a Pokémon’s Tera Type. These shards may form when a Tera Pokémon faints and its Tera Jewel shatters. ",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2120,16 +2044,116 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Booster Energy",
-    "description": "The energy that fills this capsule boosts the strength of the Pokémon. If held by a Pokémon with the Ability Protosynthesis when harsh sunlight is not active, or Quark Drive when Electric Terrain is not active, Booster Energy activates the Pokémon's Ability (being consumed in the process).",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
     "name": "Clear Amulet",
     "buy": 30000,
     "sell": 7500,
     "description": "This clear, sparkling amulet protects the holder from having its Stats Dropped by others.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Punching Glove",
+    "buy": 15000,
+    "sell": 3750,
+    "description": "The holder's Moves with “Punch”, “Fist”, or \"Hammer\" in their name, Double Iron Bash, Meteor Mash, Sky Uppercut, Surging Strikes, and Wicked Blow get +7 damage and ignore effects that trigger on Contact with targets.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Booster Energy",
+    "description": "A capsule filled with energy. When held by Pokémon with Protosynthesis or Quark Drive, can be used up to activate those Abilities if their corresponding conditions aren’t present.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Leader's Crest",
+    "buy": 3000,
+    "sell": 750,
+    "description": "A shard of what seems to be some kind of old blade. Can be used up to evolve Bisharp into Kingambit.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Old Teapot",
+    "buy": 1600,
+    "sell": 400,
+    "description": "Can be consumed to evolve Sinistea into Polteageist. It may be old, but tea poured from it is delicious.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Old Teacup",
+    "buy": 1600,
+    "sell": 400,
+    "description": "Can be consumed to evolve Poltchageist into Sinistcha. It may be old, but tea drunk from it is delicious.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Fresh-Start Mochi",
+    "buy": 300,
+    "sell": 75,
+    "description": "A mochi cake with Berries kneaded into its dough. Eating it lets a Pokémon redistribute its Level-up Points.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Malicious Armor",
+    "buy": 6000,
+    "sell": 1500,
+    "description": "A cursed set of armor that can make Charcadet evolve into Ceruledge. Malicious will lurks within it — maybe from the Sinistea chips it’s made of?",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Auspicious Armor",
+    "buy": 6000,
+    "sell": 1500,
+    "description": "A blessed set of armor that can make Charcadet evolve into Armarouge. Auspicious wishes live within it — maybe from the Bronzor fragments it’s made of?",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Scroll of Darkness",
+    "description": "A peculiar scroll that can make Kubfu evolve into Urshifu (Single Strike). Written upon it are the true secrets of the path of darkness. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Scroll of Waters",
+    "description": "A peculiar scroll that can make Kubfu evolve into Urshifu (Rapid Strike). Written upon it are the true secrets of the path of water. ",
+    "buyIsNumeric": false,
+    "sellIsNumeric": false
+  },
+  {
+    "name": "Syrupy Apple",
+    "buy": 2200,
+    "sell": 550,
+    "description": "A peculiar, exceptionally syrupy apple that can make Applin evolve into Dipplin.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Metal Powder",
+    "buy": 2000,
+    "sell": 500,
+    "description": "Extremely fine yet hard, this odd powder gives an untransformed Ditto's Endurance and Stealth +10 each when held.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Quick Powder",
+    "buy": 2000,
+    "sell": 500,
+    "description": "Extremely fine yet hard, this odd powder gives an untransformed Ditto's Acrobatics +10 when held.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Lucky Punch",
+    "buy": 2000,
+    "sell": 500,
+    "description": "This lucky boxing glove on a spring gives Chansey +10 Crit Rate when held.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   }
