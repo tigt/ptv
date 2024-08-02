@@ -48017,7 +48017,12 @@
             "Shed Tail"
           ]
         },
-        "tutor": [],
+        "tutor": [
+          "Counter",
+          "Destiny Bond",
+          "Mirror Coat",
+          "Safeguard"
+        ],
         "all": {}
       },
       "blurb": "<p>Wynaut toys were once intensely popular, always getting back up no matter how many times you pushed them over. After children tried this on real Wynauts, the toy was banned.</p>\n"
