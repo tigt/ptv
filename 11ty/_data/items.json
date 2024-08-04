@@ -236,7 +236,7 @@
   },
   {
     "name": "Bright Powder",
-    "buy": 400,
+    "buy": 4000,
     "sell": 2000,
     "description": "The holder gets +2 Evasion from its glittery glare.",
     "buyIsNumeric": true,
@@ -350,7 +350,7 @@
     "name": "Deep Sea Scale",
     "buy": 2000,
     "sell": 1000,
-    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss. Clamperl holding this item also get +10 Stealth.",
+    "description": "A faint pink fishscale that can be used up to evolve Clamperl into Gorebyss. Clamperl holding this item also get a Stealth bonus equal to their Level.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -358,7 +358,7 @@
     "name": "Deep Sea Tooth",
     "buy": 2000,
     "sell": 1000,
-    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail. Clamperl holding this item also get +10 Focus.",
+    "description": "A sharp silver fang that can be used up to evolve Clamperl into Huntail. Clamperl holding this item also get a Focus bonus equal to their Level.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1638,7 +1638,7 @@
     "name": "Thick Club",
     "buy": 1000,
     "sell": 500,
-    "description": "Cubone and Marowak get +10 ATK when holding this.",
+    "description": "Cubone and Marowak get an Intensity bonus equal to their Level while holding this.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1694,7 +1694,7 @@
     "name": "Type Memory",
     "buy": 1000,
     "sell": 500,
-    "description": "Activates RKS System and changes Multi-Attack's Type to the Memory's Type. Acts as a Technical Record for any Move matching the Memory's Type.",
+    "description": "Activates RKS System and changes Multi-Attack's Type to the Memory's Type.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
