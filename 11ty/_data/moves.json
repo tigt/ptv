@@ -10527,7 +10527,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Axle breaks into the ground in a massive prehistoric explosion. Gets +6 Power if it’s super-effective.</p>\n",
+    "description": "<p>Axle breaks into the ground in a massive prehistoric explosion. Gets +5 Power if it’s super-effective.</p>\n",
     "zEffect": 60,
     "learnedBy": [
       "Quilladin",
@@ -17937,7 +17937,7 @@
     "pp": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Races at ultrafast speeds to pierce with futuristic electricity. Power is boosted more than usual if it’s super-effective.</p>\n",
+    "description": "<p>Races at ultrafast speeds to pierce with futuristic electricity. Gets +5 Power when super-effective.</p>\n",
     "zEffect": 60,
     "learnedBy": [
       "Voltorb",
