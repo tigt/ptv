@@ -193,8 +193,6 @@ Each character has 5 Physical Skills and another 5 Social Skills. These skills a
 
 **Social Skills** represent how characters interact with others.
 
-A high rank in a Social Skill doesn’t have to mean the character appears that way. Characters with high Bluster can be frail, but value grit and won’t back down from hardship. Characters with high Composure may be homely, but excel at determining the wants and feelings of others.
-
 #### Intensity
 
 Characters with high **Intensity** aim to inspire or rouse others, and are fiercely passionate about ideals and convictions.
