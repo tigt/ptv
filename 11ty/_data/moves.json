@@ -7843,7 +7843,7 @@
     "type": "Water",
     "kind": "Special",
     "power": 2,
-    "ap": 3,
+    "ap": 0,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
     "description": "<p>On 16+, Drops SPE by -5. A spray of sticky bubbles.</p>\n",
