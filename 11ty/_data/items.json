@@ -334,7 +334,7 @@
     "name": "Cooking Pot",
     "buy": 5000,
     "sell": 2500,
-    "description": "A campfire cauldron for the whole party! During a Rest, each Trainer consumes one berry to restore 3 PP and get +3 Max PP until their next Rest.",
+    "description": "A campfire cauldron for the whole party! During a Rest, each Trainer consumes one berry to restore 3 AP and get +3 Max AP until their next Rest.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -482,7 +482,7 @@
   },
   {
     "name": "Elixir",
-    "description": "Restores 6 PP. The best energy drink money can't buy.",
+    "description": "Restores 6 AP. The best energy drink money can't buy.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -498,7 +498,7 @@
     "name": "Ether",
     "buy": 1200,
     "sell": 600,
-    "description": "Restores 3 PP. The best energy drink money can buy.",
+    "description": "Restores 3 AP. The best energy drink money can buy.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -950,7 +950,7 @@
     "name": "Max Ether",
     "buy": 2000,
     "sell": 1000,
-    "description": "Restores all PP.",
+    "description": "Restores all AP.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -990,7 +990,7 @@
     "name": "Medical Kit",
     "buy": 10000,
     "sell": 5000,
-    "description": "Can spend 1.5× their buying price to craft any non-Berry item that restores HP, PP, or Status during Rests. The best defense is a good bandage.",
+    "description": "Can spend 1.5× their buying price to craft any non-Berry item that restores HP, AP, or Status during Rests. The best defense is a good bandage.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1223,18 +1223,18 @@
     "sellIsNumeric": true
   },
   {
-    "name": "PP Max",
+    "name": "AP Max",
     "buy": 10000,
     "sell": 5000,
-    "description": "Increases Max PP by 1.",
+    "description": "Increases Max AP by 1.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
   {
-    "name": "PP Up",
+    "name": "AP Up",
     "buy": 10000,
     "sell": 5000,
-    "description": "Lowers the PP cost of a Move by 1. Does not stack on the same Move.",
+    "description": "Lowers the AP cost of a Move by 1. Does not stack on the same Move.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1607,14 +1607,14 @@
   {
     "name": "Technical Machine",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Costs ₽4 × (500 + (500×PP Cost)) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Is not destroyed upon use. Costs ₽4 × (500 + (500×AP Cost)) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
   {
     "name": "Technical Record",
     "buy": "See desc.",
-    "description": "Teaches a Pokemon a Move. Destroyed upon use. Costs ₽500 + (500×PP Cost) to buy from a standard vendor.",
+    "description": "Teaches a Pokemon a Move. Destroyed upon use. Costs ₽500 + (500×AP Cost) to buy from a standard vendor.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -1969,7 +1969,7 @@
     "name": "Hopo Berry",
     "buy": 300,
     "sell": 75,
-    "description": "When used from the satchel on a Pokémon, it restores the PP of one of its moves by 10. When thrown from the satchel onto a wild Pokémon, its reactions will be dulled. ",
+    "description": "When used from the satchel on a Pokémon, it restores the AP of one of its moves by 10. When thrown from the satchel onto a wild Pokémon, its reactions will be dulled. ",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },

@@ -22,7 +22,7 @@ Well, for starters, it’s [a tabletop role-playing game](https://en.wikipedia.o
 
 - Additive instead of multiplicative math, so the numbers don’t match exactly but we try to make them feel about the same.
 - Each Pokémon can have a Bonus Move: a 5th move slot filled by their Trainer’s Class(es).
-- PP now works more like an MP bar for each character.
+- PP has been replaced with AP, which works as more of a spendable resource each character has instead of tracking usage of each Move.
 - New Moves added (not many).
 - New Abilities added (many).
 - Lackluster Abilities got “Bonus Stats” to make them more worth choosing, which increase the user’s Stats just by having those Abilities.
@@ -51,7 +51,7 @@ PO focuses on tabletop gameplay, with mechanics inspired by but not working like
 <summary>Dev stuff</summary>
 
 - [Credits](./credits/)
-- [Dobbers’s PP costing sheet](https://docs.google.com/spreadsheets/d/1hyCeExbdkwMI6tqha9i9zTl1tXyttNwo2tehlj3XdSA/edit)
+- [Dobbers’s AP costing sheet](https://docs.google.com/spreadsheets/d/1hyCeExbdkwMI6tqha9i9zTl1tXyttNwo2tehlj3XdSA/edit)
 - [Regional Variant Maker sheet](https://docs.google.com/spreadsheets/d/1xrKBWtvrcRv5iTXZXkrkokW3mvxjTE11qggt690lmzM/edit?usp=sharing)
 
 </details>

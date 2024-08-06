@@ -87,7 +87,7 @@ fetchedSheets.then(data => {
       type: row.Type,
       kind: row.Kind,
       power: row.Power,
-      pp: row.PP,
+      ap: row.AP,
       accuracy: row.Accuracy,
       range: row.Range,
       description: row.Description && markdown(row.Description),
