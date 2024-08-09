@@ -1,14 +1,8 @@
-const { minify } = require("html-minifier");
+const { minify } = require("html-minifier")
+const slugify = require('./update/slugify.js')
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addFilter('slugify', input => {
-    return input?.normalize()
-      .trim()
-      .toLowerCase()
-      .replace(/[():%]/g, '')
-      .replace(/[ ']/g, '-')
-      .replace(/é/g, 'e')
-  })
+  eleventyConfig.addFilter('slugify', slugify)
 
   eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
     if (outputPath.endsWith('.html')) {

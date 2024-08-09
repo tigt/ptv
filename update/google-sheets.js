@@ -1,6 +1,7 @@
 const fetch = require('node-fetch')
 const marked = require('marked')
 const fs = require('fs')
+const slugify = require('./slugify.js')
 
 marked.setOptions({
   breaks: true,
@@ -73,13 +74,19 @@ fetchedSheets.then(data => {
   const dexData = Object.fromEntries(data['Pokemon'].map(data => dexMapper(data, tutorMoves, movesets, dexBlurbs)))
   
   const families = {}
+  const redirects = []
   for (const name in dexData) {
     const mon = dexData[name]
     const baseForm = getBaseForm(name, dexData)
     const baseName = baseForm?.name.replace(/^Galarian |^Alolan |^Hisuian |^Paldean |^Mega | \([^)]*?\)$/g, '').toLowerCase()
     families[baseName]?.push(mon) || (families[baseName] = [mon])
+    redirects.push({
+      name,
+      url: `/dex/${slugify(baseName)}${families[baseName][1] ? `-family/#${slugify(name)}` : '/'}`
+    })
   }
   writeJson('pokemon', families)
+  writeJson('redirects', redirects)
 
   writeJson('moves', data['Moves'].map(row => {
     return {

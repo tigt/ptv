@@ -1,0 +1,4762 @@
+[
+  {
+    "name": "Bulbasaur",
+    "url": "/dex/bulbasaur/"
+  },
+  {
+    "name": "Ivysaur",
+    "url": "/dex/bulbasaur-family/#ivysaur"
+  },
+  {
+    "name": "Venusaur",
+    "url": "/dex/bulbasaur-family/#venusaur"
+  },
+  {
+    "name": "Mega Venusaur",
+    "url": "/dex/bulbasaur-family/#mega-venusaur"
+  },
+  {
+    "name": "Charmander",
+    "url": "/dex/charmander/"
+  },
+  {
+    "name": "Charmeleon",
+    "url": "/dex/charmander-family/#charmeleon"
+  },
+  {
+    "name": "Charizard",
+    "url": "/dex/charmander-family/#charizard"
+  },
+  {
+    "name": "Mega Charizard X",
+    "url": "/dex/charmander-family/#mega-charizard-x"
+  },
+  {
+    "name": "Mega Charizard Y",
+    "url": "/dex/charmander-family/#mega-charizard-y"
+  },
+  {
+    "name": "Squirtle",
+    "url": "/dex/squirtle/"
+  },
+  {
+    "name": "Wartortle",
+    "url": "/dex/squirtle-family/#wartortle"
+  },
+  {
+    "name": "Blastoise",
+    "url": "/dex/squirtle-family/#blastoise"
+  },
+  {
+    "name": "Mega Blastoise",
+    "url": "/dex/squirtle-family/#mega-blastoise"
+  },
+  {
+    "name": "Caterpie",
+    "url": "/dex/caterpie/"
+  },
+  {
+    "name": "Metapod",
+    "url": "/dex/caterpie-family/#metapod"
+  },
+  {
+    "name": "Butterfree",
+    "url": "/dex/caterpie-family/#butterfree"
+  },
+  {
+    "name": "Weedle",
+    "url": "/dex/weedle/"
+  },
+  {
+    "name": "Kakuna",
+    "url": "/dex/weedle-family/#kakuna"
+  },
+  {
+    "name": "Beedrill",
+    "url": "/dex/weedle-family/#beedrill"
+  },
+  {
+    "name": "Mega Beedrill",
+    "url": "/dex/weedle-family/#mega-beedrill"
+  },
+  {
+    "name": "Pidgey",
+    "url": "/dex/pidgey/"
+  },
+  {
+    "name": "Pidgeotto",
+    "url": "/dex/pidgey-family/#pidgeotto"
+  },
+  {
+    "name": "Pidgeot",
+    "url": "/dex/pidgey-family/#pidgeot"
+  },
+  {
+    "name": "Mega Pidgeot",
+    "url": "/dex/pidgey-family/#mega-pidgeot"
+  },
+  {
+    "name": "Rattata",
+    "url": "/dex/rattata/"
+  },
+  {
+    "name": "Raticate",
+    "url": "/dex/rattata-family/#raticate"
+  },
+  {
+    "name": "Alolan Rattata",
+    "url": "/dex/rattata-family/#alolan-rattata"
+  },
+  {
+    "name": "Alolan Raticate",
+    "url": "/dex/rattata-family/#alolan-raticate"
+  },
+  {
+    "name": "Spearow",
+    "url": "/dex/spearow/"
+  },
+  {
+    "name": "Fearow",
+    "url": "/dex/spearow-family/#fearow"
+  },
+  {
+    "name": "Ekans",
+    "url": "/dex/ekans/"
+  },
+  {
+    "name": "Arbok",
+    "url": "/dex/ekans-family/#arbok"
+  },
+  {
+    "name": "Pichu",
+    "url": "/dex/pichu/"
+  },
+  {
+    "name": "Pikachu",
+    "url": "/dex/pichu-family/#pikachu"
+  },
+  {
+    "name": "Raichu",
+    "url": "/dex/pichu-family/#raichu"
+  },
+  {
+    "name": "Alolan Raichu",
+    "url": "/dex/pichu-family/#alolan-raichu"
+  },
+  {
+    "name": "Sandshrew",
+    "url": "/dex/sandshrew/"
+  },
+  {
+    "name": "Sandslash",
+    "url": "/dex/sandshrew-family/#sandslash"
+  },
+  {
+    "name": "Alolan Sandshrew",
+    "url": "/dex/sandshrew-family/#alolan-sandshrew"
+  },
+  {
+    "name": "Alolan Sandslash",
+    "url": "/dex/sandshrew-family/#alolan-sandslash"
+  },
+  {
+    "name": "Nidoran♀",
+    "url": "/dex/nidoran♀/"
+  },
+  {
+    "name": "Nidorina",
+    "url": "/dex/nidoran♀-family/#nidorina"
+  },
+  {
+    "name": "Nidoqueen",
+    "url": "/dex/nidoran♀-family/#nidoqueen"
+  },
+  {
+    "name": "Nidoran♂",
+    "url": "/dex/nidoran♂/"
+  },
+  {
+    "name": "Nidorino",
+    "url": "/dex/nidoran♂-family/#nidorino"
+  },
+  {
+    "name": "Nidoking",
+    "url": "/dex/nidoran♂-family/#nidoking"
+  },
+  {
+    "name": "Cleffa",
+    "url": "/dex/cleffa/"
+  },
+  {
+    "name": "Clefairy",
+    "url": "/dex/cleffa-family/#clefairy"
+  },
+  {
+    "name": "Clefable",
+    "url": "/dex/cleffa-family/#clefable"
+  },
+  {
+    "name": "Vulpix",
+    "url": "/dex/vulpix/"
+  },
+  {
+    "name": "Ninetales",
+    "url": "/dex/vulpix-family/#ninetales"
+  },
+  {
+    "name": "Alolan Vulpix",
+    "url": "/dex/vulpix-family/#alolan-vulpix"
+  },
+  {
+    "name": "Alolan Ninetales",
+    "url": "/dex/vulpix-family/#alolan-ninetales"
+  },
+  {
+    "name": "Igglybuff",
+    "url": "/dex/igglybuff/"
+  },
+  {
+    "name": "Jigglypuff",
+    "url": "/dex/igglybuff-family/#jigglypuff"
+  },
+  {
+    "name": "Wigglytuff",
+    "url": "/dex/igglybuff-family/#wigglytuff"
+  },
+  {
+    "name": "Zubat",
+    "url": "/dex/zubat/"
+  },
+  {
+    "name": "Golbat",
+    "url": "/dex/zubat-family/#golbat"
+  },
+  {
+    "name": "Crobat",
+    "url": "/dex/zubat-family/#crobat"
+  },
+  {
+    "name": "Oddish",
+    "url": "/dex/oddish/"
+  },
+  {
+    "name": "Gloom",
+    "url": "/dex/oddish-family/#gloom"
+  },
+  {
+    "name": "Vileplume",
+    "url": "/dex/oddish-family/#vileplume"
+  },
+  {
+    "name": "Bellossom",
+    "url": "/dex/oddish-family/#bellossom"
+  },
+  {
+    "name": "Paras",
+    "url": "/dex/paras/"
+  },
+  {
+    "name": "Parasect",
+    "url": "/dex/paras-family/#parasect"
+  },
+  {
+    "name": "Venonat",
+    "url": "/dex/venonat/"
+  },
+  {
+    "name": "Venomoth",
+    "url": "/dex/venonat-family/#venomoth"
+  },
+  {
+    "name": "Diglett",
+    "url": "/dex/diglett/"
+  },
+  {
+    "name": "Dugtrio",
+    "url": "/dex/diglett-family/#dugtrio"
+  },
+  {
+    "name": "Alolan Diglett",
+    "url": "/dex/diglett-family/#alolan-diglett"
+  },
+  {
+    "name": "Alolan Dugtrio",
+    "url": "/dex/diglett-family/#alolan-dugtrio"
+  },
+  {
+    "name": "Meowth",
+    "url": "/dex/meowth/"
+  },
+  {
+    "name": "Persian",
+    "url": "/dex/meowth-family/#persian"
+  },
+  {
+    "name": "Alolan Meowth",
+    "url": "/dex/meowth-family/#alolan-meowth"
+  },
+  {
+    "name": "Alolan Persian",
+    "url": "/dex/meowth-family/#alolan-persian"
+  },
+  {
+    "name": "Galarian Meowth",
+    "url": "/dex/meowth-family/#galarian-meowth"
+  },
+  {
+    "name": "Perrserker",
+    "url": "/dex/meowth-family/#perrserker"
+  },
+  {
+    "name": "Psyduck",
+    "url": "/dex/psyduck/"
+  },
+  {
+    "name": "Golduck",
+    "url": "/dex/psyduck-family/#golduck"
+  },
+  {
+    "name": "Mankey",
+    "url": "/dex/mankey/"
+  },
+  {
+    "name": "Primeape",
+    "url": "/dex/mankey-family/#primeape"
+  },
+  {
+    "name": "Annihilape",
+    "url": "/dex/mankey-family/#annihilape"
+  },
+  {
+    "name": "Growlithe",
+    "url": "/dex/growlithe/"
+  },
+  {
+    "name": "Arcanine",
+    "url": "/dex/growlithe-family/#arcanine"
+  },
+  {
+    "name": "Hisuian Growlithe",
+    "url": "/dex/growlithe-family/#hisuian-growlithe"
+  },
+  {
+    "name": "Hisuian Arcanine",
+    "url": "/dex/growlithe-family/#hisuian-arcanine"
+  },
+  {
+    "name": "Poliwag",
+    "url": "/dex/poliwag/"
+  },
+  {
+    "name": "Poliwhirl",
+    "url": "/dex/poliwag-family/#poliwhirl"
+  },
+  {
+    "name": "Poliwrath",
+    "url": "/dex/poliwag-family/#poliwrath"
+  },
+  {
+    "name": "Politoed",
+    "url": "/dex/poliwag-family/#politoed"
+  },
+  {
+    "name": "Abra",
+    "url": "/dex/abra/"
+  },
+  {
+    "name": "Kadabra",
+    "url": "/dex/abra-family/#kadabra"
+  },
+  {
+    "name": "Alakazam",
+    "url": "/dex/abra-family/#alakazam"
+  },
+  {
+    "name": "Mega Alakazam",
+    "url": "/dex/abra-family/#mega-alakazam"
+  },
+  {
+    "name": "Machop",
+    "url": "/dex/machop/"
+  },
+  {
+    "name": "Machoke",
+    "url": "/dex/machop-family/#machoke"
+  },
+  {
+    "name": "Machamp",
+    "url": "/dex/machop-family/#machamp"
+  },
+  {
+    "name": "Bellsprout",
+    "url": "/dex/bellsprout/"
+  },
+  {
+    "name": "Weepinbell",
+    "url": "/dex/bellsprout-family/#weepinbell"
+  },
+  {
+    "name": "Victreebel",
+    "url": "/dex/bellsprout-family/#victreebel"
+  },
+  {
+    "name": "Tentacool",
+    "url": "/dex/tentacool/"
+  },
+  {
+    "name": "Tentacruel",
+    "url": "/dex/tentacool-family/#tentacruel"
+  },
+  {
+    "name": "Geodude",
+    "url": "/dex/geodude/"
+  },
+  {
+    "name": "Graveler",
+    "url": "/dex/geodude-family/#graveler"
+  },
+  {
+    "name": "Golem",
+    "url": "/dex/geodude-family/#golem"
+  },
+  {
+    "name": "Alolan Geodude",
+    "url": "/dex/geodude-family/#alolan-geodude"
+  },
+  {
+    "name": "Alolan Graveler",
+    "url": "/dex/geodude-family/#alolan-graveler"
+  },
+  {
+    "name": "Alolan Golem",
+    "url": "/dex/geodude-family/#alolan-golem"
+  },
+  {
+    "name": "Ponyta",
+    "url": "/dex/ponyta/"
+  },
+  {
+    "name": "Rapidash",
+    "url": "/dex/ponyta-family/#rapidash"
+  },
+  {
+    "name": "Galarian Ponyta",
+    "url": "/dex/ponyta-family/#galarian-ponyta"
+  },
+  {
+    "name": "Galarian Rapidash",
+    "url": "/dex/ponyta-family/#galarian-rapidash"
+  },
+  {
+    "name": "Slowpoke",
+    "url": "/dex/slowpoke/"
+  },
+  {
+    "name": "Slowbro",
+    "url": "/dex/slowpoke-family/#slowbro"
+  },
+  {
+    "name": "Mega Slowbro",
+    "url": "/dex/slowpoke-family/#mega-slowbro"
+  },
+  {
+    "name": "Slowking",
+    "url": "/dex/slowpoke-family/#slowking"
+  },
+  {
+    "name": "Galarian Slowpoke",
+    "url": "/dex/slowpoke-family/#galarian-slowpoke"
+  },
+  {
+    "name": "Galarian Slowbro",
+    "url": "/dex/slowpoke-family/#galarian-slowbro"
+  },
+  {
+    "name": "Galarian Slowking",
+    "url": "/dex/slowpoke-family/#galarian-slowking"
+  },
+  {
+    "name": "Magnemite",
+    "url": "/dex/magnemite/"
+  },
+  {
+    "name": "Magneton",
+    "url": "/dex/magnemite-family/#magneton"
+  },
+  {
+    "name": "Magnezone",
+    "url": "/dex/magnemite-family/#magnezone"
+  },
+  {
+    "name": "Farfetch'd",
+    "url": "/dex/farfetch-d/"
+  },
+  {
+    "name": "Galarian Farfetch'd",
+    "url": "/dex/farfetch-d-family/#galarian-farfetch-d"
+  },
+  {
+    "name": "Sirfetch'd",
+    "url": "/dex/farfetch-d-family/#sirfetch-d"
+  },
+  {
+    "name": "Doduo",
+    "url": "/dex/doduo/"
+  },
+  {
+    "name": "Dodrio",
+    "url": "/dex/doduo-family/#dodrio"
+  },
+  {
+    "name": "Seel",
+    "url": "/dex/seel/"
+  },
+  {
+    "name": "Dewgong",
+    "url": "/dex/seel-family/#dewgong"
+  },
+  {
+    "name": "Grimer",
+    "url": "/dex/grimer/"
+  },
+  {
+    "name": "Muk",
+    "url": "/dex/grimer-family/#muk"
+  },
+  {
+    "name": "Alolan Grimer",
+    "url": "/dex/grimer-family/#alolan-grimer"
+  },
+  {
+    "name": "Alolan Muk",
+    "url": "/dex/grimer-family/#alolan-muk"
+  },
+  {
+    "name": "Shellder",
+    "url": "/dex/shellder/"
+  },
+  {
+    "name": "Cloyster",
+    "url": "/dex/shellder-family/#cloyster"
+  },
+  {
+    "name": "Gastly",
+    "url": "/dex/gastly/"
+  },
+  {
+    "name": "Haunter",
+    "url": "/dex/gastly-family/#haunter"
+  },
+  {
+    "name": "Gengar",
+    "url": "/dex/gastly-family/#gengar"
+  },
+  {
+    "name": "Mega Gengar",
+    "url": "/dex/gastly-family/#mega-gengar"
+  },
+  {
+    "name": "Onix",
+    "url": "/dex/onix/"
+  },
+  {
+    "name": "Steelix",
+    "url": "/dex/onix-family/#steelix"
+  },
+  {
+    "name": "Mega Steelix",
+    "url": "/dex/onix-family/#mega-steelix"
+  },
+  {
+    "name": "Drowzee",
+    "url": "/dex/drowzee/"
+  },
+  {
+    "name": "Hypno",
+    "url": "/dex/drowzee-family/#hypno"
+  },
+  {
+    "name": "Krabby",
+    "url": "/dex/krabby/"
+  },
+  {
+    "name": "Kingler",
+    "url": "/dex/krabby-family/#kingler"
+  },
+  {
+    "name": "Voltorb",
+    "url": "/dex/voltorb/"
+  },
+  {
+    "name": "Electrode",
+    "url": "/dex/voltorb-family/#electrode"
+  },
+  {
+    "name": "Hisuian Voltorb",
+    "url": "/dex/voltorb-family/#hisuian-voltorb"
+  },
+  {
+    "name": "Hisuian Electrode",
+    "url": "/dex/voltorb-family/#hisuian-electrode"
+  },
+  {
+    "name": "Exeggcute",
+    "url": "/dex/exeggcute/"
+  },
+  {
+    "name": "Exeggutor",
+    "url": "/dex/exeggcute-family/#exeggutor"
+  },
+  {
+    "name": "Alolan Exeggutor",
+    "url": "/dex/exeggcute-family/#alolan-exeggutor"
+  },
+  {
+    "name": "Cubone",
+    "url": "/dex/cubone/"
+  },
+  {
+    "name": "Marowak",
+    "url": "/dex/cubone-family/#marowak"
+  },
+  {
+    "name": "Alolan Marowak",
+    "url": "/dex/cubone-family/#alolan-marowak"
+  },
+  {
+    "name": "Tyrogue",
+    "url": "/dex/tyrogue/"
+  },
+  {
+    "name": "Hitmonlee",
+    "url": "/dex/tyrogue-family/#hitmonlee"
+  },
+  {
+    "name": "Hitmonchan",
+    "url": "/dex/tyrogue-family/#hitmonchan"
+  },
+  {
+    "name": "Hitmontop",
+    "url": "/dex/tyrogue-family/#hitmontop"
+  },
+  {
+    "name": "Lickitung",
+    "url": "/dex/lickitung/"
+  },
+  {
+    "name": "Lickilicky",
+    "url": "/dex/lickitung-family/#lickilicky"
+  },
+  {
+    "name": "Koffing",
+    "url": "/dex/koffing/"
+  },
+  {
+    "name": "Weezing",
+    "url": "/dex/koffing-family/#weezing"
+  },
+  {
+    "name": "Galarian Weezing",
+    "url": "/dex/koffing-family/#galarian-weezing"
+  },
+  {
+    "name": "Rhyhorn",
+    "url": "/dex/rhyhorn/"
+  },
+  {
+    "name": "Rhydon",
+    "url": "/dex/rhyhorn-family/#rhydon"
+  },
+  {
+    "name": "Rhyperior",
+    "url": "/dex/rhyhorn-family/#rhyperior"
+  },
+  {
+    "name": "Happiny",
+    "url": "/dex/happiny/"
+  },
+  {
+    "name": "Chansey",
+    "url": "/dex/happiny-family/#chansey"
+  },
+  {
+    "name": "Blissey",
+    "url": "/dex/happiny-family/#blissey"
+  },
+  {
+    "name": "Tangela",
+    "url": "/dex/tangela/"
+  },
+  {
+    "name": "Tangrowth",
+    "url": "/dex/tangela-family/#tangrowth"
+  },
+  {
+    "name": "Kangaskhan",
+    "url": "/dex/kangaskhan/"
+  },
+  {
+    "name": "Mega Kangaskhan",
+    "url": "/dex/kangaskhan-family/#mega-kangaskhan"
+  },
+  {
+    "name": "Horsea",
+    "url": "/dex/horsea/"
+  },
+  {
+    "name": "Seadra",
+    "url": "/dex/horsea-family/#seadra"
+  },
+  {
+    "name": "Kingdra",
+    "url": "/dex/horsea-family/#kingdra"
+  },
+  {
+    "name": "Goldeen",
+    "url": "/dex/goldeen/"
+  },
+  {
+    "name": "Seaking",
+    "url": "/dex/goldeen-family/#seaking"
+  },
+  {
+    "name": "Staryu",
+    "url": "/dex/staryu/"
+  },
+  {
+    "name": "Starmie",
+    "url": "/dex/staryu-family/#starmie"
+  },
+  {
+    "name": "Mime Jr.",
+    "url": "/dex/mime-jr./"
+  },
+  {
+    "name": "Mr. Mime",
+    "url": "/dex/mime-jr.-family/#mr.-mime"
+  },
+  {
+    "name": "Galarian Mr. Mime",
+    "url": "/dex/mime-jr.-family/#galarian-mr.-mime"
+  },
+  {
+    "name": "Mr. Rime",
+    "url": "/dex/mime-jr.-family/#mr.-rime"
+  },
+  {
+    "name": "Scyther",
+    "url": "/dex/scyther/"
+  },
+  {
+    "name": "Scizor",
+    "url": "/dex/scyther-family/#scizor"
+  },
+  {
+    "name": "Mega Scizor",
+    "url": "/dex/scyther-family/#mega-scizor"
+  },
+  {
+    "name": "Kleavor",
+    "url": "/dex/scyther-family/#kleavor"
+  },
+  {
+    "name": "Smoochum",
+    "url": "/dex/smoochum/"
+  },
+  {
+    "name": "Jynx",
+    "url": "/dex/smoochum-family/#jynx"
+  },
+  {
+    "name": "Elekid",
+    "url": "/dex/elekid/"
+  },
+  {
+    "name": "Electabuzz",
+    "url": "/dex/elekid-family/#electabuzz"
+  },
+  {
+    "name": "Electivire",
+    "url": "/dex/elekid-family/#electivire"
+  },
+  {
+    "name": "Magby",
+    "url": "/dex/magby/"
+  },
+  {
+    "name": "Magmar",
+    "url": "/dex/magby-family/#magmar"
+  },
+  {
+    "name": "Magmortar",
+    "url": "/dex/magby-family/#magmortar"
+  },
+  {
+    "name": "Pinsir",
+    "url": "/dex/pinsir/"
+  },
+  {
+    "name": "Mega Pinsir",
+    "url": "/dex/pinsir-family/#mega-pinsir"
+  },
+  {
+    "name": "Tauros",
+    "url": "/dex/tauros/"
+  },
+  {
+    "name": "Paldean Tauros",
+    "url": "/dex/tauros-family/#paldean-tauros"
+  },
+  {
+    "name": "Paldean Tauros (Blaze Breed)",
+    "url": "/dex/tauros-family/#paldean-tauros-blaze-breed"
+  },
+  {
+    "name": "Paldean Tauros (Aqua Breed)",
+    "url": "/dex/tauros-family/#paldean-tauros-aqua-breed"
+  },
+  {
+    "name": "Magikarp",
+    "url": "/dex/magikarp/"
+  },
+  {
+    "name": "Gyarados",
+    "url": "/dex/magikarp-family/#gyarados"
+  },
+  {
+    "name": "Mega Gyarados",
+    "url": "/dex/magikarp-family/#mega-gyarados"
+  },
+  {
+    "name": "Lapras",
+    "url": "/dex/lapras/"
+  },
+  {
+    "name": "Ditto",
+    "url": "/dex/ditto/"
+  },
+  {
+    "name": "Eevee",
+    "url": "/dex/eevee/"
+  },
+  {
+    "name": "Vaporeon",
+    "url": "/dex/eevee-family/#vaporeon"
+  },
+  {
+    "name": "Jolteon",
+    "url": "/dex/eevee-family/#jolteon"
+  },
+  {
+    "name": "Flareon",
+    "url": "/dex/eevee-family/#flareon"
+  },
+  {
+    "name": "Espeon",
+    "url": "/dex/eevee-family/#espeon"
+  },
+  {
+    "name": "Umbreon",
+    "url": "/dex/eevee-family/#umbreon"
+  },
+  {
+    "name": "Leafeon",
+    "url": "/dex/eevee-family/#leafeon"
+  },
+  {
+    "name": "Glaceon",
+    "url": "/dex/eevee-family/#glaceon"
+  },
+  {
+    "name": "Sylveon",
+    "url": "/dex/eevee-family/#sylveon"
+  },
+  {
+    "name": "Porygon",
+    "url": "/dex/porygon/"
+  },
+  {
+    "name": "Porygon2",
+    "url": "/dex/porygon-family/#porygon2"
+  },
+  {
+    "name": "Porygon-Z",
+    "url": "/dex/porygon-family/#porygon-z"
+  },
+  {
+    "name": "Omanyte",
+    "url": "/dex/omanyte/"
+  },
+  {
+    "name": "Omastar",
+    "url": "/dex/omanyte-family/#omastar"
+  },
+  {
+    "name": "Kabuto",
+    "url": "/dex/kabuto/"
+  },
+  {
+    "name": "Kabutops",
+    "url": "/dex/kabuto-family/#kabutops"
+  },
+  {
+    "name": "Aerodactyl",
+    "url": "/dex/aerodactyl/"
+  },
+  {
+    "name": "Mega Aerodactyl",
+    "url": "/dex/aerodactyl-family/#mega-aerodactyl"
+  },
+  {
+    "name": "Munchlax",
+    "url": "/dex/munchlax/"
+  },
+  {
+    "name": "Snorlax",
+    "url": "/dex/munchlax-family/#snorlax"
+  },
+  {
+    "name": "Articuno",
+    "url": "/dex/articuno/"
+  },
+  {
+    "name": "Galarian Articuno",
+    "url": "/dex/articuno-family/#galarian-articuno"
+  },
+  {
+    "name": "Zapdos",
+    "url": "/dex/zapdos/"
+  },
+  {
+    "name": "Galarian Zapdos",
+    "url": "/dex/zapdos-family/#galarian-zapdos"
+  },
+  {
+    "name": "Moltres",
+    "url": "/dex/moltres/"
+  },
+  {
+    "name": "Galarian Moltres",
+    "url": "/dex/moltres-family/#galarian-moltres"
+  },
+  {
+    "name": "Dratini",
+    "url": "/dex/dratini/"
+  },
+  {
+    "name": "Dragonair",
+    "url": "/dex/dratini-family/#dragonair"
+  },
+  {
+    "name": "Dragonite",
+    "url": "/dex/dratini-family/#dragonite"
+  },
+  {
+    "name": "Mewtwo",
+    "url": "/dex/mewtwo/"
+  },
+  {
+    "name": "Mega Mewtwo X",
+    "url": "/dex/mewtwo-family/#mega-mewtwo-x"
+  },
+  {
+    "name": "Mega Mewtwo Y",
+    "url": "/dex/mewtwo-family/#mega-mewtwo-y"
+  },
+  {
+    "name": "Mew",
+    "url": "/dex/mew/"
+  },
+  {
+    "name": "Chikorita",
+    "url": "/dex/chikorita/"
+  },
+  {
+    "name": "Bayleef",
+    "url": "/dex/chikorita-family/#bayleef"
+  },
+  {
+    "name": "Meganium",
+    "url": "/dex/chikorita-family/#meganium"
+  },
+  {
+    "name": "Cyndaquil",
+    "url": "/dex/cyndaquil/"
+  },
+  {
+    "name": "Quilava",
+    "url": "/dex/cyndaquil-family/#quilava"
+  },
+  {
+    "name": "Typhlosion",
+    "url": "/dex/cyndaquil-family/#typhlosion"
+  },
+  {
+    "name": "Hisuian Typhlosion",
+    "url": "/dex/cyndaquil-family/#hisuian-typhlosion"
+  },
+  {
+    "name": "Totodile",
+    "url": "/dex/totodile/"
+  },
+  {
+    "name": "Croconaw",
+    "url": "/dex/totodile-family/#croconaw"
+  },
+  {
+    "name": "Feraligatr",
+    "url": "/dex/totodile-family/#feraligatr"
+  },
+  {
+    "name": "Sentret",
+    "url": "/dex/sentret/"
+  },
+  {
+    "name": "Furret",
+    "url": "/dex/sentret-family/#furret"
+  },
+  {
+    "name": "Hoothoot",
+    "url": "/dex/hoothoot/"
+  },
+  {
+    "name": "Noctowl",
+    "url": "/dex/hoothoot-family/#noctowl"
+  },
+  {
+    "name": "Ledyba",
+    "url": "/dex/ledyba/"
+  },
+  {
+    "name": "Ledian",
+    "url": "/dex/ledyba-family/#ledian"
+  },
+  {
+    "name": "Spinarak",
+    "url": "/dex/spinarak/"
+  },
+  {
+    "name": "Ariados",
+    "url": "/dex/spinarak-family/#ariados"
+  },
+  {
+    "name": "Chinchou",
+    "url": "/dex/chinchou/"
+  },
+  {
+    "name": "Lanturn",
+    "url": "/dex/chinchou-family/#lanturn"
+  },
+  {
+    "name": "Togepi",
+    "url": "/dex/togepi/"
+  },
+  {
+    "name": "Togetic",
+    "url": "/dex/togepi-family/#togetic"
+  },
+  {
+    "name": "Togekiss",
+    "url": "/dex/togepi-family/#togekiss"
+  },
+  {
+    "name": "Natu",
+    "url": "/dex/natu/"
+  },
+  {
+    "name": "Xatu",
+    "url": "/dex/natu-family/#xatu"
+  },
+  {
+    "name": "Mareep",
+    "url": "/dex/mareep/"
+  },
+  {
+    "name": "Flaaffy",
+    "url": "/dex/mareep-family/#flaaffy"
+  },
+  {
+    "name": "Ampharos",
+    "url": "/dex/mareep-family/#ampharos"
+  },
+  {
+    "name": "Mega Ampharos",
+    "url": "/dex/mareep-family/#mega-ampharos"
+  },
+  {
+    "name": "Azurill",
+    "url": "/dex/azurill/"
+  },
+  {
+    "name": "Marill",
+    "url": "/dex/azurill-family/#marill"
+  },
+  {
+    "name": "Azumarill",
+    "url": "/dex/azurill-family/#azumarill"
+  },
+  {
+    "name": "Bonsly",
+    "url": "/dex/bonsly/"
+  },
+  {
+    "name": "Sudowoodo",
+    "url": "/dex/bonsly-family/#sudowoodo"
+  },
+  {
+    "name": "Hoppip",
+    "url": "/dex/hoppip/"
+  },
+  {
+    "name": "Skiploom",
+    "url": "/dex/hoppip-family/#skiploom"
+  },
+  {
+    "name": "Jumpluff",
+    "url": "/dex/hoppip-family/#jumpluff"
+  },
+  {
+    "name": "Aipom",
+    "url": "/dex/aipom/"
+  },
+  {
+    "name": "Ambipom",
+    "url": "/dex/aipom-family/#ambipom"
+  },
+  {
+    "name": "Sunkern",
+    "url": "/dex/sunkern/"
+  },
+  {
+    "name": "Sunflora",
+    "url": "/dex/sunkern-family/#sunflora"
+  },
+  {
+    "name": "Yanma",
+    "url": "/dex/yanma/"
+  },
+  {
+    "name": "Yanmega",
+    "url": "/dex/yanma-family/#yanmega"
+  },
+  {
+    "name": "Wooper",
+    "url": "/dex/wooper/"
+  },
+  {
+    "name": "Quagsire",
+    "url": "/dex/wooper-family/#quagsire"
+  },
+  {
+    "name": "Paldean Wooper",
+    "url": "/dex/wooper-family/#paldean-wooper"
+  },
+  {
+    "name": "Clodsire",
+    "url": "/dex/wooper-family/#clodsire"
+  },
+  {
+    "name": "Murkrow",
+    "url": "/dex/murkrow/"
+  },
+  {
+    "name": "Honchkrow",
+    "url": "/dex/murkrow-family/#honchkrow"
+  },
+  {
+    "name": "Misdreavus",
+    "url": "/dex/misdreavus/"
+  },
+  {
+    "name": "Mismagius",
+    "url": "/dex/misdreavus-family/#mismagius"
+  },
+  {
+    "name": "Unown",
+    "url": "/dex/unown/"
+  },
+  {
+    "name": "Wynaut",
+    "url": "/dex/wynaut/"
+  },
+  {
+    "name": "Wobbuffet",
+    "url": "/dex/wynaut-family/#wobbuffet"
+  },
+  {
+    "name": "Girafarig",
+    "url": "/dex/girafarig/"
+  },
+  {
+    "name": "Farigiraf",
+    "url": "/dex/girafarig-family/#farigiraf"
+  },
+  {
+    "name": "Pineco",
+    "url": "/dex/pineco/"
+  },
+  {
+    "name": "Forretress",
+    "url": "/dex/pineco-family/#forretress"
+  },
+  {
+    "name": "Dunsparce",
+    "url": "/dex/dunsparce/"
+  },
+  {
+    "name": "Dudunsparce",
+    "url": "/dex/dunsparce-family/#dudunsparce"
+  },
+  {
+    "name": "Gligar",
+    "url": "/dex/gligar/"
+  },
+  {
+    "name": "Gliscor",
+    "url": "/dex/gligar-family/#gliscor"
+  },
+  {
+    "name": "Snubbull",
+    "url": "/dex/snubbull/"
+  },
+  {
+    "name": "Granbull",
+    "url": "/dex/snubbull-family/#granbull"
+  },
+  {
+    "name": "Qwilfish",
+    "url": "/dex/qwilfish/"
+  },
+  {
+    "name": "Hisuian Qwilfish",
+    "url": "/dex/qwilfish-family/#hisuian-qwilfish"
+  },
+  {
+    "name": "Overqwil",
+    "url": "/dex/qwilfish-family/#overqwil"
+  },
+  {
+    "name": "Shuckle",
+    "url": "/dex/shuckle/"
+  },
+  {
+    "name": "Heracross",
+    "url": "/dex/heracross/"
+  },
+  {
+    "name": "Mega Heracross",
+    "url": "/dex/heracross-family/#mega-heracross"
+  },
+  {
+    "name": "Sneasel",
+    "url": "/dex/sneasel/"
+  },
+  {
+    "name": "Weavile",
+    "url": "/dex/sneasel-family/#weavile"
+  },
+  {
+    "name": "Hisuian Sneasel",
+    "url": "/dex/sneasel-family/#hisuian-sneasel"
+  },
+  {
+    "name": "Sneasler",
+    "url": "/dex/sneasel-family/#sneasler"
+  },
+  {
+    "name": "Teddiursa",
+    "url": "/dex/teddiursa/"
+  },
+  {
+    "name": "Ursaring",
+    "url": "/dex/teddiursa-family/#ursaring"
+  },
+  {
+    "name": "Ursaluna",
+    "url": "/dex/teddiursa-family/#ursaluna"
+  },
+  {
+    "name": "Ursaluna (Blood Moon)",
+    "url": "/dex/teddiursa-family/#ursaluna-blood-moon"
+  },
+  {
+    "name": "Slugma",
+    "url": "/dex/slugma/"
+  },
+  {
+    "name": "Magcargo",
+    "url": "/dex/slugma-family/#magcargo"
+  },
+  {
+    "name": "Swinub",
+    "url": "/dex/swinub/"
+  },
+  {
+    "name": "Piloswine",
+    "url": "/dex/swinub-family/#piloswine"
+  },
+  {
+    "name": "Mamoswine",
+    "url": "/dex/swinub-family/#mamoswine"
+  },
+  {
+    "name": "Corsola",
+    "url": "/dex/corsola/"
+  },
+  {
+    "name": "Galarian Corsola",
+    "url": "/dex/corsola-family/#galarian-corsola"
+  },
+  {
+    "name": "Cursola",
+    "url": "/dex/corsola-family/#cursola"
+  },
+  {
+    "name": "Remoraid",
+    "url": "/dex/remoraid/"
+  },
+  {
+    "name": "Octillery",
+    "url": "/dex/remoraid-family/#octillery"
+  },
+  {
+    "name": "Delibird",
+    "url": "/dex/delibird/"
+  },
+  {
+    "name": "Mantyke",
+    "url": "/dex/mantyke/"
+  },
+  {
+    "name": "Mantine",
+    "url": "/dex/mantyke-family/#mantine"
+  },
+  {
+    "name": "Skarmory",
+    "url": "/dex/skarmory/"
+  },
+  {
+    "name": "Houndour",
+    "url": "/dex/houndour/"
+  },
+  {
+    "name": "Houndoom",
+    "url": "/dex/houndour-family/#houndoom"
+  },
+  {
+    "name": "Mega Houndoom",
+    "url": "/dex/houndour-family/#mega-houndoom"
+  },
+  {
+    "name": "Phanpy",
+    "url": "/dex/phanpy/"
+  },
+  {
+    "name": "Donphan",
+    "url": "/dex/phanpy-family/#donphan"
+  },
+  {
+    "name": "Stantler",
+    "url": "/dex/stantler/"
+  },
+  {
+    "name": "Wyrdeer",
+    "url": "/dex/stantler-family/#wyrdeer"
+  },
+  {
+    "name": "Smeargle",
+    "url": "/dex/smeargle/"
+  },
+  {
+    "name": "Miltank",
+    "url": "/dex/miltank/"
+  },
+  {
+    "name": "Raikou",
+    "url": "/dex/raikou/"
+  },
+  {
+    "name": "Entei",
+    "url": "/dex/entei/"
+  },
+  {
+    "name": "Suicune",
+    "url": "/dex/suicune/"
+  },
+  {
+    "name": "Larvitar",
+    "url": "/dex/larvitar/"
+  },
+  {
+    "name": "Pupitar",
+    "url": "/dex/larvitar-family/#pupitar"
+  },
+  {
+    "name": "Tyranitar",
+    "url": "/dex/larvitar-family/#tyranitar"
+  },
+  {
+    "name": "Mega Tyranitar",
+    "url": "/dex/larvitar-family/#mega-tyranitar"
+  },
+  {
+    "name": "Lugia",
+    "url": "/dex/lugia/"
+  },
+  {
+    "name": "Ho-Oh",
+    "url": "/dex/ho-oh/"
+  },
+  {
+    "name": "Celebi",
+    "url": "/dex/celebi/"
+  },
+  {
+    "name": "Treecko",
+    "url": "/dex/treecko/"
+  },
+  {
+    "name": "Grovyle",
+    "url": "/dex/treecko-family/#grovyle"
+  },
+  {
+    "name": "Sceptile",
+    "url": "/dex/treecko-family/#sceptile"
+  },
+  {
+    "name": "Mega Sceptile",
+    "url": "/dex/treecko-family/#mega-sceptile"
+  },
+  {
+    "name": "Torchic",
+    "url": "/dex/torchic/"
+  },
+  {
+    "name": "Combusken",
+    "url": "/dex/torchic-family/#combusken"
+  },
+  {
+    "name": "Blaziken",
+    "url": "/dex/torchic-family/#blaziken"
+  },
+  {
+    "name": "Mega Blaziken",
+    "url": "/dex/torchic-family/#mega-blaziken"
+  },
+  {
+    "name": "Mudkip",
+    "url": "/dex/mudkip/"
+  },
+  {
+    "name": "Marshtomp",
+    "url": "/dex/mudkip-family/#marshtomp"
+  },
+  {
+    "name": "Swampert",
+    "url": "/dex/mudkip-family/#swampert"
+  },
+  {
+    "name": "Mega Swampert",
+    "url": "/dex/mudkip-family/#mega-swampert"
+  },
+  {
+    "name": "Poochyena",
+    "url": "/dex/poochyena/"
+  },
+  {
+    "name": "Mightyena",
+    "url": "/dex/poochyena-family/#mightyena"
+  },
+  {
+    "name": "Zigzagoon",
+    "url": "/dex/zigzagoon/"
+  },
+  {
+    "name": "Linoone",
+    "url": "/dex/zigzagoon-family/#linoone"
+  },
+  {
+    "name": "Galarian Zigzagoon",
+    "url": "/dex/zigzagoon-family/#galarian-zigzagoon"
+  },
+  {
+    "name": "Galarian Linoone",
+    "url": "/dex/zigzagoon-family/#galarian-linoone"
+  },
+  {
+    "name": "Obstagoon",
+    "url": "/dex/zigzagoon-family/#obstagoon"
+  },
+  {
+    "name": "Wurmple",
+    "url": "/dex/wurmple/"
+  },
+  {
+    "name": "Silcoon",
+    "url": "/dex/wurmple-family/#silcoon"
+  },
+  {
+    "name": "Beautifly",
+    "url": "/dex/wurmple-family/#beautifly"
+  },
+  {
+    "name": "Cascoon",
+    "url": "/dex/wurmple-family/#cascoon"
+  },
+  {
+    "name": "Dustox",
+    "url": "/dex/wurmple-family/#dustox"
+  },
+  {
+    "name": "Lotad",
+    "url": "/dex/lotad/"
+  },
+  {
+    "name": "Lombre",
+    "url": "/dex/lotad-family/#lombre"
+  },
+  {
+    "name": "Ludicolo",
+    "url": "/dex/lotad-family/#ludicolo"
+  },
+  {
+    "name": "Seedot",
+    "url": "/dex/seedot/"
+  },
+  {
+    "name": "Nuzleaf",
+    "url": "/dex/seedot-family/#nuzleaf"
+  },
+  {
+    "name": "Shiftry",
+    "url": "/dex/seedot-family/#shiftry"
+  },
+  {
+    "name": "Taillow",
+    "url": "/dex/taillow/"
+  },
+  {
+    "name": "Swellow",
+    "url": "/dex/taillow-family/#swellow"
+  },
+  {
+    "name": "Wingull",
+    "url": "/dex/wingull/"
+  },
+  {
+    "name": "Pelipper",
+    "url": "/dex/wingull-family/#pelipper"
+  },
+  {
+    "name": "Ralts",
+    "url": "/dex/ralts/"
+  },
+  {
+    "name": "Kirlia",
+    "url": "/dex/ralts-family/#kirlia"
+  },
+  {
+    "name": "Gardevoir",
+    "url": "/dex/ralts-family/#gardevoir"
+  },
+  {
+    "name": "Mega Gardevoir",
+    "url": "/dex/ralts-family/#mega-gardevoir"
+  },
+  {
+    "name": "Gallade",
+    "url": "/dex/ralts-family/#gallade"
+  },
+  {
+    "name": "Mega Gallade",
+    "url": "/dex/ralts-family/#mega-gallade"
+  },
+  {
+    "name": "Surskit",
+    "url": "/dex/surskit/"
+  },
+  {
+    "name": "Masquerain",
+    "url": "/dex/surskit-family/#masquerain"
+  },
+  {
+    "name": "Shroomish",
+    "url": "/dex/shroomish/"
+  },
+  {
+    "name": "Breloom",
+    "url": "/dex/shroomish-family/#breloom"
+  },
+  {
+    "name": "Slakoth",
+    "url": "/dex/slakoth/"
+  },
+  {
+    "name": "Vigoroth",
+    "url": "/dex/slakoth-family/#vigoroth"
+  },
+  {
+    "name": "Slaking",
+    "url": "/dex/slakoth-family/#slaking"
+  },
+  {
+    "name": "Nincada",
+    "url": "/dex/nincada/"
+  },
+  {
+    "name": "Ninjask",
+    "url": "/dex/nincada-family/#ninjask"
+  },
+  {
+    "name": "Shedinja",
+    "url": "/dex/nincada-family/#shedinja"
+  },
+  {
+    "name": "Whismur",
+    "url": "/dex/whismur/"
+  },
+  {
+    "name": "Loudred",
+    "url": "/dex/whismur-family/#loudred"
+  },
+  {
+    "name": "Exploud",
+    "url": "/dex/whismur-family/#exploud"
+  },
+  {
+    "name": "Makuhita",
+    "url": "/dex/makuhita/"
+  },
+  {
+    "name": "Hariyama",
+    "url": "/dex/makuhita-family/#hariyama"
+  },
+  {
+    "name": "Nosepass",
+    "url": "/dex/nosepass/"
+  },
+  {
+    "name": "Probopass",
+    "url": "/dex/nosepass-family/#probopass"
+  },
+  {
+    "name": "Skitty",
+    "url": "/dex/skitty/"
+  },
+  {
+    "name": "Delcatty",
+    "url": "/dex/skitty-family/#delcatty"
+  },
+  {
+    "name": "Sableye",
+    "url": "/dex/sableye/"
+  },
+  {
+    "name": "Mega Sableye",
+    "url": "/dex/sableye-family/#mega-sableye"
+  },
+  {
+    "name": "Mawile",
+    "url": "/dex/mawile/"
+  },
+  {
+    "name": "Mega Mawile",
+    "url": "/dex/mawile-family/#mega-mawile"
+  },
+  {
+    "name": "Aron",
+    "url": "/dex/aron/"
+  },
+  {
+    "name": "Lairon",
+    "url": "/dex/aron-family/#lairon"
+  },
+  {
+    "name": "Aggron",
+    "url": "/dex/aron-family/#aggron"
+  },
+  {
+    "name": "Mega Aggron",
+    "url": "/dex/aron-family/#mega-aggron"
+  },
+  {
+    "name": "Meditite",
+    "url": "/dex/meditite/"
+  },
+  {
+    "name": "Medicham",
+    "url": "/dex/meditite-family/#medicham"
+  },
+  {
+    "name": "Mega Medicham",
+    "url": "/dex/meditite-family/#mega-medicham"
+  },
+  {
+    "name": "Electrike",
+    "url": "/dex/electrike/"
+  },
+  {
+    "name": "Manectric",
+    "url": "/dex/electrike-family/#manectric"
+  },
+  {
+    "name": "Mega Manectric",
+    "url": "/dex/electrike-family/#mega-manectric"
+  },
+  {
+    "name": "Plusle",
+    "url": "/dex/plusle/"
+  },
+  {
+    "name": "Minun",
+    "url": "/dex/minun/"
+  },
+  {
+    "name": "Volbeat",
+    "url": "/dex/volbeat/"
+  },
+  {
+    "name": "Illumise",
+    "url": "/dex/illumise/"
+  },
+  {
+    "name": "Budew",
+    "url": "/dex/budew/"
+  },
+  {
+    "name": "Roselia",
+    "url": "/dex/budew-family/#roselia"
+  },
+  {
+    "name": "Roserade",
+    "url": "/dex/budew-family/#roserade"
+  },
+  {
+    "name": "Gulpin",
+    "url": "/dex/gulpin/"
+  },
+  {
+    "name": "Swalot",
+    "url": "/dex/gulpin-family/#swalot"
+  },
+  {
+    "name": "Carvanha",
+    "url": "/dex/carvanha/"
+  },
+  {
+    "name": "Sharpedo",
+    "url": "/dex/carvanha-family/#sharpedo"
+  },
+  {
+    "name": "Mega Sharpedo",
+    "url": "/dex/carvanha-family/#mega-sharpedo"
+  },
+  {
+    "name": "Wailmer",
+    "url": "/dex/wailmer/"
+  },
+  {
+    "name": "Wailord",
+    "url": "/dex/wailmer-family/#wailord"
+  },
+  {
+    "name": "Numel",
+    "url": "/dex/numel/"
+  },
+  {
+    "name": "Camerupt",
+    "url": "/dex/numel-family/#camerupt"
+  },
+  {
+    "name": "Mega Camerupt",
+    "url": "/dex/numel-family/#mega-camerupt"
+  },
+  {
+    "name": "Torkoal",
+    "url": "/dex/torkoal/"
+  },
+  {
+    "name": "Spoink",
+    "url": "/dex/spoink/"
+  },
+  {
+    "name": "Grumpig",
+    "url": "/dex/spoink-family/#grumpig"
+  },
+  {
+    "name": "Spinda",
+    "url": "/dex/spinda/"
+  },
+  {
+    "name": "Trapinch",
+    "url": "/dex/trapinch/"
+  },
+  {
+    "name": "Vibrava",
+    "url": "/dex/trapinch-family/#vibrava"
+  },
+  {
+    "name": "Flygon",
+    "url": "/dex/trapinch-family/#flygon"
+  },
+  {
+    "name": "Cacnea",
+    "url": "/dex/cacnea/"
+  },
+  {
+    "name": "Cacturne",
+    "url": "/dex/cacnea-family/#cacturne"
+  },
+  {
+    "name": "Swablu",
+    "url": "/dex/swablu/"
+  },
+  {
+    "name": "Altaria",
+    "url": "/dex/swablu-family/#altaria"
+  },
+  {
+    "name": "Mega Altaria",
+    "url": "/dex/swablu-family/#mega-altaria"
+  },
+  {
+    "name": "Zangoose",
+    "url": "/dex/zangoose/"
+  },
+  {
+    "name": "Seviper",
+    "url": "/dex/seviper/"
+  },
+  {
+    "name": "Lunatone",
+    "url": "/dex/lunatone/"
+  },
+  {
+    "name": "Solrock",
+    "url": "/dex/solrock/"
+  },
+  {
+    "name": "Barboach",
+    "url": "/dex/barboach/"
+  },
+  {
+    "name": "Whiscash",
+    "url": "/dex/barboach-family/#whiscash"
+  },
+  {
+    "name": "Corphish",
+    "url": "/dex/corphish/"
+  },
+  {
+    "name": "Crawdaunt",
+    "url": "/dex/corphish-family/#crawdaunt"
+  },
+  {
+    "name": "Baltoy",
+    "url": "/dex/baltoy/"
+  },
+  {
+    "name": "Claydol",
+    "url": "/dex/baltoy-family/#claydol"
+  },
+  {
+    "name": "Lileep",
+    "url": "/dex/lileep/"
+  },
+  {
+    "name": "Cradily",
+    "url": "/dex/lileep-family/#cradily"
+  },
+  {
+    "name": "Anorith",
+    "url": "/dex/anorith/"
+  },
+  {
+    "name": "Armaldo",
+    "url": "/dex/anorith-family/#armaldo"
+  },
+  {
+    "name": "Feebas",
+    "url": "/dex/feebas/"
+  },
+  {
+    "name": "Milotic",
+    "url": "/dex/feebas-family/#milotic"
+  },
+  {
+    "name": "Castform",
+    "url": "/dex/castform/"
+  },
+  {
+    "name": "Kecleon",
+    "url": "/dex/kecleon/"
+  },
+  {
+    "name": "Shuppet",
+    "url": "/dex/shuppet/"
+  },
+  {
+    "name": "Banette",
+    "url": "/dex/shuppet-family/#banette"
+  },
+  {
+    "name": "Mega Banette",
+    "url": "/dex/shuppet-family/#mega-banette"
+  },
+  {
+    "name": "Duskull",
+    "url": "/dex/duskull/"
+  },
+  {
+    "name": "Dusclops",
+    "url": "/dex/duskull-family/#dusclops"
+  },
+  {
+    "name": "Dusknoir",
+    "url": "/dex/duskull-family/#dusknoir"
+  },
+  {
+    "name": "Tropius",
+    "url": "/dex/tropius/"
+  },
+  {
+    "name": "Chingling",
+    "url": "/dex/chingling/"
+  },
+  {
+    "name": "Chimecho",
+    "url": "/dex/chingling-family/#chimecho"
+  },
+  {
+    "name": "Absol",
+    "url": "/dex/absol/"
+  },
+  {
+    "name": "Mega Absol",
+    "url": "/dex/absol-family/#mega-absol"
+  },
+  {
+    "name": "Snorunt",
+    "url": "/dex/snorunt/"
+  },
+  {
+    "name": "Glalie",
+    "url": "/dex/snorunt-family/#glalie"
+  },
+  {
+    "name": "Mega Glalie",
+    "url": "/dex/snorunt-family/#mega-glalie"
+  },
+  {
+    "name": "Froslass",
+    "url": "/dex/snorunt-family/#froslass"
+  },
+  {
+    "name": "Spheal",
+    "url": "/dex/spheal/"
+  },
+  {
+    "name": "Sealeo",
+    "url": "/dex/spheal-family/#sealeo"
+  },
+  {
+    "name": "Walrein",
+    "url": "/dex/spheal-family/#walrein"
+  },
+  {
+    "name": "Clamperl",
+    "url": "/dex/clamperl/"
+  },
+  {
+    "name": "Huntail",
+    "url": "/dex/clamperl-family/#huntail"
+  },
+  {
+    "name": "Gorebyss",
+    "url": "/dex/clamperl-family/#gorebyss"
+  },
+  {
+    "name": "Relicanth",
+    "url": "/dex/relicanth/"
+  },
+  {
+    "name": "Luvdisc",
+    "url": "/dex/luvdisc/"
+  },
+  {
+    "name": "Alomomola",
+    "url": "/dex/luvdisc-family/#alomomola"
+  },
+  {
+    "name": "Bagon",
+    "url": "/dex/bagon/"
+  },
+  {
+    "name": "Shelgon",
+    "url": "/dex/bagon-family/#shelgon"
+  },
+  {
+    "name": "Salamence",
+    "url": "/dex/bagon-family/#salamence"
+  },
+  {
+    "name": "Mega Salamence",
+    "url": "/dex/bagon-family/#mega-salamence"
+  },
+  {
+    "name": "Beldum",
+    "url": "/dex/beldum/"
+  },
+  {
+    "name": "Metang",
+    "url": "/dex/beldum-family/#metang"
+  },
+  {
+    "name": "Metagross",
+    "url": "/dex/beldum-family/#metagross"
+  },
+  {
+    "name": "Mega Metagross",
+    "url": "/dex/beldum-family/#mega-metagross"
+  },
+  {
+    "name": "Regirock",
+    "url": "/dex/regirock/"
+  },
+  {
+    "name": "Regice",
+    "url": "/dex/regice/"
+  },
+  {
+    "name": "Registeel",
+    "url": "/dex/registeel/"
+  },
+  {
+    "name": "Regieleki",
+    "url": "/dex/regieleki/"
+  },
+  {
+    "name": "Regidrago",
+    "url": "/dex/regidrago/"
+  },
+  {
+    "name": "Regigigas",
+    "url": "/dex/regigigas/"
+  },
+  {
+    "name": "Latias",
+    "url": "/dex/latias/"
+  },
+  {
+    "name": "Mega Latias",
+    "url": "/dex/latias-family/#mega-latias"
+  },
+  {
+    "name": "Latios",
+    "url": "/dex/latios/"
+  },
+  {
+    "name": "Mega Latios",
+    "url": "/dex/latios-family/#mega-latios"
+  },
+  {
+    "name": "Kyogre",
+    "url": "/dex/kyogre/"
+  },
+  {
+    "name": "Primal Kyogre",
+    "url": "/dex/kyogre-family/#primal-kyogre"
+  },
+  {
+    "name": "Groudon",
+    "url": "/dex/groudon/"
+  },
+  {
+    "name": "Primal Groudon",
+    "url": "/dex/groudon-family/#primal-groudon"
+  },
+  {
+    "name": "Rayquaza",
+    "url": "/dex/rayquaza/"
+  },
+  {
+    "name": "Mega Rayquaza",
+    "url": "/dex/rayquaza-family/#mega-rayquaza"
+  },
+  {
+    "name": "Jirachi",
+    "url": "/dex/jirachi/"
+  },
+  {
+    "name": "Deoxys",
+    "url": "/dex/deoxys/"
+  },
+  {
+    "name": "Deoxys (Attack)",
+    "url": "/dex/deoxys-family/#deoxys-attack"
+  },
+  {
+    "name": "Deoxys (Defense)",
+    "url": "/dex/deoxys-family/#deoxys-defense"
+  },
+  {
+    "name": "Deoxys (Speed)",
+    "url": "/dex/deoxys-family/#deoxys-speed"
+  },
+  {
+    "name": "Turtwig",
+    "url": "/dex/turtwig/"
+  },
+  {
+    "name": "Grotle",
+    "url": "/dex/turtwig-family/#grotle"
+  },
+  {
+    "name": "Torterra",
+    "url": "/dex/turtwig-family/#torterra"
+  },
+  {
+    "name": "Chimchar",
+    "url": "/dex/chimchar/"
+  },
+  {
+    "name": "Monferno",
+    "url": "/dex/chimchar-family/#monferno"
+  },
+  {
+    "name": "Infernape",
+    "url": "/dex/chimchar-family/#infernape"
+  },
+  {
+    "name": "Piplup",
+    "url": "/dex/piplup/"
+  },
+  {
+    "name": "Prinplup",
+    "url": "/dex/piplup-family/#prinplup"
+  },
+  {
+    "name": "Empoleon",
+    "url": "/dex/piplup-family/#empoleon"
+  },
+  {
+    "name": "Starly",
+    "url": "/dex/starly/"
+  },
+  {
+    "name": "Staravia",
+    "url": "/dex/starly-family/#staravia"
+  },
+  {
+    "name": "Staraptor",
+    "url": "/dex/starly-family/#staraptor"
+  },
+  {
+    "name": "Bidoof",
+    "url": "/dex/bidoof/"
+  },
+  {
+    "name": "Bibarel",
+    "url": "/dex/bidoof-family/#bibarel"
+  },
+  {
+    "name": "Kricketot",
+    "url": "/dex/kricketot/"
+  },
+  {
+    "name": "Kricketune",
+    "url": "/dex/kricketot-family/#kricketune"
+  },
+  {
+    "name": "Shinx",
+    "url": "/dex/shinx/"
+  },
+  {
+    "name": "Luxio",
+    "url": "/dex/shinx-family/#luxio"
+  },
+  {
+    "name": "Luxray",
+    "url": "/dex/shinx-family/#luxray"
+  },
+  {
+    "name": "Cranidos",
+    "url": "/dex/cranidos/"
+  },
+  {
+    "name": "Rampardos",
+    "url": "/dex/cranidos-family/#rampardos"
+  },
+  {
+    "name": "Shieldon",
+    "url": "/dex/shieldon/"
+  },
+  {
+    "name": "Bastiodon",
+    "url": "/dex/shieldon-family/#bastiodon"
+  },
+  {
+    "name": "Burmy",
+    "url": "/dex/burmy/"
+  },
+  {
+    "name": "Wormadam (Plant)",
+    "url": "/dex/burmy-family/#wormadam-plant"
+  },
+  {
+    "name": "Wormadam (Sand)",
+    "url": "/dex/burmy-family/#wormadam-sand"
+  },
+  {
+    "name": "Wormadam (Trash)",
+    "url": "/dex/burmy-family/#wormadam-trash"
+  },
+  {
+    "name": "Mothim",
+    "url": "/dex/burmy-family/#mothim"
+  },
+  {
+    "name": "Combee",
+    "url": "/dex/combee/"
+  },
+  {
+    "name": "Vespiquen",
+    "url": "/dex/combee-family/#vespiquen"
+  },
+  {
+    "name": "Pachirisu",
+    "url": "/dex/pachirisu/"
+  },
+  {
+    "name": "Buizel",
+    "url": "/dex/buizel/"
+  },
+  {
+    "name": "Floatzel",
+    "url": "/dex/buizel-family/#floatzel"
+  },
+  {
+    "name": "Cherubi",
+    "url": "/dex/cherubi/"
+  },
+  {
+    "name": "Cherrim",
+    "url": "/dex/cherubi-family/#cherrim"
+  },
+  {
+    "name": "Shellos",
+    "url": "/dex/shellos/"
+  },
+  {
+    "name": "Gastrodon",
+    "url": "/dex/shellos-family/#gastrodon"
+  },
+  {
+    "name": "Drifloon",
+    "url": "/dex/drifloon/"
+  },
+  {
+    "name": "Drifblim",
+    "url": "/dex/drifloon-family/#drifblim"
+  },
+  {
+    "name": "Buneary",
+    "url": "/dex/buneary/"
+  },
+  {
+    "name": "Lopunny",
+    "url": "/dex/buneary-family/#lopunny"
+  },
+  {
+    "name": "Mega Lopunny",
+    "url": "/dex/buneary-family/#mega-lopunny"
+  },
+  {
+    "name": "Glameow",
+    "url": "/dex/glameow/"
+  },
+  {
+    "name": "Purugly",
+    "url": "/dex/glameow-family/#purugly"
+  },
+  {
+    "name": "Stunky",
+    "url": "/dex/stunky/"
+  },
+  {
+    "name": "Skuntank",
+    "url": "/dex/stunky-family/#skuntank"
+  },
+  {
+    "name": "Bronzor",
+    "url": "/dex/bronzor/"
+  },
+  {
+    "name": "Bronzong",
+    "url": "/dex/bronzor-family/#bronzong"
+  },
+  {
+    "name": "Chatot",
+    "url": "/dex/chatot/"
+  },
+  {
+    "name": "Spiritomb",
+    "url": "/dex/spiritomb/"
+  },
+  {
+    "name": "Gible",
+    "url": "/dex/gible/"
+  },
+  {
+    "name": "Gabite",
+    "url": "/dex/gible-family/#gabite"
+  },
+  {
+    "name": "Garchomp",
+    "url": "/dex/gible-family/#garchomp"
+  },
+  {
+    "name": "Mega Garchomp",
+    "url": "/dex/gible-family/#mega-garchomp"
+  },
+  {
+    "name": "Riolu",
+    "url": "/dex/riolu/"
+  },
+  {
+    "name": "Lucario",
+    "url": "/dex/riolu-family/#lucario"
+  },
+  {
+    "name": "Mega Lucario",
+    "url": "/dex/riolu-family/#mega-lucario"
+  },
+  {
+    "name": "Hippopotas",
+    "url": "/dex/hippopotas/"
+  },
+  {
+    "name": "Hippowdon",
+    "url": "/dex/hippopotas-family/#hippowdon"
+  },
+  {
+    "name": "Skorupi",
+    "url": "/dex/skorupi/"
+  },
+  {
+    "name": "Drapion",
+    "url": "/dex/skorupi-family/#drapion"
+  },
+  {
+    "name": "Croagunk",
+    "url": "/dex/croagunk/"
+  },
+  {
+    "name": "Toxicroak",
+    "url": "/dex/croagunk-family/#toxicroak"
+  },
+  {
+    "name": "Carnivine",
+    "url": "/dex/carnivine/"
+  },
+  {
+    "name": "Finneon",
+    "url": "/dex/finneon/"
+  },
+  {
+    "name": "Lumineon",
+    "url": "/dex/finneon-family/#lumineon"
+  },
+  {
+    "name": "Snover",
+    "url": "/dex/snover/"
+  },
+  {
+    "name": "Abomasnow",
+    "url": "/dex/snover-family/#abomasnow"
+  },
+  {
+    "name": "Mega Abomasnow",
+    "url": "/dex/snover-family/#mega-abomasnow"
+  },
+  {
+    "name": "Rotom",
+    "url": "/dex/rotom/"
+  },
+  {
+    "name": "Rotom (Heat)",
+    "url": "/dex/rotom-family/#rotom-heat"
+  },
+  {
+    "name": "Rotom (Wash)",
+    "url": "/dex/rotom-family/#rotom-wash"
+  },
+  {
+    "name": "Rotom (Frost)",
+    "url": "/dex/rotom-family/#rotom-frost"
+  },
+  {
+    "name": "Rotom (Fan)",
+    "url": "/dex/rotom-family/#rotom-fan"
+  },
+  {
+    "name": "Rotom (Mow)",
+    "url": "/dex/rotom-family/#rotom-mow"
+  },
+  {
+    "name": "Uxie",
+    "url": "/dex/uxie/"
+  },
+  {
+    "name": "Mesprit",
+    "url": "/dex/mesprit/"
+  },
+  {
+    "name": "Azelf",
+    "url": "/dex/azelf/"
+  },
+  {
+    "name": "Dialga",
+    "url": "/dex/dialga/"
+  },
+  {
+    "name": "Dialga (Origin)",
+    "url": "/dex/dialga-family/#dialga-origin"
+  },
+  {
+    "name": "Palkia",
+    "url": "/dex/palkia/"
+  },
+  {
+    "name": "Palkia (Origin)",
+    "url": "/dex/palkia-family/#palkia-origin"
+  },
+  {
+    "name": "Giratina",
+    "url": "/dex/giratina/"
+  },
+  {
+    "name": "Giratina (Origin)",
+    "url": "/dex/giratina-family/#giratina-origin"
+  },
+  {
+    "name": "Heatran",
+    "url": "/dex/heatran/"
+  },
+  {
+    "name": "Cresselia",
+    "url": "/dex/cresselia/"
+  },
+  {
+    "name": "Darkrai",
+    "url": "/dex/darkrai/"
+  },
+  {
+    "name": "Manaphy",
+    "url": "/dex/manaphy/"
+  },
+  {
+    "name": "Phione",
+    "url": "/dex/manaphy-family/#phione"
+  },
+  {
+    "name": "Shaymin",
+    "url": "/dex/shaymin/"
+  },
+  {
+    "name": "Shaymin (Sky)",
+    "url": "/dex/shaymin-family/#shaymin-sky"
+  },
+  {
+    "name": "Arceus",
+    "url": "/dex/arceus/"
+  },
+  {
+    "name": "Victini",
+    "url": "/dex/victini/"
+  },
+  {
+    "name": "Snivy",
+    "url": "/dex/snivy/"
+  },
+  {
+    "name": "Servine",
+    "url": "/dex/snivy-family/#servine"
+  },
+  {
+    "name": "Serperior",
+    "url": "/dex/snivy-family/#serperior"
+  },
+  {
+    "name": "Tepig",
+    "url": "/dex/tepig/"
+  },
+  {
+    "name": "Pignite",
+    "url": "/dex/tepig-family/#pignite"
+  },
+  {
+    "name": "Emboar",
+    "url": "/dex/tepig-family/#emboar"
+  },
+  {
+    "name": "Oshawott",
+    "url": "/dex/oshawott/"
+  },
+  {
+    "name": "Dewott",
+    "url": "/dex/oshawott-family/#dewott"
+  },
+  {
+    "name": "Samurott",
+    "url": "/dex/oshawott-family/#samurott"
+  },
+  {
+    "name": "Hisuian Samurott",
+    "url": "/dex/oshawott-family/#hisuian-samurott"
+  },
+  {
+    "name": "Patrat",
+    "url": "/dex/patrat/"
+  },
+  {
+    "name": "Watchog",
+    "url": "/dex/patrat-family/#watchog"
+  },
+  {
+    "name": "Lillipup",
+    "url": "/dex/lillipup/"
+  },
+  {
+    "name": "Herdier",
+    "url": "/dex/lillipup-family/#herdier"
+  },
+  {
+    "name": "Stoutland",
+    "url": "/dex/lillipup-family/#stoutland"
+  },
+  {
+    "name": "Purrloin",
+    "url": "/dex/purrloin/"
+  },
+  {
+    "name": "Liepard",
+    "url": "/dex/purrloin-family/#liepard"
+  },
+  {
+    "name": "Pansage",
+    "url": "/dex/pansage/"
+  },
+  {
+    "name": "Simisage",
+    "url": "/dex/pansage-family/#simisage"
+  },
+  {
+    "name": "Pansear",
+    "url": "/dex/pansear/"
+  },
+  {
+    "name": "Simisear",
+    "url": "/dex/pansear-family/#simisear"
+  },
+  {
+    "name": "Panpour",
+    "url": "/dex/panpour/"
+  },
+  {
+    "name": "Simipour",
+    "url": "/dex/panpour-family/#simipour"
+  },
+  {
+    "name": "Munna",
+    "url": "/dex/munna/"
+  },
+  {
+    "name": "Musharna",
+    "url": "/dex/munna-family/#musharna"
+  },
+  {
+    "name": "Pidove",
+    "url": "/dex/pidove/"
+  },
+  {
+    "name": "Tranquill",
+    "url": "/dex/pidove-family/#tranquill"
+  },
+  {
+    "name": "Unfezant",
+    "url": "/dex/pidove-family/#unfezant"
+  },
+  {
+    "name": "Blitzle",
+    "url": "/dex/blitzle/"
+  },
+  {
+    "name": "Zebstrika",
+    "url": "/dex/blitzle-family/#zebstrika"
+  },
+  {
+    "name": "Roggenrola",
+    "url": "/dex/roggenrola/"
+  },
+  {
+    "name": "Boldore",
+    "url": "/dex/roggenrola-family/#boldore"
+  },
+  {
+    "name": "Gigalith",
+    "url": "/dex/roggenrola-family/#gigalith"
+  },
+  {
+    "name": "Woobat",
+    "url": "/dex/woobat/"
+  },
+  {
+    "name": "Swoobat",
+    "url": "/dex/woobat-family/#swoobat"
+  },
+  {
+    "name": "Drilbur",
+    "url": "/dex/drilbur/"
+  },
+  {
+    "name": "Excadrill",
+    "url": "/dex/drilbur-family/#excadrill"
+  },
+  {
+    "name": "Audino",
+    "url": "/dex/audino/"
+  },
+  {
+    "name": "Mega Audino",
+    "url": "/dex/audino-family/#mega-audino"
+  },
+  {
+    "name": "Timburr",
+    "url": "/dex/timburr/"
+  },
+  {
+    "name": "Gurdurr",
+    "url": "/dex/timburr-family/#gurdurr"
+  },
+  {
+    "name": "Conkeldurr",
+    "url": "/dex/timburr-family/#conkeldurr"
+  },
+  {
+    "name": "Tympole",
+    "url": "/dex/tympole/"
+  },
+  {
+    "name": "Palpitoad",
+    "url": "/dex/tympole-family/#palpitoad"
+  },
+  {
+    "name": "Seismitoad",
+    "url": "/dex/tympole-family/#seismitoad"
+  },
+  {
+    "name": "Throh",
+    "url": "/dex/throh/"
+  },
+  {
+    "name": "Sawk",
+    "url": "/dex/sawk/"
+  },
+  {
+    "name": "Sewaddle",
+    "url": "/dex/sewaddle/"
+  },
+  {
+    "name": "Swadloon",
+    "url": "/dex/sewaddle-family/#swadloon"
+  },
+  {
+    "name": "Leavanny",
+    "url": "/dex/sewaddle-family/#leavanny"
+  },
+  {
+    "name": "Venipede",
+    "url": "/dex/venipede/"
+  },
+  {
+    "name": "Whirlipede",
+    "url": "/dex/venipede-family/#whirlipede"
+  },
+  {
+    "name": "Scolipede",
+    "url": "/dex/venipede-family/#scolipede"
+  },
+  {
+    "name": "Cottonee",
+    "url": "/dex/cottonee/"
+  },
+  {
+    "name": "Whimsicott",
+    "url": "/dex/cottonee-family/#whimsicott"
+  },
+  {
+    "name": "Petilil",
+    "url": "/dex/petilil/"
+  },
+  {
+    "name": "Lilligant",
+    "url": "/dex/petilil-family/#lilligant"
+  },
+  {
+    "name": "Hisuian Lilligant",
+    "url": "/dex/petilil-family/#hisuian-lilligant"
+  },
+  {
+    "name": "Basculin",
+    "url": "/dex/basculin/"
+  },
+  {
+    "name": "Basculin (White Stripe)",
+    "url": "/dex/basculin-family/#basculin-white-stripe"
+  },
+  {
+    "name": "Basculegion (♂)",
+    "url": "/dex/basculin-family/#basculegion-♂"
+  },
+  {
+    "name": "Basculegion (♀)",
+    "url": "/dex/basculin-family/#basculegion-♀"
+  },
+  {
+    "name": "Sandile",
+    "url": "/dex/sandile/"
+  },
+  {
+    "name": "Krokorok",
+    "url": "/dex/sandile-family/#krokorok"
+  },
+  {
+    "name": "Krookodile",
+    "url": "/dex/sandile-family/#krookodile"
+  },
+  {
+    "name": "Darumaka",
+    "url": "/dex/darumaka/"
+  },
+  {
+    "name": "Darmanitan",
+    "url": "/dex/darumaka-family/#darmanitan"
+  },
+  {
+    "name": "Darmanitan (Zen)",
+    "url": "/dex/darumaka-family/#darmanitan-zen"
+  },
+  {
+    "name": "Galarian Darumaka",
+    "url": "/dex/darumaka-family/#galarian-darumaka"
+  },
+  {
+    "name": "Galarian Darmanitan",
+    "url": "/dex/darumaka-family/#galarian-darmanitan"
+  },
+  {
+    "name": "Galarian Darmanitan (Zen)",
+    "url": "/dex/darumaka-family/#galarian-darmanitan-zen"
+  },
+  {
+    "name": "Maractus",
+    "url": "/dex/maractus/"
+  },
+  {
+    "name": "Dwebble",
+    "url": "/dex/dwebble/"
+  },
+  {
+    "name": "Crustle",
+    "url": "/dex/dwebble-family/#crustle"
+  },
+  {
+    "name": "Scraggy",
+    "url": "/dex/scraggy/"
+  },
+  {
+    "name": "Scrafty",
+    "url": "/dex/scraggy-family/#scrafty"
+  },
+  {
+    "name": "Sigilyph",
+    "url": "/dex/sigilyph/"
+  },
+  {
+    "name": "Yamask",
+    "url": "/dex/yamask/"
+  },
+  {
+    "name": "Cofagrigus",
+    "url": "/dex/yamask-family/#cofagrigus"
+  },
+  {
+    "name": "Galarian Yamask",
+    "url": "/dex/yamask-family/#galarian-yamask"
+  },
+  {
+    "name": "Runerigus",
+    "url": "/dex/yamask-family/#runerigus"
+  },
+  {
+    "name": "Tirtouga",
+    "url": "/dex/tirtouga/"
+  },
+  {
+    "name": "Carracosta",
+    "url": "/dex/tirtouga-family/#carracosta"
+  },
+  {
+    "name": "Archen",
+    "url": "/dex/archen/"
+  },
+  {
+    "name": "Archeops",
+    "url": "/dex/archen-family/#archeops"
+  },
+  {
+    "name": "Trubbish",
+    "url": "/dex/trubbish/"
+  },
+  {
+    "name": "Garbodor",
+    "url": "/dex/trubbish-family/#garbodor"
+  },
+  {
+    "name": "Zorua",
+    "url": "/dex/zorua/"
+  },
+  {
+    "name": "Zoroark",
+    "url": "/dex/zorua-family/#zoroark"
+  },
+  {
+    "name": "Hisuian Zorua",
+    "url": "/dex/zorua-family/#hisuian-zorua"
+  },
+  {
+    "name": "Hisuian Zoroark",
+    "url": "/dex/zorua-family/#hisuian-zoroark"
+  },
+  {
+    "name": "Minccino",
+    "url": "/dex/minccino/"
+  },
+  {
+    "name": "Cinccino",
+    "url": "/dex/minccino-family/#cinccino"
+  },
+  {
+    "name": "Gothita",
+    "url": "/dex/gothita/"
+  },
+  {
+    "name": "Gothorita",
+    "url": "/dex/gothita-family/#gothorita"
+  },
+  {
+    "name": "Gothitelle",
+    "url": "/dex/gothita-family/#gothitelle"
+  },
+  {
+    "name": "Solosis",
+    "url": "/dex/solosis/"
+  },
+  {
+    "name": "Duosion",
+    "url": "/dex/solosis-family/#duosion"
+  },
+  {
+    "name": "Reuniclus",
+    "url": "/dex/solosis-family/#reuniclus"
+  },
+  {
+    "name": "Ducklett",
+    "url": "/dex/ducklett/"
+  },
+  {
+    "name": "Swanna",
+    "url": "/dex/ducklett-family/#swanna"
+  },
+  {
+    "name": "Vanillite",
+    "url": "/dex/vanillite/"
+  },
+  {
+    "name": "Vanillish",
+    "url": "/dex/vanillite-family/#vanillish"
+  },
+  {
+    "name": "Vanilluxe",
+    "url": "/dex/vanillite-family/#vanilluxe"
+  },
+  {
+    "name": "Deerling",
+    "url": "/dex/deerling/"
+  },
+  {
+    "name": "Sawsbuck",
+    "url": "/dex/deerling-family/#sawsbuck"
+  },
+  {
+    "name": "Emolga",
+    "url": "/dex/emolga/"
+  },
+  {
+    "name": "Karrablast",
+    "url": "/dex/karrablast/"
+  },
+  {
+    "name": "Escavalier",
+    "url": "/dex/karrablast-family/#escavalier"
+  },
+  {
+    "name": "Shelmet",
+    "url": "/dex/shelmet/"
+  },
+  {
+    "name": "Accelgor",
+    "url": "/dex/shelmet-family/#accelgor"
+  },
+  {
+    "name": "Foongus",
+    "url": "/dex/foongus/"
+  },
+  {
+    "name": "Amoonguss",
+    "url": "/dex/foongus-family/#amoonguss"
+  },
+  {
+    "name": "Frillish",
+    "url": "/dex/frillish/"
+  },
+  {
+    "name": "Jellicent",
+    "url": "/dex/frillish-family/#jellicent"
+  },
+  {
+    "name": "Joltik",
+    "url": "/dex/joltik/"
+  },
+  {
+    "name": "Galvantula",
+    "url": "/dex/joltik-family/#galvantula"
+  },
+  {
+    "name": "Ferroseed",
+    "url": "/dex/ferroseed/"
+  },
+  {
+    "name": "Ferrothorn",
+    "url": "/dex/ferroseed-family/#ferrothorn"
+  },
+  {
+    "name": "Klink",
+    "url": "/dex/klink/"
+  },
+  {
+    "name": "Klang",
+    "url": "/dex/klink-family/#klang"
+  },
+  {
+    "name": "Klinklang",
+    "url": "/dex/klink-family/#klinklang"
+  },
+  {
+    "name": "Tynamo",
+    "url": "/dex/tynamo/"
+  },
+  {
+    "name": "Eelektrik",
+    "url": "/dex/tynamo-family/#eelektrik"
+  },
+  {
+    "name": "Eelektross",
+    "url": "/dex/tynamo-family/#eelektross"
+  },
+  {
+    "name": "Elgyem",
+    "url": "/dex/elgyem/"
+  },
+  {
+    "name": "Beheeyem",
+    "url": "/dex/elgyem-family/#beheeyem"
+  },
+  {
+    "name": "Litwick",
+    "url": "/dex/litwick/"
+  },
+  {
+    "name": "Lampent",
+    "url": "/dex/litwick-family/#lampent"
+  },
+  {
+    "name": "Chandelure",
+    "url": "/dex/litwick-family/#chandelure"
+  },
+  {
+    "name": "Axew",
+    "url": "/dex/axew/"
+  },
+  {
+    "name": "Fraxure",
+    "url": "/dex/axew-family/#fraxure"
+  },
+  {
+    "name": "Haxorus",
+    "url": "/dex/axew-family/#haxorus"
+  },
+  {
+    "name": "Cubchoo",
+    "url": "/dex/cubchoo/"
+  },
+  {
+    "name": "Beartic",
+    "url": "/dex/cubchoo-family/#beartic"
+  },
+  {
+    "name": "Cryogonal",
+    "url": "/dex/cryogonal/"
+  },
+  {
+    "name": "Stunfisk",
+    "url": "/dex/stunfisk/"
+  },
+  {
+    "name": "Galarian Stunfisk",
+    "url": "/dex/stunfisk-family/#galarian-stunfisk"
+  },
+  {
+    "name": "Mienfoo",
+    "url": "/dex/mienfoo/"
+  },
+  {
+    "name": "Mienshao",
+    "url": "/dex/mienfoo-family/#mienshao"
+  },
+  {
+    "name": "Druddigon",
+    "url": "/dex/druddigon/"
+  },
+  {
+    "name": "Golett",
+    "url": "/dex/golett/"
+  },
+  {
+    "name": "Golurk",
+    "url": "/dex/golett-family/#golurk"
+  },
+  {
+    "name": "Pawniard",
+    "url": "/dex/pawniard/"
+  },
+  {
+    "name": "Bisharp",
+    "url": "/dex/pawniard-family/#bisharp"
+  },
+  {
+    "name": "Kingambit",
+    "url": "/dex/pawniard-family/#kingambit"
+  },
+  {
+    "name": "Bouffalant",
+    "url": "/dex/bouffalant/"
+  },
+  {
+    "name": "Rufflet",
+    "url": "/dex/rufflet/"
+  },
+  {
+    "name": "Braviary",
+    "url": "/dex/rufflet-family/#braviary"
+  },
+  {
+    "name": "Hisuian Braviary",
+    "url": "/dex/rufflet-family/#hisuian-braviary"
+  },
+  {
+    "name": "Vullaby",
+    "url": "/dex/vullaby/"
+  },
+  {
+    "name": "Mandibuzz",
+    "url": "/dex/vullaby-family/#mandibuzz"
+  },
+  {
+    "name": "Heatmor",
+    "url": "/dex/heatmor/"
+  },
+  {
+    "name": "Durant",
+    "url": "/dex/durant/"
+  },
+  {
+    "name": "Deino",
+    "url": "/dex/deino/"
+  },
+  {
+    "name": "Zweilous",
+    "url": "/dex/deino-family/#zweilous"
+  },
+  {
+    "name": "Hydreigon",
+    "url": "/dex/deino-family/#hydreigon"
+  },
+  {
+    "name": "Larvesta",
+    "url": "/dex/larvesta/"
+  },
+  {
+    "name": "Volcarona",
+    "url": "/dex/larvesta-family/#volcarona"
+  },
+  {
+    "name": "Cobalion",
+    "url": "/dex/cobalion/"
+  },
+  {
+    "name": "Terrakion",
+    "url": "/dex/terrakion/"
+  },
+  {
+    "name": "Virizion",
+    "url": "/dex/virizion/"
+  },
+  {
+    "name": "Keldeo",
+    "url": "/dex/keldeo/"
+  },
+  {
+    "name": "Keldeo (Resolute)",
+    "url": "/dex/keldeo-family/#keldeo-resolute"
+  },
+  {
+    "name": "Tornadus",
+    "url": "/dex/tornadus/"
+  },
+  {
+    "name": "Tornadus (Therian)",
+    "url": "/dex/tornadus-family/#tornadus-therian"
+  },
+  {
+    "name": "Thundurus",
+    "url": "/dex/thundurus/"
+  },
+  {
+    "name": "Thundurus (Therian)",
+    "url": "/dex/thundurus-family/#thundurus-therian"
+  },
+  {
+    "name": "Landorus",
+    "url": "/dex/landorus/"
+  },
+  {
+    "name": "Landorus (Therian)",
+    "url": "/dex/landorus-family/#landorus-therian"
+  },
+  {
+    "name": "Enamorus",
+    "url": "/dex/enamorus/"
+  },
+  {
+    "name": "Enamorus (Therian)",
+    "url": "/dex/enamorus-family/#enamorus-therian"
+  },
+  {
+    "name": "Reshiram",
+    "url": "/dex/reshiram/"
+  },
+  {
+    "name": "Zekrom",
+    "url": "/dex/zekrom/"
+  },
+  {
+    "name": "Kyurem",
+    "url": "/dex/kyurem/"
+  },
+  {
+    "name": "Kyurem (White)",
+    "url": "/dex/kyurem-family/#kyurem-white"
+  },
+  {
+    "name": "Kyurem (Black)",
+    "url": "/dex/kyurem-family/#kyurem-black"
+  },
+  {
+    "name": "Meloetta",
+    "url": "/dex/meloetta/"
+  },
+  {
+    "name": "Meloetta (Pirouette)",
+    "url": "/dex/meloetta-family/#meloetta-pirouette"
+  },
+  {
+    "name": "Genesect",
+    "url": "/dex/genesect/"
+  },
+  {
+    "name": "Chespin",
+    "url": "/dex/chespin/"
+  },
+  {
+    "name": "Quilladin",
+    "url": "/dex/chespin-family/#quilladin"
+  },
+  {
+    "name": "Chesnaught",
+    "url": "/dex/chespin-family/#chesnaught"
+  },
+  {
+    "name": "Fennekin",
+    "url": "/dex/fennekin/"
+  },
+  {
+    "name": "Braixen",
+    "url": "/dex/fennekin-family/#braixen"
+  },
+  {
+    "name": "Delphox",
+    "url": "/dex/fennekin-family/#delphox"
+  },
+  {
+    "name": "Froakie",
+    "url": "/dex/froakie/"
+  },
+  {
+    "name": "Frogadier",
+    "url": "/dex/froakie-family/#frogadier"
+  },
+  {
+    "name": "Greninja",
+    "url": "/dex/froakie-family/#greninja"
+  },
+  {
+    "name": "Greninja (Ash)",
+    "url": "/dex/froakie-family/#greninja-ash"
+  },
+  {
+    "name": "Bunnelby",
+    "url": "/dex/bunnelby/"
+  },
+  {
+    "name": "Diggersby",
+    "url": "/dex/bunnelby-family/#diggersby"
+  },
+  {
+    "name": "Fletchling",
+    "url": "/dex/fletchling/"
+  },
+  {
+    "name": "Fletchinder",
+    "url": "/dex/fletchling-family/#fletchinder"
+  },
+  {
+    "name": "Talonflame",
+    "url": "/dex/fletchling-family/#talonflame"
+  },
+  {
+    "name": "Scatterbug",
+    "url": "/dex/scatterbug/"
+  },
+  {
+    "name": "Spewpa",
+    "url": "/dex/scatterbug-family/#spewpa"
+  },
+  {
+    "name": "Vivillon",
+    "url": "/dex/scatterbug-family/#vivillon"
+  },
+  {
+    "name": "Litleo",
+    "url": "/dex/litleo/"
+  },
+  {
+    "name": "Pyroar",
+    "url": "/dex/litleo-family/#pyroar"
+  },
+  {
+    "name": "Flabébé",
+    "url": "/dex/flabebe/"
+  },
+  {
+    "name": "Floette",
+    "url": "/dex/flabebe-family/#floette"
+  },
+  {
+    "name": "Florges",
+    "url": "/dex/flabebe-family/#florges"
+  },
+  {
+    "name": "Skiddo",
+    "url": "/dex/skiddo/"
+  },
+  {
+    "name": "Gogoat",
+    "url": "/dex/skiddo-family/#gogoat"
+  },
+  {
+    "name": "Pancham",
+    "url": "/dex/pancham/"
+  },
+  {
+    "name": "Pangoro",
+    "url": "/dex/pancham-family/#pangoro"
+  },
+  {
+    "name": "Furfrou",
+    "url": "/dex/furfrou/"
+  },
+  {
+    "name": "Espurr",
+    "url": "/dex/espurr/"
+  },
+  {
+    "name": "Meowstic (♂)",
+    "url": "/dex/espurr-family/#meowstic-♂"
+  },
+  {
+    "name": "Meowstic (♀)",
+    "url": "/dex/espurr-family/#meowstic-♀"
+  },
+  {
+    "name": "Honedge",
+    "url": "/dex/honedge/"
+  },
+  {
+    "name": "Doublade",
+    "url": "/dex/honedge-family/#doublade"
+  },
+  {
+    "name": "Aegislash",
+    "url": "/dex/honedge-family/#aegislash"
+  },
+  {
+    "name": "Spritzee",
+    "url": "/dex/spritzee/"
+  },
+  {
+    "name": "Aromatisse",
+    "url": "/dex/spritzee-family/#aromatisse"
+  },
+  {
+    "name": "Swirlix",
+    "url": "/dex/swirlix/"
+  },
+  {
+    "name": "Slurpuff",
+    "url": "/dex/swirlix-family/#slurpuff"
+  },
+  {
+    "name": "Inkay",
+    "url": "/dex/inkay/"
+  },
+  {
+    "name": "Malamar",
+    "url": "/dex/inkay-family/#malamar"
+  },
+  {
+    "name": "Binacle",
+    "url": "/dex/binacle/"
+  },
+  {
+    "name": "Barbaracle",
+    "url": "/dex/binacle-family/#barbaracle"
+  },
+  {
+    "name": "Skrelp",
+    "url": "/dex/skrelp/"
+  },
+  {
+    "name": "Dragalge",
+    "url": "/dex/skrelp-family/#dragalge"
+  },
+  {
+    "name": "Clauncher",
+    "url": "/dex/clauncher/"
+  },
+  {
+    "name": "Clawitzer",
+    "url": "/dex/clauncher-family/#clawitzer"
+  },
+  {
+    "name": "Helioptile",
+    "url": "/dex/helioptile/"
+  },
+  {
+    "name": "Heliolisk",
+    "url": "/dex/helioptile-family/#heliolisk"
+  },
+  {
+    "name": "Tyrunt",
+    "url": "/dex/tyrunt/"
+  },
+  {
+    "name": "Tyrantrum",
+    "url": "/dex/tyrunt-family/#tyrantrum"
+  },
+  {
+    "name": "Amaura",
+    "url": "/dex/amaura/"
+  },
+  {
+    "name": "Aurorus",
+    "url": "/dex/amaura-family/#aurorus"
+  },
+  {
+    "name": "Hawlucha",
+    "url": "/dex/hawlucha/"
+  },
+  {
+    "name": "Dedenne",
+    "url": "/dex/dedenne/"
+  },
+  {
+    "name": "Carbink",
+    "url": "/dex/carbink/"
+  },
+  {
+    "name": "Goomy",
+    "url": "/dex/goomy/"
+  },
+  {
+    "name": "Sliggoo",
+    "url": "/dex/goomy-family/#sliggoo"
+  },
+  {
+    "name": "Goodra",
+    "url": "/dex/goomy-family/#goodra"
+  },
+  {
+    "name": "Hisuian Sliggoo",
+    "url": "/dex/goomy-family/#hisuian-sliggoo"
+  },
+  {
+    "name": "Hisuian Goodra",
+    "url": "/dex/goomy-family/#hisuian-goodra"
+  },
+  {
+    "name": "Klefki",
+    "url": "/dex/klefki/"
+  },
+  {
+    "name": "Phantump",
+    "url": "/dex/phantump/"
+  },
+  {
+    "name": "Trevenant",
+    "url": "/dex/phantump-family/#trevenant"
+  },
+  {
+    "name": "Pumpkaboo",
+    "url": "/dex/pumpkaboo/"
+  },
+  {
+    "name": "Gourgeist",
+    "url": "/dex/pumpkaboo-family/#gourgeist"
+  },
+  {
+    "name": "Bergmite",
+    "url": "/dex/bergmite/"
+  },
+  {
+    "name": "Avalugg",
+    "url": "/dex/bergmite-family/#avalugg"
+  },
+  {
+    "name": "Hisuian Avalugg",
+    "url": "/dex/bergmite-family/#hisuian-avalugg"
+  },
+  {
+    "name": "Noibat",
+    "url": "/dex/noibat/"
+  },
+  {
+    "name": "Noivern",
+    "url": "/dex/noibat-family/#noivern"
+  },
+  {
+    "name": "Xerneas",
+    "url": "/dex/xerneas/"
+  },
+  {
+    "name": "Yveltal",
+    "url": "/dex/yveltal/"
+  },
+  {
+    "name": "Zygarde",
+    "url": "/dex/zygarde/"
+  },
+  {
+    "name": "Zygarde (10%)",
+    "url": "/dex/zygarde-family/#zygarde-10"
+  },
+  {
+    "name": "Zygarde (Complete)",
+    "url": "/dex/zygarde-family/#zygarde-complete"
+  },
+  {
+    "name": "Diancie",
+    "url": "/dex/diancie/"
+  },
+  {
+    "name": "Mega Diancie",
+    "url": "/dex/diancie-family/#mega-diancie"
+  },
+  {
+    "name": "Hoopa",
+    "url": "/dex/hoopa/"
+  },
+  {
+    "name": "Hoopa (Unbound)",
+    "url": "/dex/hoopa-family/#hoopa-unbound"
+  },
+  {
+    "name": "Volcanion",
+    "url": "/dex/volcanion/"
+  },
+  {
+    "name": "Rowlet",
+    "url": "/dex/rowlet/"
+  },
+  {
+    "name": "Dartrix",
+    "url": "/dex/rowlet-family/#dartrix"
+  },
+  {
+    "name": "Decidueye",
+    "url": "/dex/rowlet-family/#decidueye"
+  },
+  {
+    "name": "Hisuian Decidueye",
+    "url": "/dex/rowlet-family/#hisuian-decidueye"
+  },
+  {
+    "name": "Litten",
+    "url": "/dex/litten/"
+  },
+  {
+    "name": "Torracat",
+    "url": "/dex/litten-family/#torracat"
+  },
+  {
+    "name": "Incineroar",
+    "url": "/dex/litten-family/#incineroar"
+  },
+  {
+    "name": "Popplio",
+    "url": "/dex/popplio/"
+  },
+  {
+    "name": "Brionne",
+    "url": "/dex/popplio-family/#brionne"
+  },
+  {
+    "name": "Primarina",
+    "url": "/dex/popplio-family/#primarina"
+  },
+  {
+    "name": "Pikipek",
+    "url": "/dex/pikipek/"
+  },
+  {
+    "name": "Trumbeak",
+    "url": "/dex/pikipek-family/#trumbeak"
+  },
+  {
+    "name": "Toucannon",
+    "url": "/dex/pikipek-family/#toucannon"
+  },
+  {
+    "name": "Yungoos",
+    "url": "/dex/yungoos/"
+  },
+  {
+    "name": "Gumshoos",
+    "url": "/dex/yungoos-family/#gumshoos"
+  },
+  {
+    "name": "Grubbin",
+    "url": "/dex/grubbin/"
+  },
+  {
+    "name": "Charjabug",
+    "url": "/dex/grubbin-family/#charjabug"
+  },
+  {
+    "name": "Vikavolt",
+    "url": "/dex/grubbin-family/#vikavolt"
+  },
+  {
+    "name": "Crabrawler",
+    "url": "/dex/crabrawler/"
+  },
+  {
+    "name": "Crabominable",
+    "url": "/dex/crabrawler-family/#crabominable"
+  },
+  {
+    "name": "Oricorio (Baile)",
+    "url": "/dex/oricorio/"
+  },
+  {
+    "name": "Oricorio (Pom-Pom)",
+    "url": "/dex/oricorio-family/#oricorio-pom-pom"
+  },
+  {
+    "name": "Oricorio (Pa'u)",
+    "url": "/dex/oricorio-family/#oricorio-pa-u"
+  },
+  {
+    "name": "Oricorio (Sensu)",
+    "url": "/dex/oricorio-family/#oricorio-sensu"
+  },
+  {
+    "name": "Cutiefly",
+    "url": "/dex/cutiefly/"
+  },
+  {
+    "name": "Ribombee",
+    "url": "/dex/cutiefly-family/#ribombee"
+  },
+  {
+    "name": "Rockruff",
+    "url": "/dex/rockruff/"
+  },
+  {
+    "name": "Lycanroc (Midday)",
+    "url": "/dex/rockruff-family/#lycanroc-midday"
+  },
+  {
+    "name": "Lycanroc (Midnight)",
+    "url": "/dex/rockruff-family/#lycanroc-midnight"
+  },
+  {
+    "name": "Lycanroc (Dusk)",
+    "url": "/dex/rockruff-family/#lycanroc-dusk"
+  },
+  {
+    "name": "Wishiwashi",
+    "url": "/dex/wishiwashi/"
+  },
+  {
+    "name": "Wishiwashi (School)",
+    "url": "/dex/wishiwashi-family/#wishiwashi-school"
+  },
+  {
+    "name": "Mareanie",
+    "url": "/dex/mareanie/"
+  },
+  {
+    "name": "Toxapex",
+    "url": "/dex/mareanie-family/#toxapex"
+  },
+  {
+    "name": "Mudbray",
+    "url": "/dex/mudbray/"
+  },
+  {
+    "name": "Mudsdale",
+    "url": "/dex/mudbray-family/#mudsdale"
+  },
+  {
+    "name": "Dewpider",
+    "url": "/dex/dewpider/"
+  },
+  {
+    "name": "Araquanid",
+    "url": "/dex/dewpider-family/#araquanid"
+  },
+  {
+    "name": "Fomantis",
+    "url": "/dex/fomantis/"
+  },
+  {
+    "name": "Lurantis",
+    "url": "/dex/fomantis-family/#lurantis"
+  },
+  {
+    "name": "Morelull",
+    "url": "/dex/morelull/"
+  },
+  {
+    "name": "Shiinotic",
+    "url": "/dex/morelull-family/#shiinotic"
+  },
+  {
+    "name": "Salandit",
+    "url": "/dex/salandit/"
+  },
+  {
+    "name": "Salazzle",
+    "url": "/dex/salandit-family/#salazzle"
+  },
+  {
+    "name": "Stufful",
+    "url": "/dex/stufful/"
+  },
+  {
+    "name": "Bewear",
+    "url": "/dex/stufful-family/#bewear"
+  },
+  {
+    "name": "Bounsweet",
+    "url": "/dex/bounsweet/"
+  },
+  {
+    "name": "Steenee",
+    "url": "/dex/bounsweet-family/#steenee"
+  },
+  {
+    "name": "Tsareena",
+    "url": "/dex/bounsweet-family/#tsareena"
+  },
+  {
+    "name": "Comfey",
+    "url": "/dex/comfey/"
+  },
+  {
+    "name": "Oranguru",
+    "url": "/dex/oranguru/"
+  },
+  {
+    "name": "Passimian",
+    "url": "/dex/passimian/"
+  },
+  {
+    "name": "Wimpod",
+    "url": "/dex/wimpod/"
+  },
+  {
+    "name": "Golisopod",
+    "url": "/dex/wimpod-family/#golisopod"
+  },
+  {
+    "name": "Sandygast",
+    "url": "/dex/sandygast/"
+  },
+  {
+    "name": "Palossand",
+    "url": "/dex/sandygast-family/#palossand"
+  },
+  {
+    "name": "Pyukumuku",
+    "url": "/dex/pyukumuku/"
+  },
+  {
+    "name": "Type: Null",
+    "url": "/dex/type-null/"
+  },
+  {
+    "name": "Silvally",
+    "url": "/dex/type-null-family/#silvally"
+  },
+  {
+    "name": "Minior",
+    "url": "/dex/minior/"
+  },
+  {
+    "name": "Minior (Core)",
+    "url": "/dex/minior-family/#minior-core"
+  },
+  {
+    "name": "Komala",
+    "url": "/dex/komala/"
+  },
+  {
+    "name": "Turtonator",
+    "url": "/dex/turtonator/"
+  },
+  {
+    "name": "Togedemaru",
+    "url": "/dex/togedemaru/"
+  },
+  {
+    "name": "Mimikyu",
+    "url": "/dex/mimikyu/"
+  },
+  {
+    "name": "Bruxish",
+    "url": "/dex/bruxish/"
+  },
+  {
+    "name": "Drampa",
+    "url": "/dex/drampa/"
+  },
+  {
+    "name": "Dhelmise",
+    "url": "/dex/dhelmise/"
+  },
+  {
+    "name": "Jangmo-o",
+    "url": "/dex/jangmo-o/"
+  },
+  {
+    "name": "Hakamo-o",
+    "url": "/dex/jangmo-o-family/#hakamo-o"
+  },
+  {
+    "name": "Kommo-o",
+    "url": "/dex/jangmo-o-family/#kommo-o"
+  },
+  {
+    "name": "Tapu Koko",
+    "url": "/dex/tapu-koko/"
+  },
+  {
+    "name": "Tapu Lele",
+    "url": "/dex/tapu-lele/"
+  },
+  {
+    "name": "Tapu Bulu",
+    "url": "/dex/tapu-bulu/"
+  },
+  {
+    "name": "Tapu Fini",
+    "url": "/dex/tapu-fini/"
+  },
+  {
+    "name": "Cosmog",
+    "url": "/dex/cosmog/"
+  },
+  {
+    "name": "Cosmoem",
+    "url": "/dex/cosmog-family/#cosmoem"
+  },
+  {
+    "name": "Solgaleo",
+    "url": "/dex/cosmog-family/#solgaleo"
+  },
+  {
+    "name": "Lunala",
+    "url": "/dex/cosmog-family/#lunala"
+  },
+  {
+    "name": "Necrozma",
+    "url": "/dex/necrozma/"
+  },
+  {
+    "name": "Necrozma (Dusk Mane)",
+    "url": "/dex/necrozma-family/#necrozma-dusk-mane"
+  },
+  {
+    "name": "Necrozma (Dawn Wings)",
+    "url": "/dex/necrozma-family/#necrozma-dawn-wings"
+  },
+  {
+    "name": "Necrozma (Ultra)",
+    "url": "/dex/necrozma-family/#necrozma-ultra"
+  },
+  {
+    "name": "Nihilego",
+    "url": "/dex/nihilego/"
+  },
+  {
+    "name": "Buzzwole",
+    "url": "/dex/buzzwole/"
+  },
+  {
+    "name": "Pheromosa",
+    "url": "/dex/pheromosa/"
+  },
+  {
+    "name": "Xurkitree",
+    "url": "/dex/xurkitree/"
+  },
+  {
+    "name": "Celesteela",
+    "url": "/dex/celesteela/"
+  },
+  {
+    "name": "Kartana",
+    "url": "/dex/kartana/"
+  },
+  {
+    "name": "Guzzlord",
+    "url": "/dex/guzzlord/"
+  },
+  {
+    "name": "Stakataka",
+    "url": "/dex/stakataka/"
+  },
+  {
+    "name": "Blacephalon",
+    "url": "/dex/blacephalon/"
+  },
+  {
+    "name": "Poipole",
+    "url": "/dex/poipole/"
+  },
+  {
+    "name": "Naganadel",
+    "url": "/dex/poipole-family/#naganadel"
+  },
+  {
+    "name": "Magearna",
+    "url": "/dex/magearna/"
+  },
+  {
+    "name": "Marshadow",
+    "url": "/dex/marshadow/"
+  },
+  {
+    "name": "Zeraora",
+    "url": "/dex/zeraora/"
+  },
+  {
+    "name": "Meltan",
+    "url": "/dex/meltan/"
+  },
+  {
+    "name": "Melmetal",
+    "url": "/dex/meltan-family/#melmetal"
+  },
+  {
+    "name": "Grookey",
+    "url": "/dex/grookey/"
+  },
+  {
+    "name": "Thwackey",
+    "url": "/dex/grookey-family/#thwackey"
+  },
+  {
+    "name": "Rillaboom",
+    "url": "/dex/grookey-family/#rillaboom"
+  },
+  {
+    "name": "Scorbunny",
+    "url": "/dex/scorbunny/"
+  },
+  {
+    "name": "Raboot",
+    "url": "/dex/scorbunny-family/#raboot"
+  },
+  {
+    "name": "Cinderace",
+    "url": "/dex/scorbunny-family/#cinderace"
+  },
+  {
+    "name": "Sobble",
+    "url": "/dex/sobble/"
+  },
+  {
+    "name": "Drizzile",
+    "url": "/dex/sobble-family/#drizzile"
+  },
+  {
+    "name": "Inteleon",
+    "url": "/dex/sobble-family/#inteleon"
+  },
+  {
+    "name": "Skwovet",
+    "url": "/dex/skwovet/"
+  },
+  {
+    "name": "Greedent",
+    "url": "/dex/skwovet-family/#greedent"
+  },
+  {
+    "name": "Rookidee",
+    "url": "/dex/rookidee/"
+  },
+  {
+    "name": "Corvisquire",
+    "url": "/dex/rookidee-family/#corvisquire"
+  },
+  {
+    "name": "Corviknight",
+    "url": "/dex/rookidee-family/#corviknight"
+  },
+  {
+    "name": "Blipbug",
+    "url": "/dex/blipbug/"
+  },
+  {
+    "name": "Dottler",
+    "url": "/dex/blipbug-family/#dottler"
+  },
+  {
+    "name": "Orbeetle",
+    "url": "/dex/blipbug-family/#orbeetle"
+  },
+  {
+    "name": "Nickit",
+    "url": "/dex/nickit/"
+  },
+  {
+    "name": "Thievul",
+    "url": "/dex/nickit-family/#thievul"
+  },
+  {
+    "name": "Gossifleur",
+    "url": "/dex/gossifleur/"
+  },
+  {
+    "name": "Eldegoss",
+    "url": "/dex/gossifleur-family/#eldegoss"
+  },
+  {
+    "name": "Wooloo",
+    "url": "/dex/wooloo/"
+  },
+  {
+    "name": "Dubwool",
+    "url": "/dex/wooloo-family/#dubwool"
+  },
+  {
+    "name": "Chewtle",
+    "url": "/dex/chewtle/"
+  },
+  {
+    "name": "Drednaw",
+    "url": "/dex/chewtle-family/#drednaw"
+  },
+  {
+    "name": "Yamper",
+    "url": "/dex/yamper/"
+  },
+  {
+    "name": "Boltund",
+    "url": "/dex/yamper-family/#boltund"
+  },
+  {
+    "name": "Rolycoly",
+    "url": "/dex/rolycoly/"
+  },
+  {
+    "name": "Carkol",
+    "url": "/dex/rolycoly-family/#carkol"
+  },
+  {
+    "name": "Coalossal",
+    "url": "/dex/rolycoly-family/#coalossal"
+  },
+  {
+    "name": "Applin",
+    "url": "/dex/applin/"
+  },
+  {
+    "name": "Flapple",
+    "url": "/dex/applin-family/#flapple"
+  },
+  {
+    "name": "Appletun",
+    "url": "/dex/applin-family/#appletun"
+  },
+  {
+    "name": "Dipplin",
+    "url": "/dex/applin-family/#dipplin"
+  },
+  {
+    "name": "Hydrapple",
+    "url": "/dex/applin-family/#hydrapple"
+  },
+  {
+    "name": "Silicobra",
+    "url": "/dex/silicobra/"
+  },
+  {
+    "name": "Sandaconda",
+    "url": "/dex/silicobra-family/#sandaconda"
+  },
+  {
+    "name": "Cramorant",
+    "url": "/dex/cramorant/"
+  },
+  {
+    "name": "Arrokuda",
+    "url": "/dex/arrokuda/"
+  },
+  {
+    "name": "Barraskewda",
+    "url": "/dex/arrokuda-family/#barraskewda"
+  },
+  {
+    "name": "Toxel",
+    "url": "/dex/toxel/"
+  },
+  {
+    "name": "Toxtricity",
+    "url": "/dex/toxel-family/#toxtricity"
+  },
+  {
+    "name": "Sizzlipede",
+    "url": "/dex/sizzlipede/"
+  },
+  {
+    "name": "Centiskorch",
+    "url": "/dex/sizzlipede-family/#centiskorch"
+  },
+  {
+    "name": "Clobbopus",
+    "url": "/dex/clobbopus/"
+  },
+  {
+    "name": "Grapploct",
+    "url": "/dex/clobbopus-family/#grapploct"
+  },
+  {
+    "name": "Sinistea",
+    "url": "/dex/sinistea/"
+  },
+  {
+    "name": "Polteageist",
+    "url": "/dex/sinistea-family/#polteageist"
+  },
+  {
+    "name": "Poltchageist",
+    "url": "/dex/poltchageist/"
+  },
+  {
+    "name": "Sinistcha",
+    "url": "/dex/poltchageist-family/#sinistcha"
+  },
+  {
+    "name": "Hatenna",
+    "url": "/dex/hatenna/"
+  },
+  {
+    "name": "Hattrem",
+    "url": "/dex/hatenna-family/#hattrem"
+  },
+  {
+    "name": "Hatterene",
+    "url": "/dex/hatenna-family/#hatterene"
+  },
+  {
+    "name": "Impidimp",
+    "url": "/dex/impidimp/"
+  },
+  {
+    "name": "Morgrem",
+    "url": "/dex/impidimp-family/#morgrem"
+  },
+  {
+    "name": "Grimmsnarl",
+    "url": "/dex/impidimp-family/#grimmsnarl"
+  },
+  {
+    "name": "Milcery",
+    "url": "/dex/milcery/"
+  },
+  {
+    "name": "Alcremie",
+    "url": "/dex/milcery-family/#alcremie"
+  },
+  {
+    "name": "Falinks",
+    "url": "/dex/falinks/"
+  },
+  {
+    "name": "Pincurchin",
+    "url": "/dex/pincurchin/"
+  },
+  {
+    "name": "Snom",
+    "url": "/dex/snom/"
+  },
+  {
+    "name": "Frosmoth",
+    "url": "/dex/snom-family/#frosmoth"
+  },
+  {
+    "name": "Stonjourner",
+    "url": "/dex/stonjourner/"
+  },
+  {
+    "name": "Eiscue",
+    "url": "/dex/eiscue/"
+  },
+  {
+    "name": "Eiscue (Noice)",
+    "url": "/dex/eiscue-family/#eiscue-noice"
+  },
+  {
+    "name": "Indeedee (♂)",
+    "url": "/dex/indeedee/"
+  },
+  {
+    "name": "Indeedee (♀)",
+    "url": "/dex/indeedee-family/#indeedee-♀"
+  },
+  {
+    "name": "Morpeko",
+    "url": "/dex/morpeko/"
+  },
+  {
+    "name": "Cufant",
+    "url": "/dex/cufant/"
+  },
+  {
+    "name": "Copperajah",
+    "url": "/dex/cufant-family/#copperajah"
+  },
+  {
+    "name": "Dracozolt",
+    "url": "/dex/dracozolt/"
+  },
+  {
+    "name": "Arctozolt",
+    "url": "/dex/arctozolt/"
+  },
+  {
+    "name": "Dracovish",
+    "url": "/dex/dracovish/"
+  },
+  {
+    "name": "Arctovish",
+    "url": "/dex/arctovish/"
+  },
+  {
+    "name": "Duraludon",
+    "url": "/dex/duraludon/"
+  },
+  {
+    "name": "Archaludon",
+    "url": "/dex/duraludon-family/#archaludon"
+  },
+  {
+    "name": "Dreepy",
+    "url": "/dex/dreepy/"
+  },
+  {
+    "name": "Drakloak",
+    "url": "/dex/dreepy-family/#drakloak"
+  },
+  {
+    "name": "Dragapult",
+    "url": "/dex/dreepy-family/#dragapult"
+  },
+  {
+    "name": "Zacian",
+    "url": "/dex/zacian/"
+  },
+  {
+    "name": "Zacian (Crowned Sword)",
+    "url": "/dex/zacian-family/#zacian-crowned-sword"
+  },
+  {
+    "name": "Zamazenta",
+    "url": "/dex/zamazenta/"
+  },
+  {
+    "name": "Zamazenta (Crowned Shield)",
+    "url": "/dex/zamazenta-family/#zamazenta-crowned-shield"
+  },
+  {
+    "name": "Eternatus",
+    "url": "/dex/eternatus/"
+  },
+  {
+    "name": "Eternatus (Eternamax)",
+    "url": "/dex/eternatus-family/#eternatus-eternamax"
+  },
+  {
+    "name": "Kubfu",
+    "url": "/dex/kubfu/"
+  },
+  {
+    "name": "Urshifu (Single Strike)",
+    "url": "/dex/kubfu-family/#urshifu-single-strike"
+  },
+  {
+    "name": "Urshifu (Rapid Strike)",
+    "url": "/dex/kubfu-family/#urshifu-rapid-strike"
+  },
+  {
+    "name": "Zarude",
+    "url": "/dex/zarude/"
+  },
+  {
+    "name": "Glastrier",
+    "url": "/dex/glastrier/"
+  },
+  {
+    "name": "Spectrier",
+    "url": "/dex/spectrier/"
+  },
+  {
+    "name": "Calyrex",
+    "url": "/dex/calyrex/"
+  },
+  {
+    "name": "Calyrex (Ice Rider)",
+    "url": "/dex/calyrex-family/#calyrex-ice-rider"
+  },
+  {
+    "name": "Calyrex (Shadow Rider)",
+    "url": "/dex/calyrex-family/#calyrex-shadow-rider"
+  },
+  {
+    "name": "Sprigatito",
+    "url": "/dex/sprigatito/"
+  },
+  {
+    "name": "Floragato",
+    "url": "/dex/sprigatito-family/#floragato"
+  },
+  {
+    "name": "Meowscarada",
+    "url": "/dex/sprigatito-family/#meowscarada"
+  },
+  {
+    "name": "Fuecoco",
+    "url": "/dex/fuecoco/"
+  },
+  {
+    "name": "Crocalor",
+    "url": "/dex/fuecoco-family/#crocalor"
+  },
+  {
+    "name": "Skeledirge",
+    "url": "/dex/fuecoco-family/#skeledirge"
+  },
+  {
+    "name": "Quaxly",
+    "url": "/dex/quaxly/"
+  },
+  {
+    "name": "Quaxwell",
+    "url": "/dex/quaxly-family/#quaxwell"
+  },
+  {
+    "name": "Quaquaval",
+    "url": "/dex/quaxly-family/#quaquaval"
+  },
+  {
+    "name": "Lechonk",
+    "url": "/dex/lechonk/"
+  },
+  {
+    "name": "Oinkologne (♂)",
+    "url": "/dex/lechonk-family/#oinkologne-♂"
+  },
+  {
+    "name": "Oinkologne (♀)",
+    "url": "/dex/lechonk-family/#oinkologne-♀"
+  },
+  {
+    "name": "Tarountula",
+    "url": "/dex/tarountula/"
+  },
+  {
+    "name": "Spidops",
+    "url": "/dex/tarountula-family/#spidops"
+  },
+  {
+    "name": "Nymble",
+    "url": "/dex/nymble/"
+  },
+  {
+    "name": "Lokix",
+    "url": "/dex/nymble-family/#lokix"
+  },
+  {
+    "name": "Pawmi",
+    "url": "/dex/pawmi/"
+  },
+  {
+    "name": "Pawmo",
+    "url": "/dex/pawmi-family/#pawmo"
+  },
+  {
+    "name": "Pawmot",
+    "url": "/dex/pawmi-family/#pawmot"
+  },
+  {
+    "name": "Tandemaus",
+    "url": "/dex/tandemaus/"
+  },
+  {
+    "name": "Maushold",
+    "url": "/dex/tandemaus-family/#maushold"
+  },
+  {
+    "name": "Fidough",
+    "url": "/dex/fidough/"
+  },
+  {
+    "name": "Dachsbun",
+    "url": "/dex/fidough-family/#dachsbun"
+  },
+  {
+    "name": "Smoliv",
+    "url": "/dex/smoliv/"
+  },
+  {
+    "name": "Dolliv",
+    "url": "/dex/smoliv-family/#dolliv"
+  },
+  {
+    "name": "Arboliva",
+    "url": "/dex/smoliv-family/#arboliva"
+  },
+  {
+    "name": "Squawkabilly",
+    "url": "/dex/squawkabilly/"
+  },
+  {
+    "name": "Nacli",
+    "url": "/dex/nacli/"
+  },
+  {
+    "name": "Naclstack",
+    "url": "/dex/nacli-family/#naclstack"
+  },
+  {
+    "name": "Garganacl",
+    "url": "/dex/nacli-family/#garganacl"
+  },
+  {
+    "name": "Charcadet",
+    "url": "/dex/charcadet/"
+  },
+  {
+    "name": "Armarouge",
+    "url": "/dex/charcadet-family/#armarouge"
+  },
+  {
+    "name": "Ceruledge",
+    "url": "/dex/charcadet-family/#ceruledge"
+  },
+  {
+    "name": "Tadbulb",
+    "url": "/dex/tadbulb/"
+  },
+  {
+    "name": "Bellibolt",
+    "url": "/dex/tadbulb-family/#bellibolt"
+  },
+  {
+    "name": "Wattrel",
+    "url": "/dex/wattrel/"
+  },
+  {
+    "name": "Kilowattrel",
+    "url": "/dex/wattrel-family/#kilowattrel"
+  },
+  {
+    "name": "Masschiff",
+    "url": "/dex/masschiff/"
+  },
+  {
+    "name": "Mabosstiff",
+    "url": "/dex/masschiff-family/#mabosstiff"
+  },
+  {
+    "name": "Shroodle",
+    "url": "/dex/shroodle/"
+  },
+  {
+    "name": "Grafaiai",
+    "url": "/dex/shroodle-family/#grafaiai"
+  },
+  {
+    "name": "Bramblin",
+    "url": "/dex/bramblin/"
+  },
+  {
+    "name": "Brambleghast",
+    "url": "/dex/bramblin-family/#brambleghast"
+  },
+  {
+    "name": "Toedscool",
+    "url": "/dex/toedscool/"
+  },
+  {
+    "name": "Toedscruel",
+    "url": "/dex/toedscool-family/#toedscruel"
+  },
+  {
+    "name": "Klawf",
+    "url": "/dex/klawf/"
+  },
+  {
+    "name": "Capsakid",
+    "url": "/dex/capsakid/"
+  },
+  {
+    "name": "Scovillain",
+    "url": "/dex/undefined/"
+  },
+  {
+    "name": "Rellor",
+    "url": "/dex/rellor/"
+  },
+  {
+    "name": "Rabsca",
+    "url": "/dex/rellor-family/#rabsca"
+  },
+  {
+    "name": "Flittle",
+    "url": "/dex/flittle/"
+  },
+  {
+    "name": "Espathra",
+    "url": "/dex/flittle-family/#espathra"
+  },
+  {
+    "name": "Tinkatink",
+    "url": "/dex/tinkatink/"
+  },
+  {
+    "name": "Tinkatuff",
+    "url": "/dex/tinkatink-family/#tinkatuff"
+  },
+  {
+    "name": "Tinkaton",
+    "url": "/dex/tinkatink-family/#tinkaton"
+  },
+  {
+    "name": "Wiglett",
+    "url": "/dex/wiglett/"
+  },
+  {
+    "name": "Wugtrio",
+    "url": "/dex/wiglett-family/#wugtrio"
+  },
+  {
+    "name": "Bombirdier",
+    "url": "/dex/bombirdier/"
+  },
+  {
+    "name": "Finizen",
+    "url": "/dex/finizen/"
+  },
+  {
+    "name": "Palafin",
+    "url": "/dex/finizen-family/#palafin"
+  },
+  {
+    "name": "Palafin (Hero)",
+    "url": "/dex/finizen-family/#palafin-hero"
+  },
+  {
+    "name": "Varoom",
+    "url": "/dex/varoom/"
+  },
+  {
+    "name": "Revavroom",
+    "url": "/dex/varoom-family/#revavroom"
+  },
+  {
+    "name": "Orthworm",
+    "url": "/dex/orthworm/"
+  },
+  {
+    "name": "Glimmet",
+    "url": "/dex/glimmet/"
+  },
+  {
+    "name": "Glimmora",
+    "url": "/dex/glimmet-family/#glimmora"
+  },
+  {
+    "name": "Greavard",
+    "url": "/dex/greavard/"
+  },
+  {
+    "name": "Houndstone",
+    "url": "/dex/greavard-family/#houndstone"
+  },
+  {
+    "name": "Flamigo",
+    "url": "/dex/flamigo/"
+  },
+  {
+    "name": "Cetoddle",
+    "url": "/dex/cetoddle/"
+  },
+  {
+    "name": "Cetitan",
+    "url": "/dex/cetoddle-family/#cetitan"
+  },
+  {
+    "name": "Veluza",
+    "url": "/dex/veluza/"
+  },
+  {
+    "name": "Dondozo",
+    "url": "/dex/dondozo/"
+  },
+  {
+    "name": "Tatsugiri",
+    "url": "/dex/tatsugiri/"
+  },
+  {
+    "name": "Gimmighoul",
+    "url": "/dex/gimmighoul/"
+  },
+  {
+    "name": "Gimmighoul (Roaming)",
+    "url": "/dex/gimmighoul-family/#gimmighoul-roaming"
+  },
+  {
+    "name": "Gholdengo",
+    "url": "/dex/gimmighoul-family/#gholdengo"
+  },
+  {
+    "name": "Frigibax",
+    "url": "/dex/frigibax/"
+  },
+  {
+    "name": "Arctibax",
+    "url": "/dex/undefined-family/#arctibax"
+  },
+  {
+    "name": "Baxcalibur",
+    "url": "/dex/undefined-family/#baxcalibur"
+  },
+  {
+    "name": "Ting-Lu",
+    "url": "/dex/ting-lu/"
+  },
+  {
+    "name": "Chien-Pao",
+    "url": "/dex/chien-pao/"
+  },
+  {
+    "name": "Wo-Chien",
+    "url": "/dex/wo-chien/"
+  },
+  {
+    "name": "Chi-Yu",
+    "url": "/dex/chi-yu/"
+  },
+  {
+    "name": "Great Tusk",
+    "url": "/dex/great-tusk/"
+  },
+  {
+    "name": "Iron Treads",
+    "url": "/dex/iron-treads/"
+  },
+  {
+    "name": "Slither Wing",
+    "url": "/dex/slither-wing/"
+  },
+  {
+    "name": "Iron Moth",
+    "url": "/dex/iron-moth/"
+  },
+  {
+    "name": "Brute Bonnet",
+    "url": "/dex/brute-bonnet/"
+  },
+  {
+    "name": "Sandy Shocks",
+    "url": "/dex/sandy-shocks/"
+  },
+  {
+    "name": "Scream Tail",
+    "url": "/dex/scream-tail/"
+  },
+  {
+    "name": "Flutter Mane",
+    "url": "/dex/flutter-mane/"
+  },
+  {
+    "name": "Roaring Moon",
+    "url": "/dex/roaring-moon/"
+  },
+  {
+    "name": "Raging Bolt",
+    "url": "/dex/raging-bolt/"
+  },
+  {
+    "name": "Gouging Fire",
+    "url": "/dex/gouging-fire/"
+  },
+  {
+    "name": "Walking Wake",
+    "url": "/dex/walking-wake/"
+  },
+  {
+    "name": "Iron Hands",
+    "url": "/dex/iron-hands/"
+  },
+  {
+    "name": "Iron Jugulis",
+    "url": "/dex/iron-jugulis/"
+  },
+  {
+    "name": "Iron Thorns",
+    "url": "/dex/iron-thorns/"
+  },
+  {
+    "name": "Iron Bundle",
+    "url": "/dex/iron-bundle/"
+  },
+  {
+    "name": "Iron Valiant",
+    "url": "/dex/iron-valiant/"
+  },
+  {
+    "name": "Iron Leaves",
+    "url": "/dex/iron-leaves/"
+  },
+  {
+    "name": "Iron Crown",
+    "url": "/dex/iron-crown/"
+  },
+  {
+    "name": "Iron Boulder",
+    "url": "/dex/iron-boulder/"
+  },
+  {
+    "name": "Cyclizar",
+    "url": "/dex/cyclizar/"
+  },
+  {
+    "name": "Koraidon",
+    "url": "/dex/koraidon/"
+  },
+  {
+    "name": "Miraidon",
+    "url": "/dex/miraidon/"
+  },
+  {
+    "name": "Okidogi",
+    "url": "/dex/okidogi/"
+  },
+  {
+    "name": "Munkidori",
+    "url": "/dex/munkidori/"
+  },
+  {
+    "name": "Fezandipiti",
+    "url": "/dex/fezandipiti/"
+  },
+  {
+    "name": "Pecharunt",
+    "url": "/dex/pecharunt/"
+  },
+  {
+    "name": "Ogerpon",
+    "url": "/dex/ogerpon/"
+  },
+  {
+    "name": "Ogerpon (Wellspring)",
+    "url": "/dex/ogerpon-family/#ogerpon-wellspring"
+  },
+  {
+    "name": "Ogerpon (Hearthflame)",
+    "url": "/dex/ogerpon-family/#ogerpon-hearthflame"
+  },
+  {
+    "name": "Ogerpon (Cornerstone)",
+    "url": "/dex/ogerpon-family/#ogerpon-cornerstone"
+  },
+  {
+    "name": "Terapagos",
+    "url": "/dex/terapagos/"
+  },
+  {
+    "name": "Terapagos (Terastal)",
+    "url": "/dex/terapagos-family/#terapagos-terastal"
+  },
+  {
+    "name": "Terapagos (Stellar)",
+    "url": "/dex/terapagos-family/#terapagos-stellar"
+  }
+]
