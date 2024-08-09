@@ -74,18 +74,23 @@ fetchedSheets.then(data => {
   const dexData = Object.fromEntries(data['Pokemon'].map(data => dexMapper(data, tutorMoves, movesets, dexBlurbs)))
   
   const families = {}
-  const redirects = []
   for (const name in dexData) {
     const mon = dexData[name]
     const baseForm = getBaseForm(name, dexData)
     const baseName = baseForm?.name.replace(/^Galarian |^Alolan |^Hisuian |^Paldean |^Mega | \([^)]*?\)$/g, '').toLowerCase()
     families[baseName]?.push(mon) || (families[baseName] = [mon])
+  }
+  writeJson('pokemon', families)
+
+  const redirects = []
+  for (const name in dexData) {
+    const baseForm = getBaseForm(name, dexData)
+    const baseName = baseForm?.name.replace(/^Galarian |^Alolan |^Hisuian |^Paldean |^Mega | \([^)]*?\)$/g, '').toLowerCase()
     redirects.push({
       name,
       url: `/dex/${slugify(baseName)}${families[baseName][1] ? `-family/#${slugify(name)}` : '/'}`
     })
   }
-  writeJson('pokemon', families)
   writeJson('redirects', redirects)
 
   writeJson('moves', data['Moves'].map(row => {

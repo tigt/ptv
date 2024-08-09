@@ -1,7 +1,7 @@
 [
   {
     "name": "Bulbasaur",
-    "url": "/dex/bulbasaur/"
+    "url": "/dex/bulbasaur-family/#bulbasaur"
   },
   {
     "name": "Ivysaur",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Charmander",
-    "url": "/dex/charmander/"
+    "url": "/dex/charmander-family/#charmander"
   },
   {
     "name": "Charmeleon",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Squirtle",
-    "url": "/dex/squirtle/"
+    "url": "/dex/squirtle-family/#squirtle"
   },
   {
     "name": "Wartortle",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Caterpie",
-    "url": "/dex/caterpie/"
+    "url": "/dex/caterpie-family/#caterpie"
   },
   {
     "name": "Metapod",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Weedle",
-    "url": "/dex/weedle/"
+    "url": "/dex/weedle-family/#weedle"
   },
   {
     "name": "Kakuna",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Pidgey",
-    "url": "/dex/pidgey/"
+    "url": "/dex/pidgey-family/#pidgey"
   },
   {
     "name": "Pidgeotto",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Rattata",
-    "url": "/dex/rattata/"
+    "url": "/dex/rattata-family/#rattata"
   },
   {
     "name": "Raticate",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Spearow",
-    "url": "/dex/spearow/"
+    "url": "/dex/spearow-family/#spearow"
   },
   {
     "name": "Fearow",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Ekans",
-    "url": "/dex/ekans/"
+    "url": "/dex/ekans-family/#ekans"
   },
   {
     "name": "Arbok",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Pichu",
-    "url": "/dex/pichu/"
+    "url": "/dex/pichu-family/#pichu"
   },
   {
     "name": "Pikachu",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Sandshrew",
-    "url": "/dex/sandshrew/"
+    "url": "/dex/sandshrew-family/#sandshrew"
   },
   {
     "name": "Sandslash",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Nidoran♀",
-    "url": "/dex/nidoran♀/"
+    "url": "/dex/nidoran♀-family/#nidoran♀"
   },
   {
     "name": "Nidorina",
@@ -173,7 +173,7 @@
   },
   {
     "name": "Nidoran♂",
-    "url": "/dex/nidoran♂/"
+    "url": "/dex/nidoran♂-family/#nidoran♂"
   },
   {
     "name": "Nidorino",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Cleffa",
-    "url": "/dex/cleffa/"
+    "url": "/dex/cleffa-family/#cleffa"
   },
   {
     "name": "Clefairy",
@@ -197,7 +197,7 @@
   },
   {
     "name": "Vulpix",
-    "url": "/dex/vulpix/"
+    "url": "/dex/vulpix-family/#vulpix"
   },
   {
     "name": "Ninetales",
@@ -213,7 +213,7 @@
   },
   {
     "name": "Igglybuff",
-    "url": "/dex/igglybuff/"
+    "url": "/dex/igglybuff-family/#igglybuff"
   },
   {
     "name": "Jigglypuff",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Zubat",
-    "url": "/dex/zubat/"
+    "url": "/dex/zubat-family/#zubat"
   },
   {
     "name": "Golbat",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Oddish",
-    "url": "/dex/oddish/"
+    "url": "/dex/oddish-family/#oddish"
   },
   {
     "name": "Gloom",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Paras",
-    "url": "/dex/paras/"
+    "url": "/dex/paras-family/#paras"
   },
   {
     "name": "Parasect",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Venonat",
-    "url": "/dex/venonat/"
+    "url": "/dex/venonat-family/#venonat"
   },
   {
     "name": "Venomoth",
@@ -269,7 +269,7 @@
   },
   {
     "name": "Diglett",
-    "url": "/dex/diglett/"
+    "url": "/dex/diglett-family/#diglett"
   },
   {
     "name": "Dugtrio",
@@ -285,7 +285,7 @@
   },
   {
     "name": "Meowth",
-    "url": "/dex/meowth/"
+    "url": "/dex/meowth-family/#meowth"
   },
   {
     "name": "Persian",
@@ -309,7 +309,7 @@
   },
   {
     "name": "Psyduck",
-    "url": "/dex/psyduck/"
+    "url": "/dex/psyduck-family/#psyduck"
   },
   {
     "name": "Golduck",
@@ -317,7 +317,7 @@
   },
   {
     "name": "Mankey",
-    "url": "/dex/mankey/"
+    "url": "/dex/mankey-family/#mankey"
   },
   {
     "name": "Primeape",
@@ -329,7 +329,7 @@
   },
   {
     "name": "Growlithe",
-    "url": "/dex/growlithe/"
+    "url": "/dex/growlithe-family/#growlithe"
   },
   {
     "name": "Arcanine",
@@ -345,7 +345,7 @@
   },
   {
     "name": "Poliwag",
-    "url": "/dex/poliwag/"
+    "url": "/dex/poliwag-family/#poliwag"
   },
   {
     "name": "Poliwhirl",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Abra",
-    "url": "/dex/abra/"
+    "url": "/dex/abra-family/#abra"
   },
   {
     "name": "Kadabra",
@@ -377,7 +377,7 @@
   },
   {
     "name": "Machop",
-    "url": "/dex/machop/"
+    "url": "/dex/machop-family/#machop"
   },
   {
     "name": "Machoke",
@@ -389,7 +389,7 @@
   },
   {
     "name": "Bellsprout",
-    "url": "/dex/bellsprout/"
+    "url": "/dex/bellsprout-family/#bellsprout"
   },
   {
     "name": "Weepinbell",
@@ -401,7 +401,7 @@
   },
   {
     "name": "Tentacool",
-    "url": "/dex/tentacool/"
+    "url": "/dex/tentacool-family/#tentacool"
   },
   {
     "name": "Tentacruel",
@@ -409,7 +409,7 @@
   },
   {
     "name": "Geodude",
-    "url": "/dex/geodude/"
+    "url": "/dex/geodude-family/#geodude"
   },
   {
     "name": "Graveler",
@@ -433,7 +433,7 @@
   },
   {
     "name": "Ponyta",
-    "url": "/dex/ponyta/"
+    "url": "/dex/ponyta-family/#ponyta"
   },
   {
     "name": "Rapidash",
@@ -449,7 +449,7 @@
   },
   {
     "name": "Slowpoke",
-    "url": "/dex/slowpoke/"
+    "url": "/dex/slowpoke-family/#slowpoke"
   },
   {
     "name": "Slowbro",
@@ -477,7 +477,7 @@
   },
   {
     "name": "Magnemite",
-    "url": "/dex/magnemite/"
+    "url": "/dex/magnemite-family/#magnemite"
   },
   {
     "name": "Magneton",
@@ -489,7 +489,7 @@
   },
   {
     "name": "Farfetch'd",
-    "url": "/dex/farfetch-d/"
+    "url": "/dex/farfetch-d-family/#farfetch-d"
   },
   {
     "name": "Galarian Farfetch'd",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Doduo",
-    "url": "/dex/doduo/"
+    "url": "/dex/doduo-family/#doduo"
   },
   {
     "name": "Dodrio",
@@ -509,7 +509,7 @@
   },
   {
     "name": "Seel",
-    "url": "/dex/seel/"
+    "url": "/dex/seel-family/#seel"
   },
   {
     "name": "Dewgong",
@@ -517,7 +517,7 @@
   },
   {
     "name": "Grimer",
-    "url": "/dex/grimer/"
+    "url": "/dex/grimer-family/#grimer"
   },
   {
     "name": "Muk",
@@ -533,7 +533,7 @@
   },
   {
     "name": "Shellder",
-    "url": "/dex/shellder/"
+    "url": "/dex/shellder-family/#shellder"
   },
   {
     "name": "Cloyster",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Gastly",
-    "url": "/dex/gastly/"
+    "url": "/dex/gastly-family/#gastly"
   },
   {
     "name": "Haunter",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Onix",
-    "url": "/dex/onix/"
+    "url": "/dex/onix-family/#onix"
   },
   {
     "name": "Steelix",
@@ -569,7 +569,7 @@
   },
   {
     "name": "Drowzee",
-    "url": "/dex/drowzee/"
+    "url": "/dex/drowzee-family/#drowzee"
   },
   {
     "name": "Hypno",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Krabby",
-    "url": "/dex/krabby/"
+    "url": "/dex/krabby-family/#krabby"
   },
   {
     "name": "Kingler",
@@ -585,7 +585,7 @@
   },
   {
     "name": "Voltorb",
-    "url": "/dex/voltorb/"
+    "url": "/dex/voltorb-family/#voltorb"
   },
   {
     "name": "Electrode",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Exeggcute",
-    "url": "/dex/exeggcute/"
+    "url": "/dex/exeggcute-family/#exeggcute"
   },
   {
     "name": "Exeggutor",
@@ -613,7 +613,7 @@
   },
   {
     "name": "Cubone",
-    "url": "/dex/cubone/"
+    "url": "/dex/cubone-family/#cubone"
   },
   {
     "name": "Marowak",
@@ -625,7 +625,7 @@
   },
   {
     "name": "Tyrogue",
-    "url": "/dex/tyrogue/"
+    "url": "/dex/tyrogue-family/#tyrogue"
   },
   {
     "name": "Hitmonlee",
@@ -641,7 +641,7 @@
   },
   {
     "name": "Lickitung",
-    "url": "/dex/lickitung/"
+    "url": "/dex/lickitung-family/#lickitung"
   },
   {
     "name": "Lickilicky",
@@ -649,7 +649,7 @@
   },
   {
     "name": "Koffing",
-    "url": "/dex/koffing/"
+    "url": "/dex/koffing-family/#koffing"
   },
   {
     "name": "Weezing",
@@ -661,7 +661,7 @@
   },
   {
     "name": "Rhyhorn",
-    "url": "/dex/rhyhorn/"
+    "url": "/dex/rhyhorn-family/#rhyhorn"
   },
   {
     "name": "Rhydon",
@@ -673,7 +673,7 @@
   },
   {
     "name": "Happiny",
-    "url": "/dex/happiny/"
+    "url": "/dex/happiny-family/#happiny"
   },
   {
     "name": "Chansey",
@@ -685,7 +685,7 @@
   },
   {
     "name": "Tangela",
-    "url": "/dex/tangela/"
+    "url": "/dex/tangela-family/#tangela"
   },
   {
     "name": "Tangrowth",
@@ -693,7 +693,7 @@
   },
   {
     "name": "Kangaskhan",
-    "url": "/dex/kangaskhan/"
+    "url": "/dex/kangaskhan-family/#kangaskhan"
   },
   {
     "name": "Mega Kangaskhan",
@@ -701,7 +701,7 @@
   },
   {
     "name": "Horsea",
-    "url": "/dex/horsea/"
+    "url": "/dex/horsea-family/#horsea"
   },
   {
     "name": "Seadra",
@@ -713,7 +713,7 @@
   },
   {
     "name": "Goldeen",
-    "url": "/dex/goldeen/"
+    "url": "/dex/goldeen-family/#goldeen"
   },
   {
     "name": "Seaking",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Staryu",
-    "url": "/dex/staryu/"
+    "url": "/dex/staryu-family/#staryu"
   },
   {
     "name": "Starmie",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Mime Jr.",
-    "url": "/dex/mime-jr./"
+    "url": "/dex/mime-jr.-family/#mime-jr."
   },
   {
     "name": "Mr. Mime",
@@ -745,7 +745,7 @@
   },
   {
     "name": "Scyther",
-    "url": "/dex/scyther/"
+    "url": "/dex/scyther-family/#scyther"
   },
   {
     "name": "Scizor",
@@ -761,7 +761,7 @@
   },
   {
     "name": "Smoochum",
-    "url": "/dex/smoochum/"
+    "url": "/dex/smoochum-family/#smoochum"
   },
   {
     "name": "Jynx",
@@ -769,7 +769,7 @@
   },
   {
     "name": "Elekid",
-    "url": "/dex/elekid/"
+    "url": "/dex/elekid-family/#elekid"
   },
   {
     "name": "Electabuzz",
@@ -781,7 +781,7 @@
   },
   {
     "name": "Magby",
-    "url": "/dex/magby/"
+    "url": "/dex/magby-family/#magby"
   },
   {
     "name": "Magmar",
@@ -793,7 +793,7 @@
   },
   {
     "name": "Pinsir",
-    "url": "/dex/pinsir/"
+    "url": "/dex/pinsir-family/#pinsir"
   },
   {
     "name": "Mega Pinsir",
@@ -801,7 +801,7 @@
   },
   {
     "name": "Tauros",
-    "url": "/dex/tauros/"
+    "url": "/dex/tauros-family/#tauros"
   },
   {
     "name": "Paldean Tauros",
@@ -817,7 +817,7 @@
   },
   {
     "name": "Magikarp",
-    "url": "/dex/magikarp/"
+    "url": "/dex/magikarp-family/#magikarp"
   },
   {
     "name": "Gyarados",
@@ -837,7 +837,7 @@
   },
   {
     "name": "Eevee",
-    "url": "/dex/eevee/"
+    "url": "/dex/eevee-family/#eevee"
   },
   {
     "name": "Vaporeon",
@@ -873,7 +873,7 @@
   },
   {
     "name": "Porygon",
-    "url": "/dex/porygon/"
+    "url": "/dex/porygon-family/#porygon"
   },
   {
     "name": "Porygon2",
@@ -885,7 +885,7 @@
   },
   {
     "name": "Omanyte",
-    "url": "/dex/omanyte/"
+    "url": "/dex/omanyte-family/#omanyte"
   },
   {
     "name": "Omastar",
@@ -893,7 +893,7 @@
   },
   {
     "name": "Kabuto",
-    "url": "/dex/kabuto/"
+    "url": "/dex/kabuto-family/#kabuto"
   },
   {
     "name": "Kabutops",
@@ -901,7 +901,7 @@
   },
   {
     "name": "Aerodactyl",
-    "url": "/dex/aerodactyl/"
+    "url": "/dex/aerodactyl-family/#aerodactyl"
   },
   {
     "name": "Mega Aerodactyl",
@@ -909,7 +909,7 @@
   },
   {
     "name": "Munchlax",
-    "url": "/dex/munchlax/"
+    "url": "/dex/munchlax-family/#munchlax"
   },
   {
     "name": "Snorlax",
@@ -917,7 +917,7 @@
   },
   {
     "name": "Articuno",
-    "url": "/dex/articuno/"
+    "url": "/dex/articuno-family/#articuno"
   },
   {
     "name": "Galarian Articuno",
@@ -925,7 +925,7 @@
   },
   {
     "name": "Zapdos",
-    "url": "/dex/zapdos/"
+    "url": "/dex/zapdos-family/#zapdos"
   },
   {
     "name": "Galarian Zapdos",
@@ -933,7 +933,7 @@
   },
   {
     "name": "Moltres",
-    "url": "/dex/moltres/"
+    "url": "/dex/moltres-family/#moltres"
   },
   {
     "name": "Galarian Moltres",
@@ -941,7 +941,7 @@
   },
   {
     "name": "Dratini",
-    "url": "/dex/dratini/"
+    "url": "/dex/dratini-family/#dratini"
   },
   {
     "name": "Dragonair",
@@ -953,7 +953,7 @@
   },
   {
     "name": "Mewtwo",
-    "url": "/dex/mewtwo/"
+    "url": "/dex/mewtwo-family/#mewtwo"
   },
   {
     "name": "Mega Mewtwo X",
@@ -969,7 +969,7 @@
   },
   {
     "name": "Chikorita",
-    "url": "/dex/chikorita/"
+    "url": "/dex/chikorita-family/#chikorita"
   },
   {
     "name": "Bayleef",
@@ -981,7 +981,7 @@
   },
   {
     "name": "Cyndaquil",
-    "url": "/dex/cyndaquil/"
+    "url": "/dex/cyndaquil-family/#cyndaquil"
   },
   {
     "name": "Quilava",
@@ -997,7 +997,7 @@
   },
   {
     "name": "Totodile",
-    "url": "/dex/totodile/"
+    "url": "/dex/totodile-family/#totodile"
   },
   {
     "name": "Croconaw",
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Sentret",
-    "url": "/dex/sentret/"
+    "url": "/dex/sentret-family/#sentret"
   },
   {
     "name": "Furret",
@@ -1017,7 +1017,7 @@
   },
   {
     "name": "Hoothoot",
-    "url": "/dex/hoothoot/"
+    "url": "/dex/hoothoot-family/#hoothoot"
   },
   {
     "name": "Noctowl",
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "Ledyba",
-    "url": "/dex/ledyba/"
+    "url": "/dex/ledyba-family/#ledyba"
   },
   {
     "name": "Ledian",
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Spinarak",
-    "url": "/dex/spinarak/"
+    "url": "/dex/spinarak-family/#spinarak"
   },
   {
     "name": "Ariados",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Chinchou",
-    "url": "/dex/chinchou/"
+    "url": "/dex/chinchou-family/#chinchou"
   },
   {
     "name": "Lanturn",
@@ -1049,7 +1049,7 @@
   },
   {
     "name": "Togepi",
-    "url": "/dex/togepi/"
+    "url": "/dex/togepi-family/#togepi"
   },
   {
     "name": "Togetic",
@@ -1061,7 +1061,7 @@
   },
   {
     "name": "Natu",
-    "url": "/dex/natu/"
+    "url": "/dex/natu-family/#natu"
   },
   {
     "name": "Xatu",
@@ -1069,7 +1069,7 @@
   },
   {
     "name": "Mareep",
-    "url": "/dex/mareep/"
+    "url": "/dex/mareep-family/#mareep"
   },
   {
     "name": "Flaaffy",
@@ -1085,7 +1085,7 @@
   },
   {
     "name": "Azurill",
-    "url": "/dex/azurill/"
+    "url": "/dex/azurill-family/#azurill"
   },
   {
     "name": "Marill",
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "Bonsly",
-    "url": "/dex/bonsly/"
+    "url": "/dex/bonsly-family/#bonsly"
   },
   {
     "name": "Sudowoodo",
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "Hoppip",
-    "url": "/dex/hoppip/"
+    "url": "/dex/hoppip-family/#hoppip"
   },
   {
     "name": "Skiploom",
@@ -1117,7 +1117,7 @@
   },
   {
     "name": "Aipom",
-    "url": "/dex/aipom/"
+    "url": "/dex/aipom-family/#aipom"
   },
   {
     "name": "Ambipom",
@@ -1125,7 +1125,7 @@
   },
   {
     "name": "Sunkern",
-    "url": "/dex/sunkern/"
+    "url": "/dex/sunkern-family/#sunkern"
   },
   {
     "name": "Sunflora",
@@ -1133,7 +1133,7 @@
   },
   {
     "name": "Yanma",
-    "url": "/dex/yanma/"
+    "url": "/dex/yanma-family/#yanma"
   },
   {
     "name": "Yanmega",
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Wooper",
-    "url": "/dex/wooper/"
+    "url": "/dex/wooper-family/#wooper"
   },
   {
     "name": "Quagsire",
@@ -1157,7 +1157,7 @@
   },
   {
     "name": "Murkrow",
-    "url": "/dex/murkrow/"
+    "url": "/dex/murkrow-family/#murkrow"
   },
   {
     "name": "Honchkrow",
@@ -1165,7 +1165,7 @@
   },
   {
     "name": "Misdreavus",
-    "url": "/dex/misdreavus/"
+    "url": "/dex/misdreavus-family/#misdreavus"
   },
   {
     "name": "Mismagius",
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "Wynaut",
-    "url": "/dex/wynaut/"
+    "url": "/dex/wynaut-family/#wynaut"
   },
   {
     "name": "Wobbuffet",
@@ -1185,7 +1185,7 @@
   },
   {
     "name": "Girafarig",
-    "url": "/dex/girafarig/"
+    "url": "/dex/girafarig-family/#girafarig"
   },
   {
     "name": "Farigiraf",
@@ -1193,7 +1193,7 @@
   },
   {
     "name": "Pineco",
-    "url": "/dex/pineco/"
+    "url": "/dex/pineco-family/#pineco"
   },
   {
     "name": "Forretress",
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Dunsparce",
-    "url": "/dex/dunsparce/"
+    "url": "/dex/dunsparce-family/#dunsparce"
   },
   {
     "name": "Dudunsparce",
@@ -1209,7 +1209,7 @@
   },
   {
     "name": "Gligar",
-    "url": "/dex/gligar/"
+    "url": "/dex/gligar-family/#gligar"
   },
   {
     "name": "Gliscor",
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "Snubbull",
-    "url": "/dex/snubbull/"
+    "url": "/dex/snubbull-family/#snubbull"
   },
   {
     "name": "Granbull",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Qwilfish",
-    "url": "/dex/qwilfish/"
+    "url": "/dex/qwilfish-family/#qwilfish"
   },
   {
     "name": "Hisuian Qwilfish",
@@ -1241,7 +1241,7 @@
   },
   {
     "name": "Heracross",
-    "url": "/dex/heracross/"
+    "url": "/dex/heracross-family/#heracross"
   },
   {
     "name": "Mega Heracross",
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Sneasel",
-    "url": "/dex/sneasel/"
+    "url": "/dex/sneasel-family/#sneasel"
   },
   {
     "name": "Weavile",
@@ -1265,7 +1265,7 @@
   },
   {
     "name": "Teddiursa",
-    "url": "/dex/teddiursa/"
+    "url": "/dex/teddiursa-family/#teddiursa"
   },
   {
     "name": "Ursaring",
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "Slugma",
-    "url": "/dex/slugma/"
+    "url": "/dex/slugma-family/#slugma"
   },
   {
     "name": "Magcargo",
@@ -1289,7 +1289,7 @@
   },
   {
     "name": "Swinub",
-    "url": "/dex/swinub/"
+    "url": "/dex/swinub-family/#swinub"
   },
   {
     "name": "Piloswine",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Corsola",
-    "url": "/dex/corsola/"
+    "url": "/dex/corsola-family/#corsola"
   },
   {
     "name": "Galarian Corsola",
@@ -1313,7 +1313,7 @@
   },
   {
     "name": "Remoraid",
-    "url": "/dex/remoraid/"
+    "url": "/dex/remoraid-family/#remoraid"
   },
   {
     "name": "Octillery",
@@ -1325,7 +1325,7 @@
   },
   {
     "name": "Mantyke",
-    "url": "/dex/mantyke/"
+    "url": "/dex/mantyke-family/#mantyke"
   },
   {
     "name": "Mantine",
@@ -1337,7 +1337,7 @@
   },
   {
     "name": "Houndour",
-    "url": "/dex/houndour/"
+    "url": "/dex/houndour-family/#houndour"
   },
   {
     "name": "Houndoom",
@@ -1349,7 +1349,7 @@
   },
   {
     "name": "Phanpy",
-    "url": "/dex/phanpy/"
+    "url": "/dex/phanpy-family/#phanpy"
   },
   {
     "name": "Donphan",
@@ -1357,7 +1357,7 @@
   },
   {
     "name": "Stantler",
-    "url": "/dex/stantler/"
+    "url": "/dex/stantler-family/#stantler"
   },
   {
     "name": "Wyrdeer",
@@ -1385,7 +1385,7 @@
   },
   {
     "name": "Larvitar",
-    "url": "/dex/larvitar/"
+    "url": "/dex/larvitar-family/#larvitar"
   },
   {
     "name": "Pupitar",
@@ -1413,7 +1413,7 @@
   },
   {
     "name": "Treecko",
-    "url": "/dex/treecko/"
+    "url": "/dex/treecko-family/#treecko"
   },
   {
     "name": "Grovyle",
@@ -1429,7 +1429,7 @@
   },
   {
     "name": "Torchic",
-    "url": "/dex/torchic/"
+    "url": "/dex/torchic-family/#torchic"
   },
   {
     "name": "Combusken",
@@ -1445,7 +1445,7 @@
   },
   {
     "name": "Mudkip",
-    "url": "/dex/mudkip/"
+    "url": "/dex/mudkip-family/#mudkip"
   },
   {
     "name": "Marshtomp",
@@ -1461,7 +1461,7 @@
   },
   {
     "name": "Poochyena",
-    "url": "/dex/poochyena/"
+    "url": "/dex/poochyena-family/#poochyena"
   },
   {
     "name": "Mightyena",
@@ -1469,7 +1469,7 @@
   },
   {
     "name": "Zigzagoon",
-    "url": "/dex/zigzagoon/"
+    "url": "/dex/zigzagoon-family/#zigzagoon"
   },
   {
     "name": "Linoone",
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "Wurmple",
-    "url": "/dex/wurmple/"
+    "url": "/dex/wurmple-family/#wurmple"
   },
   {
     "name": "Silcoon",
@@ -1509,7 +1509,7 @@
   },
   {
     "name": "Lotad",
-    "url": "/dex/lotad/"
+    "url": "/dex/lotad-family/#lotad"
   },
   {
     "name": "Lombre",
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Seedot",
-    "url": "/dex/seedot/"
+    "url": "/dex/seedot-family/#seedot"
   },
   {
     "name": "Nuzleaf",
@@ -1533,7 +1533,7 @@
   },
   {
     "name": "Taillow",
-    "url": "/dex/taillow/"
+    "url": "/dex/taillow-family/#taillow"
   },
   {
     "name": "Swellow",
@@ -1541,7 +1541,7 @@
   },
   {
     "name": "Wingull",
-    "url": "/dex/wingull/"
+    "url": "/dex/wingull-family/#wingull"
   },
   {
     "name": "Pelipper",
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "Ralts",
-    "url": "/dex/ralts/"
+    "url": "/dex/ralts-family/#ralts"
   },
   {
     "name": "Kirlia",
@@ -1573,7 +1573,7 @@
   },
   {
     "name": "Surskit",
-    "url": "/dex/surskit/"
+    "url": "/dex/surskit-family/#surskit"
   },
   {
     "name": "Masquerain",
@@ -1581,7 +1581,7 @@
   },
   {
     "name": "Shroomish",
-    "url": "/dex/shroomish/"
+    "url": "/dex/shroomish-family/#shroomish"
   },
   {
     "name": "Breloom",
@@ -1589,7 +1589,7 @@
   },
   {
     "name": "Slakoth",
-    "url": "/dex/slakoth/"
+    "url": "/dex/slakoth-family/#slakoth"
   },
   {
     "name": "Vigoroth",
@@ -1601,7 +1601,7 @@
   },
   {
     "name": "Nincada",
-    "url": "/dex/nincada/"
+    "url": "/dex/nincada-family/#nincada"
   },
   {
     "name": "Ninjask",
@@ -1613,7 +1613,7 @@
   },
   {
     "name": "Whismur",
-    "url": "/dex/whismur/"
+    "url": "/dex/whismur-family/#whismur"
   },
   {
     "name": "Loudred",
@@ -1625,7 +1625,7 @@
   },
   {
     "name": "Makuhita",
-    "url": "/dex/makuhita/"
+    "url": "/dex/makuhita-family/#makuhita"
   },
   {
     "name": "Hariyama",
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "Nosepass",
-    "url": "/dex/nosepass/"
+    "url": "/dex/nosepass-family/#nosepass"
   },
   {
     "name": "Probopass",
@@ -1641,7 +1641,7 @@
   },
   {
     "name": "Skitty",
-    "url": "/dex/skitty/"
+    "url": "/dex/skitty-family/#skitty"
   },
   {
     "name": "Delcatty",
@@ -1649,7 +1649,7 @@
   },
   {
     "name": "Sableye",
-    "url": "/dex/sableye/"
+    "url": "/dex/sableye-family/#sableye"
   },
   {
     "name": "Mega Sableye",
@@ -1657,7 +1657,7 @@
   },
   {
     "name": "Mawile",
-    "url": "/dex/mawile/"
+    "url": "/dex/mawile-family/#mawile"
   },
   {
     "name": "Mega Mawile",
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Aron",
-    "url": "/dex/aron/"
+    "url": "/dex/aron-family/#aron"
   },
   {
     "name": "Lairon",
@@ -1681,7 +1681,7 @@
   },
   {
     "name": "Meditite",
-    "url": "/dex/meditite/"
+    "url": "/dex/meditite-family/#meditite"
   },
   {
     "name": "Medicham",
@@ -1693,7 +1693,7 @@
   },
   {
     "name": "Electrike",
-    "url": "/dex/electrike/"
+    "url": "/dex/electrike-family/#electrike"
   },
   {
     "name": "Manectric",
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "Budew",
-    "url": "/dex/budew/"
+    "url": "/dex/budew-family/#budew"
   },
   {
     "name": "Roselia",
@@ -1733,7 +1733,7 @@
   },
   {
     "name": "Gulpin",
-    "url": "/dex/gulpin/"
+    "url": "/dex/gulpin-family/#gulpin"
   },
   {
     "name": "Swalot",
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Carvanha",
-    "url": "/dex/carvanha/"
+    "url": "/dex/carvanha-family/#carvanha"
   },
   {
     "name": "Sharpedo",
@@ -1753,7 +1753,7 @@
   },
   {
     "name": "Wailmer",
-    "url": "/dex/wailmer/"
+    "url": "/dex/wailmer-family/#wailmer"
   },
   {
     "name": "Wailord",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "Numel",
-    "url": "/dex/numel/"
+    "url": "/dex/numel-family/#numel"
   },
   {
     "name": "Camerupt",
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "Spoink",
-    "url": "/dex/spoink/"
+    "url": "/dex/spoink-family/#spoink"
   },
   {
     "name": "Grumpig",
@@ -1789,7 +1789,7 @@
   },
   {
     "name": "Trapinch",
-    "url": "/dex/trapinch/"
+    "url": "/dex/trapinch-family/#trapinch"
   },
   {
     "name": "Vibrava",
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "Cacnea",
-    "url": "/dex/cacnea/"
+    "url": "/dex/cacnea-family/#cacnea"
   },
   {
     "name": "Cacturne",
@@ -1809,7 +1809,7 @@
   },
   {
     "name": "Swablu",
-    "url": "/dex/swablu/"
+    "url": "/dex/swablu-family/#swablu"
   },
   {
     "name": "Altaria",
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Barboach",
-    "url": "/dex/barboach/"
+    "url": "/dex/barboach-family/#barboach"
   },
   {
     "name": "Whiscash",
@@ -1845,7 +1845,7 @@
   },
   {
     "name": "Corphish",
-    "url": "/dex/corphish/"
+    "url": "/dex/corphish-family/#corphish"
   },
   {
     "name": "Crawdaunt",
@@ -1853,7 +1853,7 @@
   },
   {
     "name": "Baltoy",
-    "url": "/dex/baltoy/"
+    "url": "/dex/baltoy-family/#baltoy"
   },
   {
     "name": "Claydol",
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "Lileep",
-    "url": "/dex/lileep/"
+    "url": "/dex/lileep-family/#lileep"
   },
   {
     "name": "Cradily",
@@ -1869,7 +1869,7 @@
   },
   {
     "name": "Anorith",
-    "url": "/dex/anorith/"
+    "url": "/dex/anorith-family/#anorith"
   },
   {
     "name": "Armaldo",
@@ -1877,7 +1877,7 @@
   },
   {
     "name": "Feebas",
-    "url": "/dex/feebas/"
+    "url": "/dex/feebas-family/#feebas"
   },
   {
     "name": "Milotic",
@@ -1893,7 +1893,7 @@
   },
   {
     "name": "Shuppet",
-    "url": "/dex/shuppet/"
+    "url": "/dex/shuppet-family/#shuppet"
   },
   {
     "name": "Banette",
@@ -1905,7 +1905,7 @@
   },
   {
     "name": "Duskull",
-    "url": "/dex/duskull/"
+    "url": "/dex/duskull-family/#duskull"
   },
   {
     "name": "Dusclops",
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "Chingling",
-    "url": "/dex/chingling/"
+    "url": "/dex/chingling-family/#chingling"
   },
   {
     "name": "Chimecho",
@@ -1929,7 +1929,7 @@
   },
   {
     "name": "Absol",
-    "url": "/dex/absol/"
+    "url": "/dex/absol-family/#absol"
   },
   {
     "name": "Mega Absol",
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "Snorunt",
-    "url": "/dex/snorunt/"
+    "url": "/dex/snorunt-family/#snorunt"
   },
   {
     "name": "Glalie",
@@ -1953,7 +1953,7 @@
   },
   {
     "name": "Spheal",
-    "url": "/dex/spheal/"
+    "url": "/dex/spheal-family/#spheal"
   },
   {
     "name": "Sealeo",
@@ -1965,7 +1965,7 @@
   },
   {
     "name": "Clamperl",
-    "url": "/dex/clamperl/"
+    "url": "/dex/clamperl-family/#clamperl"
   },
   {
     "name": "Huntail",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Luvdisc",
-    "url": "/dex/luvdisc/"
+    "url": "/dex/luvdisc-family/#luvdisc"
   },
   {
     "name": "Alomomola",
@@ -1989,7 +1989,7 @@
   },
   {
     "name": "Bagon",
-    "url": "/dex/bagon/"
+    "url": "/dex/bagon-family/#bagon"
   },
   {
     "name": "Shelgon",
@@ -2005,7 +2005,7 @@
   },
   {
     "name": "Beldum",
-    "url": "/dex/beldum/"
+    "url": "/dex/beldum-family/#beldum"
   },
   {
     "name": "Metang",
@@ -2045,7 +2045,7 @@
   },
   {
     "name": "Latias",
-    "url": "/dex/latias/"
+    "url": "/dex/latias-family/#latias"
   },
   {
     "name": "Mega Latias",
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "Latios",
-    "url": "/dex/latios/"
+    "url": "/dex/latios-family/#latios"
   },
   {
     "name": "Mega Latios",
@@ -2061,7 +2061,7 @@
   },
   {
     "name": "Kyogre",
-    "url": "/dex/kyogre/"
+    "url": "/dex/kyogre-family/#kyogre"
   },
   {
     "name": "Primal Kyogre",
@@ -2069,7 +2069,7 @@
   },
   {
     "name": "Groudon",
-    "url": "/dex/groudon/"
+    "url": "/dex/groudon-family/#groudon"
   },
   {
     "name": "Primal Groudon",
@@ -2077,7 +2077,7 @@
   },
   {
     "name": "Rayquaza",
-    "url": "/dex/rayquaza/"
+    "url": "/dex/rayquaza-family/#rayquaza"
   },
   {
     "name": "Mega Rayquaza",
@@ -2089,7 +2089,7 @@
   },
   {
     "name": "Deoxys",
-    "url": "/dex/deoxys/"
+    "url": "/dex/deoxys-family/#deoxys"
   },
   {
     "name": "Deoxys (Attack)",
@@ -2105,7 +2105,7 @@
   },
   {
     "name": "Turtwig",
-    "url": "/dex/turtwig/"
+    "url": "/dex/turtwig-family/#turtwig"
   },
   {
     "name": "Grotle",
@@ -2117,7 +2117,7 @@
   },
   {
     "name": "Chimchar",
-    "url": "/dex/chimchar/"
+    "url": "/dex/chimchar-family/#chimchar"
   },
   {
     "name": "Monferno",
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "Piplup",
-    "url": "/dex/piplup/"
+    "url": "/dex/piplup-family/#piplup"
   },
   {
     "name": "Prinplup",
@@ -2141,7 +2141,7 @@
   },
   {
     "name": "Starly",
-    "url": "/dex/starly/"
+    "url": "/dex/starly-family/#starly"
   },
   {
     "name": "Staravia",
@@ -2153,7 +2153,7 @@
   },
   {
     "name": "Bidoof",
-    "url": "/dex/bidoof/"
+    "url": "/dex/bidoof-family/#bidoof"
   },
   {
     "name": "Bibarel",
@@ -2161,7 +2161,7 @@
   },
   {
     "name": "Kricketot",
-    "url": "/dex/kricketot/"
+    "url": "/dex/kricketot-family/#kricketot"
   },
   {
     "name": "Kricketune",
@@ -2169,7 +2169,7 @@
   },
   {
     "name": "Shinx",
-    "url": "/dex/shinx/"
+    "url": "/dex/shinx-family/#shinx"
   },
   {
     "name": "Luxio",
@@ -2181,7 +2181,7 @@
   },
   {
     "name": "Cranidos",
-    "url": "/dex/cranidos/"
+    "url": "/dex/cranidos-family/#cranidos"
   },
   {
     "name": "Rampardos",
@@ -2189,7 +2189,7 @@
   },
   {
     "name": "Shieldon",
-    "url": "/dex/shieldon/"
+    "url": "/dex/shieldon-family/#shieldon"
   },
   {
     "name": "Bastiodon",
@@ -2197,7 +2197,7 @@
   },
   {
     "name": "Burmy",
-    "url": "/dex/burmy/"
+    "url": "/dex/burmy-family/#burmy"
   },
   {
     "name": "Wormadam (Plant)",
@@ -2217,7 +2217,7 @@
   },
   {
     "name": "Combee",
-    "url": "/dex/combee/"
+    "url": "/dex/combee-family/#combee"
   },
   {
     "name": "Vespiquen",
@@ -2229,7 +2229,7 @@
   },
   {
     "name": "Buizel",
-    "url": "/dex/buizel/"
+    "url": "/dex/buizel-family/#buizel"
   },
   {
     "name": "Floatzel",
@@ -2237,7 +2237,7 @@
   },
   {
     "name": "Cherubi",
-    "url": "/dex/cherubi/"
+    "url": "/dex/cherubi-family/#cherubi"
   },
   {
     "name": "Cherrim",
@@ -2245,7 +2245,7 @@
   },
   {
     "name": "Shellos",
-    "url": "/dex/shellos/"
+    "url": "/dex/shellos-family/#shellos"
   },
   {
     "name": "Gastrodon",
@@ -2253,7 +2253,7 @@
   },
   {
     "name": "Drifloon",
-    "url": "/dex/drifloon/"
+    "url": "/dex/drifloon-family/#drifloon"
   },
   {
     "name": "Drifblim",
@@ -2261,7 +2261,7 @@
   },
   {
     "name": "Buneary",
-    "url": "/dex/buneary/"
+    "url": "/dex/buneary-family/#buneary"
   },
   {
     "name": "Lopunny",
@@ -2273,7 +2273,7 @@
   },
   {
     "name": "Glameow",
-    "url": "/dex/glameow/"
+    "url": "/dex/glameow-family/#glameow"
   },
   {
     "name": "Purugly",
@@ -2281,7 +2281,7 @@
   },
   {
     "name": "Stunky",
-    "url": "/dex/stunky/"
+    "url": "/dex/stunky-family/#stunky"
   },
   {
     "name": "Skuntank",
@@ -2289,7 +2289,7 @@
   },
   {
     "name": "Bronzor",
-    "url": "/dex/bronzor/"
+    "url": "/dex/bronzor-family/#bronzor"
   },
   {
     "name": "Bronzong",
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "Gible",
-    "url": "/dex/gible/"
+    "url": "/dex/gible-family/#gible"
   },
   {
     "name": "Gabite",
@@ -2321,7 +2321,7 @@
   },
   {
     "name": "Riolu",
-    "url": "/dex/riolu/"
+    "url": "/dex/riolu-family/#riolu"
   },
   {
     "name": "Lucario",
@@ -2333,7 +2333,7 @@
   },
   {
     "name": "Hippopotas",
-    "url": "/dex/hippopotas/"
+    "url": "/dex/hippopotas-family/#hippopotas"
   },
   {
     "name": "Hippowdon",
@@ -2341,7 +2341,7 @@
   },
   {
     "name": "Skorupi",
-    "url": "/dex/skorupi/"
+    "url": "/dex/skorupi-family/#skorupi"
   },
   {
     "name": "Drapion",
@@ -2349,7 +2349,7 @@
   },
   {
     "name": "Croagunk",
-    "url": "/dex/croagunk/"
+    "url": "/dex/croagunk-family/#croagunk"
   },
   {
     "name": "Toxicroak",
@@ -2361,7 +2361,7 @@
   },
   {
     "name": "Finneon",
-    "url": "/dex/finneon/"
+    "url": "/dex/finneon-family/#finneon"
   },
   {
     "name": "Lumineon",
@@ -2369,7 +2369,7 @@
   },
   {
     "name": "Snover",
-    "url": "/dex/snover/"
+    "url": "/dex/snover-family/#snover"
   },
   {
     "name": "Abomasnow",
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "Rotom",
-    "url": "/dex/rotom/"
+    "url": "/dex/rotom-family/#rotom"
   },
   {
     "name": "Rotom (Heat)",
@@ -2417,7 +2417,7 @@
   },
   {
     "name": "Dialga",
-    "url": "/dex/dialga/"
+    "url": "/dex/dialga-family/#dialga"
   },
   {
     "name": "Dialga (Origin)",
@@ -2425,7 +2425,7 @@
   },
   {
     "name": "Palkia",
-    "url": "/dex/palkia/"
+    "url": "/dex/palkia-family/#palkia"
   },
   {
     "name": "Palkia (Origin)",
@@ -2433,7 +2433,7 @@
   },
   {
     "name": "Giratina",
-    "url": "/dex/giratina/"
+    "url": "/dex/giratina-family/#giratina"
   },
   {
     "name": "Giratina (Origin)",
@@ -2453,7 +2453,7 @@
   },
   {
     "name": "Manaphy",
-    "url": "/dex/manaphy/"
+    "url": "/dex/manaphy-family/#manaphy"
   },
   {
     "name": "Phione",
@@ -2461,7 +2461,7 @@
   },
   {
     "name": "Shaymin",
-    "url": "/dex/shaymin/"
+    "url": "/dex/shaymin-family/#shaymin"
   },
   {
     "name": "Shaymin (Sky)",
@@ -2477,7 +2477,7 @@
   },
   {
     "name": "Snivy",
-    "url": "/dex/snivy/"
+    "url": "/dex/snivy-family/#snivy"
   },
   {
     "name": "Servine",
@@ -2489,7 +2489,7 @@
   },
   {
     "name": "Tepig",
-    "url": "/dex/tepig/"
+    "url": "/dex/tepig-family/#tepig"
   },
   {
     "name": "Pignite",
@@ -2501,7 +2501,7 @@
   },
   {
     "name": "Oshawott",
-    "url": "/dex/oshawott/"
+    "url": "/dex/oshawott-family/#oshawott"
   },
   {
     "name": "Dewott",
@@ -2517,7 +2517,7 @@
   },
   {
     "name": "Patrat",
-    "url": "/dex/patrat/"
+    "url": "/dex/patrat-family/#patrat"
   },
   {
     "name": "Watchog",
@@ -2525,7 +2525,7 @@
   },
   {
     "name": "Lillipup",
-    "url": "/dex/lillipup/"
+    "url": "/dex/lillipup-family/#lillipup"
   },
   {
     "name": "Herdier",
@@ -2537,7 +2537,7 @@
   },
   {
     "name": "Purrloin",
-    "url": "/dex/purrloin/"
+    "url": "/dex/purrloin-family/#purrloin"
   },
   {
     "name": "Liepard",
@@ -2545,7 +2545,7 @@
   },
   {
     "name": "Pansage",
-    "url": "/dex/pansage/"
+    "url": "/dex/pansage-family/#pansage"
   },
   {
     "name": "Simisage",
@@ -2553,7 +2553,7 @@
   },
   {
     "name": "Pansear",
-    "url": "/dex/pansear/"
+    "url": "/dex/pansear-family/#pansear"
   },
   {
     "name": "Simisear",
@@ -2561,7 +2561,7 @@
   },
   {
     "name": "Panpour",
-    "url": "/dex/panpour/"
+    "url": "/dex/panpour-family/#panpour"
   },
   {
     "name": "Simipour",
@@ -2569,7 +2569,7 @@
   },
   {
     "name": "Munna",
-    "url": "/dex/munna/"
+    "url": "/dex/munna-family/#munna"
   },
   {
     "name": "Musharna",
@@ -2577,7 +2577,7 @@
   },
   {
     "name": "Pidove",
-    "url": "/dex/pidove/"
+    "url": "/dex/pidove-family/#pidove"
   },
   {
     "name": "Tranquill",
@@ -2589,7 +2589,7 @@
   },
   {
     "name": "Blitzle",
-    "url": "/dex/blitzle/"
+    "url": "/dex/blitzle-family/#blitzle"
   },
   {
     "name": "Zebstrika",
@@ -2597,7 +2597,7 @@
   },
   {
     "name": "Roggenrola",
-    "url": "/dex/roggenrola/"
+    "url": "/dex/roggenrola-family/#roggenrola"
   },
   {
     "name": "Boldore",
@@ -2609,7 +2609,7 @@
   },
   {
     "name": "Woobat",
-    "url": "/dex/woobat/"
+    "url": "/dex/woobat-family/#woobat"
   },
   {
     "name": "Swoobat",
@@ -2617,7 +2617,7 @@
   },
   {
     "name": "Drilbur",
-    "url": "/dex/drilbur/"
+    "url": "/dex/drilbur-family/#drilbur"
   },
   {
     "name": "Excadrill",
@@ -2625,7 +2625,7 @@
   },
   {
     "name": "Audino",
-    "url": "/dex/audino/"
+    "url": "/dex/audino-family/#audino"
   },
   {
     "name": "Mega Audino",
@@ -2633,7 +2633,7 @@
   },
   {
     "name": "Timburr",
-    "url": "/dex/timburr/"
+    "url": "/dex/timburr-family/#timburr"
   },
   {
     "name": "Gurdurr",
@@ -2645,7 +2645,7 @@
   },
   {
     "name": "Tympole",
-    "url": "/dex/tympole/"
+    "url": "/dex/tympole-family/#tympole"
   },
   {
     "name": "Palpitoad",
@@ -2665,7 +2665,7 @@
   },
   {
     "name": "Sewaddle",
-    "url": "/dex/sewaddle/"
+    "url": "/dex/sewaddle-family/#sewaddle"
   },
   {
     "name": "Swadloon",
@@ -2677,7 +2677,7 @@
   },
   {
     "name": "Venipede",
-    "url": "/dex/venipede/"
+    "url": "/dex/venipede-family/#venipede"
   },
   {
     "name": "Whirlipede",
@@ -2689,7 +2689,7 @@
   },
   {
     "name": "Cottonee",
-    "url": "/dex/cottonee/"
+    "url": "/dex/cottonee-family/#cottonee"
   },
   {
     "name": "Whimsicott",
@@ -2697,7 +2697,7 @@
   },
   {
     "name": "Petilil",
-    "url": "/dex/petilil/"
+    "url": "/dex/petilil-family/#petilil"
   },
   {
     "name": "Lilligant",
@@ -2709,7 +2709,7 @@
   },
   {
     "name": "Basculin",
-    "url": "/dex/basculin/"
+    "url": "/dex/basculin-family/#basculin"
   },
   {
     "name": "Basculin (White Stripe)",
@@ -2725,7 +2725,7 @@
   },
   {
     "name": "Sandile",
-    "url": "/dex/sandile/"
+    "url": "/dex/sandile-family/#sandile"
   },
   {
     "name": "Krokorok",
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "Darumaka",
-    "url": "/dex/darumaka/"
+    "url": "/dex/darumaka-family/#darumaka"
   },
   {
     "name": "Darmanitan",
@@ -2765,7 +2765,7 @@
   },
   {
     "name": "Dwebble",
-    "url": "/dex/dwebble/"
+    "url": "/dex/dwebble-family/#dwebble"
   },
   {
     "name": "Crustle",
@@ -2773,7 +2773,7 @@
   },
   {
     "name": "Scraggy",
-    "url": "/dex/scraggy/"
+    "url": "/dex/scraggy-family/#scraggy"
   },
   {
     "name": "Scrafty",
@@ -2785,7 +2785,7 @@
   },
   {
     "name": "Yamask",
-    "url": "/dex/yamask/"
+    "url": "/dex/yamask-family/#yamask"
   },
   {
     "name": "Cofagrigus",
@@ -2801,7 +2801,7 @@
   },
   {
     "name": "Tirtouga",
-    "url": "/dex/tirtouga/"
+    "url": "/dex/tirtouga-family/#tirtouga"
   },
   {
     "name": "Carracosta",
@@ -2809,7 +2809,7 @@
   },
   {
     "name": "Archen",
-    "url": "/dex/archen/"
+    "url": "/dex/archen-family/#archen"
   },
   {
     "name": "Archeops",
@@ -2817,7 +2817,7 @@
   },
   {
     "name": "Trubbish",
-    "url": "/dex/trubbish/"
+    "url": "/dex/trubbish-family/#trubbish"
   },
   {
     "name": "Garbodor",
@@ -2825,7 +2825,7 @@
   },
   {
     "name": "Zorua",
-    "url": "/dex/zorua/"
+    "url": "/dex/zorua-family/#zorua"
   },
   {
     "name": "Zoroark",
@@ -2841,7 +2841,7 @@
   },
   {
     "name": "Minccino",
-    "url": "/dex/minccino/"
+    "url": "/dex/minccino-family/#minccino"
   },
   {
     "name": "Cinccino",
@@ -2849,7 +2849,7 @@
   },
   {
     "name": "Gothita",
-    "url": "/dex/gothita/"
+    "url": "/dex/gothita-family/#gothita"
   },
   {
     "name": "Gothorita",
@@ -2861,7 +2861,7 @@
   },
   {
     "name": "Solosis",
-    "url": "/dex/solosis/"
+    "url": "/dex/solosis-family/#solosis"
   },
   {
     "name": "Duosion",
@@ -2873,7 +2873,7 @@
   },
   {
     "name": "Ducklett",
-    "url": "/dex/ducklett/"
+    "url": "/dex/ducklett-family/#ducklett"
   },
   {
     "name": "Swanna",
@@ -2881,7 +2881,7 @@
   },
   {
     "name": "Vanillite",
-    "url": "/dex/vanillite/"
+    "url": "/dex/vanillite-family/#vanillite"
   },
   {
     "name": "Vanillish",
@@ -2893,7 +2893,7 @@
   },
   {
     "name": "Deerling",
-    "url": "/dex/deerling/"
+    "url": "/dex/deerling-family/#deerling"
   },
   {
     "name": "Sawsbuck",
@@ -2905,7 +2905,7 @@
   },
   {
     "name": "Karrablast",
-    "url": "/dex/karrablast/"
+    "url": "/dex/karrablast-family/#karrablast"
   },
   {
     "name": "Escavalier",
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Shelmet",
-    "url": "/dex/shelmet/"
+    "url": "/dex/shelmet-family/#shelmet"
   },
   {
     "name": "Accelgor",
@@ -2921,7 +2921,7 @@
   },
   {
     "name": "Foongus",
-    "url": "/dex/foongus/"
+    "url": "/dex/foongus-family/#foongus"
   },
   {
     "name": "Amoonguss",
@@ -2929,7 +2929,7 @@
   },
   {
     "name": "Frillish",
-    "url": "/dex/frillish/"
+    "url": "/dex/frillish-family/#frillish"
   },
   {
     "name": "Jellicent",
@@ -2937,7 +2937,7 @@
   },
   {
     "name": "Joltik",
-    "url": "/dex/joltik/"
+    "url": "/dex/joltik-family/#joltik"
   },
   {
     "name": "Galvantula",
@@ -2945,7 +2945,7 @@
   },
   {
     "name": "Ferroseed",
-    "url": "/dex/ferroseed/"
+    "url": "/dex/ferroseed-family/#ferroseed"
   },
   {
     "name": "Ferrothorn",
@@ -2953,7 +2953,7 @@
   },
   {
     "name": "Klink",
-    "url": "/dex/klink/"
+    "url": "/dex/klink-family/#klink"
   },
   {
     "name": "Klang",
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "Tynamo",
-    "url": "/dex/tynamo/"
+    "url": "/dex/tynamo-family/#tynamo"
   },
   {
     "name": "Eelektrik",
@@ -2977,7 +2977,7 @@
   },
   {
     "name": "Elgyem",
-    "url": "/dex/elgyem/"
+    "url": "/dex/elgyem-family/#elgyem"
   },
   {
     "name": "Beheeyem",
@@ -2985,7 +2985,7 @@
   },
   {
     "name": "Litwick",
-    "url": "/dex/litwick/"
+    "url": "/dex/litwick-family/#litwick"
   },
   {
     "name": "Lampent",
@@ -2997,7 +2997,7 @@
   },
   {
     "name": "Axew",
-    "url": "/dex/axew/"
+    "url": "/dex/axew-family/#axew"
   },
   {
     "name": "Fraxure",
@@ -3009,7 +3009,7 @@
   },
   {
     "name": "Cubchoo",
-    "url": "/dex/cubchoo/"
+    "url": "/dex/cubchoo-family/#cubchoo"
   },
   {
     "name": "Beartic",
@@ -3021,7 +3021,7 @@
   },
   {
     "name": "Stunfisk",
-    "url": "/dex/stunfisk/"
+    "url": "/dex/stunfisk-family/#stunfisk"
   },
   {
     "name": "Galarian Stunfisk",
@@ -3029,7 +3029,7 @@
   },
   {
     "name": "Mienfoo",
-    "url": "/dex/mienfoo/"
+    "url": "/dex/mienfoo-family/#mienfoo"
   },
   {
     "name": "Mienshao",
@@ -3041,7 +3041,7 @@
   },
   {
     "name": "Golett",
-    "url": "/dex/golett/"
+    "url": "/dex/golett-family/#golett"
   },
   {
     "name": "Golurk",
@@ -3049,7 +3049,7 @@
   },
   {
     "name": "Pawniard",
-    "url": "/dex/pawniard/"
+    "url": "/dex/pawniard-family/#pawniard"
   },
   {
     "name": "Bisharp",
@@ -3065,7 +3065,7 @@
   },
   {
     "name": "Rufflet",
-    "url": "/dex/rufflet/"
+    "url": "/dex/rufflet-family/#rufflet"
   },
   {
     "name": "Braviary",
@@ -3077,7 +3077,7 @@
   },
   {
     "name": "Vullaby",
-    "url": "/dex/vullaby/"
+    "url": "/dex/vullaby-family/#vullaby"
   },
   {
     "name": "Mandibuzz",
@@ -3093,7 +3093,7 @@
   },
   {
     "name": "Deino",
-    "url": "/dex/deino/"
+    "url": "/dex/deino-family/#deino"
   },
   {
     "name": "Zweilous",
@@ -3105,7 +3105,7 @@
   },
   {
     "name": "Larvesta",
-    "url": "/dex/larvesta/"
+    "url": "/dex/larvesta-family/#larvesta"
   },
   {
     "name": "Volcarona",
@@ -3125,7 +3125,7 @@
   },
   {
     "name": "Keldeo",
-    "url": "/dex/keldeo/"
+    "url": "/dex/keldeo-family/#keldeo"
   },
   {
     "name": "Keldeo (Resolute)",
@@ -3133,7 +3133,7 @@
   },
   {
     "name": "Tornadus",
-    "url": "/dex/tornadus/"
+    "url": "/dex/tornadus-family/#tornadus"
   },
   {
     "name": "Tornadus (Therian)",
@@ -3141,7 +3141,7 @@
   },
   {
     "name": "Thundurus",
-    "url": "/dex/thundurus/"
+    "url": "/dex/thundurus-family/#thundurus"
   },
   {
     "name": "Thundurus (Therian)",
@@ -3149,7 +3149,7 @@
   },
   {
     "name": "Landorus",
-    "url": "/dex/landorus/"
+    "url": "/dex/landorus-family/#landorus"
   },
   {
     "name": "Landorus (Therian)",
@@ -3157,7 +3157,7 @@
   },
   {
     "name": "Enamorus",
-    "url": "/dex/enamorus/"
+    "url": "/dex/enamorus-family/#enamorus"
   },
   {
     "name": "Enamorus (Therian)",
@@ -3173,7 +3173,7 @@
   },
   {
     "name": "Kyurem",
-    "url": "/dex/kyurem/"
+    "url": "/dex/kyurem-family/#kyurem"
   },
   {
     "name": "Kyurem (White)",
@@ -3185,7 +3185,7 @@
   },
   {
     "name": "Meloetta",
-    "url": "/dex/meloetta/"
+    "url": "/dex/meloetta-family/#meloetta"
   },
   {
     "name": "Meloetta (Pirouette)",
@@ -3197,7 +3197,7 @@
   },
   {
     "name": "Chespin",
-    "url": "/dex/chespin/"
+    "url": "/dex/chespin-family/#chespin"
   },
   {
     "name": "Quilladin",
@@ -3209,7 +3209,7 @@
   },
   {
     "name": "Fennekin",
-    "url": "/dex/fennekin/"
+    "url": "/dex/fennekin-family/#fennekin"
   },
   {
     "name": "Braixen",
@@ -3221,7 +3221,7 @@
   },
   {
     "name": "Froakie",
-    "url": "/dex/froakie/"
+    "url": "/dex/froakie-family/#froakie"
   },
   {
     "name": "Frogadier",
@@ -3237,7 +3237,7 @@
   },
   {
     "name": "Bunnelby",
-    "url": "/dex/bunnelby/"
+    "url": "/dex/bunnelby-family/#bunnelby"
   },
   {
     "name": "Diggersby",
@@ -3245,7 +3245,7 @@
   },
   {
     "name": "Fletchling",
-    "url": "/dex/fletchling/"
+    "url": "/dex/fletchling-family/#fletchling"
   },
   {
     "name": "Fletchinder",
@@ -3257,7 +3257,7 @@
   },
   {
     "name": "Scatterbug",
-    "url": "/dex/scatterbug/"
+    "url": "/dex/scatterbug-family/#scatterbug"
   },
   {
     "name": "Spewpa",
@@ -3269,7 +3269,7 @@
   },
   {
     "name": "Litleo",
-    "url": "/dex/litleo/"
+    "url": "/dex/litleo-family/#litleo"
   },
   {
     "name": "Pyroar",
@@ -3277,7 +3277,7 @@
   },
   {
     "name": "Flabébé",
-    "url": "/dex/flabebe/"
+    "url": "/dex/flabebe-family/#flabebe"
   },
   {
     "name": "Floette",
@@ -3289,7 +3289,7 @@
   },
   {
     "name": "Skiddo",
-    "url": "/dex/skiddo/"
+    "url": "/dex/skiddo-family/#skiddo"
   },
   {
     "name": "Gogoat",
@@ -3297,7 +3297,7 @@
   },
   {
     "name": "Pancham",
-    "url": "/dex/pancham/"
+    "url": "/dex/pancham-family/#pancham"
   },
   {
     "name": "Pangoro",
@@ -3309,7 +3309,7 @@
   },
   {
     "name": "Espurr",
-    "url": "/dex/espurr/"
+    "url": "/dex/espurr-family/#espurr"
   },
   {
     "name": "Meowstic (♂)",
@@ -3321,7 +3321,7 @@
   },
   {
     "name": "Honedge",
-    "url": "/dex/honedge/"
+    "url": "/dex/honedge-family/#honedge"
   },
   {
     "name": "Doublade",
@@ -3333,7 +3333,7 @@
   },
   {
     "name": "Spritzee",
-    "url": "/dex/spritzee/"
+    "url": "/dex/spritzee-family/#spritzee"
   },
   {
     "name": "Aromatisse",
@@ -3341,7 +3341,7 @@
   },
   {
     "name": "Swirlix",
-    "url": "/dex/swirlix/"
+    "url": "/dex/swirlix-family/#swirlix"
   },
   {
     "name": "Slurpuff",
@@ -3349,7 +3349,7 @@
   },
   {
     "name": "Inkay",
-    "url": "/dex/inkay/"
+    "url": "/dex/inkay-family/#inkay"
   },
   {
     "name": "Malamar",
@@ -3357,7 +3357,7 @@
   },
   {
     "name": "Binacle",
-    "url": "/dex/binacle/"
+    "url": "/dex/binacle-family/#binacle"
   },
   {
     "name": "Barbaracle",
@@ -3365,7 +3365,7 @@
   },
   {
     "name": "Skrelp",
-    "url": "/dex/skrelp/"
+    "url": "/dex/skrelp-family/#skrelp"
   },
   {
     "name": "Dragalge",
@@ -3373,7 +3373,7 @@
   },
   {
     "name": "Clauncher",
-    "url": "/dex/clauncher/"
+    "url": "/dex/clauncher-family/#clauncher"
   },
   {
     "name": "Clawitzer",
@@ -3381,7 +3381,7 @@
   },
   {
     "name": "Helioptile",
-    "url": "/dex/helioptile/"
+    "url": "/dex/helioptile-family/#helioptile"
   },
   {
     "name": "Heliolisk",
@@ -3389,7 +3389,7 @@
   },
   {
     "name": "Tyrunt",
-    "url": "/dex/tyrunt/"
+    "url": "/dex/tyrunt-family/#tyrunt"
   },
   {
     "name": "Tyrantrum",
@@ -3397,7 +3397,7 @@
   },
   {
     "name": "Amaura",
-    "url": "/dex/amaura/"
+    "url": "/dex/amaura-family/#amaura"
   },
   {
     "name": "Aurorus",
@@ -3417,7 +3417,7 @@
   },
   {
     "name": "Goomy",
-    "url": "/dex/goomy/"
+    "url": "/dex/goomy-family/#goomy"
   },
   {
     "name": "Sliggoo",
@@ -3441,7 +3441,7 @@
   },
   {
     "name": "Phantump",
-    "url": "/dex/phantump/"
+    "url": "/dex/phantump-family/#phantump"
   },
   {
     "name": "Trevenant",
@@ -3449,7 +3449,7 @@
   },
   {
     "name": "Pumpkaboo",
-    "url": "/dex/pumpkaboo/"
+    "url": "/dex/pumpkaboo-family/#pumpkaboo"
   },
   {
     "name": "Gourgeist",
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "Bergmite",
-    "url": "/dex/bergmite/"
+    "url": "/dex/bergmite-family/#bergmite"
   },
   {
     "name": "Avalugg",
@@ -3469,7 +3469,7 @@
   },
   {
     "name": "Noibat",
-    "url": "/dex/noibat/"
+    "url": "/dex/noibat-family/#noibat"
   },
   {
     "name": "Noivern",
@@ -3485,7 +3485,7 @@
   },
   {
     "name": "Zygarde",
-    "url": "/dex/zygarde/"
+    "url": "/dex/zygarde-family/#zygarde"
   },
   {
     "name": "Zygarde (10%)",
@@ -3497,7 +3497,7 @@
   },
   {
     "name": "Diancie",
-    "url": "/dex/diancie/"
+    "url": "/dex/diancie-family/#diancie"
   },
   {
     "name": "Mega Diancie",
@@ -3505,7 +3505,7 @@
   },
   {
     "name": "Hoopa",
-    "url": "/dex/hoopa/"
+    "url": "/dex/hoopa-family/#hoopa"
   },
   {
     "name": "Hoopa (Unbound)",
@@ -3517,7 +3517,7 @@
   },
   {
     "name": "Rowlet",
-    "url": "/dex/rowlet/"
+    "url": "/dex/rowlet-family/#rowlet"
   },
   {
     "name": "Dartrix",
@@ -3533,7 +3533,7 @@
   },
   {
     "name": "Litten",
-    "url": "/dex/litten/"
+    "url": "/dex/litten-family/#litten"
   },
   {
     "name": "Torracat",
@@ -3545,7 +3545,7 @@
   },
   {
     "name": "Popplio",
-    "url": "/dex/popplio/"
+    "url": "/dex/popplio-family/#popplio"
   },
   {
     "name": "Brionne",
@@ -3557,7 +3557,7 @@
   },
   {
     "name": "Pikipek",
-    "url": "/dex/pikipek/"
+    "url": "/dex/pikipek-family/#pikipek"
   },
   {
     "name": "Trumbeak",
@@ -3569,7 +3569,7 @@
   },
   {
     "name": "Yungoos",
-    "url": "/dex/yungoos/"
+    "url": "/dex/yungoos-family/#yungoos"
   },
   {
     "name": "Gumshoos",
@@ -3577,7 +3577,7 @@
   },
   {
     "name": "Grubbin",
-    "url": "/dex/grubbin/"
+    "url": "/dex/grubbin-family/#grubbin"
   },
   {
     "name": "Charjabug",
@@ -3589,7 +3589,7 @@
   },
   {
     "name": "Crabrawler",
-    "url": "/dex/crabrawler/"
+    "url": "/dex/crabrawler-family/#crabrawler"
   },
   {
     "name": "Crabominable",
@@ -3597,7 +3597,7 @@
   },
   {
     "name": "Oricorio (Baile)",
-    "url": "/dex/oricorio/"
+    "url": "/dex/oricorio-family/#oricorio-baile"
   },
   {
     "name": "Oricorio (Pom-Pom)",
@@ -3613,7 +3613,7 @@
   },
   {
     "name": "Cutiefly",
-    "url": "/dex/cutiefly/"
+    "url": "/dex/cutiefly-family/#cutiefly"
   },
   {
     "name": "Ribombee",
@@ -3621,7 +3621,7 @@
   },
   {
     "name": "Rockruff",
-    "url": "/dex/rockruff/"
+    "url": "/dex/rockruff-family/#rockruff"
   },
   {
     "name": "Lycanroc (Midday)",
@@ -3637,7 +3637,7 @@
   },
   {
     "name": "Wishiwashi",
-    "url": "/dex/wishiwashi/"
+    "url": "/dex/wishiwashi-family/#wishiwashi"
   },
   {
     "name": "Wishiwashi (School)",
@@ -3645,7 +3645,7 @@
   },
   {
     "name": "Mareanie",
-    "url": "/dex/mareanie/"
+    "url": "/dex/mareanie-family/#mareanie"
   },
   {
     "name": "Toxapex",
@@ -3653,7 +3653,7 @@
   },
   {
     "name": "Mudbray",
-    "url": "/dex/mudbray/"
+    "url": "/dex/mudbray-family/#mudbray"
   },
   {
     "name": "Mudsdale",
@@ -3661,7 +3661,7 @@
   },
   {
     "name": "Dewpider",
-    "url": "/dex/dewpider/"
+    "url": "/dex/dewpider-family/#dewpider"
   },
   {
     "name": "Araquanid",
@@ -3669,7 +3669,7 @@
   },
   {
     "name": "Fomantis",
-    "url": "/dex/fomantis/"
+    "url": "/dex/fomantis-family/#fomantis"
   },
   {
     "name": "Lurantis",
@@ -3677,7 +3677,7 @@
   },
   {
     "name": "Morelull",
-    "url": "/dex/morelull/"
+    "url": "/dex/morelull-family/#morelull"
   },
   {
     "name": "Shiinotic",
@@ -3685,7 +3685,7 @@
   },
   {
     "name": "Salandit",
-    "url": "/dex/salandit/"
+    "url": "/dex/salandit-family/#salandit"
   },
   {
     "name": "Salazzle",
@@ -3693,7 +3693,7 @@
   },
   {
     "name": "Stufful",
-    "url": "/dex/stufful/"
+    "url": "/dex/stufful-family/#stufful"
   },
   {
     "name": "Bewear",
@@ -3701,7 +3701,7 @@
   },
   {
     "name": "Bounsweet",
-    "url": "/dex/bounsweet/"
+    "url": "/dex/bounsweet-family/#bounsweet"
   },
   {
     "name": "Steenee",
@@ -3725,7 +3725,7 @@
   },
   {
     "name": "Wimpod",
-    "url": "/dex/wimpod/"
+    "url": "/dex/wimpod-family/#wimpod"
   },
   {
     "name": "Golisopod",
@@ -3733,7 +3733,7 @@
   },
   {
     "name": "Sandygast",
-    "url": "/dex/sandygast/"
+    "url": "/dex/sandygast-family/#sandygast"
   },
   {
     "name": "Palossand",
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "Type: Null",
-    "url": "/dex/type-null/"
+    "url": "/dex/type-null-family/#type-null"
   },
   {
     "name": "Silvally",
@@ -3753,7 +3753,7 @@
   },
   {
     "name": "Minior",
-    "url": "/dex/minior/"
+    "url": "/dex/minior-family/#minior"
   },
   {
     "name": "Minior (Core)",
@@ -3789,7 +3789,7 @@
   },
   {
     "name": "Jangmo-o",
-    "url": "/dex/jangmo-o/"
+    "url": "/dex/jangmo-o-family/#jangmo-o"
   },
   {
     "name": "Hakamo-o",
@@ -3817,7 +3817,7 @@
   },
   {
     "name": "Cosmog",
-    "url": "/dex/cosmog/"
+    "url": "/dex/cosmog-family/#cosmog"
   },
   {
     "name": "Cosmoem",
@@ -3833,7 +3833,7 @@
   },
   {
     "name": "Necrozma",
-    "url": "/dex/necrozma/"
+    "url": "/dex/necrozma-family/#necrozma"
   },
   {
     "name": "Necrozma (Dusk Mane)",
@@ -3885,7 +3885,7 @@
   },
   {
     "name": "Poipole",
-    "url": "/dex/poipole/"
+    "url": "/dex/poipole-family/#poipole"
   },
   {
     "name": "Naganadel",
@@ -3905,7 +3905,7 @@
   },
   {
     "name": "Meltan",
-    "url": "/dex/meltan/"
+    "url": "/dex/meltan-family/#meltan"
   },
   {
     "name": "Melmetal",
@@ -3913,7 +3913,7 @@
   },
   {
     "name": "Grookey",
-    "url": "/dex/grookey/"
+    "url": "/dex/grookey-family/#grookey"
   },
   {
     "name": "Thwackey",
@@ -3925,7 +3925,7 @@
   },
   {
     "name": "Scorbunny",
-    "url": "/dex/scorbunny/"
+    "url": "/dex/scorbunny-family/#scorbunny"
   },
   {
     "name": "Raboot",
@@ -3937,7 +3937,7 @@
   },
   {
     "name": "Sobble",
-    "url": "/dex/sobble/"
+    "url": "/dex/sobble-family/#sobble"
   },
   {
     "name": "Drizzile",
@@ -3949,7 +3949,7 @@
   },
   {
     "name": "Skwovet",
-    "url": "/dex/skwovet/"
+    "url": "/dex/skwovet-family/#skwovet"
   },
   {
     "name": "Greedent",
@@ -3957,7 +3957,7 @@
   },
   {
     "name": "Rookidee",
-    "url": "/dex/rookidee/"
+    "url": "/dex/rookidee-family/#rookidee"
   },
   {
     "name": "Corvisquire",
@@ -3969,7 +3969,7 @@
   },
   {
     "name": "Blipbug",
-    "url": "/dex/blipbug/"
+    "url": "/dex/blipbug-family/#blipbug"
   },
   {
     "name": "Dottler",
@@ -3981,7 +3981,7 @@
   },
   {
     "name": "Nickit",
-    "url": "/dex/nickit/"
+    "url": "/dex/nickit-family/#nickit"
   },
   {
     "name": "Thievul",
@@ -3989,7 +3989,7 @@
   },
   {
     "name": "Gossifleur",
-    "url": "/dex/gossifleur/"
+    "url": "/dex/gossifleur-family/#gossifleur"
   },
   {
     "name": "Eldegoss",
@@ -3997,7 +3997,7 @@
   },
   {
     "name": "Wooloo",
-    "url": "/dex/wooloo/"
+    "url": "/dex/wooloo-family/#wooloo"
   },
   {
     "name": "Dubwool",
@@ -4005,7 +4005,7 @@
   },
   {
     "name": "Chewtle",
-    "url": "/dex/chewtle/"
+    "url": "/dex/chewtle-family/#chewtle"
   },
   {
     "name": "Drednaw",
@@ -4013,7 +4013,7 @@
   },
   {
     "name": "Yamper",
-    "url": "/dex/yamper/"
+    "url": "/dex/yamper-family/#yamper"
   },
   {
     "name": "Boltund",
@@ -4021,7 +4021,7 @@
   },
   {
     "name": "Rolycoly",
-    "url": "/dex/rolycoly/"
+    "url": "/dex/rolycoly-family/#rolycoly"
   },
   {
     "name": "Carkol",
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "Applin",
-    "url": "/dex/applin/"
+    "url": "/dex/applin-family/#applin"
   },
   {
     "name": "Flapple",
@@ -4053,7 +4053,7 @@
   },
   {
     "name": "Silicobra",
-    "url": "/dex/silicobra/"
+    "url": "/dex/silicobra-family/#silicobra"
   },
   {
     "name": "Sandaconda",
@@ -4065,7 +4065,7 @@
   },
   {
     "name": "Arrokuda",
-    "url": "/dex/arrokuda/"
+    "url": "/dex/arrokuda-family/#arrokuda"
   },
   {
     "name": "Barraskewda",
@@ -4073,7 +4073,7 @@
   },
   {
     "name": "Toxel",
-    "url": "/dex/toxel/"
+    "url": "/dex/toxel-family/#toxel"
   },
   {
     "name": "Toxtricity",
@@ -4081,7 +4081,7 @@
   },
   {
     "name": "Sizzlipede",
-    "url": "/dex/sizzlipede/"
+    "url": "/dex/sizzlipede-family/#sizzlipede"
   },
   {
     "name": "Centiskorch",
@@ -4089,7 +4089,7 @@
   },
   {
     "name": "Clobbopus",
-    "url": "/dex/clobbopus/"
+    "url": "/dex/clobbopus-family/#clobbopus"
   },
   {
     "name": "Grapploct",
@@ -4097,7 +4097,7 @@
   },
   {
     "name": "Sinistea",
-    "url": "/dex/sinistea/"
+    "url": "/dex/sinistea-family/#sinistea"
   },
   {
     "name": "Polteageist",
@@ -4105,7 +4105,7 @@
   },
   {
     "name": "Poltchageist",
-    "url": "/dex/poltchageist/"
+    "url": "/dex/poltchageist-family/#poltchageist"
   },
   {
     "name": "Sinistcha",
@@ -4113,7 +4113,7 @@
   },
   {
     "name": "Hatenna",
-    "url": "/dex/hatenna/"
+    "url": "/dex/hatenna-family/#hatenna"
   },
   {
     "name": "Hattrem",
@@ -4125,7 +4125,7 @@
   },
   {
     "name": "Impidimp",
-    "url": "/dex/impidimp/"
+    "url": "/dex/impidimp-family/#impidimp"
   },
   {
     "name": "Morgrem",
@@ -4137,7 +4137,7 @@
   },
   {
     "name": "Milcery",
-    "url": "/dex/milcery/"
+    "url": "/dex/milcery-family/#milcery"
   },
   {
     "name": "Alcremie",
@@ -4153,7 +4153,7 @@
   },
   {
     "name": "Snom",
-    "url": "/dex/snom/"
+    "url": "/dex/snom-family/#snom"
   },
   {
     "name": "Frosmoth",
@@ -4165,7 +4165,7 @@
   },
   {
     "name": "Eiscue",
-    "url": "/dex/eiscue/"
+    "url": "/dex/eiscue-family/#eiscue"
   },
   {
     "name": "Eiscue (Noice)",
@@ -4173,7 +4173,7 @@
   },
   {
     "name": "Indeedee (♂)",
-    "url": "/dex/indeedee/"
+    "url": "/dex/indeedee-family/#indeedee-♂"
   },
   {
     "name": "Indeedee (♀)",
@@ -4185,7 +4185,7 @@
   },
   {
     "name": "Cufant",
-    "url": "/dex/cufant/"
+    "url": "/dex/cufant-family/#cufant"
   },
   {
     "name": "Copperajah",
@@ -4209,7 +4209,7 @@
   },
   {
     "name": "Duraludon",
-    "url": "/dex/duraludon/"
+    "url": "/dex/duraludon-family/#duraludon"
   },
   {
     "name": "Archaludon",
@@ -4217,7 +4217,7 @@
   },
   {
     "name": "Dreepy",
-    "url": "/dex/dreepy/"
+    "url": "/dex/dreepy-family/#dreepy"
   },
   {
     "name": "Drakloak",
@@ -4229,7 +4229,7 @@
   },
   {
     "name": "Zacian",
-    "url": "/dex/zacian/"
+    "url": "/dex/zacian-family/#zacian"
   },
   {
     "name": "Zacian (Crowned Sword)",
@@ -4237,7 +4237,7 @@
   },
   {
     "name": "Zamazenta",
-    "url": "/dex/zamazenta/"
+    "url": "/dex/zamazenta-family/#zamazenta"
   },
   {
     "name": "Zamazenta (Crowned Shield)",
@@ -4245,7 +4245,7 @@
   },
   {
     "name": "Eternatus",
-    "url": "/dex/eternatus/"
+    "url": "/dex/eternatus-family/#eternatus"
   },
   {
     "name": "Eternatus (Eternamax)",
@@ -4253,7 +4253,7 @@
   },
   {
     "name": "Kubfu",
-    "url": "/dex/kubfu/"
+    "url": "/dex/kubfu-family/#kubfu"
   },
   {
     "name": "Urshifu (Single Strike)",
@@ -4277,7 +4277,7 @@
   },
   {
     "name": "Calyrex",
-    "url": "/dex/calyrex/"
+    "url": "/dex/calyrex-family/#calyrex"
   },
   {
     "name": "Calyrex (Ice Rider)",
@@ -4289,7 +4289,7 @@
   },
   {
     "name": "Sprigatito",
-    "url": "/dex/sprigatito/"
+    "url": "/dex/sprigatito-family/#sprigatito"
   },
   {
     "name": "Floragato",
@@ -4301,7 +4301,7 @@
   },
   {
     "name": "Fuecoco",
-    "url": "/dex/fuecoco/"
+    "url": "/dex/fuecoco-family/#fuecoco"
   },
   {
     "name": "Crocalor",
@@ -4313,7 +4313,7 @@
   },
   {
     "name": "Quaxly",
-    "url": "/dex/quaxly/"
+    "url": "/dex/quaxly-family/#quaxly"
   },
   {
     "name": "Quaxwell",
@@ -4325,7 +4325,7 @@
   },
   {
     "name": "Lechonk",
-    "url": "/dex/lechonk/"
+    "url": "/dex/lechonk-family/#lechonk"
   },
   {
     "name": "Oinkologne (♂)",
@@ -4337,7 +4337,7 @@
   },
   {
     "name": "Tarountula",
-    "url": "/dex/tarountula/"
+    "url": "/dex/tarountula-family/#tarountula"
   },
   {
     "name": "Spidops",
@@ -4345,7 +4345,7 @@
   },
   {
     "name": "Nymble",
-    "url": "/dex/nymble/"
+    "url": "/dex/nymble-family/#nymble"
   },
   {
     "name": "Lokix",
@@ -4353,7 +4353,7 @@
   },
   {
     "name": "Pawmi",
-    "url": "/dex/pawmi/"
+    "url": "/dex/pawmi-family/#pawmi"
   },
   {
     "name": "Pawmo",
@@ -4365,7 +4365,7 @@
   },
   {
     "name": "Tandemaus",
-    "url": "/dex/tandemaus/"
+    "url": "/dex/tandemaus-family/#tandemaus"
   },
   {
     "name": "Maushold",
@@ -4373,7 +4373,7 @@
   },
   {
     "name": "Fidough",
-    "url": "/dex/fidough/"
+    "url": "/dex/fidough-family/#fidough"
   },
   {
     "name": "Dachsbun",
@@ -4381,7 +4381,7 @@
   },
   {
     "name": "Smoliv",
-    "url": "/dex/smoliv/"
+    "url": "/dex/smoliv-family/#smoliv"
   },
   {
     "name": "Dolliv",
@@ -4397,7 +4397,7 @@
   },
   {
     "name": "Nacli",
-    "url": "/dex/nacli/"
+    "url": "/dex/nacli-family/#nacli"
   },
   {
     "name": "Naclstack",
@@ -4409,7 +4409,7 @@
   },
   {
     "name": "Charcadet",
-    "url": "/dex/charcadet/"
+    "url": "/dex/charcadet-family/#charcadet"
   },
   {
     "name": "Armarouge",
@@ -4421,7 +4421,7 @@
   },
   {
     "name": "Tadbulb",
-    "url": "/dex/tadbulb/"
+    "url": "/dex/tadbulb-family/#tadbulb"
   },
   {
     "name": "Bellibolt",
@@ -4429,7 +4429,7 @@
   },
   {
     "name": "Wattrel",
-    "url": "/dex/wattrel/"
+    "url": "/dex/wattrel-family/#wattrel"
   },
   {
     "name": "Kilowattrel",
@@ -4437,7 +4437,7 @@
   },
   {
     "name": "Masschiff",
-    "url": "/dex/masschiff/"
+    "url": "/dex/masschiff-family/#masschiff"
   },
   {
     "name": "Mabosstiff",
@@ -4445,7 +4445,7 @@
   },
   {
     "name": "Shroodle",
-    "url": "/dex/shroodle/"
+    "url": "/dex/shroodle-family/#shroodle"
   },
   {
     "name": "Grafaiai",
@@ -4453,7 +4453,7 @@
   },
   {
     "name": "Bramblin",
-    "url": "/dex/bramblin/"
+    "url": "/dex/bramblin-family/#bramblin"
   },
   {
     "name": "Brambleghast",
@@ -4461,7 +4461,7 @@
   },
   {
     "name": "Toedscool",
-    "url": "/dex/toedscool/"
+    "url": "/dex/toedscool-family/#toedscool"
   },
   {
     "name": "Toedscruel",
@@ -4477,11 +4477,11 @@
   },
   {
     "name": "Scovillain",
-    "url": "/dex/undefined/"
+    "url": "/dex/undefined-family/#scovillain"
   },
   {
     "name": "Rellor",
-    "url": "/dex/rellor/"
+    "url": "/dex/rellor-family/#rellor"
   },
   {
     "name": "Rabsca",
@@ -4489,7 +4489,7 @@
   },
   {
     "name": "Flittle",
-    "url": "/dex/flittle/"
+    "url": "/dex/flittle-family/#flittle"
   },
   {
     "name": "Espathra",
@@ -4497,7 +4497,7 @@
   },
   {
     "name": "Tinkatink",
-    "url": "/dex/tinkatink/"
+    "url": "/dex/tinkatink-family/#tinkatink"
   },
   {
     "name": "Tinkatuff",
@@ -4509,7 +4509,7 @@
   },
   {
     "name": "Wiglett",
-    "url": "/dex/wiglett/"
+    "url": "/dex/wiglett-family/#wiglett"
   },
   {
     "name": "Wugtrio",
@@ -4521,7 +4521,7 @@
   },
   {
     "name": "Finizen",
-    "url": "/dex/finizen/"
+    "url": "/dex/finizen-family/#finizen"
   },
   {
     "name": "Palafin",
@@ -4533,7 +4533,7 @@
   },
   {
     "name": "Varoom",
-    "url": "/dex/varoom/"
+    "url": "/dex/varoom-family/#varoom"
   },
   {
     "name": "Revavroom",
@@ -4545,7 +4545,7 @@
   },
   {
     "name": "Glimmet",
-    "url": "/dex/glimmet/"
+    "url": "/dex/glimmet-family/#glimmet"
   },
   {
     "name": "Glimmora",
@@ -4553,7 +4553,7 @@
   },
   {
     "name": "Greavard",
-    "url": "/dex/greavard/"
+    "url": "/dex/greavard-family/#greavard"
   },
   {
     "name": "Houndstone",
@@ -4565,7 +4565,7 @@
   },
   {
     "name": "Cetoddle",
-    "url": "/dex/cetoddle/"
+    "url": "/dex/cetoddle-family/#cetoddle"
   },
   {
     "name": "Cetitan",
@@ -4585,7 +4585,7 @@
   },
   {
     "name": "Gimmighoul",
-    "url": "/dex/gimmighoul/"
+    "url": "/dex/gimmighoul-family/#gimmighoul"
   },
   {
     "name": "Gimmighoul (Roaming)",
@@ -4733,7 +4733,7 @@
   },
   {
     "name": "Ogerpon",
-    "url": "/dex/ogerpon/"
+    "url": "/dex/ogerpon-family/#ogerpon"
   },
   {
     "name": "Ogerpon (Wellspring)",
@@ -4749,7 +4749,7 @@
   },
   {
     "name": "Terapagos",
-    "url": "/dex/terapagos/"
+    "url": "/dex/terapagos-family/#terapagos"
   },
   {
     "name": "Terapagos (Terastal)",
