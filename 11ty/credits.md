@@ -13,6 +13,8 @@ All of this is thanks to and copyright GAME FREAK and Nintendo.
 
 - [Pengogo][pg] and [Matt Palladium][matt] for Bonus Moves (they had the idea simultaneously)
 
+- Blue, for writing most of the Pokédex blurbs
+
 - [All GitHub code/issue contributors](https://github.com/tigt/ptv/graphs/contributors)
 
 ## Dev Team/<abbr title="Internet Relay Chat">IRC</abbr> playtesters
@@ -30,6 +32,8 @@ All of this is thanks to and copyright GAME FREAK and Nintendo.
 - Marshal Z.
 - [Michael B.](https://github.com/Yukiiro-Nite)
 - [Steph M.](https://smmaci.dev)
+- ABCD
+- [Edea G.](https://www.instagram.com/seaurchinsunshine/)
 
 [dobbers]: https://twitter.com/aridobbers
 [pg]: https://twitter.com/Pengogod

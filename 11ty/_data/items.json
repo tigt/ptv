@@ -1,9 +1,17 @@
 [
   {
     "name": "Ability Capsule",
-    "buy": 10000,
+    "buy": 20000,
     "sell": 5000,
     "description": "Changes one of a Pokémon’s Abilities to the user’s choice within the same slot.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Ability Patch",
+    "buy": 100000,
+    "sell": 25000,
+    "description": "Change one of a Pokémon’s Starting Abilities to one of its Level 5 Abilities.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -41,7 +49,7 @@
   },
   {
     "name": "Apricorn",
-    "description": "The historical main ingredient for Pokémon capture. Use with a Ball Kit during a Rest to ignore one of the crafted Balls’ ₽ cost.",
+    "description": "The historical main ingredient for Pokémon capture. Use with a Ball Kit during a Rest to ignore one of the crafted Balls’ ₽ cost, or use with a blender to make Aprijuice.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -1886,114 +1894,90 @@
     "sellIsNumeric": true
   },
   {
-    "name": "Choice Dumpling",
-    "buy": 2400,
-    "sell": 600,
-    "description": "A dumpling that will make a Pokémon become fixated on a move in battle. The Pokémon will deal more damage when using that move but will take more damage as well.",
-    "buyIsNumeric": true,
+    "name": "Aux Power",
+    "sell": 200,
+    "description": "An ancient tincture that Boosts ATK and SATK by +10 for 3 turns.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Aux Guard",
+    "sell": 200,
+    "description": "An ancient decoction that Boosts DEF and SDEF by +10 for 3 turns.",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Aux Powerguard",
-    "buy": 2400,
     "sell": 600,
-    "description": "An item that sharply boosts the offensive and defensive stats of a Pokémon in battle. These effects disappear if the Pokémon leaves the battle. ",
-    "buyIsNumeric": true,
+    "description": "An ancient elixir that Boosts ATK, DEF, SATK, and SDEF by +10 for 3 turns.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Aux Evasion",
+    "sell": 400,
+    "description": "An ancient ointment that Boosts Evasion by +5 for 3 turns.",
+    "buyIsNumeric": false,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Choice Dumpling",
+    "sell": 600,
+    "description": "A dumpling that makes its eater become fixated on its next Move. While fixated, that Move deals increased damage, but also causes the user to receive increased damage from attacks. Fixation ends when the Pokémon uses a different move.",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Swap Snack",
-    "buy": 2400,
     "sell": 600,
-    "description": "When eaten, this curious snack temporarily swaps a Pokémon's offensive stats with its defensive stats. ",
-    "buyIsNumeric": true,
+    "description": "This curious treat swaps the holder’s ATK⇄DEF and SATK⇄SDEF for the rest of the battle.",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Twice-Spiced Radish",
-    "buy": 3200,
     "sell": 800,
-    "description": "For the next five turns, the Pokémon takes a hard-hitting stance, which increases damage dealt by its moves (+50%). ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Ball of Mud",
-    "buy": 40,
-    "sell": 10,
-    "description": "A ball of mud that has become stiff and hard. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Scatter Bang",
-    "buy": 500,
-    "sell": 125,
-    "description": "When thrown at the ground, these balls produce a loud noise and scare off low-level Pokémon in the area, sending them running. ",
-    "buyIsNumeric": true,
+    "description": "This pickled vegetable lets its consumer take a hard-hitting stance to give Double Strike to their Moves.",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Smoke Bomb",
-    "buy": 400,
     "sell": 100,
-    "description": "When thrown, a Smoke Bomb creates a cloud of smoke with a wide radius that lingers for approximately 25 seconds. The player can sneak in the smoke like in tall grass, allowing them to sneak up on wild Pokémon without being noticed. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Spoiled Apricorn",
-    "buy": 40,
-    "sell": 10,
-    "description": "An Apricorn that's had its insides eaten. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act. ",
-    "buyIsNumeric": true,
+    "description": "When thrown, creates a cloud of lingering smoke with a wide radius. Characters can hide in the smoke, letting them sneak without being noticed. ",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Stealth Spray",
-    "buy": 800,
     "sell": 200,
-    "description": "When used from the satchel, it silences the player's footsteps for one minute, reducing the chance of alerting wild Pokémon. ",
-    "buyIsNumeric": true,
+    "description": "Silences the user's footsteps for 1 minute, reducing the chance of detection. ",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Sticky Glob",
-    "buy": 800,
     "sell": 200,
-    "description": "A ball of some kind of sticky substance. Hitting a Pokémon with one may stun the Pokémon, creating an opening for you to act. ",
-    "buyIsNumeric": true,
-    "sellIsNumeric": true
-  },
-  {
-    "name": "Hopo Berry",
-    "buy": 300,
-    "sell": 75,
-    "description": "When used from the satchel on a Pokémon, it restores the AP of one of its moves by 10. When thrown from the satchel onto a wild Pokémon, its reactions will be dulled. ",
-    "buyIsNumeric": true,
+    "description": "A ball of adhesive substances. Hitting a Pokémon with one may stun them, creating an opening for you to act. ",
+    "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Cornerstone Mask",
-    "description": "If an Ogerpon is holding a Cornerstone Mask, it changes to its Cornerstone Mask form. It increases the power of its moves by 20%. An item to be held by Ogerpon. This carved wooden mask is adorned with crystals and allows Ogerpon to wield the Rock type during battle. ",
-    "buyIsNumeric": false,
-    "sellIsNumeric": false
-  },
-  {
-    "name": "Teal Mask",
-    "description": "A teal mask patterned after the face of an ogre. Ogerpon dropped it while fleeing up the stairs after visiting the Festival of Masks. ",
+    "description": "Ogerpon holding this carved wooden mask change to Cornerstone form, and get +5 damage on their Moves.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
   {
     "name": "Hearthflame Mask",
-    "description": "If an Ogerpon is holding a Hearthflame Mask, it changes to its Hearthflame Mask form. It increases the power of its moves by 20%. ",
+    "description": "Ogerpon holding this carved wooden mask change to Hearthflame form, and get +5 damage on their Moves.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
   {
     "name": "Wellspring Mask",
-    "description": "If an Ogerpon is holding a Wellspring Mask, it changes to its Wellspring Mask form. It increases the power of its moves by 20%. ",
+    "description": "Ogerpon holding this carved wooden mask change to Wellspring form, and get +5 damage on their Moves.",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },
@@ -2001,7 +1985,7 @@
     "name": "Covert Cloak",
     "buy": 20000,
     "sell": 5000,
-    "description": "This hooded cloak conceals the holder, tricking the eyes of its enemies and protecting it from the additional effects of Moves.",
+    "description": "This hooded cloak conceals the holder, tricking the eyes of its foes and protecting it from the additional effects of damaging Moves.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2009,7 +1993,7 @@
     "name": "Loaded Dice",
     "buy": 20000,
     "sell": 5000,
-    "description": "An item to be held by a Pokémon. This loaded dice always rolls a good number, and holding one can ensure that the holder's multistrike moves hit more times. Loaded Dice causes multi-strike moves used by the holder to always hit at least four times, if possible.\n\nIt causes Triple Kick, Triple Axel, and Population Bomb used by the holder to only perform one accuracy check. It causes the holder's Population Bomb to hit four to ten times (with an even chance of each number of hits). ",
+    "description": "These weighted dice always roll well, so the holder’s Multi-strike Moves to hit at least 4 times if they don’t miss, and gives the holder +2 Accuracy on the Moves Triple Kick, Triple Axel, and Population Bomb.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2017,7 +2001,7 @@
     "name": "Mirror Herb",
     "buy": 30000,
     "sell": 7500,
-    "description": "Just after an opponent has a stat increase, the holder consumes the Mirror Herb and gets the same stat increase. If multiple stats of the opponent are increased at once, all the stat increases are copied.",
+    "description": "When an opponent Boosts one or more Stats, the holder consumes the Mirror Herb and gets the same Boost(s).",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2031,7 +2015,7 @@
   },
   {
     "name": "Tera Orb",
-    "description": "An orb that holds within it the power to crystallize. When it is charged with energy, it can be used to cause Pokémon to Terastallize. ",
+    "description": "An orb that holds the power to crystallize. When charged with energy, it can cause Pokémon to Terastallize. ",
     "buyIsNumeric": false,
     "sellIsNumeric": false
   },

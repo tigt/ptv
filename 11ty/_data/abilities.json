@@ -112,7 +112,7 @@
   },
   {
     "name": "Alphabetic",
-    "description": "<p>Unown gets an extra Ability that starts with its letter of your choice. On level-up, Unown can learn any Move that starts with its letter. Unown-? chooses randomly each time. Unown-! chooses from Moves and Abilities that contain spaces or punctuation.</p>\n",
+    "description": "<p>Unown gets an extra Ability that starts with its letter of your choice. On level-up, Unown can learn any Move that starts with its letter, or learn Hidden Power again. Unown-? gets a new random Move and an extra random Ability instead, but can reroll them during Long Rests. Unown-! chooses from Moves and Abilities that contain punctuation.</p>\n",
     "usedBy": [
       "Unown"
     ]
@@ -185,7 +185,6 @@
     "description": "<p>When the user’s HP falls below 50% from direct damage, Boost their ATK, SATK, and SPE by +5, and Drop their DEF and SDEF by -5.</p>\n",
     "usedBy": [
       "Clamperl",
-      "Chesnaught",
       "Chewtle",
       "Drednaw",
       "Klawf",
@@ -283,7 +282,7 @@
   },
   {
     "name": "As One",
-    "description": "<p>Calyrex’s Rider form has the Abilities of Calyrex’s default form and the Pokémon it is riding.</p>\n",
+    "description": "<p>Calyrex’s Rider form has the Abilities of Calyrex’s default form and the Pokémon it rides.</p>\n",
     "usedBy": [
       "Calyrex (Ice Rider)",
       "Calyrex (Ice Rider)",
@@ -317,7 +316,7 @@
   {
     "name": "Ball Fetch",
     "bonusStats": "+5 SPE",
-    "description": "<p>The user picks up and restores each failed Poké Ball.</p>\n",
+    "description": "<p>The user grabs, restores, and returns each Poké Ball that failed to capture something to the character that threw it.</p>\n",
     "usedBy": [
       "Yamper"
     ]
@@ -337,7 +336,6 @@
     "bonusStats": "+1 ATK, +2 DEF",
     "description": "<p>Hard plating deflects the user’s received Critical Hits into normal hits.</p>\n",
     "usedBy": [
-      "Metapod",
       "Kakuna",
       "Perrserker",
       "Cubone",
@@ -385,13 +383,14 @@
     "name": "Beads of Ruin",
     "description": "<p>The user’s ruinous jade magatama give -5 SDEF to characters without Beads of Ruin.</p>\n",
     "usedBy": [
+      "Misdreavus",
       "Chi-Yu"
     ]
   },
   {
     "name": "Beam Cannon",
     "bonusStats": "+1 SATK",
-    "description": "<p>The user’s Ranged Moves get +3 to their Effect and Critical Rates.</p>\n",
+    "description": "<p>The user’s single-target Ranged Moves get +5 damage and +5 to their Effect and Critical Rates.</p>\n",
     "usedBy": [
       "Blastoise",
       "Mega Blastoise",
@@ -713,7 +712,6 @@
       "Regieleki",
       "Regidrago",
       "Regigigas",
-      "Frillish",
       "Klink",
       "Klang",
       "Klinklang",
@@ -1088,6 +1086,7 @@
   },
   {
     "name": "Defeatist",
+    "bonusStats": "+4 ATK, +4 SATK",
     "description": "<p>When the user has less than 50% HP, Drop its ATK and SATK by -10.</p>\n",
     "usedBy": [
       "Archen",
@@ -1136,6 +1135,7 @@
     "usedBy": [
       "Delibird",
       "Pelipper",
+      "Tranquill",
       "Bombirdier",
       "Iron Bundle"
     ]
@@ -1358,6 +1358,7 @@
     "name": "Earth Eater",
     "description": "<p>The user is Immune to Ground. When hit with a Ground Move, ignore its effect and Heal the user by 3 Ticks.</p>\n",
     "usedBy": [
+      "Larvitar",
       "Orthworm"
     ]
   },
@@ -1424,6 +1425,10 @@
     "usedBy": [
       "Bellibolt"
     ]
+  },
+  {
+    "name": "Embody Aspect",
+    "description": "<p>The user’s heart fills with memories and their mask turns into a shining, overbearing visage that Boosts a Stat depending on the mask:</p>\n<ul>\n<li>Teal Mask: +5 SPE</li>\n<li>Wellspring Mask: +5 SDEF</li>\n<li>Hearthflame Mask: +5 ATK</li>\n<li>Cornerstone Mask: +5 DEF</li>\n</ul>\n"
   },
   {
     "name": "Emergency Exit",
@@ -1864,7 +1869,6 @@
       "Snorlax",
       "Croconaw",
       "Shuckle",
-      "Larvitar",
       "Zigzagoon",
       "Linoone",
       "Galarian Zigzagoon",
@@ -2080,6 +2084,7 @@
       "Landorus (Therian)",
       "Phantump",
       "Trevenant",
+      "Xerneas",
       "Applin",
       "Dachsbun",
       "Smoliv",
@@ -2165,7 +2170,6 @@
       "Dialga",
       "Emboar",
       "Excadrill",
-      "Cofagrigus",
       "Ferrothorn",
       "Type: Null",
       "Dhelmise",
@@ -2186,6 +2190,18 @@
       "Combee",
       "Cutiefly",
       "Ribombee"
+    ]
+  },
+  {
+    "name": "Hospitality",
+    "description": "<p>When the user enters battle, it heals each in-Zone ally for 3 Ticks each.</p>\n",
+    "usedBy": [
+      "Chansey",
+      "Alomomola",
+      "Poltchageist",
+      "Sinistcha",
+      "Indeedee (♂)",
+      "Indeedee (♀)"
     ]
   },
   {
@@ -2220,7 +2236,6 @@
       "Maractus",
       "Bunnelby",
       "Diggersby",
-      "Carbink",
       "Pyukumuku",
       "Scorbunny"
     ]
@@ -2498,8 +2513,6 @@
       "Zubat",
       "Golbat",
       "Crobat",
-      "Grimer",
-      "Muk",
       "Hoppip",
       "Skiploom",
       "Jumpluff",
@@ -2650,8 +2663,6 @@
       "Honchkrow",
       "Slugma",
       "Delibird",
-      "Baltoy",
-      "Claydol",
       "Shuppet",
       "Banette",
       "Pumpkaboo",
@@ -2924,8 +2935,6 @@
     "name": "Levitate",
     "description": "<p>The user is Immune to Ground damage, Terrain, Arena Trap, Spikes, Toxic Spikes, Sticky Web, and Rototiller.</p>\n",
     "usedBy": [
-      "Beedrill",
-      "Mega Beedrill",
       "Alolan Raichu",
       "Venomoth",
       "Gastly",
@@ -2976,7 +2985,6 @@
       "Munna",
       "Musharna",
       "Yamask",
-      "Galarian Yamask",
       "Tynamo",
       "Eelektrik",
       "Eelektross",
@@ -2994,7 +3002,6 @@
       "Cosmog",
       "Cosmoem",
       "Lunala",
-      "Necrozma",
       "Necrozma (Dawn Wings)",
       "Nihilego",
       "Poipole",
@@ -3036,7 +3043,6 @@
       "Gliscor",
       "Beautifly",
       "Dusknoir",
-      "Gorebyss",
       "Tynamo",
       "Eelektrik",
       "Eelektross",
@@ -3205,6 +3211,32 @@
     ]
   },
   {
+    "name": "Looming",
+    "description": "<p>Single-target Moves get -1 Effectiveness against the user.</p>\n",
+    "usedBy": [
+      "Onix",
+      "Steelix",
+      "Mega Steelix",
+      "Alolan Exeggutor",
+      "Farigiraf",
+      "Wailord",
+      "Regigigas",
+      "Groudon",
+      "Primal Groudon",
+      "Golurk",
+      "Wishiwashi (School)",
+      "Necrozma (Ultra)",
+      "Celesteela",
+      "Stakataka",
+      "Copperajah",
+      "Eternatus",
+      "Eternatus (Eternamax)",
+      "Cetitan",
+      "Dondozo",
+      "Raging Bolt"
+    ]
+  },
+  {
     "name": "Loose Cannon",
     "description": "<p>The user’s Special Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n",
     "usedBy": [
@@ -3305,7 +3337,8 @@
       "Klefki",
       "Hoopa",
       "Hoopa (Unbound)",
-      "Meowscarada"
+      "Meowscarada",
+      "Chi-Yu"
     ]
   },
   {
@@ -3414,6 +3447,13 @@
     ]
   },
   {
+    "name": "Mind's Eye",
+    "description": "<p>The user ignores changes to foes’ Evasion, their Accuracy can’t be Dropped, and they can hit Ghost-Types with Normal- or Fighting-Type moves.</p>\n",
+    "usedBy": [
+      "Ursaluna (Blood Moon)"
+    ]
+  },
+  {
     "name": "Minus",
     "bonusStats": "+2 SDEF",
     "description": "<p>Boost the user’s SATK by +10 for each ally with Plus or Minus in Zone.</p>\n",
@@ -3451,7 +3491,7 @@
   },
   {
     "name": "Mold Breaker",
-    "description": "<p>The user’s Moves ignores others’ Abilities during the user’s turn.</p>\n",
+    "description": "<p>The user’s Moves ignore others’ Abilities during the user’s turn.</p>\n",
     "usedBy": [
       "Pinsir",
       "Mega Gyarados",
@@ -3474,7 +3514,6 @@
       "Pancham",
       "Pangoro",
       "Hawlucha",
-      "Yveltal",
       "Zacian (Crowned Sword)",
       "Tinkatink",
       "Tinkatuff",
@@ -3633,8 +3672,6 @@
       "Zygarde",
       "Zygarde (10%)",
       "Zygarde (Complete)",
-      "Wishiwashi",
-      "Wishiwashi (School)",
       "Stakataka",
       "Melmetal",
       "Dipplin",
@@ -3659,9 +3696,12 @@
       "Lugia",
       "Feebas",
       "Milotic",
+      "Gorebyss",
       "Regidrago",
       "Rayquaza",
       "Mega Rayquaza",
+      "Archen",
+      "Archeops",
       "Chi-Yu"
     ]
   },
@@ -3675,7 +3715,7 @@
   },
   {
     "name": "Mummy",
-    "bonusStats": "+2",
+    "bonusStats": "+2 DEF",
     "description": "<p>Attackers that hit the user with Contact Moves have their Ability changed to Mummy until they leave battle.</p>\n",
     "usedBy": [
       "Dusclops",
@@ -3720,7 +3760,6 @@
       "Shaymin",
       "Phantump",
       "Trevenant",
-      "Xerneas",
       "Comfey",
       "Wimpod",
       "Golisopod",
@@ -3772,6 +3811,7 @@
       "Mega Pinsir",
       "Deoxys (Attack)",
       "Staraptor",
+      "Rampardos",
       "Hisuian Lilligant",
       "Karrablast",
       "Golett",
@@ -3848,8 +3888,7 @@
     "name": "Opportunist",
     "description": "<p>If an opponent Boosts their Stats, the user seizes the opportunity to copy those Boosts.</p>\n",
     "usedBy": [
-      "Espathra",
-      "Chi-Yu"
+      "Espathra"
     ]
   },
   {
@@ -4043,7 +4082,8 @@
     "name": "Perish Body",
     "description": "<p>Attackers that hit the user with Contact Moves cause both them and the user to suffer the effect of Perish Song.</p>\n",
     "usedBy": [
-      "Cursola"
+      "Cursola",
+      "Frillish"
     ]
   },
   {
@@ -4054,7 +4094,6 @@
       "Magcargo",
       "Lileep",
       "Cradily",
-      "Rampardos",
       "Conkeldurr",
       "Archen",
       "Archeops",
@@ -4212,6 +4251,14 @@
     ]
   },
   {
+    "name": "Poison Puppeteer",
+    "description": "<p>Targets Poisoned by the user’s Moves also become Confused.</p>\n",
+    "usedBy": [
+      "Galarian Slowking",
+      "Pecharunt"
+    ]
+  },
+  {
     "name": "Poison Touch",
     "bonusStats": "+2 ATK",
     "description": "<p>The user’s Contact Moves inflict Poison on 15+. If a move already has a chance of Poisoning, increase that chance’s Effect Rate by +6.</p>\n",
@@ -4314,7 +4361,6 @@
       "Clefairy",
       "Hoppip",
       "Murkrow",
-      "Misdreavus",
       "Seedot",
       "Nuzleaf",
       "Shiftry",
@@ -4559,6 +4605,7 @@
     "name": "Purifying Salt",
     "description": "<p>Ghost Moves get -1 Effectiveness against the user, and they are immune to persistent Status Problems.</p>\n",
     "usedBy": [
+      "Cofagrigus",
       "Nacli",
       "Naclstack",
       "Garganacl"
@@ -4794,7 +4841,6 @@
       "Bergmite",
       "Xerneas",
       "Wishiwashi",
-      "Wishiwashi (School)",
       "Mareanie",
       "Toxapex",
       "Morelull",
@@ -5420,6 +5466,7 @@
       "Deino",
       "Terrakion",
       "Landorus",
+      "Chesnaught",
       "Clawitzer",
       "Hisuian Avalugg",
       "Zygarde (Complete)",
@@ -5446,6 +5493,7 @@
       "Wartortle",
       "Blastoise",
       "Mega Blastoise",
+      "Metapod",
       "Mega Slowbro",
       "Shellder",
       "Cloyster",
@@ -5717,16 +5765,15 @@
       "Regirock",
       "Torterra",
       "Bastiodon",
-      "Spiritomb",
       "Roggenrola",
       "Boldore",
       "Gigalith",
       "Dwebble",
       "Crustle",
-      "Runerigus",
       "Tirtouga",
       "Carracosta",
       "Druddigon",
+      "Carbink",
       "Stonjourner",
       "Ogerpon (Cornerstone)"
     ]
@@ -6031,7 +6078,6 @@
     "description": "<p>The user and Allies in Zone get +5 damage on damaging Steel Moves.</p>\n",
     "usedBy": [
       "Perrserker",
-      "Honedge",
       "Iron Crown"
     ]
   },
@@ -6083,6 +6129,7 @@
       "Finneon",
       "Lumineon",
       "Maractus",
+      "Stunfisk",
       "Tapu Fini",
       "Pincurchin",
       "Nacli",
@@ -6301,6 +6348,15 @@
     ]
   },
   {
+    "name": "Supersweet Syrup",
+    "description": "<p>The first time the user enters battle, their sickly-sweet scent Drops all in-Zone foes’ Evasion by -1.</p>\n",
+    "usedBy": [
+      "Surskit",
+      "Dipplin",
+      "Hydrapple"
+    ]
+  },
+  {
     "name": "Supreme Overlord",
     "description": "<p>When the user enters battle, Boost their ATK and SATK each by +3 for every ally that Fainted this battle.</p>\n",
     "usedBy": [
@@ -6433,6 +6489,8 @@
       "Tirtouga",
       "Carracosta",
       "Beartic",
+      "Wishiwashi",
+      "Wishiwashi (School)",
       "Chewtle",
       "Drednaw",
       "Cramorant",
@@ -6447,6 +6505,7 @@
     "name": "Sword of Ruin",
     "description": "<p>The user’s ruinous steel blade gives -5 DEF to characters without Sword of Ruin.</p>\n",
     "usedBy": [
+      "Honedge",
       "Chien-Pao"
     ]
   },
@@ -6454,7 +6513,6 @@
     "name": "Symbiosis",
     "description": "<p>When an ally in Zone uses up an item, the user passes a held item to that ally.</p>\n",
     "usedBy": [
-      "Tranquill",
       "Petilil",
       "Flabébé",
       "Floette",
@@ -6496,6 +6554,7 @@
     "name": "Tablets of Ruin",
     "description": "<p>The user’s ruinous wooden tablets give -5 ATK to characters without Tablets of Ruin.</p>\n",
     "usedBy": [
+      "Galarian Yamask",
       "Wo-Chien"
     ]
   },
@@ -6702,6 +6761,27 @@
     ]
   },
   {
+    "name": "Tera Shell",
+    "description": "<p>The user’s shell holds the powers of each type, making Moves that damage the user at full HP get -1 Effectiveness.</p>\n",
+    "usedBy": [
+      "Terapagos (Terastal)"
+    ]
+  },
+  {
+    "name": "Tera Shift",
+    "description": "<p>When the user enters battle, they absorb energy and transform into their Terastal Form.</p>\n",
+    "usedBy": [
+      "Terapagos"
+    ]
+  },
+  {
+    "name": "Teraform Zero",
+    "description": "<p>When the user changes into Stellar Form, remove all Weather and Terrain.</p>\n",
+    "usedBy": [
+      "Terapagos (Stellar)"
+    ]
+  },
+  {
     "name": "Teravolt",
     "bonusStats": "+2 ATK",
     "description": "<p>The user’s Moves ignore others’ Abilities during the user’s turn.</p>\n",
@@ -6790,6 +6870,8 @@
     "description": "<p>The user’s Resisted Moves get +1 Effectiveness.</p>\n",
     "usedBy": [
       "Butterfree",
+      "Beedrill",
+      "Mega Beedrill",
       "Venonat",
       "Venomoth",
       "Perrserker",
@@ -6815,6 +6897,7 @@
       "Skrelp",
       "Dragalge",
       "Lurantis",
+      "Necrozma",
       "Necrozma (Dusk Mane)",
       "Necrozma (Dawn Wings)",
       "Magearna",
@@ -6907,6 +6990,15 @@
     "description": "<p>When the user is Poisoned, Boost their ATK by +20. (This persists after curing the Poison.)</p>\n",
     "usedBy": [
       "Zangoose"
+    ]
+  },
+  {
+    "name": "Toxic Chain",
+    "description": "<p>The user’s Moves Badly Poison targets on 14+.</p>\n",
+    "usedBy": [
+      "Okidogi",
+      "Munkidori",
+      "Fezandipiti"
     ]
   },
   {
@@ -7126,6 +7218,7 @@
     "name": "Vessel of Ruin",
     "description": "<p>The user’s ruinous iron vessel gives -5 SATK to characters without Vessel of Ruin.</p>\n",
     "usedBy": [
+      "Spiritomb",
       "Ting-Lu"
     ]
   },
@@ -7218,6 +7311,8 @@
       "Poliwhirl",
       "Poliwrath",
       "Politoed",
+      "Grimer",
+      "Muk",
       "Lapras",
       "Vaporeon",
       "Kabuto",
@@ -7244,7 +7339,6 @@
       "Tirtouga",
       "Frillish",
       "Jellicent",
-      "Stunfisk",
       "Inkay",
       "Malamar",
       "Volcanion",
@@ -7322,6 +7416,7 @@
       "Sewaddle",
       "Dwebble",
       "Crustle",
+      "Runerigus",
       "Garbodor",
       "Vanillite",
       "Vanillish",
@@ -7348,6 +7443,8 @@
     "name": "Well-Baked Body",
     "description": "<p>The user is Immune to Fire. If a Fire Move hits the user, ignore its effects and Boost their DEF by +5.</p>\n",
     "usedBy": [
+      "Baltoy",
+      "Claydol",
       "Appletun",
       "Dachsbun"
     ]
@@ -7407,8 +7504,6 @@
     "description": "<p>The user switches out/flees when another character’s Move drops their HP past 50%, even if Trapped.</p>\n",
     "usedBy": [
       "Poochyena",
-      "Archen",
-      "Archeops",
       "Wimpod",
       "Finizen"
     ]
@@ -7548,76 +7643,6 @@
     "usedBy": [
       "Palafin",
       "Palafin (Hero)"
-    ]
-  },
-  {
-    "name": "Hospitality",
-    "description": "<p>When the user enters battle, it heals each in-Zone ally for 3 Ticks each.</p>\n",
-    "usedBy": [
-      "Chansey",
-      "Alomomola",
-      "Poltchageist",
-      "Sinistcha",
-      "Indeedee (♂)",
-      "Indeedee (♀)"
-    ]
-  },
-  {
-    "name": "Supersweet Syrup",
-    "description": "<p>The first time the user enters battle, their sickly-sweet scent Drops all in-Zone foes’ Evasion by -1.</p>\n",
-    "usedBy": [
-      "Surskit",
-      "Dipplin",
-      "Hydrapple"
-    ]
-  },
-  {
-    "name": "Toxic Chain",
-    "description": "<p>The user’s Moves Badly Poison targets on 14+.</p>\n",
-    "usedBy": [
-      "Okidogi",
-      "Munkidori",
-      "Fezandipiti"
-    ]
-  },
-  {
-    "name": "Mind's Eye",
-    "description": "<p>The user ignores changes to foes’ Evasion, their Accuracy can’t be Dropped, and they can hit Ghost-Types with Normal- or Fighting-Type moves.</p>\n",
-    "usedBy": [
-      "Ursaluna (Blood Moon)"
-    ]
-  },
-  {
-    "name": "Embody Aspect",
-    "description": "<p>“The user’s heart fills with memories, causing the Teal/Wellspring/Hearthflame/Cornerstone Mask to shine and Boosting its [SPE/SDEF/ATK/DEF].”</p>\n"
-  },
-  {
-    "name": "Poison Puppeteer",
-    "description": "<p>Targets Poisoned by the user’s Moves also become Confused.</p>\n",
-    "usedBy": [
-      "Galarian Slowking",
-      "Pecharunt"
-    ]
-  },
-  {
-    "name": "Tera Shift",
-    "description": "<p>When the user enters battle, they absorb energy and transform into their Terastal Form.</p>\n",
-    "usedBy": [
-      "Terapagos"
-    ]
-  },
-  {
-    "name": "Tera Shell",
-    "description": "<p>“The user’s shell holds the powers of each type. All Moves that damage the user when their HP is full will not be very effective.”</p>\n",
-    "usedBy": [
-      "Terapagos (Terastal)"
-    ]
-  },
-  {
-    "name": "Teraform Zero",
-    "description": "<p>“When the user changes into Stellar Form, their hidden powers eliminate all effects of weather and terrain, reducing them to zero.”</p>\n",
-    "usedBy": [
-      "Terapagos (Stellar)"
     ]
   }
 ]
