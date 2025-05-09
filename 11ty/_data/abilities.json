@@ -607,7 +607,6 @@
       "Alolan Sandslash",
       "Misdreavus",
       "Mismagius",
-      "Lunatone",
       "Snorunt",
       "Glalie",
       "Mega Glalie",
@@ -841,6 +840,7 @@
       "Galvantula",
       "Scatterbug",
       "Vivillon",
+      "Stakataka",
       "Blipbug",
       "Dottler",
       "Frosmoth",
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "Disguise",
-    "description": "<p>The user’s disguise prevents damage from the first Move that damages the user, then breaks and loses a Tick. (Move effects still occur, and Multi-strike Moves still deal damage.) Repair the disguise between battles.</p>\n",
+    "description": "<p>The first time the user is damaged by a Move, instead prevent that damage, break the user’s disguise, and the user loses a Tick of HP. (Additional Move effects still occur, and Moves that hit more than once deal damage normally after the first strike.) The user repairs their disguise between battles.</p>\n",
     "usedBy": [
       "Burmy",
       "Wormadam (Plant)",
@@ -1546,8 +1546,7 @@
       "Coalossal",
       "Sizzlipede",
       "Centiskorch",
-      "Charcadet",
-      "Iron Moth"
+      "Charcadet"
     ]
   },
   {
@@ -1716,6 +1715,8 @@
       "Mega Gallade",
       "Chingling",
       "Chimecho",
+      "Luvdisc",
+      "Alomomola",
       "Patrat",
       "Watchog",
       "Scatterbug",
@@ -1925,8 +1926,6 @@
     "usedBy": [
       "Alolan Grimer",
       "Alolan Muk",
-      "Lickitung",
-      "Lickilicky",
       "Wooper",
       "Quagsire",
       "Paldean Wooper",
@@ -2318,8 +2317,6 @@
       "Barboach",
       "Whiscash",
       "Gorebyss",
-      "Luvdisc",
-      "Alomomola",
       "Kyogre",
       "Primal Kyogre",
       "Floatzel",
@@ -2495,6 +2492,7 @@
     "name": "Impulsive",
     "description": "<p>When a foe Drops any of the user’s Stats, Boost the user’s SPE by +10.</p>\n",
     "usedBy": [
+      "Delcatty",
       "Darmanitan",
       "Impidimp",
       "Morgrem",
@@ -3198,6 +3196,8 @@
     "description": "<p>The user’s Contact Moves become Ranged.</p>\n",
     "usedBy": [
       "Hitmonlee",
+      "Lickitung",
+      "Lickilicky",
       "Tangrowth",
       "Breloom",
       "Palpitoad",
@@ -3227,7 +3227,7 @@
       "Wishiwashi (School)",
       "Necrozma (Ultra)",
       "Celesteela",
-      "Stakataka",
+      "Guzzlord",
       "Copperajah",
       "Eternatus",
       "Eternatus (Eternamax)",
@@ -3564,7 +3564,6 @@
       "Remoraid",
       "Octillery",
       "Smeargle",
-      "Delcatty",
       "Snorunt",
       "Glalie",
       "Mega Glalie",
@@ -3814,6 +3813,7 @@
       "Rampardos",
       "Hisuian Lilligant",
       "Karrablast",
+      "Haxorus",
       "Golett",
       "Golurk",
       "Pancham",
@@ -4052,7 +4052,7 @@
   },
   {
     "name": "Parental Bond",
-    "description": "<p>The user’s single-target Moves hit twice, but the second hit gets -2 Effectiveness.</p>\n",
+    "description": "<p>The user’s single-target Moves that only hit once now hit twice, but the second hit gets -2 Effectiveness.</p>\n",
     "usedBy": [
       "Cubone",
       "Mega Kangaskhan",
@@ -5573,6 +5573,7 @@
     "description": "<p>The user’s Stats are doubly affected by Boosts and Drops. (The cap remains the same.)</p>\n",
     "usedBy": [
       "Slowpoke",
+      "Lickilicky",
       "Magikarp",
       "Ditto",
       "Quagsire",
@@ -5585,7 +5586,8 @@
       "Woobat",
       "Swoobat",
       "Inkay",
-      "Marshadow"
+      "Marshadow",
+      "Klawf"
     ]
   },
   {
@@ -5746,7 +5748,8 @@
       "Cutiefly",
       "Ribombee",
       "Solgaleo",
-      "Capsakid"
+      "Capsakid",
+      "Iron Moth"
     ]
   },
   {
@@ -6065,7 +6068,6 @@
     "usedBy": [
       "Registeel",
       "Shelmet",
-      "Haxorus",
       "Heatmor",
       "Dhelmise",
       "Tinkatink",
@@ -6247,6 +6249,8 @@
       "Lairon",
       "Aggron",
       "Torkoal",
+      "Lunatone",
+      "Solrock",
       "Armaldo",
       "Relicanth",
       "Regirock",
@@ -6560,7 +6564,7 @@
   },
   {
     "name": "Tail Bond",
-    "description": "<p>The user’s single-target Moves hit twice, but the second hit gets -2 Effectiveness.</p>\n",
+    "description": "<p>The user’s single-target Moves that only hit once now hit twice, but the second hit gets -2 Effectiveness.</p>\n",
     "usedBy": [
       "Slowbro",
       "Mega Slowbro",
@@ -6698,7 +6702,6 @@
       "Meditite",
       "Medicham",
       "Mega Medicham",
-      "Solrock",
       "Latias",
       "Mega Latias",
       "Latios",
@@ -6822,7 +6825,6 @@
       "Alolan Raticate",
       "Seel",
       "Dewgong",
-      "Lickilicky",
       "Rhydon",
       "Munchlax",
       "Snorlax",
@@ -6846,7 +6848,6 @@
       "Tepig",
       "Pignite",
       "Vullaby",
-      "Guzzlord",
       "Greedent",
       "Appletun",
       "Lechonk",
@@ -6981,8 +6982,7 @@
       "Torracat",
       "Lycanroc (Dusk)",
       "Zeraora",
-      "Hatterene",
-      "Klawf"
+      "Hatterene"
     ]
   },
   {
@@ -7510,7 +7510,7 @@
   },
   {
     "name": "Wind Power",
-    "description": "<p>The user becomes Charged when Tailwind or a Mysterious Air Current affects them, or when hit by a wind Move. (The user’s next Electric Move gets +1 Effectiveness, then they lose Charged. Wind Moves: have “Wind”, “Storm”, or “Blizzard” in the name, Gust, Twister, Leaf Tornado, Heat Wave, Air Cutter, and Hurricane.)</p>\n",
+    "description": "<p>The user becomes Charged when Tailwind or a Mysterious Air Current affects them, or when hit by a wind Move. (Charged users’ next Electric Move gets +1 Effectiveness, then they lose Charged. Wind Moves: have “Wind”, “Storm”, or “Blizzard” in the name, Gust, Twister, Leaf Tornado, Heat Wave, Air Cutter, and Hurricane.)</p>\n",
     "usedBy": [
       "Emolga",
       "Wattrel",
@@ -7519,7 +7519,7 @@
   },
   {
     "name": "Wind Rider",
-    "description": "<p>Boost the user’s ATK by +5 when Tailwind or a Mysterious Air Current affects them, or when hit by a wind Move instead of being affected by it. (Wind Moves: have “Wind”, “Storm”, or “Blizzard” in the name, Gust, Twister, Leaf Tornado, Heat Wave, Air Cutter, and Hurricane.)</p>\n",
+    "description": "<p>Boost the user’s ATK by +5 when Tailwind or a Mysterious Air Current affects them, or when hit by a wind Move instead of being affected by it. (Wind Moves: have “Wind”, “Storm”, or “Blizzard” in the name, Aeroblast, Air Cutter, Gust, Heat Wave, Hurricane, Leaf Tornado, Twister.)</p>\n",
     "usedBy": [
       "Jigglypuff",
       "Hoppip",

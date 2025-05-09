@@ -133,6 +133,8 @@
       "Galarian Slowking",
       "Grimer",
       "Muk",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Shuckle",
       "Gulpin",
@@ -160,7 +162,7 @@
     "kind": "Status",
     "ap": 2,
     "range": "Self",
-    "description": "<p>Boosts DEF by +10, liquifying the user and breaking down their molecular bonds.</p>\n",
+    "description": "<p>Boosts DEF by +10, liquefying the user and breaking down their molecular bonds.</p>\n",
     "zEffect": "Remove any Stat Drops.",
     "learnedBy": [
       "Grimer",
@@ -227,6 +229,8 @@
       "Tentacruel",
       "Grimer",
       "Muk",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Wooper",
       "Quagsire",
@@ -482,6 +486,7 @@
       "Arrokuda",
       "Barraskewda",
       "Pincurchin",
+      "Klawf",
       "Espathra"
     ]
   },
@@ -1444,6 +1449,7 @@
       "Meowscarada",
       "Armarouge",
       "Ceruledge",
+      "Klawf",
       "Iron Leaves",
       "Iron Crown",
       "Iron Boulder"
@@ -1634,6 +1640,7 @@
       "Indeedee (♀)",
       "Zamazenta",
       "Zamazenta (Crowned Shield)",
+      "Klawf",
       "Cetoddle",
       "Cetitan"
     ]
@@ -1823,6 +1830,7 @@
       "Glimmet",
       "Glimmora",
       "Great Tusk",
+      "Slither Wing",
       "Raging Bolt",
       "Gouging Fire",
       "Walking Wake",
@@ -1966,6 +1974,8 @@
       "Dewgong",
       "Shellder",
       "Cloyster",
+      "Lickitung",
+      "Lickilicky",
       "Horsea",
       "Seadra",
       "Kingdra",
@@ -2238,7 +2248,7 @@
     "type": "Grass",
     "kind": "Status",
     "ap": 3,
-    "range": "Allies in Zone",
+    "range": "Self & Allies in Zone",
     "description": "<p>A soothing herbal scent cures all Status Problems from the user, its team members, and allies in Zone.</p>\n",
     "zEffect": "Fully restore the user's HP.",
     "learnedBy": [
@@ -2248,6 +2258,7 @@
       "Clefable",
       "Paras",
       "Parasect",
+      "Galarian Weezing",
       "Happiny",
       "Chansey",
       "Blissey",
@@ -2803,7 +2814,7 @@
     "type": "Ghost",
     "kind": "Special",
     "power": 10,
-    "ap": 4,
+    "ap": 7,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
     "description": "<p>Sends an army of ghosts to attack the living. If there is only one target, Astral Barrage does +10 damage.</p>\n",
@@ -3814,7 +3825,6 @@
       "Keldeo",
       "Clauncher",
       "Clawitzer",
-      "Hisuian Decidueye",
       "Cutiefly",
       "Jangmo-o",
       "Hakamo-o",
@@ -4154,6 +4164,7 @@
       "Hitmonlee",
       "Medicham",
       "Hisuian Lilligant",
+      "Sawsbuck",
       "Stonjourner",
       "Lokix"
     ]
@@ -4263,7 +4274,7 @@
     "ap": 2,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>Poisons on 15+. Gets +6 Power against targets with Persistent Status conditions. Toxic barb bombardment.</p>\n",
+    "description": "<p>Poisons on 10+. Gets +6 Power against already-Poisoned targets. Countless toxic stingers bombard the target.</p>\n",
     "zEffect": 36,
     "learnedBy": [
       "Beedrill",
@@ -4867,7 +4878,8 @@
       "Vivillon",
       "Passimian",
       "Pyukumuku",
-      "Alcremie"
+      "Alcremie",
+      "Bombirdier"
     ]
   },
   {
@@ -4885,6 +4897,8 @@
       "Kakuna",
       "Onix",
       "Steelix",
+      "Lickitung",
+      "Lickilicky",
       "Tauros",
       "Munchlax",
       "Snorlax",
@@ -5382,7 +5396,7 @@
     "power": 14,
     "ap": 3,
     "accuracy": 4,
-    "range": "Foes in Zone - Ranged",
+    "range": "Ranged - Foes in Zone",
     "description": "<p>On 15+, Drops SPE by -5. If Rainy, can’t miss. Summons a bonechilling squall that makes body and spirit tremble.</p>\n",
     "zEffect": 60,
     "learnedBy": [
@@ -6217,6 +6231,7 @@
       "Feraligatr",
       "Spinarak",
       "Ariados",
+      "Lanturn",
       "Togepi",
       "Togetic",
       "Togekiss",
@@ -6658,6 +6673,7 @@
     "maxPower": 140,
     "learnedBy": [
       "Igglybuff",
+      "Wigglytuff",
       "Voltorb",
       "Electrode",
       "Mew",
@@ -6896,6 +6912,7 @@
       "Snover",
       "Abomasnow",
       "Timburr",
+      "Sawsbuck",
       "Braixen",
       "Skiddo",
       "Gogoat",
@@ -6992,6 +7009,7 @@
       "Quaquaval",
       "Squawkabilly",
       "Flittle",
+      "Bombirdier",
       "Flamigo"
     ]
   },
@@ -7014,6 +7032,8 @@
       "Onix",
       "Steelix",
       "Alolan Exeggutor",
+      "Lickitung",
+      "Lickilicky",
       "Rhyhorn",
       "Rhydon",
       "Rhyperior",
@@ -7521,6 +7541,8 @@
       "Cloyster",
       "Krabby",
       "Kingler",
+      "Lickitung",
+      "Lickilicky",
       "Horsea",
       "Seadra",
       "Kingdra",
@@ -8000,6 +8022,8 @@
       "Parasect",
       "Venonat",
       "Venomoth",
+      "Lickitung",
+      "Lickilicky",
       "Scyther",
       "Scizor",
       "Pinsir",
@@ -8035,8 +8059,6 @@
       "Galvantula",
       "Heatmor",
       "Durant",
-      "Larvesta",
-      "Volcarona",
       "Scatterbug",
       "Grubbin",
       "Charjabug",
@@ -8158,6 +8180,8 @@
       "Hitmonlee",
       "Hitmonchan",
       "Hitmontop",
+      "Lickitung",
+      "Lickilicky",
       "Electabuzz",
       "Electivire",
       "Pinsir",
@@ -8797,6 +8821,8 @@
       "Exeggcute",
       "Exeggutor",
       "Alolan Exeggutor",
+      "Lickitung",
+      "Lickilicky",
       "Tangela",
       "Tangrowth",
       "Leafeon",
@@ -9581,7 +9607,7 @@
     "ap": 2,
     "accuracy": 2,
     "range": "Contact",
-    "description": "<p>A seamitar technique like a thousandfold waves. Shell splinters leave a Spikes hazard.</p>\n",
+    "description": "<p>A seamitar technique like a thousandfold waves. The blade splinters on hit to set one layer of a Spikes hazard.</p>\n",
     "zEffect": 44,
     "learnedBy": [
       "Huntail",
@@ -9626,7 +9652,6 @@
       "Electivire",
       "Zapdos",
       "Mew",
-      "Chinchou",
       "Mareep",
       "Flaaffy",
       "Ampharos",
@@ -10001,6 +10026,8 @@
       "Dewgong",
       "Shellder",
       "Cloyster",
+      "Lickitung",
+      "Lickilicky",
       "Lapras",
       "Spheal",
       "Sealeo",
@@ -10101,7 +10128,7 @@
     "ap": 4,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>The user loses 50% of their HP. (This isn’t Recoil.) Explosively decumulates photosynthesized energy.</p>\n",
+    "description": "<p>The user loses 50% of their HP as Recoil. Explosively decumulates photosynthesized energy.</p>\n",
     "zEffect": 68,
     "maxPower": 150,
     "learnedBy": [
@@ -10238,6 +10265,8 @@
       "Gastly",
       "Haunter",
       "Gengar",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -10598,7 +10627,6 @@
     "description": "<p>Axle breaks into the ground in a massive prehistoric explosion. Gets +5 Power if it’s super-effective.</p>\n",
     "zEffect": 60,
     "learnedBy": [
-      "Quilladin",
       "Minior",
       "Minior (Core)",
       "Koraidon"
@@ -10615,8 +10643,11 @@
     "description": "<p>Parayzes on 16+. A muscle car-worthy rush accelerates into the target.</p>\n",
     "zEffect": 60,
     "learnedBy": [
+      "Sandshrew",
+      "Sandslash",
       "Hitmontop",
       "Donphan",
+      "Quilladin",
       "Revavroom"
     ]
   },
@@ -11436,6 +11467,7 @@
       "Wooloo",
       "Dubwool",
       "Tarountula",
+      "Klawf",
       "Ogerpon (Cornerstone)"
     ]
   },
@@ -11510,6 +11542,8 @@
       "Hitmonlee",
       "Hitmonchan",
       "Hitmontop",
+      "Lickitung",
+      "Lickilicky",
       "Rhyhorn",
       "Rhydon",
       "Rhyperior",
@@ -11715,6 +11749,8 @@
       "Farfetch'd",
       "Galarian Farfetch'd",
       "Sirfetch'd",
+      "Lickitung",
+      "Lickilicky",
       "Happiny",
       "Smoochum",
       "Jynx",
@@ -12294,7 +12330,7 @@
     "kind": "Status",
     "ap": 2,
     "range": "Self or Ranged",
-    "description": "<p>Drops SPE by -5 but Boosts ATK and DEF by +5 each.<br>If the user is Ghost-Type, instead the user loses 50% HP and the target is Cursed bypassing Protection.</p>\n",
+    "description": "<p>Drops SPE by -5 but Boosts ATK and DEF by +5 each.<br>If the user is Ghost-Type, instead the user loses 50% HP and the target is Cursed, bypassing Protection.</p>\n",
     "zEffect": "If not Ghost-Type, Boost ATK by +5.\nIf Ghost-Type, fully restore HP.",
     "learnedBy": [
       "Bulbasaur",
@@ -13502,7 +13538,7 @@
     "name": "Detect",
     "type": "Fighting",
     "kind": "Status",
-    "ap": -1,
+    "ap": 4,
     "range": "Self",
     "description": "<p>Super-Priority. The user anticipates and protects from the next Move that targets it.</p>\n",
     "zEffect": "Boost Evasion by +2.",
@@ -14019,9 +14055,11 @@
     "ap": 2,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Critical Hit on 18+. On 10+, roll d3: the target becomes 1) Poisoned, 2) Paralyzed, or 3) Drowsy. Lashes with ruinous claws.</p>\n",
+    "description": "<p>On 10+, roll d3: the target becomes 1) Poisoned, 2) Paralyzed, or 3) Asleep. Lashes with ruinous claws.</p>\n",
     "zEffect": 36,
     "learnedBy": [
+      "Sandshrew",
+      "Sandslash",
       "Hisuian Sneasel",
       "Sneasler"
     ]
@@ -15096,7 +15134,6 @@
       "Fearow",
       "Pichu",
       "Jigglypuff",
-      "Wigglytuff",
       "Zubat",
       "Golbat",
       "Crobat",
@@ -15531,6 +15568,8 @@
     "description": "<p>A draconic yell raises morale, Boosting targets’ Critical Rate by +3. If a target is Dragon-Type, Boost their Critical Rate by +6 instead.</p>\n",
     "zEffect": "Boost the user's Critical Rate by +4.",
     "learnedBy": [
+      "Lickitung",
+      "Lickilicky",
       "Minun",
       "Tyrunt",
       "Tyrantrum",
@@ -15780,6 +15819,7 @@
     "maxPower": 130,
     "learnedBy": [
       "Alolan Exeggutor",
+      "Lickitung",
       "Mew",
       "Farigiraf",
       "Tropius",
@@ -16339,6 +16379,8 @@
       "Poliwag",
       "Drowzee",
       "Hypno",
+      "Lickitung",
+      "Lickilicky",
       "Smoochum",
       "Jynx",
       "Sylveon",
@@ -17677,6 +17719,8 @@
       "Rotom (Mow)",
       "Manaphy",
       "Watchog",
+      "Blitzle",
+      "Zebstrika",
       "Gothorita",
       "Emolga",
       "Stunfisk",
@@ -18157,6 +18201,7 @@
       "Houndour",
       "Houndoom",
       "Sableye",
+      "Shuppet",
       "Banette",
       "Huntail",
       "Drifloon",
@@ -18242,7 +18287,6 @@
       "Lampent",
       "Chandelure",
       "Heatmor",
-      "Larvesta",
       "Volcarona",
       "Fennekin",
       "Braixen",
@@ -18267,7 +18311,6 @@
       "Charcadet",
       "Armarouge",
       "Ceruledge",
-      "Slither Wing",
       "Iron Moth"
     ]
   },
@@ -19598,7 +19641,6 @@
       "Mewtwo",
       "Mew",
       "Chikorita",
-      "Chinchou",
       "Hoppip",
       "Skiploom",
       "Jumpluff",
@@ -19841,6 +19883,7 @@
       "Remoraid",
       "Octillery",
       "Stantler",
+      "Sableye",
       "Plusle",
       "Minun",
       "Grumpig",
@@ -19907,9 +19950,9 @@
     "name": "Esper Wing",
     "type": "Psychic",
     "kind": "Special",
-    "power": 9,
+    "power": 10,
     "ap": 3,
-    "accuracy": 2,
+    "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Critical Hit on 18+. Boosts the user’s SPE by +5. Slashes with aura-enriched wings.</p>\n",
     "zEffect": 52,
@@ -20275,7 +20318,9 @@
       "Deoxys (Speed)",
       "Lucario",
       "Arceus",
+      "Blitzle",
       "Whirlipede",
+      "Deerling",
       "Keldeo",
       "Zygarde",
       "Zygarde (10%)",
@@ -21876,6 +21921,7 @@
     "kind": "Physical",
     "power": 1,
     "ap": 0,
+    "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Priority. Bypasses and removes Protection. An untimely defense is no defense at all.</p>\n",
     "zEffect": 28,
@@ -22132,7 +22178,7 @@
     "name": "Fillet Away",
     "type": "Normal",
     "kind": "Status",
-    "ap": 1,
+    "ap": 0,
     "range": "Self",
     "description": "<p>Sheds flesh to Boost ATK, SATK, and SPE by +10 each and lose 50% of maximum HP. (Fails at ≤50% HP.)</p>\n",
     "zEffect": "Fully restore the user's HP.",
@@ -22168,6 +22214,8 @@
       "Sirfetch'd",
       "Marowak",
       "Tyrogue",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Clodsire",
       "Shuckle",
@@ -22547,6 +22595,8 @@
     "zEffect": 52,
     "maxPower": 130,
     "learnedBy": [
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Monferno",
       "Heatmor",
@@ -23315,7 +23365,6 @@
       "Blitzle",
       "Zebstrika",
       "Larvesta",
-      "Volcarona",
       "Genesect",
       "Fletchinder",
       "Talonflame",
@@ -24050,6 +24099,7 @@
       "Deino",
       "Zweilous",
       "Hydreigon",
+      "Volcarona",
       "Cobalion",
       "Thundurus",
       "Thundurus (Therian)",
@@ -24176,6 +24226,7 @@
       "Cacnea",
       "Wormadam (Plant)",
       "Munna",
+      "Lilligant",
       "Floette",
       "Fomantis",
       "Magearna",
@@ -24636,6 +24687,8 @@
       "Alolan Raichu",
       "Psyduck",
       "Golduck",
+      "Poliwag",
+      "Poliwhirl",
       "Poliwrath",
       "Politoed",
       "Seel",
@@ -24809,6 +24862,8 @@
     "description": "<p>Always a Critical Hit. Tosses a bouquet rigged so you’re the next to be marred.</p>\n",
     "zEffect": 44,
     "learnedBy": [
+      "Roserade",
+      "Deerling",
       "Meowscarada"
     ]
   },
@@ -24963,6 +25018,7 @@
       "Croagunk",
       "Toxicroak",
       "Hawlucha",
+      "Hisuian Decidueye",
       "Incineroar"
     ]
   },
@@ -25701,6 +25757,7 @@
       "Mew",
       "Sentret",
       "Ledyba",
+      "Chinchou",
       "Togetic",
       "Togekiss",
       "Celebi",
@@ -26107,7 +26164,7 @@
     "ap": 4,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>A frozen haze removes all Boosts and Drops from characters on the field.</p>\n",
+    "description": "<p>A spire of black ice that also removes all Boosts and Drops from characters on the field.</p>\n",
     "zEffect": 58,
     "maxPower": 130,
     "learnedBy": [
@@ -26674,6 +26731,9 @@
       "Victreebel",
       "Alolan Grimer",
       "Alolan Muk",
+      "Lickitung",
+      "Lickilicky",
+      "Weezing",
       "Munchlax",
       "Snorlax",
       "Mew",
@@ -26806,6 +26866,8 @@
       "Exeggcute",
       "Exeggutor",
       "Alolan Exeggutor",
+      "Lickitung",
+      "Lickilicky",
       "Tangela",
       "Tangrowth",
       "Leafeon",
@@ -27611,7 +27673,7 @@
     "type": "Ice",
     "kind": "Physical",
     "power": 10,
-    "ap": 4,
+    "ap": 7,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
     "description": "<p>Hurls an icicle so sharp it could pierce anything. If there’s only one target, Glacial Lance does +10 damage.</p>\n",
@@ -28444,7 +28506,8 @@
       "Alolan Exeggutor",
       "Mew",
       "Applin",
-      "Flapple"
+      "Flapple",
+      "Bombirdier"
     ]
   },
   {
@@ -28695,8 +28758,6 @@
       "Seismitoad",
       "Minccino",
       "Cinccino",
-      "Deerling",
-      "Sawsbuck",
       "Elgyem",
       "Beheeyem",
       "Cubchoo",
@@ -28860,9 +28921,15 @@
       "Arboliva",
       "Toedscool",
       "Toedscruel",
+      "Klawf",
       "Capsakid",
       "Scovillain",
+      "Bombirdier",
+      "Orthworm",
+      "Tatsugiri",
       "Wo-Chien",
+      "Great Tusk",
+      "Iron Treads",
       "Brute Bonnet",
       "Ogerpon",
       "Ogerpon (Wellspring)",
@@ -29124,6 +29191,7 @@
       "Muk",
       "Alolan Grimer",
       "Alolan Muk",
+      "Koffing",
       "Weezing",
       "Galarian Weezing",
       "Munchlax",
@@ -29270,6 +29338,7 @@
       "Sigilyph",
       "Vullaby",
       "Mandibuzz",
+      "Volcarona",
       "Tornadus",
       "Tornadus (Therian)",
       "Vivillon",
@@ -29537,7 +29606,8 @@
       "Urshifu (Rapid Strike)",
       "Zarude",
       "Garganacl",
-      "Tinkatuff"
+      "Tinkatuff",
+      "Orthworm"
     ]
   },
   {
@@ -29655,7 +29725,8 @@
       "Appletun",
       "Nacli",
       "Naclstack",
-      "Garganacl"
+      "Garganacl",
+      "Klawf"
     ]
   },
   {
@@ -29736,6 +29807,8 @@
       "Lampent",
       "Chandelure",
       "Cryogonal",
+      "Larvesta",
+      "Volcarona",
       "Zekrom",
       "Froakie",
       "Frogadier",
@@ -29748,6 +29821,7 @@
       "Volcanion",
       "Mareanie",
       "Toxapex",
+      "Turtonator",
       "Tapu Fini",
       "Spectrier",
       "Oinkologne (♂)",
@@ -30051,7 +30125,7 @@
     "ap": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Drops the user’s DEF and SDEF by -5 each. Assumes a low stance for a full-body sumo charge.</p>\n",
+    "description": "<p>Drops the user’s DEF and SDEF by -5 each. A low stance for a full-body sumo charge.</p>\n",
     "zEffect": 64,
     "maxPower": 140,
     "learnedBy": [
@@ -30074,6 +30148,7 @@
       "Gogoat",
       "Charjabug",
       "Rellor",
+      "Orthworm",
       "Great Tusk"
     ]
   },
@@ -30082,7 +30157,7 @@
     "type": "Normal",
     "kind": "Status",
     "ap": 5,
-    "range": "Allies",
+    "range": "Self & Allies in Zone",
     "description": "<p>A soothing chime cures all Status Problem for allies and the user.</p>\n",
     "zEffect": "Fully restore the user's HP.",
     "learnedBy": [
@@ -30730,7 +30805,7 @@
     "name": "Helping Hand",
     "type": "Normal",
     "kind": "Status",
-    "ap": 2,
+    "ap": 0,
     "range": "Ranged",
     "description": "<p>Super-Priority. Cooperates with the target, adding +10 damage to their damaging Move.</p>\n",
     "zEffect": "Remove any Stat Drops on the user.",
@@ -31587,6 +31662,7 @@
       "Meowscarada",
       "Masschiff",
       "Mabosstiff",
+      "Bombirdier",
       "Walking Wake"
     ]
   },
@@ -31705,7 +31781,7 @@
     "type": "Normal",
     "kind": "Status",
     "ap": 2,
-    "range": "Allies in Zone",
+    "range": "Self & Allies in Zone",
     "description": "<p>A bestial battlecry Boosts ATK by +5 for allies and the user.</p>\n",
     "zEffect": "Boost ATK by +5.",
     "learnedBy": [
@@ -33147,6 +33223,9 @@
     "maxPower": 90,
     "learnedBy": [
       "Alolan Sandshrew",
+      "Alolan Sandslash",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Swinub",
       "Delibird",
@@ -33915,6 +33994,10 @@
     "description": "<p>Coats feet in ice and twirls into the target, destroying any Terrain in Zone.</p>\n",
     "zEffect": 52,
     "learnedBy": [
+      "Alolan Sandshrew",
+      "Alolan Sandslash",
+      "Lickitung",
+      "Lickilicky",
       "Galarian Mr. Mime",
       "Mr. Rime",
       "Donphan",
@@ -34834,7 +34917,6 @@
       "Electabuzz",
       "Electivire",
       "Mew",
-      "Lanturn",
       "Mareep",
       "Flaaffy",
       "Ampharos",
@@ -35870,6 +35952,7 @@
       "Croagunk",
       "Toxicroak",
       "Blitzle",
+      "Zebstrika",
       "Deerling",
       "Sawsbuck",
       "Hakamo-o",
@@ -35881,7 +35964,7 @@
     "type": "Grass",
     "kind": "Status",
     "ap": 5,
-    "range": "Allies in Zone",
+    "range": "Self & Allies in Zone",
     "description": "<p>Allies and the user heal 3 Ticks and cure Burn, Paralysis, Poison, and Sleep. Nature gives sanctuary to those who ask.</p>\n",
     "zEffect": "Remove any Stat Drops on the user.",
     "learnedBy": [
@@ -35979,10 +36062,11 @@
     "ap": 2,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>If the target holds any items, destroys a random item the target holds and Knock Off does +7 damage. Bullying.</p>\n",
+    "description": "<p>If the target holds any items, destroy one of them at random. If successful, Knock Off gets +7 Power. Bullying.</p>\n",
     "zEffect": 52,
     "maxPower": 120,
     "learnedBy": [
+      "Fearow",
       "Paras",
       "Parasect",
       "Machop",
@@ -36504,6 +36588,7 @@
       "Audino",
       "Minccino",
       "Cinccino",
+      "Sawsbuck",
       "Fletchinder",
       "Amaura",
       "Aurorus",
@@ -37343,7 +37428,7 @@
     "type": "Water",
     "kind": "Status",
     "ap": 5,
-    "range": "Allies in Zone",
+    "range": "Self & Allies in Zone",
     "description": "<p>Each ally including the user Heals 3 Ticks. Refreshing waters keep everybody fresh for the fight.</p>\n",
     "zEffect": "Remove any Stat Drops on the user.",
     "learnedBy": [
@@ -37354,6 +37439,8 @@
       "Clefable",
       "Shellder",
       "Cloyster",
+      "Lickitung",
+      "Lickilicky",
       "Chansey",
       "Blissey",
       "Lapras",
@@ -37978,7 +38065,8 @@
     "learnedBy": [
       "Smoochum",
       "Jynx",
-      "Mew"
+      "Mew",
+      "Luvdisc"
     ]
   },
   {
@@ -38233,6 +38321,8 @@
       "Hitmonlee",
       "Hitmonchan",
       "Hitmontop",
+      "Lickitung",
+      "Lickilicky",
       "Galarian Mr. Mime",
       "Mr. Rime",
       "Elekid",
@@ -38411,6 +38501,7 @@
       "Tranquill",
       "Unfezant",
       "Audino",
+      "Petilil",
       "Ducklett",
       "Swanna",
       "Braixen",
@@ -38450,8 +38541,8 @@
     "type": "Psychic",
     "kind": "Status",
     "ap": 6,
-    "range": "Allies in Zone",
-    "description": "<p>A crescent prayer cures Poison, Burn, and Paralysis and Heals 3 Ticks.</p>\n",
+    "range": "Self & Allies in Zone",
+    "description": "<p>A crescent prayer cures any persistent status problems and Heals 3 Ticks.</p>\n",
     "zEffect": "Remove any Stat Drops.",
     "learnedBy": [
       "Teddiursa",
@@ -38509,6 +38600,8 @@
       "Crustle",
       "Joltik",
       "Galvantula",
+      "Larvesta",
+      "Volcarona",
       "Bergmite",
       "Grubbin",
       "Dewpider",
@@ -39150,6 +39243,7 @@
     "range": "Ranged - Foes in Zone",
     "description": "<p>Burns on 16+. A cannonade of stirred-up tea that Drains half the damage dealt.</p>\n",
     "learnedBy": [
+      "Petilil",
       "Sinistcha"
     ]
   },
@@ -39600,6 +39694,8 @@
       "Scrafty",
       "Carracosta",
       "Zoroark",
+      "Deerling",
+      "Sawsbuck",
       "Cubchoo",
       "Beartic",
       "Mienfoo",
@@ -39957,6 +40053,7 @@
       "Escavalier",
       "Axew",
       "Bouffalant",
+      "Larvesta",
       "Cobalion",
       "Terrakion",
       "Virizion",
@@ -40276,6 +40373,7 @@
       "Archaludon",
       "Tinkatink",
       "Varoom",
+      "Orthworm",
       "Gimmighoul",
       "Gimmighoul (Roaming)",
       "Gholdengo",
@@ -40453,7 +40551,8 @@
       "Deoxys (Attack)",
       "Deoxys (Defense)",
       "Deoxys (Speed)",
-      "Lucario"
+      "Lucario",
+      "Orthworm"
     ]
   },
   {
@@ -40577,7 +40676,7 @@
     "type": "Rock",
     "kind": "Physical",
     "power": 13,
-    "ap": 4,
+    "ap": 5,
     "accuracy": 1,
     "range": "Contact",
     "description": "<p>Bypasses Protection. Wields light accumulated atop the user’s head into a powerful edge.</p>\n",
@@ -41771,7 +41870,8 @@
       "Grapploct",
       "Lechonk",
       "Oinkologne (♂)",
-      "Oinkologne (♀)"
+      "Oinkologne (♀)",
+      "Orthworm"
     ]
   },
   {
@@ -42134,7 +42234,7 @@
     "ap": 3,
     "accuracy": 2,
     "range": "Ranged",
-    "description": "<p>A mysterious force Boosts the higher of the user’s ATK and DEF, then does the same for their SATK and SDEF.</p>\n",
+    "description": "<p>A mysterious force that also Boosts the user’s SATK by +5.</p>\n",
     "zEffect": 44,
     "learnedBy": [
       "Gorebyss",
@@ -42354,6 +42454,7 @@
       "Meowscarada",
       "Tadbulb",
       "Capsakid",
+      "Bombirdier",
       "Glimmet",
       "Tatsugiri",
       "Gholdengo",
@@ -42478,7 +42579,8 @@
       "Dachsbun",
       "Smoliv",
       "Dolliv",
-      "Grafaiai"
+      "Grafaiai",
+      "Bombirdier"
     ]
   },
   {
@@ -42949,6 +43051,7 @@
     "description": "<p>Poisons on 16+. A nitrous oxide speed burst accelerates into the target.</p>\n",
     "zEffect": 60,
     "learnedBy": [
+      "Lickilicky",
       "Qwilfish",
       "Whirlipede",
       "Varoom",
@@ -43253,6 +43356,7 @@
     "description": "<p>The dinner bell tolls for thee. If the user is being commanded by Tatsugiri, Boost one of their Stats by +5 based on Tatsugiri’s form: Droopy for DEF, Curly for ATK, and Stretchy for SPE.</p>\n",
     "zEffect": 52,
     "learnedBy": [
+      "Lickilicky",
       "Dondozo"
     ]
   },
@@ -43650,6 +43754,8 @@
     "zEffect": "Boost the user's DEF by +5.",
     "learnedBy": [
       "Tyrogue",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -44435,9 +44541,8 @@
       "Pidove",
       "Tranquill",
       "Unfezant",
-      "Lilligant",
+      "Hisuian Lilligant",
       "Maractus",
-      "Larvesta",
       "Flabébé",
       "Floette",
       "Florges",
@@ -44481,7 +44586,6 @@
       "Cherrim",
       "Lilligant",
       "Maractus",
-      "Volcarona",
       "Flabébé",
       "Floette",
       "Florges",
@@ -44850,6 +44954,7 @@
       "Galarian Darumaka",
       "Minccino",
       "Cinccino",
+      "Deerling",
       "Cubchoo",
       "Beartic",
       "Mienfoo",
@@ -45066,7 +45171,7 @@
     "name": "Poison Gas",
     "type": "Poison",
     "kind": "Status",
-    "ap": 4,
+    "ap": 2,
     "accuracy": 3,
     "range": "Ranged - Foes in Zone",
     "description": "<p>Poisons all targets. A sprayed cloud of corrosive toxin.</p>\n",
@@ -45081,6 +45186,8 @@
       "Gastly",
       "Drowzee",
       "Hypno",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -45097,6 +45204,7 @@
       "Aromatisse",
       "Salandit",
       "Salazzle",
+      "Turtonator",
       "Buzzwole",
       "Varoom",
       "Revavroom",
@@ -45156,6 +45264,8 @@
       "Haunter",
       "Gengar",
       "Hitmonlee",
+      "Lickitung",
+      "Lickilicky",
       "Rhyhorn",
       "Rhydon",
       "Rhyperior",
@@ -45755,8 +45865,6 @@
     "zEffect": 28,
     "maxPower": 90,
     "learnedBy": [
-      "Alolan Sandshrew",
-      "Alolan Sandslash",
       "Alolan Vulpix",
       "Alolan Ninetales",
       "Farfetch'd",
@@ -45880,6 +45988,8 @@
     "description": "<p>A deeper power switches the user’s ATK with DEF and their SATK with SDEF until they leave battle.</p>\n",
     "zEffect": "Boost ATK and SATK by +5 each",
     "learnedBy": [
+      "Lickitung",
+      "Lickilicky",
       "Shuckle"
     ]
   },
@@ -45895,6 +46005,7 @@
     "learnedBy": [
       "Drowzee",
       "Hypno",
+      "Koffing",
       "Mime Jr.",
       "Mr. Mime",
       "Galarian Mr. Mime",
@@ -46274,7 +46385,8 @@
       "Grapploct",
       "Impidimp",
       "Morgrem",
-      "Grimmsnarl"
+      "Grimmsnarl",
+      "Klawf"
     ]
   },
   {
@@ -47968,6 +48080,7 @@
       "Sharpedo",
       "Lileep",
       "Cradily",
+      "Banette",
       "Beldum",
       "Shinx",
       "Luxio",
@@ -48569,6 +48682,8 @@
       "Paras",
       "Galarian Ponyta",
       "Galarian Rapidash",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Chikorita",
       "Suicune",
@@ -48694,6 +48809,7 @@
       "Lokix",
       "Flittle",
       "Espathra",
+      "Bombirdier",
       "Varoom",
       "Veluza"
     ]
@@ -49887,6 +50003,7 @@
       "Hitmonlee",
       "Hitmonchan",
       "Hitmontop",
+      "Lickilicky",
       "Staryu",
       "Starmie",
       "Galarian Mr. Mime",
@@ -50001,7 +50118,6 @@
       "Leavanny",
       "Cottonee",
       "Whimsicott",
-      "Hisuian Lilligant",
       "Flabébé",
       "Floette",
       "Florges",
@@ -50153,6 +50269,8 @@
       "Tentacool",
       "Tentacruel",
       "Koffing",
+      "Weezing",
+      "Galarian Weezing",
       "Tangela",
       "Tangrowth",
       "Staryu",
@@ -50313,7 +50431,8 @@
       "Poltchageist",
       "Milcery",
       "Alcremie",
-      "Tinkatink"
+      "Tinkatink",
+      "Bombirdier"
     ]
   },
   {
@@ -50537,6 +50656,7 @@
       "Minior (Core)",
       "Togedemaru",
       "Bruxish",
+      "Drampa",
       "Tapu Koko",
       "Tapu Lele",
       "Tapu Bulu",
@@ -52426,7 +52546,7 @@
     "ap": 2,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>Does +10 damage to targets standing on Electric Terrain. Pulls the electricty from eons of lightning back out into some poor fool.</p>\n",
+    "description": "<p>Does +10 damage to targets standing on Electric Terrain. Pulls the ground charge from eons of lightning back out.</p>\n",
     "zEffect": 44,
     "maxPower": 140,
     "learnedBy": [
@@ -52920,6 +53040,7 @@
       "Nacli",
       "Naclstack",
       "Garganacl",
+      "Klawf",
       "Glimmet",
       "Glimmora",
       "Terapagos",
@@ -54438,7 +54559,7 @@
     "kind": "Status",
     "ap": 0,
     "range": "Field",
-    "description": "<p>Bypasses Protection. Boosts in-Zone Grass-Types’ ATK and SATK by +5 each. Tilled soil vitalizes plants.</p>\n",
+    "description": "<p>Bypasses Protection. Boosts in-Zone grounded Grass-Types’ ATK and SATK by +5 each. Tilled soil vitalizes plants.</p>\n",
     "zEffect": "Boost the user's ATK by +5.",
     "learnedBy": [
       "Sandshrew",
@@ -54462,7 +54583,8 @@
       "Tapu Bulu",
       "Grookey",
       "Thwackey",
-      "Rillaboom"
+      "Rillaboom",
+      "Orthworm"
     ]
   },
   {
@@ -56164,11 +56286,12 @@
     "ap": 3,
     "accuracy": 4,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>Burns on 15+. If Rainy, can’t miss. Summons a sirocco of fierce wind and blistering-hot sand.</p>\n",
+    "description": "<p>Burns on 16+. If Rainy, can’t miss. Summons a sirocco of fierce wind and blistering-hot sand.</p>\n",
     "zEffect": 60,
     "learnedBy": [
       "Flygon",
       "Castform",
+      "Volcarona",
       "Landorus",
       "Landorus (Therian)",
       "Silicobra"
@@ -56547,7 +56670,6 @@
       "Tympole",
       "Palpitoad",
       "Seismitoad",
-      "Petilil",
       "Basculin",
       "Tirtouga",
       "Carracosta",
@@ -56682,6 +56804,7 @@
       "Deino",
       "Zweilous",
       "Hydreigon",
+      "Volcarona",
       "Thundurus (Therian)",
       "Reshiram",
       "Zekrom",
@@ -56721,6 +56844,7 @@
       "Barraskewda",
       "Frosmoth",
       "Veluza",
+      "Slither Wing",
       "Roaring Moon"
     ]
   },
@@ -58960,6 +59084,7 @@
     "learnedBy": [
       "Slowpoke",
       "Galarian Slowpoke",
+      "Lickitung",
       "Wynaut",
       "Treecko",
       "Sceptile",
@@ -58983,6 +59108,7 @@
     "zEffect": 60,
     "maxPower": 130,
     "learnedBy": [
+      "Alolan Sandshrew",
       "Alolan Vulpix",
       "Alolan Ninetales",
       "Dewgong",
@@ -59107,6 +59233,7 @@
       "Sinistea",
       "Polteageist",
       "Armarouge",
+      "Klawf",
       "Gimmighoul"
     ]
   },
@@ -59170,6 +59297,7 @@
       "Magearna",
       "Rolycoly",
       "Revavroom",
+      "Orthworm",
       "Cyclizar"
     ]
   },
@@ -59267,7 +59395,8 @@
       "Sandygast",
       "Palossand",
       "Minior",
-      "Minior (Core)"
+      "Minior (Core)",
+      "Orthworm"
     ]
   },
   {
@@ -59664,6 +59793,7 @@
     "learnedBy": [
       "Flareon",
       "Mew",
+      "Larvesta",
       "Sizzlipede",
       "Cyclizar"
     ]
@@ -60194,6 +60324,8 @@
       "Slowbro",
       "Galarian Slowpoke",
       "Galarian Slowbro",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Snubbull",
       "Granbull",
@@ -61548,6 +61680,8 @@
       "Muk",
       "Alolan Grimer",
       "Alolan Muk",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Mew",
       "Shellos",
@@ -61623,6 +61757,8 @@
       "Exeggcute",
       "Exeggutor",
       "Alolan Exeggutor",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -61792,6 +61928,8 @@
       "Gastly",
       "Haunter",
       "Gengar",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -61986,7 +62124,6 @@
     "learnedBy": [
       "Charmeleon",
       "Weedle",
-      "Alolan Sandslash",
       "Nidoran♂",
       "Nidorino",
       "Nidoking",
@@ -62374,6 +62511,8 @@
       "Igglybuff",
       "Jigglypuff",
       "Wigglytuff",
+      "Lickitung",
+      "Lickilicky",
       "Umbreon",
       "Mew",
       "Murkrow",
@@ -64127,6 +64266,7 @@
       "Deerling",
       "Sawsbuck",
       "Druddigon",
+      "Larvesta",
       "Virizion",
       "Honedge",
       "Doublade",
@@ -64527,6 +64667,7 @@
     "zEffect": "Boost the user's DEF by +5.",
     "learnedBy": [
       "Sandslash",
+      "Alolan Sandslash",
       "Cloyster",
       "Mew",
       "Cyndaquil",
@@ -64629,6 +64770,7 @@
       "Muk",
       "Alolan Grimer",
       "Alolan Muk",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -64934,6 +65076,7 @@
     "learnedBy": [
       "Mr. Rime",
       "Mew",
+      "Lanturn",
       "Ampharos",
       "Spinda",
       "Palkia",
@@ -65413,6 +65556,7 @@
       "Duraludon",
       "Tarountula",
       "Rellor",
+      "Orthworm",
       "Iron Treads"
     ]
   },
@@ -65556,6 +65700,7 @@
     "zEffect": "Boost the user's SPE by +5.",
     "learnedBy": [
       "Caterpie",
+      "Lickitung",
       "Mew",
       "Spinarak",
       "Ariados",
@@ -65570,6 +65715,7 @@
       "Joltik",
       "Galvantula",
       "Cubchoo",
+      "Larvesta",
       "Froakie",
       "Swirlix",
       "Slurpuff",
@@ -65609,6 +65755,7 @@
       "Muk",
       "Alolan Grimer",
       "Alolan Muk",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -65723,7 +65870,7 @@
     "ap": 2,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Flinches on 15+. Brings a big foot down on the target. </p>\n",
+    "description": "<p>Flinches on 15+. Brings a mighty foot down on the target. </p>\n",
     "zEffect": 44,
     "maxPower": 120,
     "learnedBy": [
@@ -66127,7 +66274,7 @@
     "ap": 2,
     "accuracy": 2,
     "range": "Contact",
-    "description": "<p>Swings axes that splinter into a Stealth Rock hazard.</p>\n",
+    "description": "<p>Swings rocky blades that splinter into a Stealth Rock hazard.</p>\n",
     "zEffect": 44,
     "learnedBy": [
       "Kleavor",
@@ -66419,6 +66566,7 @@
       "Nacli",
       "Naclstack",
       "Garganacl",
+      "Klawf",
       "Iron Thorns",
       "Iron Boulder",
       "Ogerpon (Cornerstone)"
@@ -66875,6 +67023,8 @@
       "Bellsprout",
       "Weepinbell",
       "Victreebel",
+      "Lickitung",
+      "Lickilicky",
       "Mew",
       "Meganium",
       "Hoppip",
@@ -69345,7 +69495,6 @@
       "Mew",
       "Solrock",
       "Larvesta",
-      "Volcarona",
       "Cosmog",
       "Cosmoem",
       "Solgaleo"
@@ -69414,6 +69563,8 @@
     "learnedBy": [
       "Barboach",
       "Whiscash",
+      "Blitzle",
+      "Zebstrika",
       "Eelektrik",
       "Eelektross",
       "Zekrom",
@@ -69460,6 +69611,7 @@
       "Kingler",
       "Alolan Exeggutor",
       "Hitmonlee",
+      "Lickitung",
       "Rhyhorn",
       "Rhydon",
       "Rhyperior",
@@ -70352,6 +70504,7 @@
       "Muk",
       "Alolan Grimer",
       "Alolan Muk",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -70438,6 +70591,7 @@
       "Plusle",
       "Minun",
       "Luvdisc",
+      "Alomomola",
       "Pachirisu",
       "Buneary",
       "Lopunny",
@@ -70461,7 +70615,7 @@
     "name": "Sweet Scent",
     "type": "Normal",
     "kind": "Status",
-    "ap": 2,
+    "ap": 0,
     "accuracy": 1,
     "range": "Ranged - Foes in Zone",
     "description": "<p>An intriguing smell Drops Evasion by -2.</p>\n<p>Can also be used outside of battle like the Honey Item.</p>\n",
@@ -71740,7 +71894,6 @@
       "Basculegion (♂)",
       "Basculegion (♀)",
       "Deerling",
-      "Sawsbuck",
       "Ferroseed",
       "Ferrothorn",
       "Tynamo",
@@ -72157,6 +72310,7 @@
       "Squawkabilly",
       "Wattrel",
       "Kilowattrel",
+      "Bombirdier",
       "Iron Jugulis"
     ]
   },
@@ -72191,7 +72345,6 @@
       "Eevee",
       "Aerodactyl",
       "Mew",
-      "Lanturn",
       "Mareep",
       "Flaaffy",
       "Ampharos",
@@ -72313,7 +72466,7 @@
     "kind": "Status",
     "ap": 2,
     "range": "Self",
-    "description": "<p>Boosts SATK and SDEF by +5 each, and cures Poison, Burn, and Paralysis. Lifts spirits with a brave impulse.</p>\n",
+    "description": "<p>Boosts SATK and SDEF by +5 each, and cures Poison, Burn, Paralysis, and Sleep. Lifts spirits with a brave impulse.</p>\n",
     "zEffect": "Boost ATK by +5.",
     "learnedBy": [
       "Luvdisc",
@@ -72690,6 +72843,7 @@
       "Mabosstiff",
       "Shroodle",
       "Grafaiai",
+      "Bombirdier",
       "Varoom",
       "Revavroom",
       "Tatsugiri",
@@ -73017,6 +73171,7 @@
       "Primeape",
       "Annihilape",
       "Gyarados",
+      "Zebstrika",
       "Darumaka",
       "Darmanitan",
       "Darmanitan (Zen)"
@@ -75294,7 +75449,11 @@
     "ap": 3,
     "accuracy": 1,
     "range": "Ranged",
-    "description": "<p>Priority. If the target didn’t choose a damaging Move this round, Thunderclap fails.</p>\n"
+    "description": "<p>Priority. If the target didn’t choose a damaging Move this round, Thunderclap fails.</p>\n",
+    "learnedBy": [
+      "Blitzle",
+      "Zebstrika"
+    ]
   },
   {
     "name": "Thunderous Kick",
@@ -75346,6 +75505,8 @@
       "Victreebel",
       "Tentacool",
       "Tentacruel",
+      "Lickitung",
+      "Lickilicky",
       "Tangela",
       "Tangrowth",
       "Mime Jr.",
@@ -75435,6 +75596,7 @@
     "description": "<p>Cleans up Spikes, Toxic Spikes, Stealth Rock, Sticky Web, and Substitute for both allies and foes, then Boosts the user’s ATK and SPE by +5 each.</p>\n",
     "zEffect": "Boost the user's Accuracy Rate by +2.",
     "learnedBy": [
+      "Lickitung",
       "Swablu",
       "Minccino",
       "Cinccino",
@@ -75811,7 +75973,7 @@
     "kind": "Status",
     "ap": 4,
     "range": "Zone",
-    "description": "<p>Hazard. Grounded foes that enter the Zone become Poisoned. If Toxic Spikes was used twice on the same Zone, Badly Poison instead. Grounded Poison-Type foes destroy the spikes when they touch them.</p>\n",
+    "description": "<p>Hazard. Grounded foes that enter the Zone become Poisoned. If Toxic Spikes was used twice on the same Zone, Badly Poison instead. Grounded Poison-Type foes destroy the spikes when entering their Zone.</p>\n",
     "zEffect": "Boost the user's DEF by +5.",
     "learnedBy": [
       "Beedrill",
@@ -75886,7 +76048,8 @@
       "Eternatus",
       "Eternatus (Eternamax)",
       "Meowscarada",
-      "Spidops"
+      "Spidops",
+      "Iron Moth"
     ]
   },
   {
@@ -75921,6 +76084,8 @@
       "Grotle",
       "Torterra",
       "Rotom (Mow)",
+      "Blitzle",
+      "Zebstrika",
       "Deerling",
       "Sawsbuck",
       "Sprigatito",
@@ -76426,7 +76591,7 @@
     "ap": 3,
     "accuracy": 3,
     "range": "Contact",
-    "description": "<p>Makes 3 attacks. Only add STAB and ATK to the first hit, and the target only subracts DEF for the first hit.</p>\n<ol>\n<li>Power 8</li>\n<li>Power 12</li>\n<li>Power 16</li>\n</ol>\n",
+    "description": "<p>Makes 3 attacks. Apply STAB, ATK, and the target’s DEF only to the first hit.</p>\n<ol>\n<li>Power 8</li>\n<li>Power 12</li>\n<li>Power 16</li>\n</ol>\n",
     "zEffect": 36,
     "maxPower": 140,
     "learnedBy": [
@@ -76492,7 +76657,7 @@
     "ap": 0,
     "accuracy": 2,
     "range": "Contact",
-    "description": "<p>Hits 3 times. A perfectly-timed triple plunge splashes the target.</p>\n",
+    "description": "<p>Hits 3 times. Perfectly-timed plunges splash the target.</p>\n",
     "zEffect": 28,
     "learnedBy": [
       "Wugtrio"
@@ -76506,7 +76671,7 @@
     "ap": 0,
     "accuracy": 3,
     "range": "Contact",
-    "description": "<p>Makes 3 attacks. Only add STAB and ATK to the first hit, and the target only subracts DEF for the first hit.</p>\n<ol>\n<li>Power 4</li>\n<li>Power 8</li>\n<li>Power 12</li>\n</ol>\n",
+    "description": "<p>Makes 3 attacks. Apply STAB, ATK, and the target’s DEF to only the first hit.</p>\n<ol>\n<li>Power 4</li>\n<li>Power 8</li>\n<li>Power 12</li>\n</ol>\n",
     "zEffect": 36,
     "maxPower": 80,
     "learnedBy": [
@@ -76584,7 +76749,7 @@
     "type": "Psychic",
     "kind": "Special",
     "power": 2,
-    "ap": 1,
+    "ap": 0,
     "accuracy": 1,
     "range": "Ranged",
     "description": "<p>Double Strike. Shoots mystical beams from the eyes.</p>\n",
@@ -77327,7 +77492,8 @@
       "Mew",
       "Rayquaza",
       "Arceus",
-      "Victini"
+      "Victini",
+      "Larvesta"
     ]
   },
   {
@@ -77415,6 +77581,8 @@
       "Muk",
       "Alolan Grimer",
       "Alolan Muk",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -77523,6 +77691,8 @@
       "Gastly",
       "Haunter",
       "Gengar",
+      "Lickitung",
+      "Lickilicky",
       "Koffing",
       "Weezing",
       "Galarian Weezing",
@@ -77609,7 +77779,7 @@
     "kind": "Status",
     "ap": 3,
     "range": "Self",
-    "description": "<p>Boosts ATK by +10 and DEF by +5. A dance to usher triumph.</p>\n",
+    "description": "<p>Boosts ATK, DEF, and SPE by +5 each. A dance that ushers triumph.</p>\n",
     "zEffect": "Remove any Stat Drops.",
     "learnedBy": [
       "Poliwrath",
@@ -77822,7 +77992,7 @@
     "ap": 4,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Recoil ⅓. Paralyzes on 19+. Bounces around recklessly inside a ball of electricity.</p>\n",
+    "description": "<p>Recoil ⅓. Paralyzes on 19+. Bounces around recklessly inside ball lightning.</p>\n",
     "zEffect": 64,
     "maxPower": 140,
     "learnedBy": [
@@ -78259,6 +78429,8 @@
       "Politoed",
       "Seel",
       "Dewgong",
+      "Lickitung",
+      "Lickilicky",
       "Goldeen",
       "Seaking",
       "Mew",
@@ -78529,6 +78701,7 @@
     "zEffect": 64,
     "maxPower": 140,
     "learnedBy": [
+      "Poliwrath",
       "Paldean Tauros (Aqua Breed)",
       "Whiscash",
       "Walrein",
@@ -79062,6 +79235,7 @@
       "Kingler",
       "Hitmonlee",
       "Hitmontop",
+      "Lickilicky",
       "Tangela",
       "Tangrowth",
       "Mr. Mime",
@@ -79289,7 +79463,7 @@
     "ap": 3,
     "accuracy": 4,
     "range": "Ranged - Foes in Zone",
-    "description": "<p>Paralyzes on 15+. If Rainy, can’t miss. Summons a thundering supercell of lightning and wind.</p>\n",
+    "description": "<p>Paralyzes on 16+. If Rainy, can’t miss. Summons a thundering supercell of lightning and wind.</p>\n",
     "zEffect": 60,
     "learnedBy": [
       "Zapdos",
@@ -79526,6 +79700,8 @@
       "Igglybuff",
       "Jigglypuff",
       "Wigglytuff",
+      "Lickitung",
+      "Lickilicky",
       "Happiny",
       "Eevee",
       "Vaporeon",
@@ -80885,6 +81061,8 @@
       "Solosis",
       "Duosion",
       "Reuniclus",
+      "Deerling",
+      "Sawsbuck",
       "Elgyem",
       "Beheeyem",
       "Golett",
@@ -81020,7 +81198,7 @@
     "ap": 3,
     "accuracy": 1,
     "range": "Contact",
-    "description": "<p>Priority. Always a Critical Hit. A jolt so shockingly prickly it’s indescribable.</p>\n",
+    "description": "<p>Priority. Always a Critical Hit. A crackling acceleration that’s shocking in two ways.</p>\n",
     "zEffect": 28,
     "maxPower": 90,
     "learnedBy": [
