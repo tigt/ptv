@@ -1,7 +1,10 @@
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation")
 const { minify } = require("html-minifier")
 const slugify = require('./update/slugify.js')
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(eleventyNavigationPlugin)
+
   eleventyConfig.addFilter('slugify', slugify)
 
   eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
