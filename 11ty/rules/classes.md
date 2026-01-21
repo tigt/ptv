@@ -1,6 +1,6 @@
 ---
 title: Classes · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: Classes
   parent: Rules

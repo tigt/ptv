@@ -1,6 +1,6 @@
 ---
 title: Building Characters · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: Building Characters
   parent: Rules

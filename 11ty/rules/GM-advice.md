@@ -1,6 +1,6 @@
 ---
 title: GM Advice · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: GM Advice
   parent: Rules

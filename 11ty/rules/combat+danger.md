@@ -1,6 +1,6 @@
 ---
 title: Combat & Danger · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: Combat & Danger
   parent: Rules

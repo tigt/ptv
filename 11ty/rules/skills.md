@@ -1,6 +1,6 @@
 ---
 title: Skills · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: Skills
   parent: Rules

@@ -1,6 +1,6 @@
 ---
 title: Items · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: Items
   parent: Rules

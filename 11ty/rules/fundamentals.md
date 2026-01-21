@@ -1,6 +1,6 @@
 ---
 title: Fundamentals · Rules
-layout: base
+layout: rules-page
 eleventyNavigation:
   key: Fundamentals
   parent: Rules
