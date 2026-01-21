@@ -1,0 +1,12 @@
+---
+data: pokemon
+permalink: dex/all/
+layout: dex-page
+title: All Mons · Pokédex
+---
+
+{% for family in pokemon %}
+  {% for mon in family %}
+    {% include 'dex-entry.njk' %}
+  {% endfor %}
+{% endfor %}

@@ -1,0 +1,17 @@
+---
+pagination:
+  data: pokemon
+  size: 1
+  alias: mons
+  resolve: values
+permalink: "dex/{{mons[0].name | slugify}}{%if mons[1]%}-family{%endif%}/"
+eleventyComputed:
+  title: "{{mons[0].name}}{%if mons[1]%} Family{%endif%}"
+layout: dex-page
+---
+
+<h1>{{mons[0].name}} Family</h1>
+
+{% for mon in mons %}
+  {% include 'dex-entry.njk' %}
+{% endfor %}

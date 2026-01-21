@@ -63,7 +63,7 @@ To determine a character’s Battle Stats, start with 5, then add both correspon
 
 For example, if a Trainer has +3 Endurance and −1 Bluster, their Defense would be 7 (5 + 3 &minus; 1). Most Trainers don’t intentionally enter combat, but it’s important to know just in case.
 
-### HP and PP {#hp-and-pp}
+### HP and PP
 
 **HP** (Hit Points) represents a character’s vitality and resolve, and determines how much punishment they can take. When characters reach 0 or less HP, they [Faint](#status-problems).
 

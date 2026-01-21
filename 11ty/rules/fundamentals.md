@@ -35,7 +35,7 @@ Success and failure vary by the result and GM interpretation:
 - **Results far below the DC** probably fail in obvious ways, or succeed with drastic consequences.
 - **Rolls of 1** (“natural 1”) don’t _always_ fail, but you don’t look very cool if you pull them off.
 
-### Advantage and Disadvantage {#advantage-and-disadvantage}
+### Advantage and Disadvantage
 
 An Advantage or Disadvantage to a Check represents unusual circumstances — like improvisation, using circumstances or surroundings smartly, or thorough preparation.
 

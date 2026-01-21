@@ -1,0 +1,43 @@
+---
+data: items
+permalink: items/
+layout: base
+title: Items
+---
+
+<style>
+  .itemList_item {
+    max-width: 30em;
+    margin: 1em 1em 3em;
+  }
+  .itemList_item:target {
+    background: rgba(255, 255, 0, 0.1);
+  }
+
+  .item_name {
+    font: 700 1.3em/1.1 Helvetica, sans-serif;
+  }
+</style>
+
+<h1>Items</h1>
+
+{% for item in items %}
+<article class="itemList_item" id="{{item.name | slugify}}">
+  <h2 class="item_name"><a rel="bookmark" href="#{{item.name | slugify}}"></a>{{item.name}}</a></h2>
+  <dl>
+    <dt>Purchase price
+        
+    <dd class="item_buy">
+    {% if item.buy %}{{item.buy}}{%if item.buyIsNumeric%}₽{%endif%}
+    {% else %}Not typically found in stores.
+    {% endif %}
+
+    {% if item.sell %}
+    <dt>Sell price
+    <dd class="item_sell">{{item.sell}}{%if item.sellIsNumeric%}₽{%endif%}
+    {% endif %}
+  </dl>
+
+  {{item.description | safe}}
+</article>
+{% endfor %}

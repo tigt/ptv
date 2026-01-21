@@ -1,0 +1,36 @@
+---
+data: moves
+permalink: moves/
+layout: base
+title: Moves
+---
+
+<style>
+  :target {
+    background: rgba(255, 255, 0, 0.1);
+    outline: 1px dashed #b02a32;
+  }
+
+  article {
+    display: inline-block;
+    max-width: 20em;
+    margin: 0.5em;
+    padding: 0 0.5em;
+    vertical-align: top;
+  }
+</style>
+
+<h1>Moves</h1>
+
+{% for move in moves %}
+  <article id="{{move.name | slugify}}">
+    <h2><a href="/moves/{{move.name | slugify}}/">{{move.name}} ⇢</a></h2>
+    <p>{{move.type}} · {{move.kind}} · {{move.ap}} AP
+      {%if move.power%} · {{move.power}} Power{%endif%}
+      {%if move.accuracy%} · {{move.accuracy}} AC {%endif%}
+      · {{move.range}}
+    </p>
+    
+    {{move.description | safe}}
+  </article>
+{% endfor %}

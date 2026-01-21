@@ -43,11 +43,11 @@ tr:target {
 <table>
   <thead><tr><th>Roll<th>What you find
   <tbody>
-{{#pickup}}
-<tr id="roll-{{roll}}">
-  <th>{{roll}}
-  <td>{{item}}
-{{/pickup}}
+{% for row in pickup %}
+<tr id="roll-{{row.roll}}">
+  <th>{{row.roll}}
+  <td>{{row.item}}
+{% endfor %}
 </table>
 
 <script>

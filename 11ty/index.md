@@ -14,7 +14,8 @@ layout: base
 - [Player materials](https://drive.google.com/drive/folders/1sJ-13zHkiUHI2iI7tVZufCCyVxEiuKZt)
 - [GM materials](https://drive.google.com/drive/folders/1O8HJkyncJL0a8PfXB03Y0-eNNvhQQ7om)
 
-{{> dottler width=300 }}
+{% set width = 300 %}
+{% include 'dottler.njk' %}
 
 ## How does PTV differ from the canon videogames?
 

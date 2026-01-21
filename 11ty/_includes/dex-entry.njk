@@ -1,0 +1,94 @@
+{% set monSlug = mon.name | slugify %}
+
+<article class="mon" id="{{monSlug}}">
+  <h2><a href="#{{monSlug}}">{{mon.name}}</a></h2>
+
+  {% set dexImages = 'dex-images' | getVarFromString %}
+
+  {% set image = dexImages[monSlug] %}
+  {% if image %}
+    {% if image.secret %}
+      <a class="mon_shh"
+        href="../img/{{monSlug}}--secret.jpg?{{image.hash}}"
+      >
+    {% endif %}
+      <img alt="" class="mon_pic"
+        src="../img/{{monSlug}}.jpg?{{image.hash}}"
+        width="{{image.sizes[0]}}" height="{{image.sizes[1]}}"
+        {%if not loop.first%}loading="lazy"{%endif%}>
+    {% if image.secret %}</a>{% endif %}
+
+    {% if image.toggle %}
+      <img alt="" class="mon_pic"
+        src="../img/{{monSlug}}--toggle.jpg?{{image.hash}}"
+        width="{{image.sizes[0]}}" height="{{image.sizes[1]}}"
+        {%if not loop.first%}loading="lazy"{%endif%}>
+    {% endif %}
+  {% else %}
+    {{[mon.name, ' not found in dex image data'] | join('') | log}}
+  {% endif %}
+
+  <div class="mon_entry">
+  {{mon.blurb | safe}}
+  </div>
+
+  <dl class="mon_info">
+    <dt>Type:
+    <dd>{{mon.type1}}{%if mon.type2%}&thinsp;/&thinsp;{{mon.type2}}{%endif%}
+
+    <dt>Height:&nbsp;
+    <dd>{{mon.height}}
+
+    <dt>Weight:&nbsp;
+    <dd>{{mon.weight}}&thinsp;lbs.
+
+    <dt>Egg Group{%if mon.eggGroups[1]%}s{%endif%}:&nbsp;
+    <dd>{{ mon.eggGroups.join(', ') }}
+
+    {%if mon.catchDC%}
+      <dt>Catch DC:&nbsp;
+      <dd>{{mon.catchDC}}
+    {%endif%}
+
+    {%if mon.evolves.from%}
+      <dt>Evolves from:&nbsp;
+      <dd>{{mon.evolves.from}} ({{mon.evolves.by}})
+    {%endif%}
+  </dl>
+
+  <dl class="mon_abilities">
+    {% macro formatAbilities(abilities) %}
+      {% for ability in abilities -%}
+        {% if ability.Entry %}
+          <a href="/abilities/#entry-move">Entry:</a> <a href="/moves/{{ability.Entry | slugify}}/">{{ability.Entry}}</a>
+        {% else %}
+          <a href="/abilities/#{{ability | slugify}}">{{ability}}</a>
+        {% endif %}
+        {% if not loop.last %}&thinsp;/&thinsp;{%endif%}
+      {%- endfor %}
+    {% endmacro %}
+
+    <dt>Starting Abilit{%if mon.abilities.start[1]%}ies{%else%}y{%endif%}
+    {% for ability in mon.abilities.start %}
+      <dd>{{formatAbilities(ability)}}
+    {% endfor %}
+
+    <dt>Level 5 Abilit{%if mon.abilities.level5[1]%}ies{%else%}y{%endif%}
+    {% for ability in mon.abilities.level5 %}
+      <dd>{{formatAbilities(ability)}}
+    {% endfor %}
+  </dl>
+
+  <table class="mon_stats">
+    {% for stat in mon.stats %}
+    <tr>
+      {% for name, amount in stat %}
+      <th>{{name}}<td>{{amount}}
+      {% endfor %}
+    {% endfor %}
+  </table>
+
+  {% set evolvesFrom = mon.evolves.from %}
+  {% set moves = mon.moves %}
+  {% include 'moveset.njk' %}
+</article>

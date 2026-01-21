@@ -179,7 +179,7 @@ Moves that **Protect** the user prevent Moves from affecting the user, both thei
 
 When a Move is **Disabled**, it can’t be chosen and automatically fails if used somehow.
 
-##### HP Loss {#hp-loss}
+##### HP Loss
 
 If an effect says a target **loses HP**, that HP loss does not interact with any Stats, bonus damage, or Effectiveness outside of Immune.
 
@@ -279,7 +279,7 @@ Although most battles between Trainers begin with introductions, characters can 
 - If a Trainer is surprised, they must reveal their first Pokémon to the opponent, instead of using the double-blind system.
 - If a wild Pokémon is surprised, it must reveal its first Move instead of using the double-blind system.
 
-## Rests and Healing {#rests-and-healing}
+## Rests and Healing
 
 Pokémon Centers restore perfect health within seconds, but you can’t always reach one. **Rest** is any period of time when characters aren’t busy with strenuous physical or mental activity. Usually rest means sleeping or relaxing, but what exactly counts is up to the GM.
 
@@ -443,7 +443,7 @@ Each Pokémon has an assigned Tera Type; unless the GM assigned a specific Tera 
 - Moves of the Tera Type with 5 or less Power become 6 Power, as long as they don’t have Multi-strike or Priority.
 - Effects (such as those from Moves like Forest’s Curse or Abilities like Protean) can’t make a Terastallized Pokémon change their Type.
 
-## Status Problems {#status-problems}
+## Status Problems
 
 **Burned**
 Burned characters get −15 ATK, and they lose 1 Tick of Health between rounds.

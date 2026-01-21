@@ -1,0 +1,70 @@
+---
+pagination:
+  data: moves
+  size: 1
+  alias: move
+  resolve: values
+permalink: "moves/{{move.name|slugify}}/"
+eleventyComputed:
+  title: "{{move.name|safe}} (Move)"
+layout: base
+---
+
+<style>
+  article {
+    margin: 0.5em 1em;
+    max-width: 40em;
+  }
+
+  dt {
+    float: left;
+    font-weight: bolder;
+  }
+
+  dt:after {
+    content: ": ";
+    white-space: pre;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0 0 0 1.5ch;
+    columns: 8em;
+  }
+</style>
+
+<article>
+  <h1>{{move.name}}</h1>
+  <dl>
+    <dt>Type<dd>{{move.type}}
+    <dt>Category<dd>{{move.kind}}
+    <dt>AP Cost<dd>{{move.ap}}
+    {% if move.power %}
+    <dt>Power<dd>{{move.power}}
+    {% endif %}
+    {% if move.accuracy %}
+    <dt>Accuracy<dd>{{move.accuracy}}
+    {% endif %}
+    <dt>Range<dd>{{move.range}}
+  </dl>
+  
+  {{move.description | safe}}
+  
+  {% if move.zEffect %}
+    <p><b>Z-Effect:</b> {{move.zEffect}}</p>
+  {% endif %}
+  {% if move.maxPower %}
+    <p><b>MAX Power</b> {{move.maxPower}}</p>
+  {% endif %}
+
+  <h2>Learned by</h2>
+  <ul>
+  {% for learner in move.learnedBy %}
+    <li>{{learner}}
+  {% endfor %}
+  </ul>
+
+  {#-- TODO: bulbapedia link?
+    Note that it needs the underscores, unlike Wikipedia: <p><a href="https://bulbapedia.bulbagarden.net/wiki/{{name}}_(move)">This Move’s videogame equivalent on Bulbapedia</a></p>
+  --#}
+</article>

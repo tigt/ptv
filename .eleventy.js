@@ -6,6 +6,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin)
 
   eleventyConfig.addFilter('slugify', slugify)
+  eleventyConfig.addNunjucksFilter('getVarFromString', function (varName) {
+    return this.getVariables()[varName]
+  })
 
   eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
     if (outputPath.endsWith('.html')) {
@@ -27,6 +30,6 @@ module.exports = function (eleventyConfig) {
   })
 
   return {
-    markdownTemplateEngine: 'hbs'
+    markdownTemplateEngine: 'njk'
   }
 }

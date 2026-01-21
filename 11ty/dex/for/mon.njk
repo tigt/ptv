@@ -3,13 +3,13 @@ pagination:
   data: redirects
   size: 1
   alias: mon
-permalink: "dex/for/{{mon.name}}/"
+permalink: "dex/for/{{mon.name|safe}}/"
 ---
 
 <!doctype html>
 <meta charset="utf-8">
 <meta http-equiv="refresh" content="0;url={{mon.url}}">
-<title>Dex redirect for {{mon.name}}</title>
+<title>Dex redirect for {{mon.name|safe}}</title>
 <link rel="canonical" href="{{mon.url}}">
 
-<p>Redirecting to <a href="{{mon.url}}">the Pokédex page for {{mon.name}}</a>…
+<p>Redirecting to <a href="{{mon.url}}">the Pokédex page for {{mon.name|safe}}</a>…

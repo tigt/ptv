@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#b02a32">
 <meta name="robots" content="none">
-<title>{{#if title}}{{title}} · {{/if}}Pokémon: Tabletop Version</title>
+<title>{%if title%}{{title|safe}} · {%endif%}Pokémon: Tabletop Version</title>
 <style>
   *, ::before, ::after { box-sizing: border-box }
   html {
@@ -94,7 +94,7 @@
 
 <header>
   <h1>
-    <a href="/" class="siteName" rel="home">{{> dottler width="2em" }} Pokémon: Tabletop Version</a><!--
+    <a href="/" class="siteName" rel="home">{% set width="2em" %}{% include 'dottler.njk' %} Pokémon: Tabletop Version</a><!--
     --><a class="✲" href="#™" rel="license">✲</a>
   </h1>
 
@@ -107,19 +107,19 @@
   </nav>
 
   <form role="search" action="https://www.google.com/search">
+    {# replace disabled="" with required="" when ready #}
     <input type="search" name="q"
       autocapitalize="off"
       size="14"
       pattern=".*?\S.*" title="Search for one or more terms"
-      disabled="" {{! replace with required="" when ready }}
+      disabled=""
     ><input type="hidden" name="q" value="site:ptv.ti.gt/"><!--
-
     --><button disabled="">Search</button>
   </form>
 </header>
 
 <main>
-{{{content}}}
+{{content | safe}}
 </main>
 
 <footer>
