@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 4
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Combat & Danger
 
 Pokémon Trainers often find themselves in conflict with other Pokémon. Combat has special rules for when and how characters act. Time during battle is counted in **Rounds**, and characters keep their decisions secret until the last second.

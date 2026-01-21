@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 6
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Game Master (GM) Advice
 
 [https://docs.google.com/document/d/1KHjBwldxyMlyvWVJvMsy-0yU7XPH1XG6NNgFR7frBK0/edit](https://docs.google.com/document/d/1KHjBwldxyMlyvWVJvMsy-0yU7XPH1XG6NNgFR7frBK0/edit#heading=h.ihmxtw1a1scz)

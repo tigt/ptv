@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 2
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Skills
 
 Each character has 5 Physical Skills and another 5 Social Skills. Skills act as bonuses or penalties characters can apply to rolls.
@@ -81,7 +83,7 @@ Characters with high **Deception** can hide their emotions and intents, putting 
 
 ## Battle
 
-A large part of the Pokémon world is battle. Battling can be dangerous, but also a safe and fun way for Trainers and Pokémon to get to know each other. Society has grown around battles so much that it has special rules elaborated on in [the Combat & Danger section](./combat+danger.md). [TODO]
+A large part of the Pokémon world is battle. Battling can be dangerous, but also a safe and fun way for Trainers and Pokémon to learn about each other. Society has grown around battles so much that it has special rules elaborated on in [the Combat & Danger section](./combat+danger.md). [TODO]
 
 Wild Pokémon love battling, especially after they evolve into stronger forms. Trainers treat battle as a sport and will casually challenge each other. When Trainers or wild Pokémon challenge each other, the GM declares a battle. Players choose which Pokémon to begin the battle with and then Combat starts.
 

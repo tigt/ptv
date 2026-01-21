@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 5
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Items
 
 Just as there are myriad Pokémon to find and befriend, there are many items with all sorts of effects.

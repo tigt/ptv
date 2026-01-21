@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 3
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Building Characters
 
 ## 1. Concept and backstory

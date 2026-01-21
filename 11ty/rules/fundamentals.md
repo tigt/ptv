@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 1
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Fundamental Rules
 
 (If you are unfamiliar with tabletop role-playing games in general, [Wikipedia has a good introduction](https://en.wikipedia.org/wiki/Tabletop_role-playing_game).)

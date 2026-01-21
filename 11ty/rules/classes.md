@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 5
 ---
 
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 # Classes
 
 The Trainers you play as have special skills that help them stand out from others. When a player chooses a Class, they gain **Features** that make their Pokémon more powerful in and out of combat.
