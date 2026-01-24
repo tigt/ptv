@@ -10,6 +10,10 @@ module.exports = function (eleventyConfig) {
     return this.getVariables()[varName]
   })
 
+  eleventyConfig.addPassthroughCopy('11ty/**/*.png', {
+		mode: "html-relative"
+	})
+
   eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
     if (outputPath.endsWith('.html')) {
       return minify(content, {
