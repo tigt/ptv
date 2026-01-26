@@ -8,10 +8,10 @@ title: Pokédex
 <p>Want <em>every Pokémon on one page</em>? For <kbd>Ctrl</kbd>+<kbd>F</kbd> purposes or something? Here you go: <a href="./all/">One-page Pokédex (⚠️ loürge download)</a></p>
 
 <ul>
-{% for mons in pokemon %}
+{% for key, family in pokemon %}
 <li>
-  <a href="./{{mons[0].name | slugify}}{%if mons[1]%}-family{%endif%}/">
-    {% for mon in mons %}{{name}}{% if not loop.last %}, {% endif %}{% endfor %}
+  <a href="./{{family[0].name | slugify}}{%if family[1]%}-family{%endif%}/">
+    {% for mon in family %}{{mon.name}}{% if not loop.last %}, {% endif %}{% endfor %}
   </a>
 {% endfor %}
 </ul>
