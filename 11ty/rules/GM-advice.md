@@ -77,22 +77,27 @@ With this Level Budget of 12, you can make:
 
 ### Special Battlefield Conditions
 
+Sometimes, an area might be under permanent Harsh Sunlight, or Grassy Terrain, or other conditions, because that area resembles those conditions naturally. Some places that might be fun:
+
 - **Thunderstorm:** Rain + Electric Terrain
 - **Growing Season:** Sunny Day + Grassy Terrain + Water Sport
+- **Natural Sauna:** Mist + Rain + Harsh Sunlight
+- **Morning Dew:** Misty Terrain + Mist + Fire/Water Pledge rainbow
+- **Magnetic Distortion:** Electric Terrain + Light Screen (+ Magnetic Flux/Magnet Rise?)
+- **Windfall:** Tailwind + Lucky Chant
+- **Typhoon:** Heavy Rain + Strong Winds simultaneously
+- **New Moon:** Midnight + Fog + Shadowy Aura
+
+And some places that might be challenging:
+
+- **Junkyard:** Toxic Spikes + Steel Spikes (*a la* G-Max Steelspike)
 - **Habūb**: Sandstorm + Mud Sport + Gravity (severe dust storms ground airplanes)
 - **Freezing Rain:** Hail + Snow + Rain + Gravity (freezing rain grounds airplanes)
-- **Morning Dew:** Misty Terrain + Mist + Fire/Water Pledge rainbow
-- **Treacherous Earth:** Stealth Rock + Spikes
-- **Typhoon:** Heavy Rain + Strong Winds simultaneously
-- **Magnetic Distortion:** Electric Terrain + Light Screen (+ Magnetic Flux/Magnet Rise?)
-- **Junkyard:** Toxic Spikes + Steel Spikes (*a la* G-Max Steelspike)
 - **Boreal Storm:** Hail + Snow + Aurora Veil
 - **Putrid Bog:** 2 Layers of Toxic Spikes + Grass/Water Pledge terrain
+- **Treacherous Earth:** Stealth Rock + Spikes
 - **Smog Warning:** Fog + all non-Poison Types are Poisoned
-- **Windfall:** Tailwind + Lucky Chant
-- **Pea Soup:** Misty Terrain + Fog
 - **Volcanic Eruption:** Extremely Harsh Sunlight + Fog + Sandstorm + Toxic Spikes + Stealth Rock
-- **New Moon:** Midnight + Fog + Shadowy Aura
 
 ### Zone Actions
 
@@ -199,7 +204,7 @@ Shadow Pokemon have had their emotions repressed and the door to their heart sea
 - If captured by a player:
   + Shadow Pokemon can’t level up, evolve, or change their Moves, and are usually illegal in sanctioned battles.
   + It takes time and perseverance for Shadow Pokemon to get over their trauma and trust again. This will gradually replace their Shadow Moves with other Moves (usually a Tutor Move of your/the GM’s choice).
-  + After using a Shadow Move, roll d20 to see if they enter a frenzy state of pent-up emotion:
+  + After using or witnessing a Shadow Move, roll a DC15 check to see if they enter a frenzy state of pent-up emotion:
     * Lose 1 tick between rounds
     * May [disobey](https://bulbapedia.bulbagarden.net/wiki/Hyper_Mode#Effects_of_Hyper_Mode) if ordered to do anything but use a Shadow Move
     * Can’t have items used on them, other than items to snap them out of it
