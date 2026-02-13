@@ -13,19 +13,20 @@ layout: base
 - [Items](./items/)
 - [Player materials](https://drive.google.com/drive/folders/1sJ-13zHkiUHI2iI7tVZufCCyVxEiuKZt)
 - [GM materials](https://drive.google.com/drive/folders/1O8HJkyncJL0a8PfXB03Y0-eNNvhQQ7om)
+- [Community Discord](https://discord.gg/Z79ZuR3jqC)
 
+<figure style="float:right">
 {% set width = 300 %}
 {% include 'dottler.njk' %}
+</figure>
 
 ## How does PTV differ from the canon videogames?
 
 Well, for starters, it’s [a tabletop role-playing game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game). Other than that…
 
-- Additive instead of multiplicative math, so the numbers don’t match exactly but we try to make them feel about the same.
 - Each Pokémon can have a Bonus Move: a 5th move slot filled by their Trainer’s Class(es).
-- PP has been replaced with AP, which works as more of a spendable resource each character has instead of tracking usage of each Move.
-- New Moves added (not many).
 - New Abilities added (many).
+- New Moves added (not many).
 - Lackluster Abilities got “Bonus Stats” to make them more worth choosing, which increase the user’s Stats just by having those Abilities.
 - Pokémon learn a second Ability at level 5.
 - Levels compressed to 1–20 instead of 1–100.
@@ -37,8 +38,10 @@ Well, for starters, it’s [a tabletop role-playing game](https://en.wikipedia.o
 - By default, Pokemon level up with their Trainers; no tracking EXP for each.
 - Sleep/Poison/Burn/Paralysis/Frozen aren’t mutually exclusive; characters can have more than one simultaneously.
 - Trainers can be attacked, and some Trainers can fight back.
+- PP has been replaced with AP, which works as more of a spendable resource each character has instead of tracking usage of each Move.
+- Additive instead of multiplicative math, so the numbers don’t match exactly but we try to make them feel about the same.
 
-Those are the major differences; there’s also [a section on detailed changes from the core series](https://docs.google.com/document/d/1W5cz8RSWn5QJ6R4tPL4McoLaljGvwz-SANPh9OvS7Dg/edit#heading=h.6urujvt7x6uh).
+Those are the major differences; there’s also [a section on detailed changes from the core series](/rules/#:~:text=intentional%20differences%20from%20the%20video%20games).
 
 ## How does PTV differ from [Pokémon Odyssey](https://pokemontabletop.com) (formerly Pokémon Tabletop United)?
 
