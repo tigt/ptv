@@ -555,9 +555,9 @@
   "beheeyem": {
     "sizes": [
       400,
-      257
+      239
     ],
-    "hash": "1x-As6v"
+    "hash": "JfvYZEh"
   },
   "beldum": {
     "sizes": [
@@ -569,9 +569,9 @@
   "bellibolt": {
     "sizes": [
       400,
-      237
+      325
     ],
-    "hash": "tKwfp-p"
+    "hash": "G8U44AC"
   },
   "bellossom": {
     "sizes": [
@@ -2465,80 +2465,17 @@
   },
   "furfrou": {
     "sizes": [
-      400,
-      249
+      293,
+      400
     ],
-    "hash": "9pP4D0V"
-  },
-  "furfrou-dandy": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "-zsJq6k"
-  },
-  "furfrou-debutante": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "riz1LEL"
-  },
-  "furfrou-diamond": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "r3BkNp6"
-  },
-  "furfrou-heart": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "lTJ223S"
-  },
-  "furfrou-kabuki": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "zRjIZPx"
-  },
-  "furfrou-la-reine": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "N4UgfoO"
-  },
-  "furfrou-matron": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "fX8oYMI"
-  },
-  "furfrou-pharaoh": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "CEJYwwW"
-  },
-  "furfrou-star": {
-    "sizes": [
-      180,
-      180
-    ],
-    "hash": "qcmYt5u"
-  },
-  "furfrou-unrecorded-styles": {
-    "sizes": [
-      400,
-      240
-    ],
-    "hash": "zRGeiv5"
+    "hash": "pQTst8x",
+    "secret": {
+      "sizes": [
+        400,
+        240
+      ],
+      "hash": "zRGeiv5"
+    }
   },
   "furret": {
     "sizes": [
