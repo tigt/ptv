@@ -4,6 +4,7 @@
   "description": "Generates the Pokémon: Tabletop Version’s website and Pokédex",
   "scripts": {
     "makeSite": "eleventy --input=./11ty --output=./docs",
+    "debug": "DEBUG=Eleventy* yarn makeSite",
     "updateData": "node ./update/google-sheets.js",
     "updateImages": "node ./update/process-dex-images.js",
     "watch": "eleventy --input=./11ty --output=./docs --watch --incremental"

@@ -128,7 +128,7 @@ Guide
 
 ### Martial Artist
 Tag In Orders
-:2 AP. You switch with your Pokémon at the end of the round.
+: 2 AP. You switch with your Pokémon at the end of the round.
 
 Reckless Behavior
 : If you or your Pokémon take damage outside of battle but don’t Faint, heal that damage.

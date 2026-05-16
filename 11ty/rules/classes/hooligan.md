@@ -81,6 +81,7 @@ Subversive
 
 ## Rank 6
 Expand your available Bonus Moves to include the following from the subclasses you have:
+
 Roughneck
 : Beat Up, Breaking Swipe, Obstruct
 
