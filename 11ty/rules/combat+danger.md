@@ -1,13 +1,14 @@
 ---
 title: Combat & Danger · Rules
 layout: rules-page
+tags: topLevelSection
 eleventyNavigation:
   key: Combat & Danger
   parent: Rules
   order: 4
 ---
 
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 # Combat & Danger
 
@@ -136,11 +137,12 @@ Moves can have special effects with their own rules. These keywords describe tho
 
 ##### Priority
 
-Priority Moves change when they happen during the round. If multiple characters use a Priority Move, it follows Initiative between them.
+Priority changes when things happen during a round.
 
-- **Priority** Moves happen before all normal Moves.
-- **Super-Priority** Moves happen even before all Priority Moves. Mechanics that refer to Priority Moves also apply to Super-Priority Moves.
-- **Delayed** Moves happen after all normal Moves.
+- The default Priority for Moves and Actions is 0.
+- Moves and Actions that have a different Priority will state that they have one, such as “Priority +1”, “Priority -3”, etc.
+- Moves or Actions with higher Priorities happen before Moves or Actions with other Priorities.
+- If multiple characters use a Move or Action with the same Priority, the one with the highest SPE goes first.
 
 ##### Double Strike
 
@@ -238,7 +240,7 @@ Zones can be filled with special terrains with extra effects for characters stan
   + Gives Immunity to persistent Status Problems and Confusion
   + Dragon Moves get −1 Effectiveness
 - **Psychic Terrain**
-  + Gives Immunity to Priority Moves
+  + Gives Immunity to Moves with Priority +1 or greater
   + Damaging Psychic Moves get +10 damage
 - **Grassy Terrain**
   + Heals 1 Tick between rounds
@@ -323,7 +325,7 @@ Trainers can use a Z-Crystal to turn a Pokémon’s Move into a superpowerful Z-
 - Their Pokémon must hold a Z-Crystal that matches the Type of the base Move.
 - The Trainer must wear a Z-Ring.
 
-If the base Move is Physical or Special, the Move becomes the Z-Move listed in its Z-Effect, gains the Power listed in its Z-Effect, keeps its original Category and PP Cost, and can’t miss. Characters that protect against damaging Z-Moves still lose 3 Ticks of HP.
+If the base Move is Physical or Special, the Move becomes the Z-Move listed in its Z-Effect, gains the Power listed in its Z-Effect, keeps its original Kind and PP Cost, and can’t miss. Characters that protect against damaging Z-Moves still lose 3 Ticks of HP.
 
 If the base Move is Status, its Z-Effect occurs before its usual effects.
 
@@ -371,8 +373,8 @@ If a Pokémon has the Gigantamax Factor, it can Gigantamax — a special kind of
 
 ### Max Moves
 
-Max Move |  Type | Category | Power | Base Move | Range | Description
--------: | :---: | :------: | :---: | :-------: | :---: | -----------
+Max Move |  Type | Kind | Power | Base Move | Range | Description
+-------: | :---: | :---: | :---: | :-------: | :---: | -----------
 **Max Airstream** | Flying | ★ | ★ | Damaging Flying | Ranged | A magnified jetstream shears the target and Boosts the user’s and allies’ SPE by +5.
 **Max Darkness** | Dark | ★ | ★ | Damaging Dark | Ranged | A magnified midnight pressures the target and Drops all foes’ SDEF by –5.
 **Max Flare** | Fire | ★ | ★ | Damaging Fire | Ranged | A magnified burner ignites the target and creates Harsh Sunlight for 5 rounds.
@@ -395,7 +397,7 @@ Max Move |  Type | Category | Power | Base Move | Range | Description
 
 #### G-Max Moves
 
-| G-Max Move | Type | Category | Power | Base Move | Pokémon | Range | Description |
+| G-Max Move | Type | Kind | Power | Base Move | Pokémon | Range | Description |
 | ----: | :---: | :---: | :---: | :---: | :---: | :---: | :---- |
 | **G-Max Befuddle** | Bug | ★ | ★ | Max Flutterby | Butterfree | Ranged | Gigantic bewitching scales score the target and spread malady. Roll d20: 1–7: Poisons all foes. 8–14: Paralyzes all foes. 15+: Puts all foes to Sleep. |
 | **G-Max Cannonade** | Water | ★ | ★ | Max Geyser | Blastoise | Ranged | A gigantic water bombardment besieges the target and for 4 turns, deals 2 Ticks of damage between rounds to non-Water-Type foes. |
@@ -442,7 +444,7 @@ Each Pokémon has an assigned Tera Type; unless the GM assigned a specific Tera 
 
 - Changes the Pokémon’s Typing to the Tera Type without removing STAB from their original Types. (The Pokémon gets the Weaknesses, Resistances, and Immunities of only their Tera Type, but keep the STAB from their original Type(s).)
 - Terastallized Pokémon gain STAB on Moves of their Tera Type — this stacks with STAB from their original Types.
-- Moves of the Tera Type with 5 or less Power become 6 Power, as long as they don’t have Multi-strike or Priority.
+- Moves of the Tera Type with 5 or less Power become 6 Power, as long as they don’t have Multi-strike or Priority +1 or greater.
 - Effects (such as those from Moves like Forest’s Curse or Abilities like Protean) can’t make a Terastallized Pokémon change their Type.
 
 ## Status Problems
@@ -452,11 +454,11 @@ Burned characters get −15 ATK, and they lose 1 Tick of Health between rounds.
 Fire-Types can’t be burned.
 
 **Frozen**
-Frozen characters can’t act or travel. Add a DC 15 Save Check to their first attack roll in the round to thaw. Fire damage cures freezing.
+Frozen characters can’t travel or act. Add a DC 15 Save Check to their first attack roll in the round to thaw. Fire damage cures freezing. If a character is frozen for 3 or more turns, they automatically thaw at the start of their next turn.
 Ice-Types and targets in harsh sunlight can’t be frozen.
 
 **Paralyzed**
-Paralyzed characters get −10 SPE. Add a DC 5 Save Check to their first attack roll in the round. If unsuccessful, they can’t act or travel.
+Paralyzed characters get −10 SPE. Add a DC 3 Save Check to their first attack roll in the round. If unsuccessful, they can’t act or travel.
 Electric-Types can’t be paralyzed.
 
 **Poisoned**
@@ -477,8 +479,8 @@ Flinching characters can’t act for the rest of the round.
 Infatuated targets add a DC 11 Save Check to their attack rolls. If unsuccessful, they cannot target the character they are infatuated with. Infatuation is cured by switching or leaving the battle.
 
 **Asleep**
-Sleeping characters can’t travel or act. Add a DC 15 Save Check to their first attack roll in the round to wake up. If a character Sleeps for 3 or more turns, they automatically awaken at the start of their next turn.
-Sleeping Trainers can’t use Orders, Items, or other actions, but their Pokemon still fight normally otherwise.
+Sleeping characters can’t travel or act. The first Round of sleep, characters don’t wake on their own. The following Round, add a DC 10 Save Check to their first attack roll in the round to wake up. If failed, they automatically awaken at the start of their next turn instead.
+Sleeping Trainers can’t travel, use Orders, Items, or other actions, but their Pokémon still fight normally otherwise.
 
 **Fainted**
 Characters with 0 or less Health Faint. Fainted characters are unconscious, can’t travel or act, and are cured of all other Status Problems.

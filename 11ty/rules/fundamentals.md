@@ -1,13 +1,14 @@
 ---
 title: Fundamentals · Rules
 layout: rules-page
+tags: topLevelSection
 eleventyNavigation:
   key: Fundamentals
   parent: Rules
   order: 1
 ---
 
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 # Fundamental Rules
 

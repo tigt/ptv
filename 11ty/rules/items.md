@@ -1,13 +1,14 @@
 ---
 title: Items · Rules
 layout: rules-page
+tags: topLevelSection
 eleventyNavigation:
   key: Items
   parent: Rules
-  order: 5
+  order: 6
 ---
 
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 # Items
 

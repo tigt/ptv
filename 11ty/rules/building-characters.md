@@ -1,13 +1,14 @@
 ---
 title: Building Characters · Rules
 layout: rules-page
+tags: topLevelSection
 eleventyNavigation:
   key: Building Characters
   parent: Rules
   order: 3
 ---
 
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 # Building Characters
 
@@ -259,7 +260,7 @@ Each Move has the following attributes:
 - **Type** determines Moves’ Effectiveness and the Same-Type Attack Bonus (STAB).
 - **Range** defines what a Move can target. Close-quarters Moves that touch their target make **Contact** as part of their Range. (Some Abilities, Items, or Features trigger on Contact.) Foes in Zone Moves only target enemies, but Others in Zone Moves target enemies and your allies as well.
 - **PP Cost** is how much PP the user must spend to use the Move.
-- **Category** defines which attacking Stat a Move uses:
+- **Kind** defines which attacking Stat a Move uses:
   + **Physical Moves** add the user’s Attack to their damage.
   + **Special Moves** add the user’s Special Attack to their damage.
   + **Status Moves** don’t deal damage and ignore Type Immunities.

@@ -1,9 +1,21 @@
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation")
-const { minify } = require("html-minifier")
+const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
+const { minify } = require('html-minifier')
 const slugify = require('./update/slugify.js')
+const markdownIt = require('markdown-it')
+const markdownItDescriptionLists = require('markdown-it-deflist')
+const markdownItContainers = require('./update/markdown-it-paragraphless-containers.js')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin)
+
+  const markdownLib = markdownIt({
+      linkify: true,
+      typographer: true,
+      html: true
+    })
+    .use(markdownItDescriptionLists)
+    .use(markdownItContainers)
+  eleventyConfig.setLibrary('md', markdownLib)
 
   eleventyConfig.addFilter('slugify', slugify)
   eleventyConfig.addNunjucksFilter('getVarFromString', function (varName) {

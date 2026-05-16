@@ -1,13 +1,14 @@
 ---
 title: Skills · Rules
 layout: rules-page
+tags: topLevelSection
 eleventyNavigation:
   key: Skills
   parent: Rules
   order: 2
 ---
 
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 # Skills
 

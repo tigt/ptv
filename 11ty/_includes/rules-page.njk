@@ -8,15 +8,50 @@ layout: base
     margin: 1em auto;
   }
 
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 0.5rem;
+  }
+  h2 {
+    border-bottom: 0.5px solid;
+  }
+
   dt {
     font-weight: bolder;
   }
-
-  figcaption {
+  dd {
+    margin-left: 2ch;
+  }
+  dd > p:first-child {
+    margin-top: 0;
+  }
+  ul, ol {
+    padding-left: 1em;
+  }
+  dd > ol,
+  dd > ul {
+    margin: 0.5em 0 0.5em 0.5em;
+  }
+  dd > ul {
+    list-style-type: circle;
+  }
+  .example {
+    margin: 0.5em 0;
+    border-left: 2px dashed;
+    padding-left: 0.5ch;
+  }
+  figcaption,
+  .example {
     font-style: italic;
   }
   figcaption > i,
-  figcaption > em {
+  figcaption > em,
+  .example i,
+  .example em {
     font-style: normal;
   }
 </style>

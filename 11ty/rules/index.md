@@ -1,11 +1,12 @@
 ---
 title: Core Rules
 layout: rules-page
+tags: topLevelSection
 eleventyNavigation:
   key: Rules
 ---
 
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 # _Pokémon: Tabletop Version_ Core Rules
 
@@ -91,3 +92,5 @@ But if we can also match tabletop tropes, we do.
   + Bug → Insect
   + Fairy → Pixie
   + etc.
+
+{{ collections.topLevelSection | eleventyNavigation | eleventyNavigationToHtml | safe }}
