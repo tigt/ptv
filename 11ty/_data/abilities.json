@@ -23,6 +23,7 @@
       "Starly",
       "Staravia",
       "Staraptor",
+      "Mega Staraptor",
       "Mega Lucario",
       "Arceus",
       "Basculin",
@@ -31,9 +32,11 @@
       "Basculegion (♀)",
       "Skrelp",
       "Dragalge",
+      "Mega Dragalge",
       "Yungoos",
       "Gumshoos",
-      "Bramblin"
+      "Bramblin",
+      "Mega Glimmora"
     ]
   },
   {
@@ -45,7 +48,9 @@
       "Archeops",
       "Fletchling",
       "Hawlucha",
-      "Falinks"
+      "Mega Hawlucha",
+      "Falinks",
+      "Mega Falinks"
     ]
   },
   {
@@ -107,7 +112,9 @@
       "Vileplume",
       "Venonat",
       "Venomoth",
-      "Dustox"
+      "Dustox",
+      "Foongus",
+      "Amoonguss"
     ]
   },
   {
@@ -127,6 +134,7 @@
       "Magnezone",
       "Staryu",
       "Starmie",
+      "Mega Starmie",
       "Porygon",
       "Porygon2",
       "Porygon-Z",
@@ -139,6 +147,7 @@
       "Zygarde",
       "Zygarde (10%)",
       "Zygarde (Complete)",
+      "Mega Zygarde",
       "Gumshoos",
       "Oranguru",
       "Blipbug",
@@ -167,12 +176,12 @@
       "Mega Salamence",
       "Hippowdon",
       "Pignite",
-      "Zebstrika",
       "Sandile",
       "Krokorok",
       "Krookodile",
       "Crabrawler",
       "Crabominable",
+      "Mega Crabominable",
       "Stufful",
       "Bewear",
       "Mimikyu",
@@ -185,6 +194,8 @@
     "description": "<p>When the user’s HP falls below 50% from direct damage, Boost their ATK, SATK, and SPE by +5, and Drop their DEF and SDEF by -5.</p>\n",
     "usedBy": [
       "Clamperl",
+      "Mega Barbaracle",
+      "Turtonator",
       "Chewtle",
       "Drednaw",
       "Klawf",
@@ -196,7 +207,6 @@
     "description": "<p>The user’s Normal Moves become Dark-Type and get +5 damage.</p>\n",
     "usedBy": [
       "Fearow",
-      "Feraligatr",
       "Purrloin",
       "Karrablast",
       "Flittle",
@@ -249,6 +259,8 @@
     "bonusStats": "+2 DEF",
     "description": "<p>Foes’ Priority Moves fail when targeting the user or Allies in Zone.</p>\n",
     "usedBy": [
+      "Slowbro",
+      "Mega Slowbro",
       "Farigiraf"
     ]
   },
@@ -258,7 +270,7 @@
     "usedBy": [
       "Gloom",
       "Leafeon",
-      "Chikorita",
+      "Bayleef",
       "Ralts",
       "Kirlia",
       "Gardevoir",
@@ -359,8 +371,10 @@
       "Hisuian Samurott",
       "Fraxure",
       "Barbaracle",
+      "Mega Barbaracle",
       "Toxapex",
       "Golisopod",
+      "Mega Golisopod",
       "Type: Null",
       "Corviknight",
       "Wooloo",
@@ -376,7 +390,8 @@
     "description": "<p>When Greninja KOs a target, for the rest of the battle it becomes Ash-Greninja and its Water Shuriken’s Power becomes 8 and cannot do less than +6 bonus damage.</p>\n",
     "usedBy": [
       "Greninja",
-      "Greninja (Ash)"
+      "Greninja (Ash)",
+      "Mega Greninja"
     ]
   },
   {
@@ -392,13 +407,7 @@
     "bonusStats": "+1 SATK",
     "description": "<p>The user’s single-target Ranged Moves get +5 damage and +5 to their Effect and Critical Rates.</p>\n",
     "usedBy": [
-      "Blastoise",
-      "Mega Blastoise",
-      "Alolan Golem",
-      "Magnezone",
       "Flaaffy",
-      "Remoraid",
-      "Octillery",
       "Klinklang",
       "Genesect",
       "Clauncher",
@@ -408,6 +417,7 @@
       "Archaludon",
       "Eternatus (Eternamax)",
       "Glimmora",
+      "Mega Glimmora",
       "Iron Jugulis"
     ]
   },
@@ -455,6 +465,7 @@
       "Palkia (Origin)",
       "Basculegion (♀)",
       "Drampa",
+      "Mega Drampa",
       "Hattrem",
       "Terapagos (Stellar)"
     ]
@@ -526,6 +537,20 @@
     ]
   },
   {
+    "name": "Bombardment",
+    "description": "<p>The user’s single-target Ranged Moves get -1 Priority, but also target all others in Zone.</p>\n",
+    "usedBy": [
+      "Blastoise",
+      "Mega Blastoise",
+      "Alolan Golem",
+      "Rhyperior",
+      "Octillery",
+      "Skuntank",
+      "Clawitzer",
+      "Bombirdier"
+    ]
+  },
+  {
     "name": "Brimstone",
     "bonusStats": "+2 SATK",
     "description": "<p>When the user Burns a target, they also Poison it.</p>\n",
@@ -534,6 +559,7 @@
       "Houndoom",
       "Mega Houndoom",
       "Heatran",
+      "Mega Heatran",
       "Salandit"
     ]
   },
@@ -545,10 +571,11 @@
       "Golem",
       "Cloyster",
       "Ursaluna",
-      "Ursaluna (Blood Moon)",
+      "Ursaluna (Bloodmoon)",
       "Chespin",
       "Quilladin",
       "Chesnaught",
+      "Mega Chesnaught",
       "Jangmo-o",
       "Hakamo-o",
       "Kommo-o",
@@ -564,6 +591,7 @@
     "description": "<p>The user gets +7 damage on Moves with names containing “ball”, “bomb”, or “cannon”, Acid Spray, Aura Sphere, Barrage, Focus Blast, Octazooka, Pollen Puff, Rock Blast, Rock Wrecker, and Searing Shot.</p>\n",
     "usedBy": [
       "Geodude",
+      "Remoraid",
       "Octillery",
       "Spheal",
       "Rowlet",
@@ -574,7 +602,6 @@
       "Armarouge",
       "Rellor",
       "Rabsca",
-      "Bombirdier",
       "Iron Boulder"
     ]
   },
@@ -586,7 +613,6 @@
       "Alolan Raticate",
       "Munchlax",
       "Snorlax",
-      "Gulpin",
       "Pachirisu",
       "Patrat",
       "Simipour",
@@ -611,6 +637,7 @@
       "Glalie",
       "Mega Glalie",
       "Froslass",
+      "Mega Froslass",
       "Basculegion (♂)",
       "Basculegion (♀)",
       "Vanillite",
@@ -632,6 +659,7 @@
     "description": "<p>When the user KOs a target, Boost their ATK by +5.</p>\n",
     "usedBy": [
       "Palkia (Origin)",
+      "Mudsdale",
       "Glastrier",
       "Frigibax"
     ]
@@ -745,7 +773,8 @@
       "Altaria",
       "Mega Altaria",
       "Chimchar",
-      "Drampa"
+      "Drampa",
+      "Mega Drampa"
     ]
   },
   {
@@ -758,7 +787,7 @@
   },
   {
     "name": "Color Guard",
-    "description": "<p>Minior and allies that share a color with it get a bonus based on its color:</p>\n<ul>\n<li>Red: heal a Tick between rounds</li>\n<li>Orange: +5 ATK, +2 Crit Rate</li>\n<li>Yellow: +5 DEF, +6 Save Bonus</li>\n<li>Green: +5 SDEF, +2 Evasion</li>\n<li>Cyan: heal 1 AP between rounds</li>\n<li>Indigo: +5 SATK, +2 Effect Rate</li>\n<li>Violet: +5 SPE, +4 Accuracy Rate</li>\n<li>Black: Minior and allies without any of the above colors get +1 to all Stats, Crit Rate, Save Bonus, Evasion, Effect Rate, and Accuracy</li>\n</ul>\n",
+    "description": "<p>The user and allies that share a color with them get a bonus based on said color:</p>\n<ul>\n<li>Red: heal a Tick between rounds</li>\n<li>Orange: +5 ATK, +2 Crit Rate</li>\n<li>Yellow: +5 DEF, +6 Save Bonus</li>\n<li>Green: +5 SDEF, +2 Evasion</li>\n<li>Cyan: heal 1 AP between rounds</li>\n<li>Indigo: +5 SATK, +2 Effect Rate</li>\n<li>Violet: +5 SPE, +4 Accuracy Rate</li>\n<li>Black: Minior and allies without any of the above colors get +1 to all Stats, Crit Rate, Save Bonus, Evasion, Effect Rate, and Accuracy</li>\n</ul>\n",
     "usedBy": [
       "Minior",
       "Minior (Core)"
@@ -811,6 +840,7 @@
       "Kyurem (White)",
       "Litleo",
       "Meowstic (♀)",
+      "Mega Meowstic (♀)",
       "Popplio",
       "Oricorio (Baile)",
       "Boltund",
@@ -830,6 +860,7 @@
     "usedBy": [
       "Butterfree",
       "Venonat",
+      "Magnezone",
       "Mr. Rime",
       "Yanma",
       "Dustox",
@@ -873,6 +904,7 @@
       "Swadloon",
       "Scraggy",
       "Scrafty",
+      "Mega Scrafty",
       "Enamorus",
       "Kyurem",
       "Inkay",
@@ -888,13 +920,15 @@
       "Bellsprout",
       "Weepinbell",
       "Victreebel",
-      "Swalot",
+      "Mega Victreebel",
       "Cradily",
       "Dragalge",
+      "Mega Dragalge",
       "Salandit",
       "Salazzle",
       "Glimmet",
-      "Glimmora"
+      "Glimmora",
+      "Mega Glimmora"
     ]
   },
   {
@@ -926,6 +960,7 @@
       "Paldean Tauros (Aqua Breed)",
       "Farigiraf",
       "Miltank",
+      "Gulpin",
       "Appletun"
     ]
   },
@@ -951,6 +986,7 @@
       "Banette",
       "Mega Banette",
       "Froslass",
+      "Mega Froslass",
       "Uxie",
       "Giratina",
       "Giratina (Origin)",
@@ -1030,6 +1066,7 @@
     "description": "<p>If another character uses a Move with “Dance” in the name, Aqua Step, or Clangorous Soul, immediately use that Move for 0 AP without spending the user’s turn. This can’t go infinite.</p>\n",
     "usedBy": [
       "Bellossom",
+      "Goldeen",
       "Galarian Mr. Mime",
       "Ludicolo",
       "Kirlia",
@@ -1123,8 +1160,11 @@
       "Litten",
       "Torracat",
       "Incineroar",
+      "Lycanroc (Midnight)",
+      "Mudbray",
       "Passimian",
       "Falinks",
+      "Mega Falinks",
       "Ogerpon"
     ]
   },
@@ -1199,7 +1239,10 @@
     "description": "<p>The first time per battle the user becomes Confused, Infatuated, or Flinched, cure it.</p>\n",
     "usedBy": [
       "Machop",
+      "Machoke",
+      "Machamp",
       "Hawlucha",
+      "Mega Hawlucha",
       "Jangmo-o",
       "Hakamo-o",
       "Kommo-o",
@@ -1228,14 +1271,14 @@
   },
   {
     "name": "Dizzying",
-    "description": "<p>Attackers that hit the user with a Move must make a DC8 Save using that attack roll or become Confused.</p>\n",
+    "description": "<p>Attackers that target the user with a Move must make a DC8 Save using that attack roll or become Confused.</p>\n",
     "usedBy": [
       "Spinda"
     ]
   },
   {
     "name": "Download",
-    "description": "<p>When the user enters battle, a random foe reveals if its DEF or SDEF is lower. If DEF, Boost the user’s ATK by +5. If SDEF, Boost the user’s SATK by +5.</p>\n",
+    "description": "<p>When the user enters battle, pick a foe. That foe reveals if its DEF or SDEF is lower. If DEF, Boost the user’s ATK by +5. If SDEF, Boost the user’s SATK by +5.</p>\n",
     "usedBy": [
       "Porygon",
       "Porygon2",
@@ -1243,16 +1286,6 @@
       "Genesect",
       "Silvally",
       "Iron Valiant"
-    ]
-  },
-  {
-    "name": "Dracolize",
-    "description": "<p>The user’s Normal Moves become Dragon-Type and gain +5 damage.</p>\n",
-    "usedBy": [
-      "Yanma",
-      "Yanmega",
-      "Rayquaza",
-      "Mega Rayquaza"
     ]
   },
   {
@@ -1270,6 +1303,17 @@
       "Tyrunt",
       "Necrozma",
       "Iron Jugulis"
+    ]
+  },
+  {
+    "name": "Dragonize",
+    "description": "<p>The user’s Normal Moves become Dragon-Type and gain +5 damage.</p>\n",
+    "usedBy": [
+      "Mega Feraligatr",
+      "Yanma",
+      "Yanmega",
+      "Rayquaza",
+      "Mega Rayquaza"
     ]
   },
   {
@@ -1392,6 +1436,8 @@
       "Pichu",
       "Pikachu",
       "Raichu",
+      "Mega Raichu X",
+      "Mega Raichu Y",
       "Alolan Raichu",
       "Plusle",
       "Minun",
@@ -1410,7 +1456,7 @@
     "name": "Electric Surge",
     "description": "<p>When the user enters battle, create Electric Terrain for 5 rounds. (Characters standing on Electric Terrain are immune to Sleep and damaging Electric Moves get +5 damage.)</p>\n",
     "usedBy": [
-      "Raichu",
+      "Mega Raichu X",
       "Electrike",
       "Manectric",
       "Mega Manectric",
@@ -1458,6 +1504,7 @@
       "Grumpig",
       "Milotic",
       "Chandelure",
+      "Mega Chandelure",
       "Salandit",
       "Salazzle",
       "Pheromosa",
@@ -1474,7 +1521,9 @@
     "usedBy": [
       "Flabébé",
       "Floette",
-      "Florges"
+      "Florges",
+      "Floette (Eternal)",
+      "Mega Floette"
     ]
   },
   {
@@ -1494,6 +1543,7 @@
     "name": "Fairy Aura",
     "description": "<p>While the user is on the field, all damaging Fairy Moves get +5 damage.</p>\n",
     "usedBy": [
+      "Mega Floette",
       "Xerneas"
     ]
   },
@@ -1512,7 +1562,6 @@
       "Huntail",
       "Gorebyss",
       "Registeel",
-      "Avalugg",
       "Revavroom"
     ]
   },
@@ -1534,6 +1583,7 @@
       "Slugma",
       "Magcargo",
       "Heatran",
+      "Mega Heatran",
       "Litwick",
       "Lampent",
       "Chandelure",
@@ -1610,7 +1660,7 @@
   },
   {
     "name": "Flavorite",
-    "description": "<p>Alcremie gets the effect of the Sweet it evolved with, and certain Types can’t flee or switch out from it according to flavor:</p>\n<ul>\n<li>Vanilla (“sweet”): Fairy and Normal</li>\n<li>Ruby (“tart”): Flying and Psychic</li>\n<li>Matcha (“aromatic”): Dragon and Grass</li>\n<li>Mint (“refreshing”): Water and Ice</li>\n<li>Lemon (“sour”): Fighting and Electric</li>\n<li>Salted (“salty”): Fire and Rock</li>\n<li>Ruby Swirl (“mixed”): Bug and Ghost</li>\n<li>Caramel Swirl (“bitter”): Dark and Poison</li>\n<li>Rainbow Swirl (“complex”): Steel and Ground</li>\n</ul>\n",
+    "description": "<p>Alcremie gets an added Ability matching the Sweet it evolved with (Strawberry: Harvest, Berry: Ripen, Love: Hospitality, Star: Costar, Clover: Super Luck, Flower: Flower Gift, Ribbon: Serene Grace), and can learn a Move according to its flavor:</p>\n<ul>\n<li>Vanilla: Natural Gift</li>\n<li>Ruby: Power Gem</li>\n<li>Matcha: Matcha Gotcha</li>\n<li>Mint: Frost Breath</li>\n<li>Lemon: Acid Spray</li>\n<li>Salted: Salt Cure</li>\n<li>Ruby Swirl: Hypnosis</li>\n<li>Caramel Swirl: Bitter Malice</li>\n<li>Rainbow Swirl: Prismatic Laser</li>\n<li>Shiny: Night Daze</li>\n</ul>\n",
     "usedBy": [
       "Alcremie"
     ]
@@ -1624,7 +1674,8 @@
       "Shaymin",
       "Shaymin (Sky)",
       "Glimmet",
-      "Glimmora"
+      "Glimmora",
+      "Mega Glimmora"
     ]
   },
   {
@@ -1633,10 +1684,13 @@
     "description": "<p>Allied Grass-Types in Zone (including the user) can’t have their Stats Dropped by others, and are immune to being Burned, Frozen, Paralyzed, Poisoned or Asleep.</p>\n",
     "usedBy": [
       "Vileplume",
+      "Meganium",
+      "Mega Meganium",
       "Cherrim",
       "Flabébé",
       "Floette",
       "Florges",
+      "Floette (Eternal)",
       "Comfey",
       "Oinkologne (♀)"
     ]
@@ -1690,6 +1744,7 @@
       "Xatu",
       "Absol",
       "Mega Absol",
+      "Mega Absol Z",
       "Munna",
       "Musharna",
       "Gothorita"
@@ -1715,16 +1770,19 @@
       "Mega Gallade",
       "Chingling",
       "Chimecho",
+      "Mega Chimecho",
       "Luvdisc",
       "Alomomola",
       "Patrat",
       "Watchog",
+      "Mega Chesnaught",
       "Scatterbug",
       "Spewpa",
       "Vivillon",
       "Trevenant",
       "Araquanid",
       "Drampa",
+      "Mega Drampa",
       "Yamper",
       "Boltund",
       "Indeedee (♀)",
@@ -1779,6 +1837,7 @@
     "usedBy": [
       "Steelix",
       "Mega Steelix",
+      "Mega Scolipede",
       "Solgaleo",
       "Necrozma (Dusk Mane)",
       "Gholdengo"
@@ -1809,6 +1868,7 @@
       "Spewpa",
       "Furfrou",
       "Crabominable",
+      "Mega Crabominable",
       "Raboot",
       "Dubwool",
       "Pawmi",
@@ -1818,11 +1878,12 @@
   {
     "name": "Gale Wings",
     "bonusStats": "+1 SPE",
-    "description": "<p>The user’s Flying Moves get Priority while the user has full HP.</p>\n",
+    "description": "<p>The user’s Flying Moves get +1 Priority while the user has full HP.</p>\n",
     "usedBy": [
       "Crobat",
       "Galarian Moltres",
       "Dragonite",
+      "Mega Dragonite",
       "Mantyke",
       "Mantine",
       "Tropius",
@@ -1863,12 +1924,12 @@
       "Bellsprout",
       "Weepinbell",
       "Victreebel",
+      "Mega Victreebel",
       "Galarian Slowpoke",
       "Alolan Grimer",
       "Alolan Muk",
       "Munchlax",
       "Snorlax",
-      "Croconaw",
       "Shuckle",
       "Zigzagoon",
       "Linoone",
@@ -1891,7 +1952,6 @@
       "Swirlix",
       "Slurpuff",
       "Yungoos",
-      "Crabrawler",
       "Wimpod",
       "Minior",
       "Minior (Core)",
@@ -1962,6 +2022,7 @@
     "description": "<p>While standing on Grassy Terrain, the user’s DEF gets +10.</p>\n",
     "usedBy": [
       "Grotle",
+      "Wormadam (Plant)",
       "Skiddo",
       "Gogoat",
       "Zarude"
@@ -1985,6 +2046,10 @@
     "name": "Grim Neigh",
     "description": "<p>When the user KOs a target, Boost their SATK by +5.</p>\n",
     "usedBy": [
+      "Ponyta",
+      "Rapidash",
+      "Galarian Ponyta",
+      "Galarian Rapidash",
       "Dialga (Origin)",
       "Spectrier"
     ]
@@ -2003,10 +2068,12 @@
   {
     "name": "Gulf Stream",
     "bonusStats": "+2 SPE",
-    "description": "<p>When the user enters battle, the weather becomes Strong Winds. (Electric, Ice, and Rock Moves get -1 Effectiveness.)</p>\n",
+    "description": "<p>When the user enters battle, the weather becomes Strong Winds. (Electric, Ice, and Rock Moves get -1 Effectiveness against Flying.)</p>\n",
     "usedBy": [
       "Tropius",
-      "Whimsicott"
+      "Whimsicott",
+      "Ducklett",
+      "Swanna"
     ]
   },
   {
@@ -2037,7 +2104,6 @@
       "Swellow",
       "Makuhita",
       "Hariyama",
-      "Zangoose",
       "Shinx",
       "Luxio",
       "Luxray",
@@ -2076,9 +2142,6 @@
       "Bronzor",
       "Bronzong",
       "Simisage",
-      "Vanillite",
-      "Vanillish",
-      "Vanilluxe",
       "Landorus",
       "Landorus (Therian)",
       "Phantump",
@@ -2100,13 +2163,14 @@
       "Banette",
       "Mega Banette",
       "Hisuian Zorua",
+      "Mega Chandelure",
       "Impidimp",
       "Chien-Pao"
     ]
   },
   {
     "name": "Healer",
-    "description": "<p>Between rounds, before damage from Status Problems, count each Ally in Zone with the user. For each, roll d20. On 14+, cure that ally’s Status Problems.</p>\n",
+    "description": "<p>Between rounds, before damage from Status Problems, count each Ally in Zone with the user. For each, roll d20. On 10+, cure that ally’s Status Problems.</p>\n",
     "usedBy": [
       "Bellossom",
       "Chansey",
@@ -2137,10 +2201,12 @@
       "Camerupt",
       "Mega Camerupt",
       "Heatran",
+      "Mega Heatran",
       "Fuecoco",
       "Frigibax",
       "Arctibax",
-      "Baxcalibur"
+      "Baxcalibur",
+      "Mega Baxcalibur"
     ]
   },
   {
@@ -2168,7 +2234,7 @@
       "Bronzong",
       "Dialga",
       "Emboar",
-      "Excadrill",
+      "Mega Emboar",
       "Ferrothorn",
       "Type: Null",
       "Dhelmise",
@@ -2217,6 +2283,7 @@
       "Remoraid",
       "Litleo",
       "Pyroar",
+      "Mega Pyroar",
       "Sizzlipede",
       "Centiskorch"
     ]
@@ -2227,6 +2294,7 @@
     "usedBy": [
       "Nidoran♀",
       "Nidoran♂",
+      "Mega Starmie",
       "Azurill",
       "Marill",
       "Azumarill",
@@ -2249,7 +2317,8 @@
   },
   {
     "name": "Hustle",
-    "description": "<p>The user’s enthusiasm makes their Physical Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n",
+    "bonusStats": "+2 SPE",
+    "description": "<p>The user’s enthusiasm makes their Physical Moves raise their Accuracy Check by +4, but get +10 damage.</p>\n",
     "usedBy": [
       "Rattata",
       "Raticate",
@@ -2259,6 +2328,7 @@
       "Nidorina",
       "Nidoran♂",
       "Nidorino",
+      "Machop",
       "Kingler",
       "Togepi",
       "Togetic",
@@ -2289,8 +2359,6 @@
       "Dracovish",
       "Kubfu",
       "Squawkabilly",
-      "Varoom",
-      "Revavroom",
       "Cetoddle"
     ]
   },
@@ -2392,7 +2460,8 @@
       "Cetitan",
       "Frigibax",
       "Arctibax",
-      "Baxcalibur"
+      "Baxcalibur",
+      "Mega Baxcalibur"
     ]
   },
   {
@@ -2409,7 +2478,6 @@
     "usedBy": [
       "Amaura",
       "Aurorus",
-      "Hisuian Avalugg",
       "Snom",
       "Frosmoth"
     ]
@@ -2446,7 +2514,7 @@
   },
   {
     "name": "Illusion",
-    "description": "<p>When the user enters battle, they resemble a Pokémon in their party. Damaging Moves destroy the illusion.</p>\n",
+    "description": "<p>When the user enters battle, they resemble a Pokémon in their party. Damaging Moves destroy the illusion after they hit the user.</p>\n",
     "usedBy": [
       "Ditto",
       "Zorua",
@@ -2462,7 +2530,6 @@
       "Paldean Tauros (Blaze Breed)",
       "Flareon",
       "Sunflora",
-      "Skuntank",
       "Rotom (Heat)",
       "Darumaka",
       "Talonflame",
@@ -2527,14 +2594,17 @@
       "Litwick",
       "Lampent",
       "Chandelure",
+      "Mega Chandelure",
       "Froakie",
       "Frogadier",
       "Greninja",
+      "Mega Greninja",
       "Espurr",
       "Meowstic (♂)",
       "Meowstic (♀)",
       "Inkay",
       "Malamar",
+      "Mega Malamar",
       "Noibat",
       "Noivern",
       "Hoopa",
@@ -2553,6 +2623,7 @@
     "description": "<p>When a damaging Move KOs the user, the attacker loses HP equal to what the user had left.</p>\n",
     "usedBy": [
       "Metapod",
+      "Mega Victreebel",
       "Clodsire",
       "Drifloon",
       "Drifblim",
@@ -2647,6 +2718,7 @@
   },
   {
     "name": "Insomnia",
+    "bonusStats": "+3 SDEF",
     "description": "<p>If the user falls Asleep, cure them. The user can’t use Rest.</p>\n",
     "usedBy": [
       "Parasect",
@@ -2715,6 +2787,7 @@
       "Krookodile",
       "Scraggy",
       "Scrafty",
+      "Mega Scrafty",
       "Landorus (Therian)",
       "Hoopa (Unbound)",
       "Litten",
@@ -2722,7 +2795,7 @@
       "Incineroar",
       "Bruxish",
       "Squawkabilly",
-      "Masschiff",
+      "Maschiff",
       "Mabosstiff"
     ]
   },
@@ -2746,6 +2819,7 @@
       "Hisuian Qwilfish",
       "Overqwil",
       "Skarmory",
+      "Mega Skarmory",
       "Dialga",
       "Dialga (Origin)",
       "Ferroseed",
@@ -2785,6 +2859,7 @@
       "Pangoro",
       "Crabrawler",
       "Crabominable",
+      "Mega Crabominable",
       "Hakamo-o",
       "Marshadow",
       "Melmetal",
@@ -2807,14 +2882,17 @@
       "Mega Gallade",
       "Absol",
       "Mega Absol",
+      "Mega Absol Z",
       "Lucario",
       "Mega Lucario",
+      "Mega Lucario Z",
       "Cobalion",
       "Terrakion",
       "Virizion",
       "Keldeo",
       "Keldeo (Resolute)",
-      "Golisopod"
+      "Golisopod",
+      "Mega Golisopod"
     ]
   },
   {
@@ -2881,8 +2959,6 @@
       "Ducklett",
       "Golett",
       "Golurk",
-      "Mudbray",
-      "Mudsdale",
       "Stufful",
       "Bewear",
       "Toxel",
@@ -2902,6 +2978,7 @@
       "Chikorita",
       "Bayleef",
       "Meganium",
+      "Mega Meganium",
       "Hoppip",
       "Skiploom",
       "Jumpluff",
@@ -2956,8 +3033,7 @@
       "Duskull",
       "Chingling",
       "Chimecho",
-      "Glalie",
-      "Mega Glalie",
+      "Mega Chimecho",
       "Beldum",
       "Metang",
       "Latias",
@@ -2974,12 +3050,14 @@
       "Rotom (Frost)",
       "Rotom (Fan)",
       "Rotom (Mow)",
+      "Rotom (Stereo)",
       "Uxie",
       "Mesprit",
       "Azelf",
       "Giratina (Origin)",
       "Cresselia",
       "Darkrai",
+      "Mega Darkrai",
       "Munna",
       "Musharna",
       "Yamask",
@@ -2988,6 +3066,7 @@
       "Eelektross",
       "Cryogonal",
       "Hydreigon",
+      "Mega Delphox",
       "Spritzee",
       "Swirlix",
       "Carbink",
@@ -3044,6 +3123,7 @@
       "Tynamo",
       "Eelektrik",
       "Eelektross",
+      "Mega Eelektross",
       "Lampent",
       "Honedge",
       "Doublade",
@@ -3063,6 +3143,7 @@
       "Scizor",
       "Mega Scizor",
       "Skarmory",
+      "Mega Skarmory",
       "Beldum",
       "Metang",
       "Metagross",
@@ -3082,6 +3163,8 @@
       "Pichu",
       "Pikachu",
       "Raichu",
+      "Mega Raichu X",
+      "Mega Raichu Y",
       "Magnemite",
       "Cubone",
       "Marowak",
@@ -3224,6 +3307,7 @@
       "Groudon",
       "Primal Groudon",
       "Golurk",
+      "Mega Golurk",
       "Wishiwashi (School)",
       "Necrozma (Ultra)",
       "Celesteela",
@@ -3238,7 +3322,8 @@
   },
   {
     "name": "Loose Cannon",
-    "description": "<p>The user’s Special Moves raise their Accuracy Check by +4 and get +10 damage.</p>\n",
+    "bonusStats": "+2 SPE",
+    "description": "<p>The user’s Special Moves raise their Accuracy Check by +4, but get +10 damage.</p>\n",
     "usedBy": [
       "Galarian Slowbro",
       "Voltorb",
@@ -3247,7 +3332,8 @@
       "Magmortar",
       "Espurr",
       "Dragapult",
-      "Baxcalibur"
+      "Baxcalibur",
+      "Mega Baxcalibur"
     ]
   },
   {
@@ -3258,19 +3344,22 @@
       "Cleffa",
       "Clefairy",
       "Clefable",
+      "Mega Clefable",
       "Grimer",
       "Umbreon",
       "Hoothoot",
       "Noctowl",
       "Ledian",
       "Ursaluna",
-      "Ursaluna (Blood Moon)",
+      "Ursaluna (Bloodmoon)",
       "Volbeat",
       "Illumise",
       "Lunatone",
       "Cresselia",
       "Darkrai",
+      "Mega Darkrai",
       "Gothitelle",
+      "Avalugg",
       "Lunala",
       "Celesteela",
       "Stonjourner"
@@ -3280,8 +3369,8 @@
     "name": "Magic Bounce",
     "description": "<p>The user redirects Status Moves and Moves that create Hazards back to the attacker. </p>\n",
     "usedBy": [
+      "Mega Clefable",
       "Espeon",
-      "Mew",
       "Natu",
       "Xatu",
       "Mismagius",
@@ -3289,6 +3378,7 @@
       "Spoink",
       "Chingling",
       "Chimecho",
+      "Mega Chimecho",
       "Mega Absol",
       "Shieldon",
       "Cryogonal",
@@ -3320,6 +3410,7 @@
       "Fennekin",
       "Braixen",
       "Delphox",
+      "Mega Delphox",
       "Zamazenta",
       "Zamazenta (Crowned Shield)"
     ]
@@ -3333,7 +3424,9 @@
       "Fennekin",
       "Braixen",
       "Delphox",
+      "Mega Delphox",
       "Meowstic (♀)",
+      "Mega Meowstic (♀)",
       "Klefki",
       "Hoopa",
       "Hoopa (Unbound)",
@@ -3383,7 +3476,8 @@
     "description": "<p>The user’s damaging Fighting Moves get +10 damage when at 3 Ticks or less of HP.</p>\n",
     "usedBy": [
       "Lucario",
-      "Mega Lucario"
+      "Mega Lucario",
+      "Mega Lucario Z"
     ]
   },
   {
@@ -3397,6 +3491,13 @@
       "Mega Audino",
       "Clauncher",
       "Clawitzer"
+    ]
+  },
+  {
+    "name": "Mega Sol",
+    "description": "<p>The user’s Moves behave as if the user was in Harsh Sunlight.</p>\n",
+    "usedBy": [
+      "Mega Meganium"
     ]
   },
   {
@@ -3450,7 +3551,7 @@
     "name": "Mind's Eye",
     "description": "<p>The user ignores changes to foes’ Evasion, their Accuracy can’t be Dropped, and they can hit Ghost-Types with Normal- or Fighting-Type moves.</p>\n",
     "usedBy": [
-      "Ursaluna (Blood Moon)"
+      "Ursaluna (Bloodmoon)"
     ]
   },
   {
@@ -3465,7 +3566,8 @@
       "Klink",
       "Klang",
       "Klinklang",
-      "Magearna"
+      "Magearna",
+      "Mega Magearna"
     ]
   },
   {
@@ -3499,8 +3601,10 @@
       "Overqwil",
       "Cranidos",
       "Rampardos",
+      "Mega Emboar",
       "Drilbur",
       "Excadrill",
+      "Mega Excadrill",
       "Throh",
       "Sawk",
       "Basculin",
@@ -3514,6 +3618,7 @@
       "Pancham",
       "Pangoro",
       "Hawlucha",
+      "Mega Hawlucha",
       "Zacian (Crowned Sword)",
       "Tinkatink",
       "Tinkatuff",
@@ -3528,13 +3633,17 @@
     "usedBy": [
       "Hitmontop",
       "Rhyhorn",
+      "Typhlosion",
       "Phanpy",
       "Donphan",
       "Miltank",
       "Loudred",
       "Wailmer",
+      "Excadrill",
+      "Mega Excadrill",
       "Tympole",
       "Scolipede",
+      "Mega Scolipede",
       "Axew",
       "Golett",
       "Meloetta",
@@ -3546,6 +3655,8 @@
       "Kubfu",
       "Brambleghast",
       "Rellor",
+      "Varoom",
+      "Revavroom",
       "Iron Treads",
       "Cyclizar",
       "Koraidon",
@@ -3557,6 +3668,7 @@
     "description": "<p>Between Rounds, roll d20 to pick a Stat to Boost by +10, then again for a Stat to Drop by -5.<br>≥4: ATK<br>5–8: DEF<br>9–12: SATK<br>13–16: SDEF<br>17+: SPE</p>\n",
     "usedBy": [
       "Clefable",
+      "Mega Clefable",
       "Galarian Slowpoke",
       "Dodrio",
       "Jolteon",
@@ -3575,7 +3687,8 @@
       "Fennekin",
       "Morpeko",
       "Grafaiai",
-      "Scovillain"
+      "Scovillain",
+      "Mega Scovillain"
     ]
   },
   {
@@ -3590,6 +3703,7 @@
       "Rotom (Frost)",
       "Rotom (Fan)",
       "Rotom (Mow)",
+      "Rotom (Stereo)",
       "Blitzle",
       "Zebstrika",
       "Emolga",
@@ -3600,6 +3714,7 @@
       "Tapu Koko",
       "Xurkitree",
       "Magearna",
+      "Mega Magearna",
       "Meltan",
       "Boltund",
       "Miraidon"
@@ -3629,6 +3744,7 @@
       "Scrafty",
       "Litleo",
       "Pyroar",
+      "Mega Pyroar",
       "Tyrunt",
       "Tyrantrum",
       "Quaxly",
@@ -3668,17 +3784,21 @@
       "Doublade",
       "Binacle",
       "Barbaracle",
+      "Mega Barbaracle",
       "Zygarde",
       "Zygarde (10%)",
       "Zygarde (Complete)",
+      "Mega Zygarde",
       "Stakataka",
       "Melmetal",
       "Dipplin",
       "Hydrapple",
       "Falinks",
+      "Mega Falinks",
       "Tandemaus",
       "Maushold",
       "Scovillain",
+      "Mega Scovillain",
       "Wugtrio",
       "Sandy Shocks",
       "Iron Jugulis"
@@ -3692,6 +3812,7 @@
       "Gyarados",
       "Mega Gyarados",
       "Dragonite",
+      "Mega Dragonite",
       "Lugia",
       "Feebas",
       "Milotic",
@@ -3727,7 +3848,7 @@
   {
     "name": "Mycelium Might",
     "bonusStats": "+2 ATK, +2 SATK",
-    "description": "<p>The user’s Status Moves Always Go Last, but ignores others’ Abilities during the user’s turn.</p>\n",
+    "description": "<p>The user’s Status Moves Always Go Last within their Priority, but ignore others’ Abilities during the user’s turn.</p>\n",
     "usedBy": [
       "Toedscool",
       "Toedscruel"
@@ -3745,9 +3866,11 @@
       "Dratini",
       "Dragonair",
       "Dragonite",
+      "Mega Dragonite",
       "Chikorita",
       "Bayleef",
       "Meganium",
+      "Mega Meganium",
       "Corsola",
       "Celebi",
       "Budew",
@@ -3762,6 +3885,7 @@
       "Comfey",
       "Wimpod",
       "Golisopod",
+      "Mega Golisopod",
       "Gossifleur",
       "Pawmi",
       "Pawmo",
@@ -3799,6 +3923,7 @@
     "description": "<p>The user’s Moves can’t miss, and Moves can’t miss hitting the user.</p>\n",
     "usedBy": [
       "Mega Pidgeot",
+      "Mega Raichu Y",
       "Machop",
       "Machoke",
       "Machamp",
@@ -3810,16 +3935,22 @@
       "Mega Pinsir",
       "Deoxys (Attack)",
       "Staraptor",
+      "Mega Staraptor",
       "Rampardos",
       "Hisuian Lilligant",
       "Karrablast",
       "Haxorus",
       "Golett",
       "Golurk",
+      "Mega Golurk",
+      "Zweilous",
+      "Mega Greninja",
       "Pancham",
       "Pangoro",
       "Honedge",
       "Doublade",
+      "Mega Hawlucha",
+      "Crabrawler",
       "Lycanroc (Midnight)",
       "Lycanroc (Dusk)",
       "Barraskewda",
@@ -3888,6 +4019,7 @@
     "name": "Opportunist",
     "description": "<p>If an opponent Boosts their Stats, the user seizes the opportunity to copy those Boosts.</p>\n",
     "usedBy": [
+      "Ditto",
       "Espathra"
     ]
   },
@@ -4090,7 +4222,6 @@
     "name": "Petrificate",
     "description": "<p>The user’s Normal Moves become Rock-Type and get +5 damage.</p>\n",
     "usedBy": [
-      "Typhlosion",
       "Magcargo",
       "Lileep",
       "Cradily",
@@ -4120,6 +4251,7 @@
       "Karrablast",
       "Binacle",
       "Barbaracle",
+      "Mega Barbaracle",
       "Cramorant",
       "Impidimp",
       "Morgrem",
@@ -4165,11 +4297,20 @@
     ]
   },
   {
+    "name": "Piercing Drill",
+    "bonusStats": "+1 ATK",
+    "description": "<p>The user’s Contact Moves can hit through Protection, dealing ¼ the damage they normally would.</p>\n",
+    "usedBy": [
+      "Dunsparce",
+      "Dudunsparce",
+      "Mega Excadrill"
+    ]
+  },
+  {
     "name": "Pixilate",
     "description": "<p>The user’s Normal Moves become Fairy-Type and get +5 damage.</p>\n",
     "usedBy": [
       "Sylveon",
-      "Meganium",
       "Snubbull",
       "Granbull",
       "Mega Gardevoir",
@@ -4303,6 +4444,7 @@
       "Rotom",
       "Golett",
       "Golurk",
+      "Mega Golurk",
       "Polteageist"
     ]
   },
@@ -4324,7 +4466,6 @@
       "Treecko",
       "Budew",
       "Shelmet",
-      "Foongus",
       "Amoonguss",
       "Phantump",
       "Trevenant",
@@ -4356,7 +4497,7 @@
   },
   {
     "name": "Prankster",
-    "description": "<p>The user’s Status Moves get Priority, but Dark-Types are now immune to them. Prankster doesn’t change Delayed Moves.</p>\n",
+    "description": "<p>The user’s Status Moves get +1 Priority, but Dark-Types are now immune to them.</p>\n",
     "usedBy": [
       "Clefairy",
       "Hoppip",
@@ -4383,6 +4524,7 @@
       "Thundurus",
       "Pancham",
       "Meowstic (♂)",
+      "Mega Meowstic (♂)",
       "Klefki",
       "Hoopa",
       "Impidimp",
@@ -4391,12 +4533,13 @@
       "Shroodle",
       "Grafaiai",
       "Capsakid",
-      "Scovillain"
+      "Scovillain",
+      "Mega Scovillain"
     ]
   },
   {
     "name": "Prelude",
-    "description": "<p>The user’s Sonic Moves get Priority.</p>\n",
+    "description": "<p>The user’s Sonic Moves get +1 Priority.</p>\n",
     "usedBy": [
       "Igglybuff",
       "Jigglypuff",
@@ -4481,6 +4624,7 @@
     "description": "<p>The user subtracts their Level from damage from incoming Super-Effective Moves.</p>\n",
     "usedBy": [
       "Starmie",
+      "Mega Starmie",
       "Glaceon",
       "Ho-Oh",
       "Regice",
@@ -4499,8 +4643,6 @@
     "bonusStats": "+2 ATK, +2 SPE",
     "description": "<p>The user’s Moves cannot be redirected from their chosen target. (Including Ally Switch.)</p>\n",
     "usedBy": [
-      "Dunsparce",
-      "Dudunsparce",
       "Buizel",
       "Floatzel",
       "Arrokuda",
@@ -4519,6 +4661,7 @@
       "Froakie",
       "Frogadier",
       "Greninja",
+      "Mega Greninja",
       "Sprigatito",
       "Floragato",
       "Meowscarada"
@@ -4550,7 +4693,7 @@
   },
   {
     "name": "Psychic Surge",
-    "description": "<p>When the user enters battle, create Psychic Terrain for 5 turns. (Characters standing on Psychic Terrain are immune to Priority and damaging Psychic Moves get +5 damage.)</p>\n",
+    "description": "<p>When the user enters battle, create Psychic Terrain for 5 turns. (Characters standing on Psychic Terrain are immune to Priority Moves and incoming damaging Psychic Moves get +5 damage.)</p>\n",
     "usedBy": [
       "Kadabra",
       "Stantler",
@@ -4578,6 +4721,7 @@
       "Exploud",
       "Kricketune",
       "Chatot",
+      "Rotom (Stereo)",
       "Roggenrola",
       "Tympole",
       "Palpitoad",
@@ -4640,7 +4784,7 @@
   },
   {
     "name": "Quick Draw",
-    "description": "<p>On attack rolls of 15+, the user goes first. Moves with higher Priority still go first.</p>\n",
+    "description": "<p>On attack rolls of 15+, the user goes first. Moves with higher Priority still happen beforehand.</p>\n",
     "usedBy": [
       "Galarian Slowbro",
       "Mantine"
@@ -4669,6 +4813,7 @@
       "Venipede",
       "Whirlipede",
       "Scolipede",
+      "Mega Scolipede",
       "Komala",
       "Nickit",
       "Thievul",
@@ -4760,9 +4905,12 @@
       "Starly",
       "Staravia",
       "Staraptor",
+      "Mega Staraptor",
       "Cranidos",
       "Rampardos",
       "Emboar",
+      "Mega Emboar",
+      "Zebstrika",
       "Mienfoo",
       "Mienshao",
       "Bouffalant",
@@ -4820,15 +4968,14 @@
       "Tangrowth",
       "Staryu",
       "Starmie",
+      "Mega Starmie",
       "Vaporeon",
       "Corsola",
       "Ho-Oh",
       "Swablu",
-      "Zangoose",
       "Luvdisc",
       "Alomomola",
       "Deoxys",
-      "Wormadam (Plant)",
       "Audino",
       "Solosis",
       "Duosion",
@@ -4937,7 +5084,6 @@
       "Alolan Marowak",
       "Rhyhorn",
       "Rhydon",
-      "Rhyperior",
       "Aerodactyl",
       "Bonsly",
       "Sudowoodo",
@@ -4961,7 +5107,11 @@
     "name": "Rocky Payload",
     "description": "<p>The user gets STAB for Rock Moves and can benefit from Rock Expert features.</p>\n",
     "usedBy": [
+      "Glalie",
+      "Mega Glalie",
       "Regirock",
+      "Dwebble",
+      "Crustle",
       "Carkol",
       "Bombirdier"
     ]
@@ -4983,10 +5133,12 @@
       "Gabite",
       "Garchomp",
       "Mega Garchomp",
+      "Mega Garchomp Z",
       "Druddigon",
       "Chespin",
       "Quilladin",
       "Chesnaught",
+      "Mega Chesnaught",
       "Turtonator"
     ]
   },
@@ -4994,6 +5146,7 @@
     "name": "Rowdy",
     "description": "<p>The user’s Allies in Zone get +5 damage for their Physical Moves.</p>\n",
     "usedBy": [
+      "Croconaw",
       "Vigoroth",
       "Plusle",
       "Scraggy"
@@ -5046,7 +5199,7 @@
       "Wooloo",
       "Nymble",
       "Tandemaus",
-      "Masschiff",
+      "Maschiff",
       "Gimmighoul (Roaming)",
       "Ting-Lu",
       "Ogerpon"
@@ -5095,6 +5248,7 @@
       "Gabite",
       "Garchomp",
       "Mega Garchomp",
+      "Mega Garchomp Z",
       "Herdier",
       "Stoutland",
       "Drilbur",
@@ -5204,7 +5358,6 @@
       "Goodra",
       "Hisuian Sliggoo",
       "Hisuian Goodra",
-      "Mudbray",
       "Komala",
       "Drampa",
       "Tapu Bulu",
@@ -5317,10 +5470,12 @@
       "Meloetta",
       "Meloetta (Pirouette)",
       "Delphox",
+      "Mega Delphox",
       "Popplio",
       "Brionne",
       "Primarina",
       "Drampa",
+      "Mega Drampa",
       "Spectrier",
       "Rabsca"
     ]
@@ -5334,6 +5489,7 @@
       "Sableye",
       "Mega Sableye",
       "Darkrai",
+      "Mega Darkrai",
       "Lunala",
       "Necrozma (Dawn Wings)",
       "Spectrier"
@@ -5352,12 +5508,13 @@
       "Gothitelle",
       "Litwick",
       "Lampent",
-      "Chandelure"
+      "Chandelure",
+      "Mega Chandelure"
     ]
   },
   {
     "name": "Sharpness",
-    "description": "<p>Moves with with “sword”, “razor”, “blade”, “slash”, “cutter”, or “cleave” in the name, Aerial Ace, Cut, Dual Chop, X-Scissor, Cross Poison, Stone Axe, Ceaseless Edge, and Population Bomb get +7 damage.</p>\n",
+    "description": "<p>Moves with with “sword”, “razor”, “blade”, “slash”, “cutter”, “claw”, or “cleave” in the name, Aerial Ace, Cut, Dual Chop, X-Scissor, Cross Poison, Stone Axe, Ceaseless Edge, and Population Bomb get +7 damage.</p>\n",
     "usedBy": [
       "Galarian Rapidash",
       "Farfetch'd",
@@ -5372,6 +5529,8 @@
       "Sceptile",
       "Mega Sceptile",
       "Gallade",
+      "Zangoose",
+      "Mega Garchomp Z",
       "Hisuian Samurott",
       "Leavanny",
       "Axew",
@@ -5434,9 +5593,11 @@
       "Paldean Tauros",
       "Paldean Tauros (Blaze Breed)",
       "Paldean Tauros (Aqua Breed)",
+      "Mega Dragonite",
       "Totodile",
       "Croconaw",
       "Feraligatr",
+      "Mega Feraligatr",
       "Ambipom",
       "Mamoswine",
       "Mudkip",
@@ -5467,9 +5628,10 @@
       "Terrakion",
       "Landorus",
       "Chesnaught",
-      "Clawitzer",
+      "Mega Chesnaught",
       "Hisuian Avalugg",
       "Zygarde (Complete)",
+      "Mega Zygarde",
       "Toucannon",
       "Drednaw",
       "Cufant",
@@ -5575,7 +5737,6 @@
       "Slowpoke",
       "Lickilicky",
       "Magikarp",
-      "Ditto",
       "Quagsire",
       "Dunsparce",
       "Swinub",
@@ -5624,6 +5785,7 @@
     "usedBy": [
       "Alolan Sandshrew",
       "Alolan Sandslash",
+      "Dewgong",
       "Glaceon",
       "Shinx",
       "Luxio",
@@ -5633,6 +5795,7 @@
       "Cubchoo",
       "Beartic",
       "Crabominable",
+      "Mega Crabominable",
       "Arctozolt",
       "Arctovish",
       "Cetitan",
@@ -5661,8 +5824,6 @@
       "Seviper",
       "Skorupi",
       "Drapion",
-      "Drilbur",
-      "Excadrill",
       "Throh",
       "Frogadier",
       "Binacle",
@@ -5686,7 +5847,6 @@
       "Alolan Sandslash",
       "Alolan Vulpix",
       "Alolan Ninetales",
-      "Dewgong",
       "Glaceon",
       "Articuno",
       "Swinub",
@@ -5710,10 +5870,10 @@
       "Alolan Vulpix",
       "Alolan Ninetales",
       "Articuno",
+      "Mega Froslass",
       "Snover",
       "Abomasnow",
       "Mega Abomasnow",
-      "Vanillish",
       "Vanilluxe",
       "Amaura",
       "Aurorus"
@@ -5743,6 +5903,9 @@
       "Cherrim",
       "Finneon",
       "Gigalith",
+      "Vanillite",
+      "Vanillish",
+      "Vanilluxe",
       "Helioptile",
       "Heliolisk",
       "Cutiefly",
@@ -5771,8 +5934,6 @@
       "Roggenrola",
       "Boldore",
       "Gigalith",
-      "Dwebble",
-      "Crustle",
       "Tirtouga",
       "Carracosta",
       "Druddigon",
@@ -5786,6 +5947,7 @@
     "description": "<p>When a Pokémon on the field faints, Boost the user’s SATK by +5.</p>\n",
     "usedBy": [
       "Chimecho",
+      "Mega Chimecho",
       "Magearna",
       "Palafin"
     ]
@@ -5844,7 +6006,6 @@
       "Combusken",
       "Blaziken",
       "Mega Blaziken",
-      "Mega Blaziken",
       "Ninjask",
       "Carvanha",
       "Sharpedo",
@@ -5856,6 +6017,7 @@
       "Venipede",
       "Whirlipede",
       "Scolipede",
+      "Mega Scolipede",
       "Fletchinder",
       "Vikavolt",
       "Flittle",
@@ -5863,8 +6025,15 @@
     ]
   },
   {
+    "name": "Spicy Spray",
+    "description": "<p>If the user is damaged by a Move, they Burn the attacker.</p>\n",
+    "usedBy": [
+      "Mega Scovillain"
+    ]
+  },
+  {
     "name": "Stakeout",
-    "description": "<p>The user’s Moves that target foes that switched in this round get +1 Effectiveness. (Includes switch-ins replacing KOs.) </p>\n",
+    "description": "<p>The user’s Moves get +1 Effectiveness against switched in this round. (Includes switch-ins replacing KOs.) </p>\n",
     "usedBy": [
       "Meowth",
       "Persian",
@@ -5873,6 +6042,7 @@
       "Galarian Meowth",
       "Perrserker",
       "Victreebel",
+      "Mega Victreebel",
       "Pineco",
       "Forretress",
       "Trapinch",
@@ -5893,14 +6063,14 @@
       "Thievul",
       "Tarountula",
       "Spidops",
-      "Masschiff",
+      "Maschiff",
       "Mabosstiff"
     ]
   },
   {
     "name": "Stall",
-    "bonusStats": "+4 DEF, +4 SDEF",
-    "description": "<p>The user’s turn happens after other characters without Stall.</p>\n",
+    "bonusStats": "+6 DEF, +6 SDEF",
+    "description": "<p>The user’s Moves happen after other characters’ within the same Priority.</p>\n",
     "usedBy": [
       "Sableye",
       "Enamorus (Therian)"
@@ -5911,6 +6081,7 @@
     "bonusStats": "+2 DEF, +2 SDEF",
     "description": "<p>The user’s Moves cannot be redirected from their chosen target. (Including Ally Switch.)</p>\n",
     "usedBy": [
+      "Mega Skarmory",
       "Linoone",
       "Duraludon",
       "Archaludon"
@@ -5920,14 +6091,11 @@
     "name": "Stamina",
     "description": "<p>When a Move damages the user, Boost its DEF by +5.</p>\n",
     "usedBy": [
-      "Ponyta",
-      "Rapidash",
-      "Galarian Ponyta",
-      "Galarian Rapidash",
       "Galarian Zapdos",
       "Tepig",
       "Pignite",
       "Emboar",
+      "Mega Emboar",
       "Blitzle",
       "Zebstrika",
       "Timburr",
@@ -5973,6 +6141,7 @@
       "Starly",
       "Bruxish",
       "Zeraora",
+      "Mega Zeraora",
       "Flutter Mane"
     ]
   },
@@ -5999,6 +6168,7 @@
       "Emolga",
       "Stunfisk",
       "Zeraora",
+      "Mega Zeraora",
       "Toxel",
       "Dracozolt",
       "Arctozolt",
@@ -6137,15 +6307,16 @@
       "Nacli",
       "Naclstack",
       "Garganacl",
-      "Tatsugiri"
+      "Tatsugiri",
+      "Mega Tatsugiri"
     ]
   },
   {
     "name": "Strategist",
     "description": "<p>The user’s Status Moves cost 2 less AP.</p>\n",
     "usedBy": [
-      "Amoonguss",
       "Meowstic (♂)",
+      "Mega Meowstic (♂)",
       "Pyukumuku",
       "Corvisquire",
       "Blipbug",
@@ -6154,6 +6325,7 @@
       "Spidops",
       "Arboliva",
       "Tatsugiri",
+      "Mega Tatsugiri",
       "Pecharunt"
     ]
   },
@@ -6171,6 +6343,7 @@
       "Totodile",
       "Croconaw",
       "Feraligatr",
+      "Mega Feraligatr",
       "Granbull",
       "Poochyena",
       "Mightyena",
@@ -6186,13 +6359,13 @@
       "Bibarel",
       "Garchomp",
       "Mega Garchomp",
+      "Mega Garchomp Z",
       "Hippopotas",
       "Hippowdon",
       "Carnivine",
       "Sandile",
       "Krokorok",
       "Krookodile",
-      "Zweilous",
       "Tyrunt",
       "Tyrantrum",
       "Hisuian Avalugg",
@@ -6209,7 +6382,6 @@
       "Barraskewda",
       "Dracovish",
       "Arctovish",
-      "Masschiff",
       "Shroodle",
       "Chien-Pao"
     ]
@@ -6275,7 +6447,6 @@
       "Diancie",
       "Mega Diancie",
       "Steenee",
-      "Turtonator",
       "Togedemaru",
       "Cosmoem",
       "Stakataka",
@@ -6344,6 +6515,7 @@
       "Absol",
       "Absol",
       "Mega Absol",
+      "Mega Absol Z",
       "Pidove",
       "Tranquill",
       "Unfezant",
@@ -6355,6 +6527,7 @@
     "name": "Supersweet Syrup",
     "description": "<p>The first time the user enters battle, their sickly-sweet scent Drops all in-Zone foes’ Evasion by -1.</p>\n",
     "usedBy": [
+      "Weepinbell",
       "Surskit",
       "Dipplin",
       "Hydrapple"
@@ -6423,7 +6596,7 @@
     "description": "<p>The user and Allies in Zone are immune to Sleep.</p>\n",
     "usedBy": [
       "Oddish",
-      "Bayleef",
+      "Chikorita",
       "Swirlix",
       "Slurpuff",
       "Cutiefly",
@@ -6521,6 +6694,8 @@
       "Flabébé",
       "Floette",
       "Florges",
+      "Floette (Eternal)",
+      "Mega Floette",
       "Oranguru"
     ]
   },
@@ -6543,6 +6718,7 @@
       "Kirlia",
       "Gardevoir",
       "Froslass",
+      "Mega Froslass",
       "Mesprit",
       "Manaphy",
       "Munna",
@@ -6566,8 +6742,6 @@
     "name": "Tail Bond",
     "description": "<p>The user’s single-target Moves that only hit once now hit twice, but the second hit gets -2 Effectiveness.</p>\n",
     "usedBy": [
-      "Slowbro",
-      "Mega Slowbro",
       "Girafarig",
       "Cherubi"
     ]
@@ -6601,6 +6775,7 @@
       "Tangela",
       "Tangrowth",
       "Malamar",
+      "Mega Malamar",
       "Grimmsnarl",
       "Flutter Mane"
     ]
@@ -6665,8 +6840,6 @@
       "Sawk",
       "Minccino",
       "Cinccino",
-      "Ducklett",
-      "Swanna",
       "Accelgor",
       "Klink",
       "Virizion",
@@ -6709,6 +6882,7 @@
       "Riolu",
       "Lucario",
       "Mega Lucario",
+      "Mega Lucario Z",
       "Uxie",
       "Mesprit",
       "Azelf",
@@ -6748,10 +6922,12 @@
   },
   {
     "name": "Tenacious",
-    "bonusStats": "+2 DEF",
+    "bonusStats": "+4 DEF, +4 SDEF",
     "description": "<p>If a damaging Move would KO the user, they roll a DC 19 Save. On success, they endure with 1 HP instead.</p>\n",
     "usedBy": [
       "Tyrogue",
+      "Feraligatr",
+      "Mega Feraligatr",
       "Galarian Zigzagoon",
       "Yungoos",
       "Gumshoos",
@@ -6759,7 +6935,7 @@
       "Lycanroc (Midday)",
       "Lycanroc (Midnight)",
       "Lycanroc (Dusk)",
-      "Masschiff",
+      "Maschiff",
       "Mabosstiff"
     ]
   },
@@ -6803,7 +6979,9 @@
       "Pupitar",
       "Tyranitar",
       "Mega Tyranitar",
+      "Drilbur",
       "Bunnelby",
+      "Hisuian Avalugg",
       "Zygarde"
     ]
   },
@@ -6897,11 +7075,13 @@
       "Genesect",
       "Skrelp",
       "Dragalge",
+      "Mega Dragalge",
       "Lurantis",
       "Necrozma",
       "Necrozma (Dusk Mane)",
       "Necrozma (Dawn Wings)",
       "Magearna",
+      "Mega Magearna",
       "Rookidee",
       "Corvisquire",
       "Corviknight",
@@ -6974,7 +7154,10 @@
       "Mega Sableye",
       "Mega Metagross",
       "Drilbur",
+      "Excadrill",
+      "Mega Excadrill",
       "Eelektross",
+      "Mega Eelektross",
       "Beartic",
       "Landorus (Therian)",
       "Binacle",
@@ -6982,6 +7165,7 @@
       "Torracat",
       "Lycanroc (Dusk)",
       "Zeraora",
+      "Mega Zeraora",
       "Hatterene"
     ]
   },
@@ -7027,6 +7211,8 @@
       "Chatot",
       "Zorua",
       "Zoroark",
+      "Mega Meowstic (♂)",
+      "Mega Meowstic (♀)",
       "Marshadow"
     ]
   },
@@ -7044,7 +7230,7 @@
   },
   {
     "name": "Triage",
-    "description": "<p>The user’s Moves that heal HP get Priority, including Draining Moves.</p>\n",
+    "description": "<p>The user’s Moves that heal HP get +3 Priority, including Draining Moves.</p>\n",
     "usedBy": [
       "Luvdisc",
       "Audino",
@@ -7056,7 +7242,7 @@
   },
   {
     "name": "Truant",
-    "description": "<p>The user can only use a Move every other turn (starting with the first.) Worry Seed, Simple Beam, and Entrainment can’t replace Truant.</p>\n",
+    "description": "<p>The user can only use a Move every other turn (starting with the first). Worry Seed, Simple Beam, and Entrainment can’t replace Truant.</p>\n",
     "usedBy": [
       "Slakoth",
       "Slaking",
@@ -7068,6 +7254,7 @@
     "bonusStats": "+2 SATK",
     "description": "<p>The user’s Moves ignore others’ Abilities during the user’s turn.</p>\n",
     "usedBy": [
+      "Mega Blaziken",
       "Infernape",
       "Reshiram",
       "Kyurem (White)",
@@ -7079,6 +7266,7 @@
     "description": "<p>When the user attacks or is attacked, ignore all Boosts and Drops.</p>\n",
     "usedBy": [
       "Clefable",
+      "Mega Clefable",
       "Psyduck",
       "Galarian Slowpoke",
       "Galarian Slowbro",
@@ -7148,7 +7336,6 @@
     "usedBy": [
       "Pidgey",
       "Alolan Diglett",
-      "Weepinbell",
       "Seel",
       "Teddiursa",
       "Makuhita",
@@ -7156,7 +7343,8 @@
       "Feebas",
       "Bidoof",
       "Chespin",
-      "Stufful"
+      "Stufful",
+      "Maschiff"
     ]
   },
   {
@@ -7176,7 +7364,7 @@
       "Mega Mewtwo Y",
       "Ursaring",
       "Ursaluna",
-      "Ursaluna (Blood Moon)",
+      "Ursaluna (Bloodmoon)",
       "Houndour",
       "Houndoom",
       "Mega Houndoom",
@@ -7205,11 +7393,13 @@
   },
   {
     "name": "Unseen Fist",
-    "description": "<p>The user’s Contact Moves bypass Protection.</p>\n",
+    "bonusStats": "+1 Accuracy",
+    "description": "<p>The user’s Contact Moves can hit through Protection, dealing ¼ the damage they normally would.</p>\n",
     "usedBy": [
       "Machamp",
       "Hitmonchan",
       "Wooper",
+      "Mega Golurk",
       "Urshifu (Single Strike)",
       "Urshifu (Rapid Strike)"
     ]
@@ -7233,7 +7423,7 @@
   },
   {
     "name": "Vital Spirit",
-    "bonusStats": "+1 HP, +1 SPE",
+    "bonusStats": "+5 HP, +1 SPE",
     "description": "<p>If the user falls Asleep, cure them. The user can’t use Rest.</p>\n",
     "usedBy": [
       "Mankey",
@@ -7281,6 +7471,7 @@
       "Tynamo",
       "Eelektrik",
       "Eelektross",
+      "Mega Eelektross",
       "Thundurus (Therian)",
       "Zeraora",
       "Dracozolt",
@@ -7337,10 +7528,12 @@
       "Seismitoad",
       "Maractus",
       "Tirtouga",
+      "Vanillish",
       "Frillish",
       "Jellicent",
       "Inkay",
       "Malamar",
+      "Mega Malamar",
       "Volcanion",
       "Dewpider",
       "Araquanid",
@@ -7411,6 +7604,7 @@
       "Galarian Corsola",
       "Cursola",
       "Skarmory",
+      "Mega Skarmory",
       "Roggenrola",
       "Boldore",
       "Sewaddle",
@@ -7488,9 +7682,6 @@
       "Golduck",
       "Alakazam",
       "Mega Alakazam",
-      "Machop",
-      "Machoke",
-      "Machamp",
       "Azelf",
       "Type: Null",
       "Silvally",
@@ -7559,6 +7750,7 @@
       "Skitty",
       "Delcatty",
       "Deoxys (Defense)",
+      "Mega Scrafty",
       "Sigilyph",
       "Enamorus",
       "Enamorus (Therian)",
@@ -7591,6 +7783,8 @@
       "Flabébé",
       "Floette",
       "Florges",
+      "Floette (Eternal)",
+      "Mega Floette",
       "Celesteela",
       "Calyrex (Ice Rider)",
       "Calyrex (Shadow Rider)"
@@ -7612,6 +7806,7 @@
       "Galarian Darumaka",
       "Galarian Darmanitan",
       "Scrafty",
+      "Mega Scrafty",
       "Hisuian Zoroark",
       "Rufflet",
       "Deino",
@@ -7620,6 +7815,8 @@
       "Espurr",
       "Meowstic (♂)",
       "Meowstic (♀)",
+      "Mega Meowstic (♂)",
+      "Mega Meowstic (♀)",
       "Bewear",
       "Blacephalon",
       "Urshifu (Single Strike)",

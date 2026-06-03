@@ -422,7 +422,7 @@
     "name": "Dream Ball",
     "buy": 1000,
     "sell": 500,
-    "description": "+6 to capture sleeping targets.",
+    "description": "+6 to capture sleeping or Drowsy targets.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -888,7 +888,7 @@
     "name": "Love Ball",
     "buy": 600,
     "sell": 300,
-    "description": "+6 to capture Pokémon attracted to the Trainer’s active Pokémon.",
+    "description": "+6 to capture Pokémon attracted to the Trainer’s active Pokémon. (If all else fails, check for matching Egg Groups.)",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -1924,7 +1924,7 @@
   {
     "name": "Choice Dumpling",
     "sell": 600,
-    "description": "A dumpling that makes its eater become fixated on its next Move. While fixated, that Move deals increased damage, but also causes the user to receive increased damage from attacks. Fixation ends when the Pokémon uses a different move.",
+    "description": "When eaten, the user fixates on its next damaging Move. While fixated, that Move gets +10 damage, but the user receives increased damage from attacks. Fixation ends upon using a different move.",
     "buyIsNumeric": false,
     "sellIsNumeric": true
   },
@@ -1945,21 +1945,21 @@
   {
     "name": "Smoke Bomb",
     "sell": 100,
-    "description": "When thrown, creates a cloud of lingering smoke with a wide radius. Characters can hide in the smoke, letting them sneak without being noticed. ",
+    "description": "Throw to create lingering smoke in a wide radius. Characters can hide in the smoke, letting them sneak without notice.",
     "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Stealth Spray",
     "sell": 200,
-    "description": "Silences the user's footsteps for 1 minute, reducing the chance of detection. ",
+    "description": "Silences the user's footsteps for 1 minute, reducing chances of detection. ",
     "buyIsNumeric": false,
     "sellIsNumeric": true
   },
   {
     "name": "Sticky Glob",
     "sell": 200,
-    "description": "A ball of adhesive substances. Hitting a Pokémon with one may stun them, creating an opening for you to act. ",
+    "description": "A wad of adhesives. Hitting a target with one may Flinch them, creating an opening for you to act. ",
     "buyIsNumeric": false,
     "sellIsNumeric": true
   },
@@ -2121,7 +2121,7 @@
     "name": "Metal Powder",
     "buy": 2000,
     "sell": 500,
-    "description": "Extremely fine yet hard, this odd powder gives an untransformed Ditto's Endurance and Stealth +10 each when held.",
+    "description": "Extremely fine yet hard, this odd powder gives a Ditto's Endurance and Stealth +10 each when held.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2129,7 +2129,7 @@
     "name": "Quick Powder",
     "buy": 2000,
     "sell": 500,
-    "description": "Extremely fine yet hard, this odd powder gives an untransformed Ditto's Acrobatics +10 when held.",
+    "description": "Extremely fine yet hard, this odd powder gives a Ditto's Acrobatics +10 when held.",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   },
@@ -2138,6 +2138,14 @@
     "buy": 2000,
     "sell": 500,
     "description": "This lucky boxing glove on a spring gives Chansey +10 Crit Rate when held.",
+    "buyIsNumeric": true,
+    "sellIsNumeric": true
+  },
+  {
+    "name": "Gourmand Bib",
+    "buy": 1000,
+    "sell": 250,
+    "description": "When held, the Moves Stockpile, Swallow, and Spit Up all only take one moveslot. (If this item is lost mid-battle, the holder’s player picks which Move remains in that slot.)",
     "buyIsNumeric": true,
     "sellIsNumeric": true
   }

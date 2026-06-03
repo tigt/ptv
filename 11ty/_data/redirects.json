@@ -140,6 +140,14 @@
     "url": "/dex/pichu-family/#raichu"
   },
   {
+    "name": "Mega Raichu X",
+    "url": "/dex/pichu-family/#mega-raichu-x"
+  },
+  {
+    "name": "Mega Raichu Y",
+    "url": "/dex/pichu-family/#mega-raichu-y"
+  },
+  {
     "name": "Alolan Raichu",
     "url": "/dex/pichu-family/#alolan-raichu"
   },
@@ -194,6 +202,10 @@
   {
     "name": "Clefable",
     "url": "/dex/cleffa-family/#clefable"
+  },
+  {
+    "name": "Mega Clefable",
+    "url": "/dex/cleffa-family/#mega-clefable"
   },
   {
     "name": "Vulpix",
@@ -398,6 +410,10 @@
   {
     "name": "Victreebel",
     "url": "/dex/bellsprout-family/#victreebel"
+  },
+  {
+    "name": "Mega Victreebel",
+    "url": "/dex/undefined-family/#mega-victreebel"
   },
   {
     "name": "Tentacool",
@@ -728,6 +744,10 @@
     "url": "/dex/staryu-family/#starmie"
   },
   {
+    "name": "Mega Starmie",
+    "url": "/dex/staryu-family/#mega-starmie"
+  },
+  {
     "name": "Mime Jr.",
     "url": "/dex/mime-jr.-family/#mime-jr."
   },
@@ -952,6 +972,10 @@
     "url": "/dex/dratini-family/#dragonite"
   },
   {
+    "name": "Mega Dragonite",
+    "url": "/dex/dratini-family/#mega-dragonite"
+  },
+  {
     "name": "Mewtwo",
     "url": "/dex/mewtwo-family/#mewtwo"
   },
@@ -980,6 +1004,10 @@
     "url": "/dex/chikorita-family/#meganium"
   },
   {
+    "name": "Mega Meganium",
+    "url": "/dex/chikorita-family/#mega-meganium"
+  },
+  {
     "name": "Cyndaquil",
     "url": "/dex/cyndaquil-family/#cyndaquil"
   },
@@ -1006,6 +1034,10 @@
   {
     "name": "Feraligatr",
     "url": "/dex/totodile-family/#feraligatr"
+  },
+  {
+    "name": "Mega Feraligatr",
+    "url": "/dex/totodile-family/#mega-feraligatr"
   },
   {
     "name": "Sentret",
@@ -1276,8 +1308,8 @@
     "url": "/dex/teddiursa-family/#ursaluna"
   },
   {
-    "name": "Ursaluna (Blood Moon)",
-    "url": "/dex/teddiursa-family/#ursaluna-blood-moon"
+    "name": "Ursaluna (Bloodmoon)",
+    "url": "/dex/teddiursa-family/#ursaluna-bloodmoon"
   },
   {
     "name": "Slugma",
@@ -1333,7 +1365,11 @@
   },
   {
     "name": "Skarmory",
-    "url": "/dex/skarmory/"
+    "url": "/dex/skarmory-family/#skarmory"
+  },
+  {
+    "name": "Mega Skarmory",
+    "url": "/dex/skarmory-family/#mega-skarmory"
   },
   {
     "name": "Houndour",
@@ -1928,12 +1964,20 @@
     "url": "/dex/chingling-family/#chimecho"
   },
   {
+    "name": "Mega Chimecho",
+    "url": "/dex/chingling-family/#mega-chimecho"
+  },
+  {
     "name": "Absol",
     "url": "/dex/absol-family/#absol"
   },
   {
     "name": "Mega Absol",
     "url": "/dex/absol-family/#mega-absol"
+  },
+  {
+    "name": "Mega Absol Z",
+    "url": "/dex/absol-family/#mega-absol-z"
   },
   {
     "name": "Snorunt",
@@ -1950,6 +1994,10 @@
   {
     "name": "Froslass",
     "url": "/dex/snorunt-family/#froslass"
+  },
+  {
+    "name": "Mega Froslass",
+    "url": "/dex/snorunt-family/#mega-froslass"
   },
   {
     "name": "Spheal",
@@ -2152,6 +2200,10 @@
     "url": "/dex/starly-family/#staraptor"
   },
   {
+    "name": "Mega Staraptor",
+    "url": "/dex/starly-family/#mega-staraptor"
+  },
+  {
     "name": "Bidoof",
     "url": "/dex/bidoof-family/#bidoof"
   },
@@ -2320,6 +2372,10 @@
     "url": "/dex/gible-family/#mega-garchomp"
   },
   {
+    "name": "Mega Garchomp Z",
+    "url": "/dex/gible-family/#mega-garchomp-z"
+  },
+  {
     "name": "Riolu",
     "url": "/dex/riolu-family/#riolu"
   },
@@ -2330,6 +2386,10 @@
   {
     "name": "Mega Lucario",
     "url": "/dex/riolu-family/#mega-lucario"
+  },
+  {
+    "name": "Mega Lucario Z",
+    "url": "/dex/riolu-family/#mega-lucario-z"
   },
   {
     "name": "Hippopotas",
@@ -2404,6 +2464,10 @@
     "url": "/dex/rotom-family/#rotom-mow"
   },
   {
+    "name": "Rotom (Stereo)",
+    "url": "/dex/rotom-family/#rotom-stereo"
+  },
+  {
     "name": "Uxie",
     "url": "/dex/uxie/"
   },
@@ -2441,7 +2505,11 @@
   },
   {
     "name": "Heatran",
-    "url": "/dex/heatran/"
+    "url": "/dex/heatran-family/#heatran"
+  },
+  {
+    "name": "Mega Heatran",
+    "url": "/dex/heatran-family/#mega-heatran"
   },
   {
     "name": "Cresselia",
@@ -2449,7 +2517,11 @@
   },
   {
     "name": "Darkrai",
-    "url": "/dex/darkrai/"
+    "url": "/dex/darkrai-family/#darkrai"
+  },
+  {
+    "name": "Mega Darkrai",
+    "url": "/dex/darkrai-family/#mega-darkrai"
   },
   {
     "name": "Manaphy",
@@ -2498,6 +2570,10 @@
   {
     "name": "Emboar",
     "url": "/dex/tepig-family/#emboar"
+  },
+  {
+    "name": "Mega Emboar",
+    "url": "/dex/tepig-family/#mega-emboar"
   },
   {
     "name": "Oshawott",
@@ -2624,6 +2700,10 @@
     "url": "/dex/drilbur-family/#excadrill"
   },
   {
+    "name": "Mega Excadrill",
+    "url": "/dex/drilbur-family/#mega-excadrill"
+  },
+  {
     "name": "Audino",
     "url": "/dex/audino-family/#audino"
   },
@@ -2686,6 +2766,10 @@
   {
     "name": "Scolipede",
     "url": "/dex/venipede-family/#scolipede"
+  },
+  {
+    "name": "Mega Scolipede",
+    "url": "/dex/venipede-family/#mega-scolipede"
   },
   {
     "name": "Cottonee",
@@ -2778,6 +2862,10 @@
   {
     "name": "Scrafty",
     "url": "/dex/scraggy-family/#scrafty"
+  },
+  {
+    "name": "Mega Scrafty",
+    "url": "/dex/scraggy-family/#mega-scrafty"
   },
   {
     "name": "Sigilyph",
@@ -2976,6 +3064,10 @@
     "url": "/dex/tynamo-family/#eelektross"
   },
   {
+    "name": "Mega Eelektross",
+    "url": "/dex/tynamo-family/#mega-eelektross"
+  },
+  {
     "name": "Elgyem",
     "url": "/dex/elgyem-family/#elgyem"
   },
@@ -2994,6 +3086,10 @@
   {
     "name": "Chandelure",
     "url": "/dex/litwick-family/#chandelure"
+  },
+  {
+    "name": "Mega Chandelure",
+    "url": "/dex/litwick-family/#mega-chandelure"
   },
   {
     "name": "Axew",
@@ -3046,6 +3142,10 @@
   {
     "name": "Golurk",
     "url": "/dex/golett-family/#golurk"
+  },
+  {
+    "name": "Mega Golurk",
+    "url": "/dex/golett-family/#mega-golurk"
   },
   {
     "name": "Pawniard",
@@ -3208,6 +3308,10 @@
     "url": "/dex/chespin-family/#chesnaught"
   },
   {
+    "name": "Mega Chesnaught",
+    "url": "/dex/chespin-family/#mega-chesnaught"
+  },
+  {
     "name": "Fennekin",
     "url": "/dex/fennekin-family/#fennekin"
   },
@@ -3218,6 +3322,10 @@
   {
     "name": "Delphox",
     "url": "/dex/fennekin-family/#delphox"
+  },
+  {
+    "name": "Mega Delphox",
+    "url": "/dex/fennekin-family/#mega-delphox"
   },
   {
     "name": "Froakie",
@@ -3234,6 +3342,10 @@
   {
     "name": "Greninja (Ash)",
     "url": "/dex/froakie-family/#greninja-ash"
+  },
+  {
+    "name": "Mega Greninja",
+    "url": "/dex/froakie-family/#mega-greninja"
   },
   {
     "name": "Bunnelby",
@@ -3276,6 +3388,10 @@
     "url": "/dex/litleo-family/#pyroar"
   },
   {
+    "name": "Mega Pyroar",
+    "url": "/dex/litleo-family/#mega-pyroar"
+  },
+  {
     "name": "Flabébé",
     "url": "/dex/flabebe-family/#flabebe"
   },
@@ -3286,6 +3402,14 @@
   {
     "name": "Florges",
     "url": "/dex/flabebe-family/#florges"
+  },
+  {
+    "name": "Floette (Eternal)",
+    "url": "/dex/floette-family/#floette-eternal"
+  },
+  {
+    "name": "Mega Floette",
+    "url": "/dex/floette-family/#mega-floette"
   },
   {
     "name": "Skiddo",
@@ -3318,6 +3442,14 @@
   {
     "name": "Meowstic (♀)",
     "url": "/dex/espurr-family/#meowstic-♀"
+  },
+  {
+    "name": "Mega Meowstic (♂)",
+    "url": "/dex/espurr-family/#mega-meowstic-♂"
+  },
+  {
+    "name": "Mega Meowstic (♀)",
+    "url": "/dex/espurr-family/#mega-meowstic-♀"
   },
   {
     "name": "Honedge",
@@ -3356,6 +3488,10 @@
     "url": "/dex/inkay-family/#malamar"
   },
   {
+    "name": "Mega Malamar",
+    "url": "/dex/inkay-family/#mega-malamar"
+  },
+  {
     "name": "Binacle",
     "url": "/dex/binacle-family/#binacle"
   },
@@ -3364,12 +3500,20 @@
     "url": "/dex/binacle-family/#barbaracle"
   },
   {
+    "name": "Mega Barbaracle",
+    "url": "/dex/binacle-family/#mega-barbaracle"
+  },
+  {
     "name": "Skrelp",
     "url": "/dex/skrelp-family/#skrelp"
   },
   {
     "name": "Dragalge",
     "url": "/dex/skrelp-family/#dragalge"
+  },
+  {
+    "name": "Mega Dragalge",
+    "url": "/dex/skrelp-family/#mega-dragalge"
   },
   {
     "name": "Clauncher",
@@ -3405,7 +3549,11 @@
   },
   {
     "name": "Hawlucha",
-    "url": "/dex/hawlucha/"
+    "url": "/dex/hawlucha-family/#hawlucha"
+  },
+  {
+    "name": "Mega Hawlucha",
+    "url": "/dex/hawlucha-family/#mega-hawlucha"
   },
   {
     "name": "Dedenne",
@@ -3494,6 +3642,10 @@
   {
     "name": "Zygarde (Complete)",
     "url": "/dex/zygarde-family/#zygarde-complete"
+  },
+  {
+    "name": "Mega Zygarde",
+    "url": "/dex/zygarde-family/#mega-zygarde"
   },
   {
     "name": "Diancie",
@@ -3594,6 +3746,10 @@
   {
     "name": "Crabominable",
     "url": "/dex/crabrawler-family/#crabominable"
+  },
+  {
+    "name": "Mega Crabominable",
+    "url": "/dex/crabrawler-family/#mega-crabominable"
   },
   {
     "name": "Oricorio (Baile)",
@@ -3732,6 +3888,10 @@
     "url": "/dex/wimpod-family/#golisopod"
   },
   {
+    "name": "Mega Golisopod",
+    "url": "/dex/wimpod-family/#mega-golisopod"
+  },
+  {
     "name": "Sandygast",
     "url": "/dex/sandygast-family/#sandygast"
   },
@@ -3781,7 +3941,11 @@
   },
   {
     "name": "Drampa",
-    "url": "/dex/drampa/"
+    "url": "/dex/drampa-family/#drampa"
+  },
+  {
+    "name": "Mega Drampa",
+    "url": "/dex/drampa-family/#mega-drampa"
   },
   {
     "name": "Dhelmise",
@@ -3893,7 +4057,11 @@
   },
   {
     "name": "Magearna",
-    "url": "/dex/magearna/"
+    "url": "/dex/magearna-family/#magearna"
+  },
+  {
+    "name": "Mega Magearna",
+    "url": "/dex/magearna-family/#mega-magearna"
   },
   {
     "name": "Marshadow",
@@ -3901,7 +4069,11 @@
   },
   {
     "name": "Zeraora",
-    "url": "/dex/zeraora/"
+    "url": "/dex/zeraora-family/#zeraora"
+  },
+  {
+    "name": "Mega Zeraora",
+    "url": "/dex/zeraora-family/#mega-zeraora"
   },
   {
     "name": "Meltan",
@@ -4145,7 +4317,11 @@
   },
   {
     "name": "Falinks",
-    "url": "/dex/falinks/"
+    "url": "/dex/falinks-family/#falinks"
+  },
+  {
+    "name": "Mega Falinks",
+    "url": "/dex/falinks-family/#mega-falinks"
   },
   {
     "name": "Pincurchin",
@@ -4436,12 +4612,12 @@
     "url": "/dex/wattrel-family/#kilowattrel"
   },
   {
-    "name": "Masschiff",
-    "url": "/dex/masschiff-family/#masschiff"
+    "name": "Maschiff",
+    "url": "/dex/maschiff-family/#maschiff"
   },
   {
     "name": "Mabosstiff",
-    "url": "/dex/masschiff-family/#mabosstiff"
+    "url": "/dex/maschiff-family/#mabosstiff"
   },
   {
     "name": "Shroodle",
@@ -4478,6 +4654,10 @@
   {
     "name": "Scovillain",
     "url": "/dex/undefined-family/#scovillain"
+  },
+  {
+    "name": "Mega Scovillain",
+    "url": "/dex/undefined-family/#mega-scovillain"
   },
   {
     "name": "Rellor",
@@ -4552,6 +4732,10 @@
     "url": "/dex/glimmet-family/#glimmora"
   },
   {
+    "name": "Mega Glimmora",
+    "url": "/dex/glimmet-family/#mega-glimmora"
+  },
+  {
     "name": "Greavard",
     "url": "/dex/greavard-family/#greavard"
   },
@@ -4581,7 +4765,11 @@
   },
   {
     "name": "Tatsugiri",
-    "url": "/dex/tatsugiri/"
+    "url": "/dex/tatsugiri-family/#tatsugiri"
+  },
+  {
+    "name": "Mega Tatsugiri",
+    "url": "/dex/tatsugiri-family/#mega-tatsugiri"
   },
   {
     "name": "Gimmighoul",
@@ -4597,15 +4785,19 @@
   },
   {
     "name": "Frigibax",
-    "url": "/dex/frigibax/"
+    "url": "/dex/frigibax-family/#frigibax"
   },
   {
     "name": "Arctibax",
-    "url": "/dex/undefined-family/#arctibax"
+    "url": "/dex/frigibax-family/#arctibax"
   },
   {
     "name": "Baxcalibur",
-    "url": "/dex/undefined-family/#baxcalibur"
+    "url": "/dex/frigibax-family/#baxcalibur"
+  },
+  {
+    "name": "Mega Baxcalibur",
+    "url": "/dex/frigibax-family/#mega-baxcalibur"
   },
   {
     "name": "Ting-Lu",
