@@ -23,6 +23,7 @@ Performer Moves
 
 Performer
 : Your Social Skill Checks gain Advantage if they have more than one target.
+: You may add your Rank in Performer to any Social Skill Check that targets a character other than yourself.
 
 
 ## Rank 2

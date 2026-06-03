@@ -20,7 +20,7 @@
   body {
     margin: 0;
     padding: 0.5em;
-    background: #ecebdd;
+    background: #eed;
   }
 
   img,
@@ -38,23 +38,14 @@
     padding: 0.5em;
     color: #fff;
   }
-
-  header a {
-    color: inherit;
-  }
-
+  header a { color: inherit }
   header > h1 {
     margin: 0;
     font: italic 1em Georgia, serif;
   }
 
-  .siteName {
-    text-decoration: none;
-  }
-  .siteName > svg {
-    vertical-align: middle;
-  }
-
+  .siteName { text-decoration: none }
+  .siteName > svg { vertical-align: middle }
   .✲ {
     vertical-align: top;
     font-size: small;
@@ -65,28 +56,15 @@
     margin: auto;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1, h2, h3, h4, h5, h6 {
     line-height: 1.1;
     margin-bottom: 0.5rem;
   }
-  h2 {
-    border-bottom: 0.5px solid;
-  }
+  h2 { border-bottom: 0.5px solid }
 
-  dt {
-    font-weight: bolder;
-  }
-  dd {
-    margin-left: 2ch;
-  }
-  dd > p:first-child {
-    margin-top: 0;
-  }
+  dt { font-weight: bolder }
+  dd { margin-left: 2ch }
+  dd > p:first-child { margin-top: 0 }
 
   footer {
     margin: 6em 0 2em;
@@ -94,16 +72,23 @@
     text-align: center;
     clear: both;
   }
+  .© { color: inherit }
 
-  #™ {
-    display: block;
+  :target {
+    scroll-margin: 30vmin;
+    animation: targeted 2s;
   }
-  #™:target {
-    border: thin dashed;
+  @keyframes targeted {
+    0% {
+      outline: 1px dotted;
+      background: #ff0;
+      color: #000;
+    }
+    to { outline: 1px dotted transparent }
   }
 
-  .© {
-    color: inherit;
+  @media (prefers-reduced-motion: no-preference) {
+    * { scroll-behavior: smooth }
   }
 </style>
 

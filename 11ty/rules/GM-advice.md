@@ -80,6 +80,11 @@ The world is filled with all sorts of people. These are examples of characters w
 - **Ride Rangers** can rent players Poké Rides and register Pokémon to Ride Pagers.
 - **Vendors** always have something to sell, and may purchase players’ items.
 
+### Legendary Features
+
+It’s canon that capturing Legendary Pokémon in Poké Balls limits their power (this is why Cyrus invented the Red Chain). Therefore, fighting wild Legendary Pokémon raises their power level:
+https://docs.google.com/spreadsheets/d/15yDcu7dXG7PpHniF_V3GR8FGSx6TOxS2CoIdNAg2NYk/edit?gid=0
+
 ### Disloyal Pokemon
 
 If a Pokemon doesn’t respect its Trainer, it’s unreliable. There are no rules for when a Pokemon becomes loyal or disloyal; instead it’s a storytelling tool for the GM and players.
@@ -105,9 +110,9 @@ As an example, say you have three Level 2 players and you want them to use 2 Pok
 
 With this Level Budget of 12, you can make:
 
-- Six Level 2 enemies
-- Or three Level 4 enemies
-- Or one Level 6 enemy and three Level 2 enemies
+- Six Level 2 enemies,
+- Or three Level 4 enemies,
+- Or one Level 6 enemy and three Level 2 enemies,
 - Or any other combination you think makes for an interesting battle
 
 ### Special Battlefield Conditions
@@ -115,7 +120,7 @@ With this Level Budget of 12, you can make:
 Sometimes, an area might be under permanent Harsh Sunlight, or Grassy Terrain, or other conditions, because that area resembles those conditions naturally. Some places that might be fun:
 
 - **Thunderstorm:** Rain + Electric Terrain
-- **Growing Season:** Sunny Day + Grassy Terrain + Water Sport
+- **Greenhouse:** Sunny Day + Grassy Terrain + Water Sport
 - **Natural Sauna:** Mist + Rain + Harsh Sunlight
 - **Morning Dew:** Misty Terrain + Mist + Water Sport
 - **Magnetic Distortion:** Electric Terrain + Light Screen (+ Magnetic Flux/Magnet Rise?)
@@ -144,10 +149,10 @@ Zone Actions need **A.)** an effect (such as damage, a Status, forced travel, et
 **Examples:**
 
 1. A net of logs breaks from a Foes in Zone Move, using Wood Hammer on All in Zone.
-2. A weak floor cracks open if a Ground Move is used, splitting a Zone into two.
+2. A weak floor cracks open if a Ground Move is used, splitting a Zone into two and forcing Acrobatics checks to avoid fall damage.
 3. A flash flood rushes through a Zone at the end of the round, forcing Pokemon to switch out or be washed away.
 4. A gear spins at the end of the round, flinging a Pokemon into another Zone.
-5. A pipe bursts after an Ice Move, flooding caustic fluid that Poisons All in Zone.
+5. An industrial pipe bursts after an Ice Move, flooding caustic fluid that Poisons All in Zone.
 6. A fire sprinkler system activates after a Fire Move, giving Zones inside the building the Heavy Rain weather.
 
 If you’re having trouble coming up with Zone Actions, try looking at video games in other genres and how their environment affects the gameplay.

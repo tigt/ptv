@@ -16,7 +16,7 @@ eleventyComputed:
 
 ## Rank 1
 Fighting Expert Moves
-: Rock Smash, Vacuum Wave, Bulk Up
+: Arm Thrust, Rock Smash, Vacuum Wave, Bulk Up
 
 Fighting Expert
 : You gain Advantage on rolls to interact with Fighting-Types. (This includes capture attempts but not attack rolls.)
@@ -27,7 +27,7 @@ Disciplined
 : Your Fighting-Types get +3 on saves for Infatuation, Confusion, and Sleep.
 
 Justice Orders
-: 1 PP. For every ally that has fainted this battle, your Pokémon’s Fighting Move gains +1 to the attack roll this round.
+: 1 PP. For every ally that has fainted this battle, your Pokémon’s Fighting Moves get +1 to their attack rolls this round.
 
 Cornered Orders
 : 2 PP. If your Fighting-Type’s HP is under 50%, all of its Moves get Can’t Miss until it faints or the battle ends.
@@ -46,20 +46,19 @@ Workout
 
 ## Rank 5
 Fighting Technique
-: "Fighting Experts master their Bonus Moves to an extent that they can enhance them. When your Pokémon choose a Bonus Move, you can apply Fighting Technique to modify it.
-
-• Gem Smash: Foes defend against Rock Smash with SDEF.
-• Aura Wave: Vacuum Wave’s Accuracy is Can’t Miss.
-• Zen Up: Bulk Up raises SATK and SDEF instead.
-• Perk-Up Slap: Wake-Up Slap triggers off of and cures Paralysis, Poison, or Burns instead.
-• Mystery Punch: Dynamic Punch can choose to make a target Confused, Infatuated, or Asleep.
-• Time Guard: Quick Guard also protects against Delayed attacks.
-• Qi Punch: Drain Punch can restore an ally’s HP instead of your own Pokémon.
-• Aura Bomb: Aura Sphere’s Range becomes Foes in Zone and Accuracy 5.
-• Square Throw: Circle Throw traps the foe instead of switching them out.
-• Really Close Combat: If Close Combat gets +10 extra damage and drops the user’s DEF and SDEF by -10 each.
-• Stealth Press: Body Press adds SDEF to its damage instead of DEF.
-• Focus Smite: Focus Blast does ½ damage on a miss."
+: Fighting Experts master their Bonus Moves to an extent that they can enhance them. When your Pokémon choose a Bonus Move, you can apply Fighting Technique to modify it:
+    - Gem Smash: Foes defend against Rock Smash with SDEF instead of DEF.
+    - Aura Wave: Vacuum Wave Can’t Miss.
+    - Zen Up: Bulk Up raises SATK and SDEF instead.
+    - Perk-Up Slap: Wake-Up Slap triggers off of and cures Paralysis, Poison, or Burns instead.
+    - Mystery Punch: Dynamic Punch can choose on hit to make a target Confused, Infatuated, or Asleep.
+    - Time Guard: Quick Guard also protects against attacks with Priority -1 or less.
+    - Qi Punch: Drain Punch can restore an ally’s HP instead of your own Pokémon.
+    - Aura Bomb: Aura Sphere’s Range becomes Foes in Zone and AC 5.
+    - Square Throw: Circle Throw Traps the foe instead of switching them out.
+    - Really Close Combat: Close Combat gets +10 Power, but drops the user’s DEF and SDEF by -10 each.
+    - Stealth Press: Body Press adds SDEF to its damage instead of DEF.
+    - Focus Smite: Focus Blast does ½ damage on a miss.
 
 ## Rank 6
 Expand your available Bonus Moves to include the following: Drain Punch, Aura Sphere, Circle Throw

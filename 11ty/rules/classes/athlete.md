@@ -23,11 +23,11 @@ Athlete Moves
 : Expand your available Bonus Moves to include Focus Energy, Work Up, and Court Change.
 
 Athlete
-: You can lift and throw any Trainer that does not have Pokémon protecting them without a check.
+: You may add your Rank in Athlete to any Physical Skill Check.
 
 ## Rank 2
 Push Through
-: Whenever your Pokémon’s Stats would be Dropped, instead Drop the Stats at the end of the round.
+: Whenever your Pokémon’s Stats would be Dropped, instead Drop their Stats at the end of the round.
 
 Relax Orders
 : 1 AP. If your Pokémon is not targeted by a Move this round, they gain 3 AP.
@@ -53,7 +53,7 @@ Hiker
 : Sandstorm, Sunny Day, Rain Dance, Snowscape
 
 Martial Artist
-: Karate Chop, Seismic Toss, Feint
+: Karate Chop, Seismic Toss, Feint, Strength
 
 ## Rank 4
 ### Coach

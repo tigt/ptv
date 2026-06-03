@@ -22,15 +22,18 @@ Researcher Moves
 : Swift, Lock-On, and Copycat
 
 Researcher
-: When you enter a named location, make an Insight check. The GM recalls one interesting fact for every 10 DC.
+: When you roll a Check to recall, deduce, or learn something, add your Rank in Researcher to that Check.
+    ::: example
+    You ask if your character knows about a criminal team suspected to be in the area. The GM requests a DC10 Insight check to recall one interesting fact, plus a bonus fact for each 5 you exceed the check by. You roll a d20 and add both your Insight skill and your Rank in Researcher.
+    :::
 
 
 ## Rank 2
 Deep Study
-: Your Pokémon gain a 5<sup>th</sup> regular Move slot. (Their Bonus Move slot is still distinct.)
+: Your Pokémon gain a 5<sup>th</sup> regular Move slot. (Their Bonus Move slot is still its own thing, so they can know up to 6 Moves at once.)
 
 Learn Orders
-: 1 AP. Choose a target. You learn one Move or Order the target has yet to use.
+: 1 AP. Choose a target. You learn one Move or Order that the target has yet to use.
 
 Understudy Orders
 : 1 AP. Your Pokémon’s Move gets -1 Priority, but uses the highest Attack Roll made by an ally this round.
@@ -67,7 +70,7 @@ Doctor’s Orders
 : 2 AP. Choose a character. The target automatically fails any saving throws this round, but is cured of all status problems at the end of the round.
 
 Medical History
-: You can tell what a patient has been up to by analyzing their health. Choose a target, make an Insight check, and the GM describes one fact about the target’s history per 10 DC.
+: You can tell what a patient has been up to by analyzing their health. Choose a target, make an Insight check and add your Researcher Rank. The GM describes one fact about the target’s history per 10 DC.
 
 ### Engineer
 

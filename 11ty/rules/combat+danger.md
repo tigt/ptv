@@ -25,7 +25,7 @@ Pokémon: Tabletop Version uses a **double-blind** system for combat. This means
 A player’s Turn is made up of: **Travel**, **Order**, and **Action**.
 
 - **Travel** is a Pokémon and Trainer’s ability to change Zones. Both the Pokémon and Trainer can travel to an adjacent Zone before taking an action.
-- **Orders** are Trainer commands that affect the battlefield, the participants, or both. Orders happen at the beginning of the round, and last for that round unless they state otherwise. Orders always use PP, so do not feel forced to make an Order every round.
+- **Orders** are Trainer commands that affect the battlefield, the participants, or both. Orders happen at the beginning of the round, and last for that round unless they state otherwise. Orders always use AP, so do not feel forced to make an Order every round.
 - **Actions** are active events that your Pokémon or Trainer perform. Some actions have additional rules to determine how they resolve.
 
 ## Actions
@@ -193,7 +193,7 @@ A Move with **Recoil** inflicts HP Loss on the user based on how much damage was
 
 ### Struggle
 
-When a Pokemon has 0 PP, it can use a Move called Struggle. Struggle is a Physical Move with 4 Power, no Type, it can’t miss, and it recoils for 3 Ticks of HP.
+When a Pokemon has 0 AP, it can use a Move called Struggle. Struggle is a Physical Move with 4 Power, no Type, it can’t miss, and it recoils for 3 Ticks of HP.
 
 ## Stats and Other Numbers
 
@@ -259,6 +259,7 @@ The current weather can also affect battle. Although it usually covers the entir
 - **Snow** gives Ice-Types +10 DEF.
 - **Strong Winds** removes the Weaknesses of Flying-Types and prevents other Weather.
 - **Hail** deals 1 Tick of HP between turns to everything but Ice-Types.
+- **Midnight** gives +5 Crit Rate to everyone, and Ghost- or Dark-Type Moves get +5 damage.
 
 ## Physical Dangers
 
@@ -287,9 +288,11 @@ Although most battles between Trainers begin with introductions, characters can 
 
 Pokémon Centers restore perfect health within seconds, but you can’t always reach one. **Rest** is any period of time when characters aren’t busy with strenuous physical or mental activity. Usually rest means sleeping or relaxing, but what exactly counts is up to the GM.
 
-A **Long Rest** takes at least 8 hours, and completely restores Health, PP, and Status Problems. Pokémon can relearn any Moves they’ve forgotten or Level-Up Moves up to their level during a long rest.
+A **Long Rest** takes at least 8 hours, and completely restores Health, AP, and Status Problems. Pokémon can relearn any Moves they’ve forgotten or Level-Up Moves up to their level during a long rest.
 
-A **Short Rest** takes at least 30 minutes, and restores 3 Ticks of Health and 3 PP. Meals tend to count as Short Rests.
+A **Short Rest** takes at least 30 minutes, and restores 3 Ticks of Health and 3 AP. Meals tend to count as Short Rests.
+
+Rests may be less effective or even impossible in harsh circumstances, such as inclement weather, stultifying heat, loud clamors, etc. Player preparation, equipment, or improvisation may be used to handle these travel hazards.
 
 Sometimes, serious injury or illness needs extensive time and care to heal, even with Center technology. These are considered plot points, not game mechanics.
 
@@ -325,7 +328,7 @@ Trainers can use a Z-Crystal to turn a Pokémon’s Move into a superpowerful Z-
 - Their Pokémon must hold a Z-Crystal that matches the Type of the base Move.
 - The Trainer must wear a Z-Ring.
 
-If the base Move is Physical or Special, the Move becomes the Z-Move listed in its Z-Effect, gains the Power listed in its Z-Effect, keeps its original Kind and PP Cost, and can’t miss. Characters that protect against damaging Z-Moves still lose 3 Ticks of HP.
+If the base Move is Physical or Special, the Move becomes the Z-Move listed in its Z-Effect, gains the Power listed in its Z-Effect, keeps its original Kind and AP Cost, and can’t miss. Characters that protect against damaging Z-Moves still lose 3 Ticks of HP.
 
 If the base Move is Status, its Z-Effect occurs before its usual effects.
 
@@ -394,6 +397,7 @@ Max Move |  Type | Kind | Power | Base Move | Range | Description
 **Max Steelspike** | Steel | ★ | ★ | Damaging Steel | Ranged | Magnified metallurgy rebuffs the target and Boosts the user’s and allies’ DEF by +5.
 **Max Strike** | Normal | ★ | ★ | Damaging Normal | Ranged | A magnified attack hits the target and Drops all foes’ SPE by –5.
 **Max Wyrmwind** | Dragon | ★ | ★ | Damaging Dragon | Ranged | A magnified supernature daunts the target and Drops all foes’ ATK by –5.
+**Max Shutheart** | Shadow | ★ | ★ | Damaging Shadow | Ranged | A magnified fever-pitch rushes the target and creates Shadow Sky for 5 rounds.
 
 #### G-Max Moves
 
@@ -404,7 +408,7 @@ Max Move |  Type | Kind | Power | Base Move | Range | Description
 | **G-Max Centiferno** | Fire | ★ | ★ | Max Flare | Centiskorch | Ranged | Innumerable gigantic flames sear and Fire Spin the target for the next 4 rounds, even if the user leaves battle. |
 | **G-Max Chi Strike** | Fighting | ★ | ★ | Max Knuckle | Machamp | Ranged | A gigantic advancing charge pummels the target and Boosts the user’s and their allies’ Critical Rate by +3. |
 | **G-Max Cuddle** | Normal | ★ | ★ | Max Strike | Eevee | Ranged | A gigantic embrace smothers the target and Infatuates all compatible foes. |
-| **G-Max Depletion** | Dragon | ★ | ★ | Max Wyrmwind | Duraludon | Ranged | A gigantic decay debrades the target and adds 2 to the PP Cost of their last-used Move; Disables it if it’s a Max Move. |
+| **G-Max Depletion** | Dragon | ★ | ★ | Max Wyrmwind | Duraludon | Ranged | A gigantic decay debrades the target and adds 2 to the AP Cost of their last-used Move; Disables it if it’s a Max Move. |
 | **G-Max Drum Solo** | Grass | ★ | 26 | Max Overgrowth | Rillaboom | Ranged | A gigantic drumbeat thumps the target, ignoring their Abilities. |
 | **G-Max Finale** | Fairy | ★ | ★ | Max Starfall | Alcremie | Ranged | A gigantic fusillade rockets into the target and heals the user and allies by 2 Ticks. |
 | **G-Max Fireball** | Fire | ★ | 26 | Max Flare | Cinderace | Ranged | A gigantic meteor fouls the target, ignoring their Abilities. |

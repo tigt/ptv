@@ -16,7 +16,7 @@ eleventyComputed:
 
 ## Rank 1
 Ghost Expert Moves
-: Lick, Curse, Grudge
+: Lick, Curse, Grudge, Spite
 
 Ghost Expert
 : You gain Advantage on rolls to interact with Ghost-Type Pokémon. (This includes capture attempts but not attack rolls.)
@@ -34,7 +34,7 @@ Linger Orders
 
 
 ## Rank 3
-Expand your available Bonus Moves to include the following: Shadow Claw, Ominous Wind, Spite
+Expand your available Bonus Moves to include the following: Shadow Claw, Ominous Wind, Midnight
 
 ## Rank 4
 Wisp Orders

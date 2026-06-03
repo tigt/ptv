@@ -78,7 +78,7 @@ Daredevil Technique
 : This Damaging Move discounts its AP cost by half and gains Recoil ½. (Add this to any Recoil it might already have.)
 
 ### Fencer Techniques
-Broad Aim Technique
+Backswing Technique
 : If this damaging Move misses a target on an attack roll of 1–4, it instead doesn’t miss that target, but hits it with -1 Effectiveness.
 
 Hippowcrates Technique

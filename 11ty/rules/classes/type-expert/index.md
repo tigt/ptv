@@ -1,6 +1,6 @@
 ---
 characterClass: Type Expert
-description: Type Experts master a specific Type of Pokémon, of course. They embody their Types both in philosophy and combat.
+description: Type Experts master a specific Type of Pokémon, of course. They embody their Types both in philosophy and combat. They also grant that Type’s coverage to Pokémon that normally can’t get it.
 layout: rules-page
 tags: characterClass
 eleventyComputed:

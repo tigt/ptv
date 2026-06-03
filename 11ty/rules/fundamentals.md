@@ -64,38 +64,62 @@ If a Skill applies to a Check, the roller adds their Skill’s modifier to the r
 Examples:
 
 - A short sprint is Acrobatics, a long run is Athletics, and a marathon is Endurance.
+
 - Posing to impress could use Bluster to look formidable, Stealth to hold still in a tricky position, or Composure to look like you’re not even breaking a sweat.
+
 - Intimidation can use sheer bulk (like Steelix’s Endurance), overwhelming might (like Infernape’s Athletics and/or Focus), or practice (like a particularly-evil Togepi’s Bluster).
 
 ### Opposed Skill Checks
 
 To oppose checks made by other characters, both make checks and compare results: the higher roll wins. On a tie, roll again. Usually the GM chooses what Skills characters use in opposed checks, such as:
 
-- Sneaking past a guard (Stealth vs. Focus)
 - Lying to someone (Deception vs. Insight)
+- Bluffing to a belligerent mon to leave you alone (Bluster vs. Intensity)
 - Arm-wrestling (Athletics vs. Athletics)
 
-### Extended Checks and Fair Contests
+::: example
+A guard is concerned that someone is sneaking around. They roll Focus to listen intently and look for subtle motion. The sneak rolls Stealth to oppose. Depending on how much the guard’s result differs from the sneak’s, a few things could happen:
+
+ Difference | Outcome
+-----------:|---------
+−6 or under | The guard may convince themselves there’s nobody there after all.
+   −5 to −1 | The guard remains cautious, but unsure.
+    0 to +4 | The guard feels certain there is a presence.
+   +5 to +9 | The guard senses what area to investigate.
++10 or more | The guard either saw the sneak or figured out exactly where they are.
+:::
+
+### Extended Checks and fair contests
 
 For complex or lengthy actions, the GM may call for multiple Skill Checks, possibly of different Skills.
 
-In “fair” contests of Opposed Checks, all participants start with Advantage if they prepare. For example, a track race could be three checks: first Acrobatics, then Athletics, and finally Endurance. All checks would have Advantage from the starting blocks, the clean and level surface, and the chance to warm up. (This flattens the math out so it’s not as random; give GM Advice on when this would be desirable)
+In “fair” contests of Opposed Checks, all participants start with Advantage if they prepare. For example, a track race could be three checks: first Acrobatics, then Athletics, and finally Endurance. All checks would have Advantage from the starting blocks, the clean and level surface, and the chance to warm up. (This flattens the math out so it’s not as random; TODO give GM Advice on when this would be desirable)
 
 ### Cooperation
 
 If you help another character with a Check, they get Advantage on it.
 
-# Specific Rules
+## Specific rules
 
 The previous rules cover general situations outside of battle. The following rules cover foggy situations where you may want guidance on how to proceed.
 
-### Breaking Objects
+### Breaking objects
 
-‘Objects’ are anything but Pokémon or Trainers. Adventures may involve obstacles like barricaded doors, heavy machinery, or wooden bridges.
+‘Objects’ are things that aren’t characters, like barricaded doors, heavy machinery, or wooden bridges. If a character tries to destroy an object, the GM can resolve in one of three ways:
 
-- When a player wants to destroy an object, they state their intention to the GM. The GM can resolve this in one of three ways:
-  1. Either it just happens (“yes, your Scyther easily cuts the cable”),
-  2. Or the character makes a Skill Check,
-  3. Or the character makes an attack roll.
-- If the check is resolved by an attack roll, the object takes damage as if it were a character with DEF, SDEF, and HP determined by the GM. Objects break at 0 HP or lower.
-- Objects can have Types based on their element (such as a Steel-Type iron girder, a Rock-Type brick wall, or a Grass-Type briar patch.)
+1. It may just happen,
+   ::example
+   “Yes, your Scyther easily cuts the cable.”
+   :::
+2. Or a character makes a Skill Check,
+   ::example
+   “Your Graveler can take 10 on an Endurance Check to squash the fence.”
+   :::
+3. Or a character makes an Attack Roll with a Move, spending AP if needed.
+   ::example
+   “This wall of fire won’t go out easily, but you do have a Ground-Type…”
+   :::
+
+- If the check is resolved by an attack roll, the object takes damage as if it were a character with DEF, SDEF, and HP determined by the GM. (In a pinch, use the Stats of a Pokémon that resembles the object.)
+- Objects break at 0 HP or lower.
+- Materials may have Types: Steel-Type girders, a Rock-Type brick wall, Grass-Type briars, etc.
