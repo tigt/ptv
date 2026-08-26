@@ -27,10 +27,10 @@ Circuituous
 : Your Electric-Type Pokémon get Advantage on attack rolls targeting other Electric-Types.
 
 Overvolt Orders
-: 2 PP. Your Pokémon’s Electric Move this round is Exhausting and critically hits.
+: 2 AP. Your Pokémon’s Electric Move this round is Exhausting and critically hits.
 
 Transistor Orders
-: 1 PP. If any allies are suffering Paralysis, cure it and heal your Pokémon 1 Tick of HP for each at the beginning of the round.
+: 1 AP. If any allies are suffering Paralysis, cure it and heal your Pokémon 1 Tick of HP for each at the beginning of the round.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Thunder Punch, Volt 
 
 ## Rank 4
 Charger Orders
-: 3 PP. Your Pokemon's Electric Move leaves Chargers that act as a Hazard. Allies joining the battle get +5 damage on their next damaging Move. If a Ground-Type joins the battle, destroy the Chargers.
+: 3 AP. Your Pokemon's Electric Move leaves Chargers that act as a Hazard. Allies joining the battle get +5 damage on their next damaging Move. If a Ground-Type joins the battle, destroy the Chargers.
 
 Radio
 : Your Electric-Type Pokémon automatically succeed on checks to trace electric currents and radio waves to their source.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Plasma Fists, Thunde
 
 ## Rank 7
 Chu! Orders
-: 3 PP. Ground-Type Pokémon resist your Electric Moves (½×) and lose their Immunity for this round.
+: 3 AP. Ground-Type Pokémon resist your Electric Moves (½×) and lose their Immunity for this round.
 
 Magnetic North
 : Your Electric-Types always know what direction North is and have advantage on all checks to navigate areas.

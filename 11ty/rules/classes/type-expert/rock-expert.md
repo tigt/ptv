@@ -27,10 +27,10 @@ Geology
 : Your Rock-Type Pokémon gain Immunity to Fighting Moves in Psychic Terrain, Water Moves in Misty Terrain, Ground Moves in Grassy Terrain, and Steel Moves in Electric Terrain.
 
 Crash Orders
-: 1 PP. Your Rock-Type Pokémon gains advantage on its attack roll. Moves targeting your Pokémon this round also have advantage.
+: 1 AP. Your Rock-Type Pokémon gains advantage on its attack roll. Moves targeting your Pokémon this round also have advantage.
 
 Sediment Orders
-: 1 PP. Your Rock-Type Pokémon gains disadvantage on its attack roll. Moves targeting your Pokémon this round also have disadvantage.
+: 1 AP. Your Rock-Type Pokémon gains disadvantage on its attack roll. Moves targeting your Pokémon this round also have disadvantage.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Rock Blast, Ancient 
 
 ## Rank 4
 Igneous Orders
-: 3 PP. Your Pokémon’s Damaging Rock Move causes other foes in Zone to lose 1 Tick of Fire Type damage. (Apply Weakness/Resistance, but not stats.)
+: 3 AP. Your Pokémon’s Damaging Rock Move causes other foes in Zone to lose 1 Tick of Fire Type damage. (Apply Weakness/Resistance, but not stats.)
 
 Rocky Road
 : Your Rock-Type Pokémon can create a cobblestone path over terrain for easy travel.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Stone Edge, Power Ge
 
 ## Rank 7
 Memorock Orders
-: 3 PP. If your Rock-Type Pokémon is hit with a Super-Effective Move this round, their next Move critically hits.
+: 3 AP. If your Rock-Type Pokémon is hit with a Super-Effective Move this round, their next Move critically hits.
 
 Boulderdash
 : Your Rock-Type Pokémon automatically succeed on checks to push objects of any size.

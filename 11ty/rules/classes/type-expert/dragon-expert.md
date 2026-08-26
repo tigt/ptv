@@ -25,10 +25,10 @@ Dragon Expert
 
 ## Rank 2
 Prestige Orders
-: 1 PP. If an ally faints this round, your Dragon-Type Pokémon Boosts its Critical Rate by +2.
+: 1 AP. If an ally faints this round, your Dragon-Type Pokémon Boosts its Critical Rate by +2.
 
 Rampage Orders
-: 2 PP. If your Dragon-Type Pokémon faints a foe this round, any damage past 0 can be applied to a second target in the Zone.
+: 2 AP. If your Dragon-Type Pokémon faints a foe this round, any damage past 0 can be applied to a second target in the Zone.
 
 
 ## Rank 3
@@ -36,7 +36,7 @@ Expand your available Bonus Moves to include the following: Dragon Tail, Dragon 
 
 ## Rank 4
 Heavenly Orders
-: 3 PP. This round, your Dragon-Type Pokémon gains maximum bonus damage against foes shorter than it.
+: 3 AP. This round, your Dragon-Type Pokémon gains maximum bonus damage against foes shorter than it.
 
 Wild Den
 : Your Dragon-Type Pokémon can create Dragon Dens in the wilderness. Dragon Dens have enough room for an entire party and keep a stable temperature, but attract nearby strong Pokémon.
@@ -52,7 +52,7 @@ Expand your available Bonus Moves to include the following: Scale Shot, Dragon P
 
 ## Rank 7
 Royalty Orders
-: 5 PP. At the beginning of the round, all foes choose together to Defy or Defer. If foes Defy, boost your Pokémon’s ATK/SATK by +5. If foes Defer, drop all foes’ ATK/SATK by -5.
+: 5 AP. At the beginning of the round, all foes choose together to Defy or Defer. If foes Defy, boost your Pokémon’s ATK/SATK by +5. If foes Defer, drop all foes’ ATK/SATK by -5.
 
 Royal Constitution
 : If your Dragon-Type Pokémon take damage outside of battle and are not brought to 0 HP, the damage is healed.

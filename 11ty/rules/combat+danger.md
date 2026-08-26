@@ -12,41 +12,44 @@ eleventyNavigation:
 
 # Combat & Danger
 
-Pokémon Trainers often find themselves in conflict with other Pokémon. Combat has special rules for when and how characters act. Time during battle is counted in **Rounds**, and characters keep their decisions secret until the last second.
+Pokémon battles have specific rules for when and how characters act: time during battle is counted in Turns and Rounds, and characters keep their decisions secret until the last second.
 
-A **Round** is the amount of time it takes for every character involved in the battle to act. A character acts by taking a **Turn**, which is shared between a Trainer and their Pokémon. Turns are taken in an order determined by the Pokémon’s **Speed,** beginning with the fastest Pokémon and ending with the slowest.
+- Each character acts by taking a **Turn**, which is shared between a Trainer and their Pokémon.
+- Turn order is determined by the Pokémon’s **Speed**: begin with the fastest and end with the slowest.
+- Once all characters have taken a Turn, then it becomes a new **Round**, and everyone takes their Turns again.
+- Repeat until the battle is over, whether through victory, defeat, surrender, parley, etc.
 
-Some effects happen *between rounds*, and state so in their rules. When multiple effects happen between rounds, the GM decides the order if necessary.
+Some effects say they happen *between Rounds*. When multiple effects happen between rounds, the GM decides the order if necessary.
 
-Pokémon: Tabletop Version uses a **double-blind** system for combat. This means involved characters keep their Action and Order for the round secret, then all reveal them at the same time. In battles between Trainers, even the Pokémon chosen to start the battle are decided in secret. For physical play, write down your decision on a scrap of paper and reveal it at the same time as everybody else. Online games have digital tools to replicate this.
+PTV uses a **double-blind** system for combat: battlers hide their Actions and Orders for the Round, then everyone reveals theirs at the same time. In battles between Trainers, even the Pokémon chosen to start the battle are decided in secret. For physical play, write down your decision on a scrap of paper, then reveal it at the same time as everybody else. Online games have digital tools to replicate this.
 
 > **Note:** Feel free to talk about your decisions when making them! Communicating lets players work together for powerful strategies.
 
 A player’s Turn is made up of: **Travel**, **Order**, and **Action**.
 
-- **Travel** is a Pokémon and Trainer’s ability to change Zones. Both the Pokémon and Trainer can travel to an adjacent Zone before taking an action.
-- **Orders** are Trainer commands that affect the battlefield, the participants, or both. Orders happen at the beginning of the round, and last for that round unless they state otherwise. Orders always use AP, so do not feel forced to make an Order every round.
-- **Actions** are active events that your Pokémon or Trainer perform. Some actions have additional rules to determine how they resolve.
+- **Travel** is a character’s ability to change Zones. Both the Pokémon and Trainer can travel to an adjacent Zone before taking an action.
+- **Orders** are Trainer commands that affect battle. Orders happen at the beginning of the round, and last for that round unless stated otherwise. Orders have costs, so don’t feel you need to make an Order every round.
+- **Actions** are what your characters _do_.
 
 ## Actions
 
 ### Guard
 
-If a Trainer and their Pokémon are in the same Zone, the Trainer can become the target for anything targeting their Pokémon this round, but any received damage gets +1 Effectiveness.
+If a Trainer and their Pokémon are in the same Zone, the Trainer can switch anything targeting their Pokémon this round to hit themselves instead, at the cost of any damage they receive getting +1 Effectiveness.
 
 ### Items/Switch
 
-Items are used and Pokémon are switched before any other Actions, even Moves.
+Items are used and Pokémon are switched after Orders but before any other Actions, even Moves.
 
 Switched-in Pokémon can appear in the same Zone as the old Pokémon, or the Trainer’s current Zone.
 
 ### Flee
 
-To flee a battle, make an Acrobatics check. Foes can contest this Acrobatics check without using up an action. When a whole party decides to flee, only half the party needs to win the contested check.
+To flee a battle, make an Acrobatics check. Foes can contest this Acrobatics check without using up an action. When a whole party decides to flee, only half the party needs to succeed.
 
 ### Cheer
 
-If all of a Trainer’s Pokemon are fainted, they can use their action to Cheer. On the Trainer’s SPE, Cheer creates one of these effects:
+If all of a Trainer’s Pokemon faint, they can use their action to Cheer. On the Trainer’s SPE, Cheer has a random effect:
 
 - Reset an ally’s Dropped Stats.
 - Cure an ally’s Status Problem.
@@ -251,7 +254,7 @@ Zones can be filled with special terrains with extra effects for characters stan
 
 ### Weather
 
-The current weather can also affect battle. Although it usually covers the entire battlefield, the world of Pokemon is strange and whimsical; some situations may have weather in a small area. The most common types of weather are:
+The current weather can also affect battle. Although it usually covers the entire battlefield, the world of Pokémon is strange and whimsical; some situations may have weather in a small area. The most common types of weather are:
 
 - **Harsh Sunlight** gives damaging Fire Moves +10 damage and damaging Water Moves –10 damage.
 - **Rain** gives damaging Water Moves +10 damage and damaging Fire Moves –10 damage.
@@ -275,11 +278,11 @@ Colliding with the ground from heights of 10 feet or higher counts as a Physical
 
 ### Suffocating Damage
 
-If a character can’t breathe for more than 1 minute, they lose a Tick of Health between each Round until they can breathe again. Some Pokémon can breathe in water, earth, or smoke — or don’t need to breathe at all.
+If a character can’t breathe for more than 1 minute, they lose a Tick of HP between Rounds until they can breathe again. Some Pokémon can breathe in water, earth, smoke… or don’t need to breathe at all.
 
 ## Surprise & Ambushes
 
-Although most battles between Trainers begin with introductions, characters can sometimes surprise each other in ambush.
+Although most battles between Trainers begin with introductions, characters may surprise each other in ambush.
 
 - If a Trainer is surprised, they must reveal their first Pokémon to the opponent, instead of using the double-blind system.
 - If a wild Pokémon is surprised, it must reveal its first Move instead of using the double-blind system.
@@ -288,9 +291,9 @@ Although most battles between Trainers begin with introductions, characters can 
 
 Pokémon Centers restore perfect health within seconds, but you can’t always reach one. **Rest** is any period of time when characters aren’t busy with strenuous physical or mental activity. Usually rest means sleeping or relaxing, but what exactly counts is up to the GM.
 
-A **Long Rest** takes at least 8 hours, and completely restores Health, AP, and Status Problems. Pokémon can relearn any Moves they’ve forgotten or Level-Up Moves up to their level during a long rest.
+A **Long Rest** takes at least 8 hours, and completely restores HP, AP, and Status Problems. Pokémon can relearn any Moves they’ve forgotten or Level-Up Moves up to their level during a long rest.
 
-A **Short Rest** takes at least 30 minutes, and restores 3 Ticks of Health and 3 AP. Meals tend to count as Short Rests.
+A **Short Rest** takes at least 30 minutes, and restores 3 Ticks of HP and 3 AP. Meals tend to count as Short Rests.
 
 Rests may be less effective or even impossible in harsh circumstances, such as inclement weather, stultifying heat, loud clamors, etc. Player preparation, equipment, or improvisation may be used to handle these travel hazards.
 
@@ -298,13 +301,18 @@ Sometimes, serious injury or illness needs extensive time and care to heal, even
 
 ## Capturing Pokémon
 
-Trainers can take an action to throw a Pokéball at a wild Pokémon. Roll d20 and add the Ball’s modifier, if any. If you roll at least the target’s Catch DC, you capture it. A natural 20 is a “critical capture” and always succeeds. If two or more people throw a Poké Ball, the highest roll wins. The captured Pokemon keeps any HP and Status Problems when they are caught.
+Trainers can take an action to throw a Pokéball at a wild Pokémon.
+
+- Roll d20 and add the Ball’s modifier, if any. If you roll at least the target’s Catch DC, you capture it.
+- A natural 20 is a “critical capture” and always succeeds.
+- If two or more people throw a Poké Ball at the same target, the highest roll wins.
+- Capturing Pokémon doesn’t change their current HP, Status Problems, or held items.
 
 To find a Pokémon’s **Catch DC**:
 
 1. Start with the species’ Catch DC from the Pokédex. (Or guess: Caterpie’s is 2, Mewtwo’s is 24.)
 2. Lower the Catch DC by −1 for each Status Problem the target suffers from.
-3. Finally, modify the Catch DC depending on the target’s Health:
+3. Finally, modify the Catch DC depending on the target’s HP:
    - ½ or less: −2
    - A Tick or less: Automatic success.
    - Fainted Pokémon can’t be captured: Poké Balls refuse for safety reasons.
@@ -365,7 +373,7 @@ Dynamaxing a Pokémon makes it look as big as a skyscraper and increases its bat
   + One-hit KO Moves
   + Effects that swap its Abilities with another character’s
   + Opponents forcing them to switch out or flee
-  + Having its Move choices disabled or restricted.
+  + Having its Move choices disabled or restricted (Taunt, Disable, Torment, etc.)
 - The Pokémon’s known Moves turn into their corresponding Max Moves:
   + Status Moves turn into Max Guard.
   + Damaging Moves turn into the appropriate Max Move of their type, and calculate their new Power by adding half of the Move’s Z-Power. If the result exceeds 24, cap it at 24.
@@ -453,43 +461,93 @@ Each Pokémon has an assigned Tera Type; unless the GM assigned a specific Tera 
 
 ## Status Problems
 
-**Burned**
-Burned characters get −15 ATK, and they lose 1 Tick of Health between rounds.
-Fire-Types can’t be burned.
+Burned
+: Burned characters get −15 ATK, and they lose 1 Tick of HP between rounds.
+: Fire-Types can’t be burned.
 
-**Frozen**
-Frozen characters can’t travel or act. Add a DC 15 Save Check to their first attack roll in the round to thaw. Fire damage cures freezing. If a character is frozen for 3 or more turns, they automatically thaw at the start of their next turn.
-Ice-Types and targets in harsh sunlight can’t be frozen.
+Frozen
+: Frozen characters can’t travel or act. Add a DC 15 Save Check to their first attack roll in the round to thaw. Fire damage cures freezing. If a character is frozen for 3 or more turns, they automatically thaw at the start of their next turn.
+: Ice-Types and targets in harsh sunlight can’t be frozen.
 
-**Paralyzed**
-Paralyzed characters get −10 SPE. Add a DC 3 Save Check to their first attack roll in the round. If unsuccessful, they can’t act or travel.
-Electric-Types can’t be paralyzed.
+Paralyzed
+: Paralyzed characters get −10 SPE. Add a DC 3 Save Check to their first attack roll in the round. If unsuccessful, they can’t act or travel.
+: Electric-Types can’t be paralyzed.
 
-**Poisoned**
-Poisoned characters lose 2 Ticks of Health between rounds.
-Poison and Steel-Types can’t be poisoned.
+Poisoned
+: Poisoned characters lose 2 Ticks of HP between rounds.
+: Poison- and Steel-Types can’t be poisoned.
 
-**Badly Poisoned**
-Characters that are Badly Poisoned lose only 1 Tick of Health the first round, but the number of Ticks doubles each round afterward. Effects that refer to Poisoned also apply to Badly Poisoned.
+Badly Poisoned
+: Characters that are Badly Poisoned lose only 1 Tick of HP the first round, but the number of Ticks doubles each round afterward.
+: Effects that refer to Poisoned also apply to Badly Poisoned.
 
-**Confused**
-Confused characters add a DC 6 Save Check to their first attack roll each round. If unsuccessful, they can’t act this round, and hit themselves with a typeless Physical attack with 4 Power. This attack can’t miss or crit, and has −1 Effectiveness. On 15+, the character is cured of Confusion.
-If a character has stayed Confused for 3 rounds, cure them at the end of their turn. Confusion is also cured by switching out or leaving the battle.
+Confused
+: Confused characters add a DC 6 Save to their first attack roll each round. If unsuccessful, they can’t act this round, and hit themselves with a typeless Physical attack: 4 Power, can’t miss or crit, and has −1 Effectiveness. On 15+, the Confusion is cured.
+: If a character has stayed Confused for 3 rounds, cure them at the end of their turn. Confusion is also cured by switching out or leaving the battle.
 
-**Flinch**
-Flinching characters can’t act for the rest of the round.
+Flinch
+: Flinching characters can’t travel or act for the rest of the round.
 
-**Infatuation**
-Infatuated targets add a DC 11 Save Check to their attack rolls. If unsuccessful, they cannot target the character they are infatuated with. Infatuation is cured by switching or leaving the battle.
+Infatuation
+: Infatuated targets add a DC 11 Save Check to their attack rolls. If unsuccessful, they cannot target the character they are infatuated with.
+: Infatuation is cured by switching or leaving the battle.
 
-**Asleep**
-Sleeping characters can’t travel or act. The first Round of sleep, characters don’t wake on their own. The following Round, add a DC 10 Save Check to their first attack roll in the round to wake up. If failed, they automatically awaken at the start of their next turn instead.
-Sleeping Trainers can’t travel, use Orders, Items, or other actions, but their Pokémon still fight normally otherwise.
+Asleep
+: Sleeping characters can’t travel or act. The first Round of sleep, characters don’t wake on their own. The following Round, add a DC 10 Save Check to their first attack roll in the round to wake up. If failed, they automatically awaken at the start of their next turn instead.
+: The Pokémon of sleeping Trainers still fight normally otherwise.
 
-**Fainted**
-Characters with 0 or less Health Faint. Fainted characters are unconscious, can’t travel or act, and are cured of all other Status Problems.
-Fainted Trainers can’t use Orders, Items, or other actions, but their Pokemon still fight normally otherwise.
+Fainted
+: Characters with 0 or less HP Faint. Fainted characters are unconscious, can’t travel or act, and are cured of all other Status Problems.
+: The Pokemon of fainted Trainers still fight normally.
 
-**Trapped**
-Trapped characters can’t flee, switch out, or travel to other Zones.
-Ghost-Types can’t be Trapped.
+Trapped
+: Trapped characters can’t flee, switch out, or travel to other Zones.
+: Ghost-Types can’t be Trapped.
+
+## Riding & mounting
+<!-- http://pokemontabletop.wikidot.com/mounts
+https://2e.ptr.wiki/en/rules/mounting-and-tandem
+https://rpgbot.net/dnd5/characters/mounted_combat/#forced-dismounting
+https://pokemontabletopunleashed.com/pokemon/mounts/
+https://pokemontabletop.fandom.com/wiki/Pok%C3%A9mon#Pok%C3%A9mon_as_Mounts :
+> Using Mounts in Battle
+> »» Mounting a Pokémon is a Standard Action with an Acrobatics or Athletics Check with a DC of 10.
+> »» If your Acrobatics or Athletics is at least Expert, then you may Mount your Pokémon as part of your Shift as a Free Action, so long as you can move at least 2 meters before getting onto your Pokémon.
+> »» Pokémon take any penalties from carrying Heavy or Staggering weight as normal.
+> »» When mounted on a Pokémon, you may Shift during your Trainer turn using your Mount’s Movement Capabilities instead of your own. During Pokémon turns, your Mount may use any unused movement to Shift, and may take a Standard Action as normal if you use your Pokémon turn on it.
+> »» If either you or your Pokémon who is being used as a Mount are hit by a damaging attack that deals damage equal or greater to 1/4th of the target’s Max Hit Points, or are hit by a move with a Push Effect, you must make an Acrobatics or Athletics Check with a DC of 10 to remain mounted.
+> »» If a rider’s mount hurts itself in Confusion, the rider must make an Acrobatics or Athletics Check with a DC of 10 to remain mounted.
+> »» You may use your Mount to Shift on your turn while using your Pokémon turn to order another Pokémon in battle. 
+> »» It is very easy for you and your Pokémon to Intercept attacks for each other while you are Mounted due to the lack of distance. See page 242 for details on the Intercept Maneuvers. -->
+
+When a character rides a willing and able steed, they get the following benefits:
+- Both of them can choose to act on their SPE or the other’s SPE.
+- They share Abilities. (Note this doesn’t activate them, so sharing Intimidate doesn’t mean it goes off again.)
+
+As long as you can justify a rider/steed combination, it’s probably fine. Don’t let us stop you from having fun: why _not_ Roaming Gimmighoul astride a faithful Cutiefly, Bergmite squadroning on Avalugg, or a Ludicolo-Lombre-Lotad stack? Pokémon are weird, and you can rig up harnesses or sleds or something.
+
+### Mounting & dismounting
+
+Intentionally mounting or dismounting counts as travel or an action.
+
+::: example
+So in one turn, you could do any of the following:
+- mount/dismount then Act normally,
+- mount/dismount then use the Sprint action to move Zones,
+- ride into another Zone then dismount,
+- mount then dismount or vice-versa, if you wanted to for some reason. 
+:::
+
+If a rider dismounts a **steed traversing in ways the rider can’t** (humans falling off midflight, Graveler falling overboard, etc.), the usual consequences happen.
+
+### Dismount Saves
+
+In battle, a dismount may be forced:
+
+- If **a rider or steed loses their turn to a Status Problem, or is crit**, the other must Save DC10 Athletics or Acrobatics (their choice). Otherwise, the rider falls off, flinching on their next turn. (Hitting yourself in Confusion counts as losing a turn.)
+- If **the steed switches out or faints**, the rider doesn't stay mounted but still must Save DC10 Acrobatics to avoid flinching on their next turn.
+- Unusual cases like “what if my horse teleports” are up to the GM, because depending on the circumstances that could either be _extremely cool_, or how Galarian Rapidash decides your ride is over.
+
+[maybe make a table for Dismount Saves which every 5 points means you don't take fall damage, you don't unhorse, you don't flinch]
+
+There may be other reasons to call for a dismount Save: obstacles, player creativity, etc. (There are several in the _Tower of Garble_ sample campaign.) Similarly, there may be equipment, techniques, or circumstances that makes it easier to stay mounted. (As One prevents forcible dismounts, you could get stirrups for a bonus to dismount Saves, etc.)

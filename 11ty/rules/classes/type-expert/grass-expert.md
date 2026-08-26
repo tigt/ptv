@@ -27,10 +27,10 @@ Spring Showers
 : Your Grass-Type Pokémon heal 1 Tick when targeted by a Water Move after damage resolves, and Boost their save bonus by +3 in rain.
 
 Sporin Orders
-: 1 PP. If an ally including your Pokémon has a Status Problem one of your Pokémon could inflict, cure that Problem at the beginning of the round and heal your Pokémon 1 Tick.
+: 1 AP. If an ally including your Pokémon has a Status Problem one of your Pokémon could inflict, cure that Problem at the beginning of the round and heal your Pokémon 1 Tick.
 
 Compost Orders
-: 2 PP. If your Grass-Type Pokémon doesn’t target any foes this round, it heals all allies 1 Tick at the end of the round.
+: 2 AP. If your Grass-Type Pokémon doesn’t target any foes this round, it heals all allies 1 Tick at the end of the round.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Razor Leaf, Magical 
 
 ## Rank 4
 Undergrowth Orders
-: 4 PP. Your Pokémon’s Grass Move targets the Field and becomes a Hazard. The next foe to switch in or enter the Zone is hit by the effects of the Move. Fire-Type Pokémon are Immune and destroy the Field Trap.
+: 4 AP. Your Pokémon’s Grass Move targets the Field and becomes a Hazard. The next foe to switch in or enter the Zone is hit by the effects of the Move. Fire-Type Pokémon are Immune and destroy the Field Trap.
 
 Gardener
 : Your Grass-Type Pokémon can make other plant life grow at a visible rate.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Leaf Blade, Grass Pl
 
 ## Rank 7
 Bulb Orders
-: 5 PP. Your Pokémon plants a Power, Mental or White Herb on the field that can be used by any ally in Zone including your Pokémon for free next round.
+: 5 AP. Your Pokémon plants a Power, Mental or White Herb on the field that can be used by any ally in Zone including your Pokémon for free next round.
 
 Wild Avenue
 : Your Grass-Type Pokémon automatically succeed on checks to avoid Pokémon by redirecting tall grass or lure Pokémon by emitting sweet scents.

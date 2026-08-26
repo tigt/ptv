@@ -27,20 +27,20 @@ Chitin Plate
 : Your Bug-Type Pokémon gain +10 SPE whenever they take damage from a critical hit.
 
 Larva Orders
-: 1 PP. Your Bug-Type Pokémon changes into Larva Forme at the beginning of the round. Larva Forme has no resistances and its Moves double any Stat Boosts/Drops.
+: 1 AP. Your Bug-Type Pokémon changes into Larva Forme at the beginning of the round. Larva Forme has no resistances and its Moves double any Stat Boosts/Drops.
 
 Cocoon Orders
-: 1 PP. Your Bug-Type Pokémon changes into Cocoon Forme at the beginning of the round. Cocoon Forme can’t use Damaging Moves, but gains +1 Resistance to all Types.
+: 1 AP. Your Bug-Type Pokémon changes into Cocoon Forme at the beginning of the round. Cocoon Forme can’t use Damaging Moves, but gains +1 Resistance to all Types.
 
 Molt Orders
-: 0 PP. Your Bug-Type Pokémon returns to its original Forme at the beginning of the round.
+: 0 AP. Your Bug-Type Pokémon returns to its original Forme at the beginning of the round.
 
 ## Rank 3
 Expand your available Bonus Moves to include the following: Fell Stinger, Silver Wind, Quiver Dance
 
 ## Rank 4
 Underbug Orders
-: 3 PP. Your Pokémon’s Bug Move gains maximum bonus damage against Rock, Flying, or Fire-Type Pokémon.
+: 3 AP. Your Pokémon’s Bug Move gains maximum bonus damage against Rock, Flying, or Fire-Type Pokémon.
 
 The Tall Grass
 : Outside of combat, your Bug-Type Pokémon can hide within tall grass and reappear in any other tall grass in sight without explanation of how they got there.
@@ -55,7 +55,7 @@ Expand your available Bonus Moves to include the following: U-Turn, Signal Beam,
 
 ## Rank 7
 Metavolve Orders
-: 5 PP. Your Bug-Type Pokémon Mega Evolves at the beginning of the round and reverts to its original form at the end of the round. This does not count towards the once-per battle Mega Evolution limit.
+: 5 AP. Your Bug-Type Pokémon Mega Evolves at the beginning of the round and reverts to its original form at the end of the round. This does not count towards the once-per battle Mega Evolution limit.
 
 In The Walls
 : Your Bug-Type Pokémon can squeeze through any hole that’s at least 1 foot in diameter.

@@ -19,6 +19,21 @@ TODO:
 
 - Advice for how and when players and GMs should work together to establish new Talents and Flaws (wild pokemon with a story behind them can come with them, repeated success or failure at given tasks, etc.)
 
+Should we have GM advice with instructions/inspiration/examples on making a regional/generational gimmick
+- fusion
+- Baby Boom also seems like a worthy mention just because you know some players really like babies despite how much
+- My old "double type" idea is kind of inferior to Terastal from a player perspective, so maybe not that
+- burst warriors
+- PMD's Linked Moves were to belong anywhere, it'd be here, given how strong they are
+- Though, PMD certainly has its own generational gimmicks, like Awakening or Totems
+- Triple types
+- regional gimmicks I've done before, "extinction of a specific type in this region" counts and is also not 
+- https://bulbapedia.bulbagarden.net/wiki/Primal_Reversion of some other legendary… or maybe as a regional gimmick?
+  - Genesect, all fossils probably, Golurk, Dreepy, other Pokémon known to exist since ancient times
+  - Notably, you cannot turn into an Ancient Paradox, because those aren't real.
+  - > Gastrodon's Pokédex entry from Pearl says that it used to have a huge shell on its back in ancient times.
+- Adding a new Type
+
 The GM has many responsibilities for how a game will be played. Hard or easy encounters? Familiar content or new faces? A single-session adventure or a long-term campaign? Will challenges focus on combat, exploring new areas, and/or overcoming social obstacles?
 
 These questions can be overwhelming; there is no denying that GMing requires more responsibility and planning than playing. Hopefully this section helps.
@@ -32,6 +47,14 @@ These questions can be overwhelming; there is no denying that GMing requires mor
 2. **The GM is also a player.** If running the game is not fun for you, then the game is not working. Consider your own needs when planning and running games.
 
 3. **Behavior changes through communication, not mechanics.** If a player’s actions make someone uncomfortable or upset, it’s easy to want to punish the player in-game. But that almost never solves the problem, instead usually causing more frustration for everybody. Instead, talk to the player. If an agreement can’t be reached, no rules or mechanical changes can keep the table from a bad experience.
+
+### How many players per game?
+
+Not counting the GM, PTV tends to work best with 3 to 5 players.
+
+1 or 2 players is probably fine, they’re just going to be less versatile than most parties and you may need to scale down challenges and encounters to match.
+
+While there’s nothing technically preventing 6 or more players, considering recruiting one of those hopeful players as another GM to help handle the workload.
 
 ### When to roll
 
@@ -74,7 +97,7 @@ This section is for GMs who want to put battles in their game unrestricted by th
 
 The world is filled with all sorts of people. These are examples of characters with special mechanical traits outside of battle. It can also be fun to make your own!
 
-- **Move Tutors** can teach Moves to Pokemon. Most Move Tutors specialize in certain kinds of Moves: they may focus on one Type, a certain PP cost, or even one single Move! Most Move Tutors ask for pay equivalent to a Technical Record.
+- **Move Tutors** can teach Moves to Pokemon. Most Move Tutors specialize in certain kinds of Moves: they may focus on one Type, a certain AP cost, or even one single Move! Most Move Tutors ask for pay equivalent to a Technical Record.
 - **Order Tutors** can teach Tutor Orders to players.
 - **Medical staff** can heal players’ teams instantly, even outside Pokemon Centers.
 - **Ride Rangers** can rent players Poké Rides and register Pokémon to Ride Pagers.
@@ -93,10 +116,10 @@ At the start of a disloyal Pokemon’s turn, roll d20 (if the Pokemon’s action
 
 Result | Action
 -----: | :-----
-    ≤5 | The Pokémon actively sabotages the battle. (Takes any form the GM decides, from self-inflicting Confusion or Sleep to targeting allies.)
-  6–10 | The Pokémon makes no action.
- 11–15 | The Pokémon ignores specific orders, but battles the requested target in a different way.
-   ≥16 | The Pokémon acts as requested.
+≤5     | The Pokémon actively sabotages the battle. (Takes any form the GM decides: self-inflicting Confusion, Sleeping, targeting allies…)
+6–10   | The Pokémon makes no action.
+11–15  | The Pokémon ignores specifics, but battles the requested target in a different way.
+≥16    | The Pokémon acts as requested.
 
 ## Building Encounters
 
@@ -105,8 +128,8 @@ There is no guaranteed formula for fairness; a battle’s difficulty relies on l
 When building an encounter with a Level Budget, add your Players’ Levels together, then multiply that total by how many Pokemon you want them to each use. The result is how many total enemy Levels to pit against the players.
 
 As an example, say you have three Level 2 players and you want them to use 2 Pokemon each:  
-2Player 1’s level + 2Player 2’s level + 2Player 3’s level = 6total Player levels  
-6total Player levels × 2Pokémon used = 12
+2<sub>Player 1’s level</sub> + 2<sub>Player 2’s level</sub> + 2<sub>Player 3’s level</sub> = 6<sub>total Player levels</sub>  
+6<sub>total Player levels</sub> × 2<sub>Pokémon used</sub> = 12
 
 With this Level Budget of 12, you can make:
 
@@ -114,6 +137,8 @@ With this Level Budget of 12, you can make:
 - Or three Level 4 enemies,
 - Or one Level 6 enemy and three Level 2 enemies,
 - Or any other combination you think makes for an interesting battle
+
+Note this is only a rough guideline to get started: there is no substitute for playtesting. With the same level budget, three Level 2 players could fight a Level 6 Unown, three Level 2 Ratatta, or six Level 1 Great Tusks.
 
 ### Special Battlefield Conditions
 
@@ -171,7 +196,7 @@ Some Pokémon are strong enough to need special rules for them challenging an en
 - There should be an obvious signal if the Boss can’t be caught. You may lift this restriction later in the fight: please telegraph that change for your players’ sake.
 
 - TODO that thing where bosses have extra unstealable item slots to avoid the High Plains+Harker paradox. Actually, should we just let GMs pick from a pool of Traits for bosses? Something like:
-  + *Gigantic:* the Boss’s single-target Moves become Foes in Zone and the Boss resists single-target Moves.
+  + *Giant:* the Boss’s single-target Moves become Foes in Zone and the Boss resists single-target Moves. On the other hand, it becomes easier to hit. (this is distinct from Gmax because it's heavily implied gmax is an illusion)
 
 - A Boss has a number of turns equal to the number of opposing combatants. (Each extra turn adds the Boss’s Level to a Level Budget.)
   + The boss’s first turn happens normally based on the Boss’s SPE.

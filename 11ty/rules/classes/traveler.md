@@ -17,6 +17,8 @@ eleventyComputed:
 
 {{ description }}
 
+https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Mile
+
 ## Rank 1
 Traveler Moves
 : Add Flash, Cut, Odor Sleuth, and Camouflage to your Bonus Moves.

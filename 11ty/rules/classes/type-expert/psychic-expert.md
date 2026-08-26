@@ -27,10 +27,10 @@ Strong Minded
 : Your Pokémon can still use Psychic Moves when they are Asleep.
 
 Silent Orders
-: 1 PP. If your Psychic-Type Pokémon uses a Move this round, you do not need to choose what Move that is until all other Moves are revealed.
+: 1 AP. If your Psychic-Type Pokémon uses a Move this round, you do not need to choose what Move that is until all other Moves are revealed.
 
 Control Orders
-: 1 PP. Your Psychic-Type Pokémon uses its PP to fuel an ally’s Move this round.
+: 1 AP. Your Psychic-Type Pokémon uses its AP to fuel an ally’s Move this round.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Stored Power, Psycho
 
 ## Rank 4
 Somatic Orders
-: 3 PP. At the end of the round, inflict any Status Problems your Psychic-Type Pokémon is suffering onto a foe of your choice.
+: 3 AP. At the end of the round, inflict any Status Problems your Psychic-Type Pokémon is suffering onto a foe of your choice.
 
 Tagalongs
 : Your Psychic-Type Pokémon can teleport the entire party short distances.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Psychic, Psychic Fan
 
 ## Rank 7
 Weird Orders
-: 4 PP. Your Pokémon’s Psychic Move also turns the field into Psychic Terrain for 3 rounds.
+: 4 AP. Your Pokémon’s Psychic Move also turns the field into Psychic Terrain for 3 rounds.
 
 Heavy Thoughts
 : Your Psychic-Type Pokémon automatically succeed on Focus checks to lift anything up to the weight of a dump truck.

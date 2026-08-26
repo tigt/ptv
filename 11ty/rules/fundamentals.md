@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # Fundamental Rules
 
-(If you are unfamiliar with tabletop role-playing games in general, [Wikipedia has a good introduction](https://en.wikipedia.org/wiki/Tabletop_role-playing_game).)
+(Unfamiliar with tabletop role-playing games? [Wikipedia has a good introduction.](https://en.wikipedia.org/wiki/Tabletop_role-playing_game))
 
 1. The Game Master (GM)’s word is final. Settle disagreements after games to keep play flowing.
 2. Round fractions and decimals to the nearest whole number.
@@ -83,9 +83,9 @@ A guard is concerned that someone is sneaking around. They roll Focus to listen 
  Difference | Outcome
 -----------:|---------
 −6 or under | The guard may convince themselves there’s nobody there after all.
-   −5 to −1 | The guard remains cautious, but unsure.
-    0 to +4 | The guard feels certain there is a presence.
-   +5 to +9 | The guard senses what area to investigate.
+−5 to −1    | The guard remains cautious, but unsure.
+0 to +4     | The guard feels certain there is a presence.
++5 to +9    | The guard senses what area to investigate.
 +10 or more | The guard either saw the sneak or figured out exactly where they are.
 :::
 

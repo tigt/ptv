@@ -25,10 +25,10 @@ Flying Expert
 
 ## Rank 2
 Dynamic Orders
-: 1 PP. Your Flying-Type Pokémon can switch in to any Zone on the Field. If an ally is in that Zone, your Flying-Type Pokémon can redirect any non-Ground Moves targeting that ally this round to itself.
+: 1 AP. Your Flying-Type Pokémon can switch in to any Zone on the Field. If an ally is in that Zone, your Flying-Type Pokémon can redirect any non-Ground Moves targeting that ally this round to itself.
 
 Wind Tunnel Orders
-: 2 PP. Choose a foe. That foe has disadvantage on attack rolls against all targets except your Flying-Type Pokémon the next round. 
+: 2 AP. Choose a foe. That foe has disadvantage on attack rolls against all targets except your Flying-Type Pokémon the next round. 
 
 
 ## Rank 3
@@ -36,7 +36,7 @@ Expand your available Bonus Moves to include the following: Fly, Air Cutter, Roo
 
 ## Rank 4
 Gale Orders
-: 2 PP. Your Pokémon’s  damaging Flying Move adds SPE instead of ATK or SATK this round.
+: 2 AP. Your Pokémon’s  damaging Flying Move adds SPE instead of ATK or SATK this round.
 
 Big Wings
 : Your Flying-Type Pokémon can carry the weight of an Indian Elephant.
@@ -52,7 +52,7 @@ Expand your available Bonus Moves to include the following: Dual Wingbeat, Air S
 
 ## Rank 7
 Twirlwind Orders
-: 5 PP. Your Pokémon’s Flying Move is Delayed, but causes trained targets to switch out for another party member of their choice.
+: 5 AP. Your Pokémon’s Flying Move is Delayed, but causes trained targets to switch out for another party member of their choice.
 
 Flying Finds Home
 : Your Flying-Type Pokémon can always find you no matter where you go when they are out of sight.

@@ -27,10 +27,10 @@ Entry Ammo
 : When your Ground-Type Pokémon trigger entry hazards, they Boost their ATK and SATK by +10 each.
 
 Burrow Orders
-: 1 PP. At the end of the round, your itemless Ground-Type Pokémon burrows underground and pops back up in any other Zone holding a Sitrus Berry. This also happens if your itemless Pokémon uses Dig.
+: 1 AP. At the end of the round, your itemless Ground-Type Pokémon burrows underground and pops back up in any other Zone holding a Sitrus Berry. This also happens if your itemless Pokémon uses Dig.
 
 Shake Orders
-: 2 PP. If there are any Terrain or Hazards in-Zone, your Pokémons’ Ground Moves destroy them and gains advantage on the attack roll.
+: 2 AP. If there are any Terrain or Hazards in-Zone, your Pokémons’ Ground Moves destroy them and gains advantage on the attack roll.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Bulldoze, Mud Shot, 
 
 ## Rank 4
 Tremor Orders
-: 3 PP. All single-target Moves in your Ground-Type Pokémon’s Zone have disadvantage on the attack roll this round.
+: 3 AP. All single-target Moves in your Ground-Type Pokémon’s Zone have disadvantage on the attack roll this round.
 
 Dig Sense
 : Your Ground-Type Pokémon never lose communication with their Trainer, no matter how far they tunnel.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Stomping Tantrum, Sc
 
 ## Rank 7
 Aftershock Orders
-: 5 PP. Your Pokémon's Ground-Type Pokémon Move strikes the same Zone at the beginning of the next turn as a free action. Do not add bonus damage, STAB or stats to this second strike.
+: 5 AP. Your Pokémon's Ground-Type Pokémon Move strikes the same Zone at the beginning of the next turn as a free action. Do not add bonus damage, STAB or stats to this second strike.
 
 Adobe Home
 : Your Ground-Type Pokémon can mold dirt and sand to form a basic house in the span of a minute.

@@ -27,10 +27,10 @@ Disciplined
 : Your Fighting-Types get +3 on saves for Infatuation, Confusion, and Sleep.
 
 Justice Orders
-: 1 PP. For every ally that has fainted this battle, your Pokémon’s Fighting Moves get +1 to their attack rolls this round.
+: 1 AP. For every ally that has fainted this battle, your Pokémon’s Fighting Moves get +1 to their attack rolls this round.
 
 Cornered Orders
-: 2 PP. If your Fighting-Type’s HP is under 50%, all of its Moves get Can’t Miss until it faints or the battle ends.
+: 2 AP. If your Fighting-Type’s HP is under 50%, all of its Moves get Can’t Miss until it faints or the battle ends.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Revenge, Dynamic Pun
 
 ## Rank 4
 Riposte Orders
-: 2 PP. Foes targeting your Fighting-Type Pokémon this round suffer HP Loss equal to your Pokémon’s DEF+SDEF Boosts.
+: 2 AP. Foes targeting your Fighting-Type Pokémon this round suffer HP Loss equal to your Pokémon’s DEF+SDEF Boosts.
 
 Workout
 : Your Pokémon can spend a short or long rest doing heavy physical activity without giving up the rest’s benefits.
@@ -65,7 +65,7 @@ Expand your available Bonus Moves to include the following: Drain Punch, Aura Sp
 
 ## Rank 7
 Chivalry Orders
-: 5 PP. Your Fighting-Type Pokémon cannot be Fainted by anything other than the foe it targets this round, even if it goes to 0 HP. This effect ends when the targeted foe leaves the battle or your Pokémon targets another foe.
+: 5 AP. Your Fighting-Type Pokémon cannot be Fainted by anything other than the foe it targets this round, even if it goes to 0 HP. This effect ends when the targeted foe leaves the battle or your Pokémon targets another foe.
 
 Heavy Shoulders
 : Your Fighting-Type Pokémon can carry any weight less than a house on their shoulders.

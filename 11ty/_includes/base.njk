@@ -6,12 +6,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#b02a32">
-<meta name="robots" content="none">
 <title>{%if title%}{{title|safe}} · {%endif%}Pokémon: Tabletop Version</title>
+{%if description%}<meta name="description" content="{{description|safe}}">{%endif%}
 <style>
+  @font-face {
+    font-family: ₽;
+    unicode-range: U+24, U+E300;
+    src: url('data:font/woff2;base64,d09GMgABAAAAAAOkAA0AAAAAB2QAAANPAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP0ZGVE0cGh4GYACCQhEICoIsgh0LEAABNgIkAxwEIAWFCwdAG2EGUZQOzhyArw44gfuwCkwuInbh4MPuz3NEb8zriUWhgRQrzPXEbxvOnvskgvq1z563++EgAKAIWQGBAkUuJ3wIjYw8cAEAl8r64X57w7J309vJ9jWiiSRWf4gZOJrbbSl9nSWqiOSpIi9YWsKsZRKwAQeCqSYY+KKnVCr71DZRzWSuEzrJfCLaxKunXf8W13fL7sPfLI2jBB5TQovKftbmObnMA64bNBadLqApfHh4qGfdMCUJHXetfmuYNmbaXSHgVfedR2he/uMBvCpdcKhHZ5CEUBZyJOSpIVQiXU7DVSyO5xgZPEkpAwRc1IqdLRdyA00zVEzwSf+KFwKyA9lWoC+HDF+iJwemqAv01NAX5HKBgUWRvqN4LoAoE4BISDwT/peMu2UUhQQqoDXKWAccAurREZBmgctIUp43lJr2Xde3yrhMqRWWRh3MwCzKHpvsXstAdcBuLdc+/9wWu0XLlZZ1tfpN3uVbcb5L1B6bmyzeeV3zj5Y/1+Fsf7vuyk18vk0b8nCrrwbvAWp376Af/MP9yZZJL+tNW6XQAT7QgQdm9Zn6OalPGr2s8XKqCv3bDY0BvijOdCl3fLr89VtdzkTJeDWftdtzIW5ez9vhrXH1WrY1rdy9duQO7Xa2mdOa2m12tvcF2mUoyb+8TFdgVvEsyXJTiv+pX3bAIXh/rjlDnPK3Wpd9uBgUs3uGs0BVAkH6Z+iTGiCtwgEAKvGHAbEUpAaz0hZFPcGhYpAaL0sIgRmFbe2eBHOeZ0Goeo+kEpAZGHPkqnEJJW3i0eqyajQiE3kNruIQ2voiae0HMguiilzb2KKkd3wfpaxt/DHb0soeFgmEKGSpIhgyQmW2hu4UZzUjLW1zLTUDKsv6PBZDJkIRTCiCLcmuFIokiIVkkErk2ssEqodIZPBro6QSVgBD7srqqZPteas2UK0O21hGFlHCwggv5auilJChFtIkD1lQPoGiAYdgEYNvaYGCQ0cjYzpZDbCKJ8CkLBh88M0EmNdd0J+MBTyI8cRQabhbqUXR8WcLxAjLeGuVWoADD5mXYTk8PF91NaOC7m26j5Je52FE1DyCCKE8bRo8hjoi6rnHCasJOIuLRjm2gpBU5JEiq5w4GLUKIproDgA');
+  }
+  
   *, ::before, ::after { box-sizing: border-box }
   html {
-    font: 1.1em/1.4 -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, Roboto, Lato, Helvetica, sans-serif;
+    font: 1.1em/1.4 ₽, -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, Roboto, Lato, Helvetica, sans-serif;
     background: #b02a32; /* for overscroll */
     text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -113,8 +119,9 @@
       size="14"
       pattern=".*?\S.*" title="Search for one or more terms"
       disabled=""
-    ><input type="hidden" name="q" value="site:ptv.ti.gt/"><!--
-    --><button disabled="">Search</button>
+    ><input type="hidden" name="q" value="site:ptv.ti.gt">{#
+    #}<input type="hidden" name="udm" value="14">{#
+    #}<button disabled="">Search</button>
   </form>
 </header>
 

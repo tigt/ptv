@@ -27,10 +27,10 @@ True Steel
 : Your Steel-Type Pokémon cannot lose their Steel Typing from any Ability, Move or Feature. If your Steel Pokémon has two Types, the other Type still changes.
 
 Polish Orders
-: 1 PP. Swap your Steel-Type Pokémon’s DEF/SDEF boosts at the end of the round.
+: 1 AP. Swap your Steel-Type Pokémon’s DEF/SDEF boosts at the end of the round.
 
 Shed Plate Orders
-: 2 PP. Any effect on your Steel-Type Pokémon caused by Contact ends at the beginning of the round.
+: 2 AP. Any effect on your Steel-Type Pokémon caused by Contact ends at the beginning of the round.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Smart Strike, Mirror
 
 ## Rank 4
 Steamroll Orders
-: 2 PP. If you switch in a Steel-Type Pokémon this round, all Hazards, Terrain, Light Screen, Reflect and Aurora Veil on the field are destroyed.
+: 2 AP. If you switch in a Steel-Type Pokémon this round, all Hazards, Terrain, Light Screen, Reflect and Aurora Veil on the field are destroyed.
 
 Sticky Steel
 : Your Steel-Type Pokémon can magnetically stick metal onto themselves so strongly only other Pokémon can remove it.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Iron Head, Flash Can
 
 ## Rank 7
 Solid Orders
-: 4 PP. Your Pokémon’s Type becomes Steel/Steel for this round. (They get 2× STAB for Steel Moves, are ⅓× resistant to Bug, Dragon, Fairy, Flying, Grass, Ice, Normal, Psychic, Rock, and Steel, and are 4× weak to Fighting, Fire and Ground.)
+: 4 AP. Your Pokémon’s Type becomes Steel/Steel for this round. (They get 2× STAB for Steel Moves, are ⅓× resistant to Bug, Dragon, Fairy, Flying, Grass, Ice, Normal, Psychic, Rock, and Steel, and are 4× weak to Fighting, Fire and Ground.)
 
 Resonant Steel
 :  Your Steel-Type Pokémon can hit the ground so that all metals in a route’s range echo a loud gong.

@@ -27,10 +27,10 @@ Humble Origin
 : Your Normal-Type Pokémon retain Normal STAB, Immunity to Ghost, and Normal Expert feature benefits even if Evolution, Moves, Abilities, or Features change their Type.
 
 Serious Orders
-: 1 PP. If your Pokémon uses the same Normal Move it used last round, it gets Advantage on the attack roll.
+: 1 AP. If your Pokémon uses the same Normal Move it used last round, it gets Advantage on the attack roll.
 
 Regular Orders
-: 2 PP. All the dice your Normal-Type Pokémon would roll this turn are treated as if you rolled 11.
+: 2 AP. All the dice your Normal-Type Pokémon would roll this turn are treated as if you rolled 11.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: After You, Yawn, Roa
 
 ## Rank 4
 Mundane Orders
-: 2 PP. Your Normal-Type Pokémon swaps its DEF and SDEF for this round.
+: 2 AP. Your Normal-Type Pokémon swaps its DEF and SDEF for this round.
 
 Normal to See Here
 : Your Normal-Type Pokémon can see through illusions and invisibility.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Double-Edge, Tri Att
 
 ## Rank 7
 Normal Orders
-: 4 PP. Your Pokémon’s Type becomes Normal/Normal for this round. (They get 2× STAB for Normal Moves and are 4× weak to Fighting.)
+: 4 AP. Your Pokémon’s Type becomes Normal/Normal for this round. (They get 2× STAB for Normal Moves and are 4× weak to Fighting.)
 
 Order from Chaos
 : Your Normal-Type Pokémon automatically succeed on any checks related to organization and cleanup.

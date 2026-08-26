@@ -30,6 +30,10 @@ Each character has 5 Physical Skills and another 5 Social Skills. Skills act as 
 ### Endurance
 
 **Endurance** is for surviving impacts, resisting illness, braving extreme conditions, and other feats of fortitude.
+- Sticking at tasks for a long time
+- Remaining alert on watches
+- Staying awake past your bedtime
+- Carrying heavy loads
 
 <figure>
 
@@ -75,7 +79,7 @@ Each character has 5 Physical Skills and another 5 Social Skills. Skills act as 
 
 **Social Skills** represent how characters interact with others.
 
-A high rank in a Social Skill doesn’t have to mean the character appears that way. Characters with high Bluster can be frail, but value grit and won’t back down from hardship. Characters with high Composure may be homely, but excel at determining the wants and feelings of others.
+A high rank in a Social Skill doesn’t have to mean the character appears that way. Characters with high Bluster can be frail, but value grit and won’t back down from hardship. Characters with high Insight may make poor judgments, but excel at determining the wants and feelings of others.
 
 ### Intensity
 
@@ -101,7 +105,9 @@ Characters with high **Bluster** want to awe or intimidate others, and are dedic
 
 ### Composure
 
-Characters with high **Composure** keep cool under pressure, and are used for checks to stay calm, keep up an act, or remember a character’s lines.
+Characters with high **Composure** keep calm under pressure, and are used for checks to stay calm, keep up an act, or remember a character’s lines.
+- Calm down/soothe others
+- Appearing unbothered, even (especially) when you are
 
 <figure>
 

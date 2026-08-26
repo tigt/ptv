@@ -27,10 +27,10 @@ Worsely Poisoned
 : Your Poison-Type Pokémon can stack Poisoned and Badly Poisoned on foes. Your Poison Moves inflict Badly Poisoned if the foe is already Poisoned and vice-versa.
 
 Blight Orders
-: 1 PP. Choose a Poisoned foe. The foe takes an extra tick from your Pokémon’s damaging Move this round.
+: 1 AP. Choose a Poisoned foe. The foe takes an extra tick from your Pokémon’s damaging Move this round.
 
 Potent Orders
-: 2 PP.  Your Pokémon’s Poison Move doubles its PP cost and gains +1 Effectiveness this round.
+: 2 AP.  Your Pokémon’s Poison Move doubles its AP cost and gains +1 Effectiveness this round.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Toxic, Toxic Spikes,
 
 ## Rank 4
 Contagion Orders
-: 2 PP. If a foe becomes Poisoned this round, its Allies in Zone are also Poisoned. (A Badly-Poisoned foe spreads Bad Poison.)
+: 2 AP. If a foe becomes Poisoned this round, its Allies in Zone are also Poisoned. (A Badly-Poisoned foe spreads Bad Poison.)
 
 Toxic Stench
 : Your Poison-Type Pokémon can make the area unbearable to stay in for wild Pokémon, or Trainers with weak Intensity.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Cross Poison, Venosh
 
 ## Rank 7
 Toxins Orders
-: 3 PP. Your Pokémon that inflicts Poison changes to inflict Burn, Paralysis, or Confusion (your choice) for the rest of the battle.
+: 3 AP. Your Pokémon that inflicts Poison changes to inflict Burn, Paralysis, or Confusion (your choice) for the rest of the battle.
 
 Volatile Poisons
 : Foes Poisoned by you and your Pokémon have disadvantage on all Skill Checks.

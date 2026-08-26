@@ -24,13 +24,13 @@ Ghost Expert
 
 ## Rank 2
 From Beyond
-: If your Ghost Pokémon is KO’d with 5 or more PP remaining, a Curse is put on the foe that targeted them.
+: If your Ghost Pokémon is KO’d with 5 or more AP remaining, a Curse is put on the foe that targeted them.
 
 Panic Orders
-: 1 PP. If your Pokémon uses a Ghost Move on a target with a status problem, the target loses 3 PP and cures their status problem.
+: 1 AP. If your Pokémon uses a Ghost Move on a target with a status problem, the target loses 3 AP and cures their status problem.
 
 Linger Orders
-: 2 PP. If a foe faints or switches out this round, their stat changes pass over to the new Pokémon.
+: 2 AP. If a foe faints or switches out this round, their stat changes pass over to the new Pokémon.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Shadow Claw, Ominous
 
 ## Rank 4
 Wisp Orders
-: 3 PP. If you faint a foe with a Ghost Move this round, your Pokémon gains any PP the foe had remaining.
+: 3 AP. If you faint a foe with a Ghost Move this round, your Pokémon gains any AP the foe had remaining.
 
 Phasing
 : Your Ghost-Type Pokémon can take allies with them when phasing through solid objects.
@@ -46,7 +46,7 @@ Phasing
 
 ## Rank 5
 Jeepers
-: Your Ghost Moves drop 1 PP from targeted foes on 18+. On a critical hit, your Pokémon gains 1 PP.
+: Your Ghost Moves drop 1 AP from targeted foes on 18+. On a critical hit, your Pokémon gains 1 AP.
 
 
 ## Rank 6
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Shadow Force, Shadow
 
 ## Rank 7
 Specter Orders
-: 3 PP. If an ally or your Pokémon fainted last round, your Ghost-Type Pokémon can use any Move that ally knew this round using the ally’s stats.
+: 3 AP. If an ally or your Pokémon fainted last round, your Ghost-Type Pokémon can use any Move that ally knew this round using the ally’s stats.
 
 Old Tastes
 : Your Ghost-Type Pokémon can see what isn’t there. If you put an Item into a Ghost-Type Pokémon’s grasp, it knows exactly where that Item has been and who used it within the last week.

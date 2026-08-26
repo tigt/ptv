@@ -27,10 +27,10 @@ Raze
 : When your Fire-Type Pokémon trigger a Hazard, destroy it after it takes effect.
 
 Combust Orders
-: 2 PP. Your Pokémon’s Fire Move that inflicts Burned increases its Effect Rate by +6 for the rest of the battle.
+: 2 AP. Your Pokémon’s Fire Move that inflicts Burned increases its Effect Rate by +6 for the rest of the battle.
 
 Bomb Orders
-: 2 PP. If your Fire-Type Pokémon is hit by a Damaging Move before their turn, your Fire-Type Pokémon’s Move Can’t Miss and critically hits.
+: 2 AP. If your Fire-Type Pokémon is hit by a Damaging Move before their turn, your Fire-Type Pokémon’s Move Can’t Miss and critically hits.
 
 
 ## Rank 3
@@ -38,7 +38,7 @@ Expand your available Bonus Moves to include the following: Fire Fang, Flame Bur
 
 ## Rank 4
 Explode Orders
-: 2 PP. Your Fire-Type Pokémon loses 2 Ticks to gain Priority on a Move that costs 2 or less PP this round.
+: 2 AP. Your Fire-Type Pokémon loses 2 Ticks to gain Priority on a Move that costs 2 or less AP this round.
 
 Slow Burn
 : Fires set by your Fire-Type Pokémon can burn without fuel as long as you want.
@@ -54,7 +54,7 @@ Expand your available Bonus Moves to include the following: Flare Blitz, Fire Pl
 
 ## Rank 7
 Cinders Orders
-: 3 PP. Your Pokémon’s Fire Move leaves Cinders in the Zone that act as a Hazard. All non-Fire Types lose 1 Tick between rounds. If a Water-Type Pokémon enters the Zone or a Water Move is used, the Cinders are destroyed.
+: 3 AP. Your Pokémon’s Fire Move leaves Cinders in the Zone that act as a Hazard. All non-Fire Types lose 1 Tick between rounds. If a Water-Type Pokémon enters the Zone or a Water Move is used, the Cinders are destroyed.
 
 Hot Hands
 : You are as unharmed by fire as your Fire-Type Pokémon. You cannot be Burned and do not take damage from fire outside of battle. You have advantage on any craft that deals with high temperatures, and automatically succeed if your Fire-Type Pokémon provides the heat.

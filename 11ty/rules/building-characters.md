@@ -66,7 +66,7 @@ To determine a character’s Battle Stats, start with 5, then add both correspon
 
 For example, if a Trainer has +3 Endurance and −1 Bluster, their Defense would be 7 (5 + 3 &minus; 1). Most Trainers don’t intentionally enter combat, but it’s important to know just in case.
 
-### HP and PP
+### HP and AP
 
 **HP** (Hit Points) represents a character’s vitality and resolve, and determines how much punishment they can take. When characters reach 0 or less HP, they [Faint](#status-problems).
 
@@ -75,7 +75,7 @@ Maximum HP is determined differently between Trainers and Pokémon:
 - A Level 1 Trainer’s Max HP is 50.
 - A Level 1 Pokémon’s Max HP is given by their Pokédex entry.
 
-Power Points, or **PP**, represent energy that characters spend to use Moves and Orders. Characters start with 5 Max PP.
+Power Points, or **AP**, represent energy that characters spend to use Moves and Orders. Characters start with 5 Max AP.
 
 ### Other Stats
 
@@ -101,7 +101,7 @@ Trainer Bags use Item Ball technology to hold unlimited small items, like Berrie
   + Pokémon Storage Systems can be accessed at any Pokémon Center, during Long Rests, or if the Trainer has a Feature or item that lets them access it otherwise.
   + Depending on the setting or the GM’s cognitive overhead, convenient access to Pokémon in storage may not be always available.
 
-A player is usually expected to control their own Pokemon in-game, but the GM reserves the right to temporarily take control of any Pokémon for dramatic purposes. (Or silly purposes.)
+A player is usually expected to control their own Pokémon in-game, but the GM reserves the right to temporarily take control of any Pokémon for dramatic purposes. (Or silly purposes.)
 
 ## Pokémon Starting Stats
 
@@ -110,7 +110,7 @@ Here’s how you figure out a Pokémon’s Stats at level 1:
 1. Check [the PTV Pokédex](https://ptv.ti.gt/dex/) for a Pokémon species’s **Base Skills** and **Max HP**.
   > *For example:* Charmander’s Max HP is 25, and its Base Skills are –1 Athletics, –2 Endurance, 2 Focus, –1 Stealth, and 1 Acrobatics.
 
-2. Next, apply the Pokémon’s **Nature**. Natures raise one Social Skill by 3 points, and lower another by 3 points. (Some Natures raise and lower the same Skill with no net change.) Players choose the Natures of their Starter Pokemon, and the GM chooses Natures for Pokemon encountered elsewhere.
+2. Next, apply the Pokémon’s **Nature**. Natures raise one Social Skill by 3 points, and lower another by 3 points. (Some Natures raise and lower the same Skill with no net change.) Players choose the Natures of their Starter Pokémon, and the GM chooses Natures for Pokémon encountered elsewhere.
 
 |  | Intensity▼ | Bluster▼ | Composure▼ | Insight▼ | Deception▼ |
 | ----: | :---: | :---: | :---: | :---: | :---: |
@@ -121,27 +121,28 @@ Here’s how you figure out a Pokémon’s Stats at level 1:
 | **Deception▲** | Timid | Hasty | Jolly | Naive | *Serious* |
 
 3. Add their Physical and Social Skills together plus 5 to find a Pokémon’s Battle Stats.
-4. Max PP is determined [the same way as Trainers](#hp-and-pp).
+4. Max AP is determined [the same way as Trainers](#hp-and-ap).
 5. Average weight and height for each species is listed in their Pokédex entry.
 
 ## Leveling Up
 
-- Trainers start with 0 EXP (Experience), but earn more by solving problems, surviving encounters, and achieving objectives.
-- When their EXP reaches the next Level’s “EXP Needed”, they Level Up.
-- Trainers’ Pokémon level up when their Trainers do.
+- Player characters start with 0 EXP (Experience).
+- Players earn EXP by solving problems, surviving encounters, achieving objectives, and investing time or resources towards changing the world.
+- When a character’s total EXP reaches their next Level’s “EXP Needed”, they Level Up. (`expNeeded = (currentLevel + 1) × currentLevel × 1.5`)
+- Trainers’ Pokémon Level Up when their Trainers do.
   + Pokémon at lower levels than their Trainer level up each [Long Rest](#rests-and-healing) until they catch up.
   + Pokémon at higher levels don’t level up until their Trainer catches up.
 
 When a character Levels Up, they gain certain bonuses:
 
-1. Some Pokémon may evolve. Check this before any other changes in this list!
-2. Increase Max HP by +5 and Max PP by +2.
-3. Raise two different Skills by +1 each. You can’t raise a skill more than ten times through leveling (i.e. no Skill can have more than +10 Level-up points).
-4. Adjust Stats appropriately with the newly-raised Skills.
+1. Some Pokémon may [evolve](#evolution). (Do that before any other changes in this list!)
+2. Increase Max HP by +5 and Max AP by +2.
+3. Raise two different Skills by +1 each. You can’t raise a skill more than 10 times through leveling (i.e. no single Skill can have more than +10 Level Up points).
+4. Raise each Skill’s corresponding Stat by the same amount the Skill gained.
 5. Pokémon learn a Move, and Humans learn a Feature:
-   * Pokémon learn their new Level’s Move from their Level-up Moves. (If they evolve, they usually get a new Form Move instead of a Level-up Move.)
-   * Humans pick a Class to advance, and learn a Feature from that new Class Rank.
-6. At Level 5, Pokémon learn an Ability of your choice from their Level 5 Abilities.
+   - Pokémon learn their new Level’s Move from their Level-up Moves. (If they evolve, they get a Form Move instead of a Level Up Move.)
+   - Humans pick a Class to advance a Rank in, then learn a Feature from that new Class Rank.
+6. At Level 5, Pokémon gain an Ability of your choice from their Level 5 Abilities.
 
 ## Pokémon Talents
 
@@ -259,7 +260,7 @@ Each Move has the following attributes:
 
 - **Type** determines Moves’ Effectiveness and the Same-Type Attack Bonus (STAB).
 - **Range** defines what a Move can target. Close-quarters Moves that touch their target make **Contact** as part of their Range. (Some Abilities, Items, or Features trigger on Contact.) Foes in Zone Moves only target enemies, but Others in Zone Moves target enemies and your allies as well.
-- **PP Cost** is how much PP the user must spend to use the Move.
+- **AP Cost** is how much AP the user must spend to use the Move.
 - **Kind** defines which attacking Stat a Move uses:
   + **Physical Moves** add the user’s Attack to their damage.
   + **Special Moves** add the user’s Special Attack to their damage.
@@ -288,7 +289,7 @@ When a Pokémon is about to evolve, you may choose to cancel the evolution inste
 1. Add up the original Pokémon’s Physical Skills, before modifiers from Abilities, Features, Levels, etc. This is the Pokémon’s **Base Skill Total**.
 2. Add up the Pokémon’s final evolution’s Physical Skills the same way. (Mega Evolutions do not count.)
 3. If the Underdog’s Base Skill Total is at least 5 points lower than its final Evolution’s, add +1 to each Physical Skill. Repeat adding +1 to each Physical Skill, until adding them would make the Underdog’s total exceed its final evolution’s.
-4. When Underdog Pokémon learn a Move by Leveling Up, they may instead learn a Move from their Tutor List with the same PP Cost or lower.
+4. When Underdog Pokémon learn a Move by Leveling Up, they may instead learn a Move from their Tutor List with the same AP Cost or lower.
 
 If an Underdog Pokémon evolves, it loses these Stat bonuses and Moves.
 

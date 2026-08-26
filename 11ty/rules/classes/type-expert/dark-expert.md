@@ -26,10 +26,10 @@ Bad Getaway
 : Your Dark-Type Pokémon Pokémon can immediately switch out for free when a foe tries to Trap or Bind them.
 
 Sick Orders
-: 1 PP. If your Dark-Type Pokémon fails a save check this round, it cures its status problem at the end of the round. If it passes, it gains advantage on its attack roll.
+: 1 AP. If your Dark-Type Pokémon fails a save check this round, it cures its status problem at the end of the round. If it passes, it gains advantage on its attack roll.
 
 Exploit Orders
-: 2 PP. Your Dark Move activates any secondary effects if it hits a foe with less than 50% HP this round.
+: 2 AP. Your Dark Move activates any secondary effects if it hits a foe with less than 50% HP this round.
 
 
 ## Rank 3
@@ -37,7 +37,7 @@ Expand your available Bonus Moves to include the following: Power Trip, Sucker P
 
 ## Rank 4
 OverKO Orders
-: 2 PP. If your Dark-Type Pokémon faints a foe this round, any damage past 0 heals your Pokémon.
+: 2 AP. If your Dark-Type Pokémon faints a foe this round, any damage past 0 heals your Pokémon.
 
 Evil Lair
 : Your Dark-Type Pokémon Pokémon can always find isolated places in inhabited areas where other Trainers will not naturally go.
@@ -53,7 +53,7 @@ Expand your available Bonus Moves to include the following: Pursuit, Dark Pulse,
 
 ## Rank 7
 Sore Orders
-: 5 PP. Your Dark-Type Pokémon’s Move gains Priority and has advantage on the attack roll. Your Pokémon faints after the Move resolves.
+: 5 AP. Your Dark-Type Pokémon’s Move gains Priority and has advantage on the attack roll. Your Pokémon faints after the Move resolves.
 
 Bad Luck
 : You or your Pokémon can intentionally fail a Skill Check before rolling. If you do so, you may force another Trainer to fail a Skill Check before your next Long Rest.
